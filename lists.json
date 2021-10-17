@@ -4,27 +4,27 @@
     "entries": "170201",
     "format": {
       "adblocker": {
-        "file": "https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/adblocker.txt",
+        "file": "https://raw.githubusercontent.com/groveld/sinkhole/ditribution/lists/groveld/adblocker.txt",
         "size": "3.7M",
         "hash": "68b61d3fdeb661ac8873292961d18ce4f8519e6efea71bd4cd0c482770d2bc6c"
       },
       "dnsmasq": {
-        "file": "https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/dnsmasq.txt",
+        "file": "https://raw.githubusercontent.com/groveld/sinkhole/ditribution/lists/groveld/dnsmasq.txt",
         "size": "6.0M",
         "hash": "4d8284467f279f5534efae9f98f7cb3bbd2d9b153e9cf8adf2e43184564fa5ad"
       },
       "domains": {
-        "file": "https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/domains.txt",
+        "file": "https://raw.githubusercontent.com/groveld/sinkhole/ditribution/lists/groveld/domains.txt",
         "size": "3.2M",
         "hash": "a6b8832e9c1802c64f096f8a54bad4dd3ca0e116947c95a3451a7cd058352bce"
       },
       "hosts": {
-        "file": "https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/hosts.txt",
+        "file": "https://raw.githubusercontent.com/groveld/sinkhole/ditribution/lists/groveld/hosts.txt",
         "size": "4.5M",
         "hash": "611e26e68ed623b7cfa673fae4d7efc514e2630e83ede4f8f30d2c69fda983ea"
       },
       "pac": {
-        "file": "https://raw.githubusercontent.com/groveld/blocklists/lists/groveld/pac.txt",
+        "file": "https://raw.githubusercontent.com/groveld/sinkhole/ditribution/lists/groveld/pac.txt",
         "size": "4.5M",
         "hash": "ad09ca0368fad170b0e292b831351d98ae52ac5e3331469df47f41195738a587"
       }
