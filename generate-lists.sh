@@ -30,7 +30,7 @@ for folder in ./lists/*/; do
 
   [ ! -d ./output/${listname} ] && mkdir -p ./output/${listname}
 
-  listurl="https://raw.githubusercontent.com/groveld/sinkhole/output/${listname}"
+  listurl="https://raw.githubusercontent.com/groveld/sinkhole/lists/${listname}"
   entries=$(wc -l < ./temp/${listname}/${listname}.list | tr -d '[:space:]')
   updated=$(date -d "$(stat -c '%y' ./temp/${listname}/${listname}.list)" -u +"%F %T UTC")
   website="https://www.groveld.com/sinkhole"
