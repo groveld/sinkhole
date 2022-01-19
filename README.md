@@ -1,4 +1,4 @@
-# blocklists
+# sinkhole
 
 ## EdgeRouter Update Script
 
