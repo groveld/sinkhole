@@ -1,4 +1,4 @@
-# sinkhole
+# Project Sinkhole
 Automatically updated, moderated and optimized lists for blocking ads, trackers, malware and other garbage.
 
 ## Lists
