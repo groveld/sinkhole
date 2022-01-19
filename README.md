@@ -9,7 +9,7 @@ function getJsonVal() {
   python -c "import json,sys;sys.stdout.write(json.dumps(json.load(sys.stdin)$1))";
 }
 
-JSON=$(curl -s -X GET https://raw.githubusercontent.com/groveld/sinkhole/distribute/lists.json)
+JSON=$(curl -s -X GET https://raw.githubusercontent.com/groveld/sinkhole/lists/lists.json)
 NEWFILE=$(echo $JSON | getJsonVal "['nopelist']['dnsmasq']['file']" | tr -d \")
 NEWHASH=$(echo $JSON | getJsonVal "['nopelist']['dnsmasq']['hash']" | tr -d \")
 OLDFILE=$(readlink -f /etc/dnsmasq.d/dnsmasq-blocklist.conf)
