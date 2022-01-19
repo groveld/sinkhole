@@ -16,10 +16,10 @@ for folder in ./output/*/; do
     filesize=$(stat -c '%s' ${file} | numfmt --to iec)
     filedate=$(head -5 ${file} | sed -n 's/^.*Updated: //p')
     filehash=$(sha256sum ${file} | head -c 64)
-    filejson+=("\"${filename}\":{\"file\":\"${fileurl}\",\"entries\":\"${entries}\",\"size\":\"${filesize}\",\"updated\":\"${filedate}\",\"hash\":\"${filehash}\"}")
+    filejson+=("\"${filename}\":{\"file\":\"${fileurl}\",\"hash\":\"${filehash}\",\"size\":\"${filesize}\"}")
   done
 
-  folderjson+=("\"${foldername}\":{$(IFS=,; echo "${filejson[*]}")}")
+  folderjson+=("\"${foldername}\":{\"updated\":\"${filedate}\",\"entries\":\"${entries}\",\"format\":{$(IFS=,; echo "${filejson[*]}")}"}")
 done
 
 printf "{$(IFS=,; echo "${folderjson[*]}")}" > ./output/lists.json
