@@ -19,7 +19,7 @@ for folder in ./output/*/; do
     filejson+=("\"${filename}\":{\"file\":\"${fileurl}\",\"hash\":\"${filehash}\",\"size\":\"${filesize}\"}")
   done
 
-  folderjson+=("\"${foldername}\":{\"format\":{$(IFS=,; echo "${filejson[*]}")},\"updated\":\"${filedate}\",\"entries\":\"${entries}\"")
+  folderjson+=("\"${foldername}\":{\"format\":{$(IFS=,; echo "${filejson[*]}")},\"updated\":\"${filedate}\",\"entries\":\"${entries}\"}")
 done
 
 printf "{$(IFS=,; echo "${folderjson[*]}")}" > ./output/lists.json
