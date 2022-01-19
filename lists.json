@@ -1,7 +1,8 @@
 {
-  "groveld": {
+  "default": {
     "updated": "2021-09-26 00:22:47 UTC",
     "entries": "170201",
+    "license": "CC BY-SA 4.0",
     "format": {
       "adblocker": {
         "file": "https://raw.githubusercontent.com/groveld/sinkhole/ditribution/lists/groveld/adblocker.txt",
