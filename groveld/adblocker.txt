@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 149673
-! Updated: 2022-01-19 10:28:19 UTC
+! Entries: 149641
+! Updated: 2022-01-19 10:41:27 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -362,7 +362,6 @@
 ||0aaa.com^
 ||0aqpqdju.me^
 ||0azx1.com^
-||0b2qv7.cn^
 ||0b8cc331813049912.temporary.link^
 ||0b9d84d93f1b.com^
 ||0byv9mgbn0.com^
@@ -8684,7 +8683,6 @@
 ||adbn.ru^
 ||adbomb.ru^
 ||adbonus.com^
-||adboost.com^
 ||adboost.de.vu^
 ||adboost.finalid.com^
 ||adboost.net^
@@ -9420,7 +9418,6 @@
 ||adlightning.com^
 ||adlik.akavita.com^
 ||adlik2.akavita.com^
-||adlike.net^
 ||adlink.de^
 ||adlink.deh.nl^
 ||adlink.net^
@@ -15148,7 +15145,6 @@
 ||adwile.net^
 ||adwin.lsosad.com^
 ||adwin.startappservice.com^
-||adwired.mobi^
 ||adwitserver.com^
 ||adwitty.com^
 ||adwods.com^
@@ -23393,7 +23389,6 @@
 ||bb3fbd288e.com^
 ||bb3u9.com^
 ||bb4cf48126aab4.com^
-||bbaahc.com^
 ||bbads.sv.publicus.com^
 ||bbads.sx.atl.publicus.com^
 ||bbagnw.sedaily.com^
@@ -26726,7 +26721,6 @@
 ||bochuwutu.com^
 ||bodajze-czytanie.website^
 ||bodajze-czytanie1.website^
-||bodapet.com^
 ||bodaybo.net^
 ||bodeguia.com^
 ||bodelen.com^
@@ -29639,7 +29633,6 @@
 ||ccleaner.fr^
 ||ccma.hb-api.omtrdc.net^
 ||ccma.hb.omtrdc.net^
-||ccmcroads.com^
 ||ccmd.coveredca.com^
 ||ccmdgg.com^
 ||cco0.cc^
@@ -36537,7 +36530,6 @@
 ||cw49z0.cn^
 ||cw53087.tmweb.ru^
 ||cwatesppl.pattees4.xyz^
-||cwgads.com^
 ||cwhsmgs1.cn^
 ||cwkuki.com^
 ||cwmlm.com^
@@ -43593,7 +43585,6 @@
 ||dynad.website.bg^
 ||dynalyst.jp^
 ||dynamic-ads.appier.net^
-||dynamic-advertising.de^
 ||dynamic-dns.net^
 ||dynamic.3lift.com^
 ||dynamic.aol.com^
@@ -48706,7 +48697,6 @@
 ||filekeeper.topupload.ru^
 ||fileman.pl^
 ||fileoasis.net^
-||filepost.ru^
 ||filerom.com^
 ||files-cart.com^
 ||files-downloads.com^
@@ -51560,7 +51550,6 @@
 ||geo-artifact.simpli.fi^
 ||geo-errserv.btrll.com^
 ||geo-eu.snigelweb.com^
-||geo-idm.fr^
 ||geo-lines.com^
 ||geo-location.s-onetag.com^
 ||geo-service.aicactus.io^
@@ -52360,7 +52349,6 @@
 ||globalsiteanalytics.com^
 ||globalsuccessclub.com^
 ||globaltakeoff.net^
-||globalteaser.ru^
 ||globaltizer.ru^
 ||globaltopcourse.us^
 ||globaltrack.com^
@@ -57431,7 +57419,6 @@
 ||hr.search.etargetnet.com^
 ||hr.static.etargetnet.com^
 ||hr2019.vrcom7.com^
-||hr44.com^
 ||hrahdmon.com^
 ||hranakel.xyz^
 ||hrbpay.com^
@@ -58090,7 +58077,6 @@
 ||i79zj-tzyj9.ads.tremorhub.com^
 ||i8023.icu^
 ||i864ekhq.com^
-||i87b3.cn^
 ||i99i.org^
 ||i9w8p.pw^
 ||ia-cert.inner-active.mobi^
@@ -59577,7 +59563,6 @@
 ||index-winners-eu-west-1-rtb.adroll.com^
 ||index-winners-us-east-1-rtb.adroll.com^
 ||index-winners-us-west-2-rtb.adroll.com^
-||index.ru^
 ||indexexchange.com^
 ||indexhu.adocean.pl^
 ||indexstats.com^
@@ -62165,7 +62150,6 @@
 ||iqdigitalmediamarketinggmbh.sc.omtrdc.net^
 ||iqdzaaaudh.cfolks.pl^
 ||iqfp1.com^
-||iqiyi.pub^
 ||iqm.com^
 ||iqok.ru^
 ||iqoption.com^
@@ -63184,7 +63168,6 @@
 ||jinks.top^
 ||jinlianchengwhcm.cn^
 ||jinliaoyang.com^
-||jinlubaojie.cn^
 ||jinrianshan.com^
 ||jinrichaoyang.com^
 ||jinrongwang.net^
@@ -65933,7 +65916,6 @@
 ||laneskolan.se^
 ||laneskolan.se.oblyapp.com^
 ||lanetax.info^
-||langchars.com^
 ||langmuse.com^
 ||languagedude.net^
 ||languagelake.com^
@@ -69973,7 +69955,6 @@
 ||maramelhomes.ca^
 ||marano-pl.com^
 ||marantaillegible.info^
-||marapcana.online^
 ||marateathe.cam^
 ||marathasamrajya.com^
 ||marathonconcentrate.com^
@@ -70069,7 +70050,6 @@
 ||market.moonicorn.network^
 ||market2.the-adult-company.com^
 ||marketaff.com^
-||marketbanker.com^
 ||marketbull.co.uk^
 ||marketbull.live^
 ||marketcfd.com^
@@ -73991,7 +73971,6 @@
 ||mobads4app.com^
 ||mobalert.net^
 ||mobalives.com^
-||mobalyzer.net^
 ||mobatori.com^
 ||mobatory.com^
 ||mobbahjug.com^
@@ -75395,7 +75374,6 @@
 ||my-promo7.com^
 ||my-ranking.de^
 ||my-rewardsvault.com^
-||my-rigs.com^
 ||my-softbank-jp.com^
 ||my-ssl.effectivemeasure.net^
 ||my-stats.com^
@@ -75891,7 +75869,6 @@
 ||myusersonline.com^
 ||myvisitors.se^
 ||myvisualiq.net^
-||myvpn.pro^
 ||mywallet.beeppool.org^
 ||myway.com^
 ||mywebsearch.com^
@@ -87797,7 +87774,6 @@
 ||priv-policy.imrworldwide.com^
 ||privacy-in.us^
 ||privacy-policy.truste.com^
-||privacy-tools-for-you-778.com^
 ||privacy-tools-for-you-780.com^
 ||privacy.as.criteo.com^
 ||privacy.commander1.com^
@@ -90588,7 +90564,6 @@
 ||rathether.info^
 ||rating.in^
 ||ratings.lycos.com^
-||ratingtoplist.com^
 ||ratkalol.com^
 ||ratke.biz^
 ||ratlinhisser.com^
@@ -92423,7 +92398,6 @@
 ||ristorante53.it^
 ||ristorantebiri.it^
 ||ristoranteilmedioevo.it^
-||ritecounter.com^
 ||rithikengineering.com^
 ||rithimyphu.com^
 ||ritinginresp.fun^
@@ -94940,7 +94914,6 @@
 ||sbfsdvc.com^
 ||sbgsodufuosmmvsdf.info^
 ||sbhc.portalhc.com^
-||sbinx.com^
 ||sblcjzjp.com^
 ||sblftg.com^
 ||sbnationbidder-d.openx.net^
@@ -101053,7 +101026,6 @@
 ||soza6rsz3ezi.com^
 ||sp-api.a8.net^
 ||sp-api.dable.io^
-||sp-click2.jp^
 ||sp-consent.stuttgarter-zeitung.de^
 ||sp-r.dable.io^
 ||sp-ycpi.analytics.yahoo.com^
@@ -109262,7 +109234,6 @@
 ||totallifeguru.com^
 ||totalmedia2.ynet.co.il^
 ||totalnicefeed.com^
-||totalprofitplan.com^
 ||totaltorf-com.preview-domain.com^
 ||totemcash.com^
 ||totentacruelor.com^
@@ -112535,7 +112506,6 @@
 ||u.videoamp.com^
 ||u0.extreme-dm.com^
 ||u07k3pqfw5jh.com^
-||u0r9.cn^
 ||u1.2048sj.com^
 ||u1.20q.cn^
 ||u1.extreme-dm.com^
@@ -146777,7 +146747,6 @@
 ||xieyanmin.com.cn^
 ||xigolashu.com^
 ||xihua.me^
-||xihuangdushu.com^
 ||xihucio.ru^
 ||xiituvt.top^
 ||xijgedjgg5f55.com^
@@ -149585,7 +149554,6 @@
 ||zxdb123caducn.xyz^
 ||zxglpj.cn^
 ||zxgroymagqu.com^
-||zxhrq.cn^
 ||zxlmnet.com^
 ||zxopen.tech^
 ||zxptw.cn^

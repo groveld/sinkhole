@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 149671
-# Updated: 2022-01-19 10:28:13 UTC
+# Entries: 149639
+# Updated: 2022-01-19 10:41:20 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -362,7 +362,6 @@
 0.0.0.0 0aaa.com
 0.0.0.0 0aqpqdju.me
 0.0.0.0 0azx1.com
-0.0.0.0 0b2qv7.cn
 0.0.0.0 0b8cc331813049912.temporary.link
 0.0.0.0 0b9d84d93f1b.com
 0.0.0.0 0byv9mgbn0.com
@@ -8684,7 +8683,6 @@
 0.0.0.0 adbn.ru
 0.0.0.0 adbomb.ru
 0.0.0.0 adbonus.com
-0.0.0.0 adboost.com
 0.0.0.0 adboost.de.vu
 0.0.0.0 adboost.finalid.com
 0.0.0.0 adboost.net
@@ -9420,7 +9418,6 @@
 0.0.0.0 adlightning.com
 0.0.0.0 adlik.akavita.com
 0.0.0.0 adlik2.akavita.com
-0.0.0.0 adlike.net
 0.0.0.0 adlink.de
 0.0.0.0 adlink.deh.nl
 0.0.0.0 adlink.net
@@ -15148,7 +15145,6 @@
 0.0.0.0 adwile.net
 0.0.0.0 adwin.lsosad.com
 0.0.0.0 adwin.startappservice.com
-0.0.0.0 adwired.mobi
 0.0.0.0 adwitserver.com
 0.0.0.0 adwitty.com
 0.0.0.0 adwods.com
@@ -23393,7 +23389,6 @@
 0.0.0.0 bb3fbd288e.com
 0.0.0.0 bb3u9.com
 0.0.0.0 bb4cf48126aab4.com
-0.0.0.0 bbaahc.com
 0.0.0.0 bbads.sv.publicus.com
 0.0.0.0 bbads.sx.atl.publicus.com
 0.0.0.0 bbagnw.sedaily.com
@@ -26726,7 +26721,6 @@
 0.0.0.0 bochuwutu.com
 0.0.0.0 bodajze-czytanie.website
 0.0.0.0 bodajze-czytanie1.website
-0.0.0.0 bodapet.com
 0.0.0.0 bodaybo.net
 0.0.0.0 bodeguia.com
 0.0.0.0 bodelen.com
@@ -29639,7 +29633,6 @@
 0.0.0.0 ccleaner.fr
 0.0.0.0 ccma.hb-api.omtrdc.net
 0.0.0.0 ccma.hb.omtrdc.net
-0.0.0.0 ccmcroads.com
 0.0.0.0 ccmd.coveredca.com
 0.0.0.0 ccmdgg.com
 0.0.0.0 cco0.cc
@@ -36537,7 +36530,6 @@
 0.0.0.0 cw49z0.cn
 0.0.0.0 cw53087.tmweb.ru
 0.0.0.0 cwatesppl.pattees4.xyz
-0.0.0.0 cwgads.com
 0.0.0.0 cwhsmgs1.cn
 0.0.0.0 cwkuki.com
 0.0.0.0 cwmlm.com
@@ -43593,7 +43585,6 @@
 0.0.0.0 dynad.website.bg
 0.0.0.0 dynalyst.jp
 0.0.0.0 dynamic-ads.appier.net
-0.0.0.0 dynamic-advertising.de
 0.0.0.0 dynamic-dns.net
 0.0.0.0 dynamic.3lift.com
 0.0.0.0 dynamic.aol.com
@@ -48706,7 +48697,6 @@
 0.0.0.0 filekeeper.topupload.ru
 0.0.0.0 fileman.pl
 0.0.0.0 fileoasis.net
-0.0.0.0 filepost.ru
 0.0.0.0 filerom.com
 0.0.0.0 files-cart.com
 0.0.0.0 files-downloads.com
@@ -51560,7 +51550,6 @@
 0.0.0.0 geo-artifact.simpli.fi
 0.0.0.0 geo-errserv.btrll.com
 0.0.0.0 geo-eu.snigelweb.com
-0.0.0.0 geo-idm.fr
 0.0.0.0 geo-lines.com
 0.0.0.0 geo-location.s-onetag.com
 0.0.0.0 geo-service.aicactus.io
@@ -52360,7 +52349,6 @@
 0.0.0.0 globalsiteanalytics.com
 0.0.0.0 globalsuccessclub.com
 0.0.0.0 globaltakeoff.net
-0.0.0.0 globalteaser.ru
 0.0.0.0 globaltizer.ru
 0.0.0.0 globaltopcourse.us
 0.0.0.0 globaltrack.com
@@ -57430,7 +57418,6 @@
 0.0.0.0 hr.search.etargetnet.com
 0.0.0.0 hr.static.etargetnet.com
 0.0.0.0 hr2019.vrcom7.com
-0.0.0.0 hr44.com
 0.0.0.0 hrahdmon.com
 0.0.0.0 hranakel.xyz
 0.0.0.0 hrbpay.com
@@ -58089,7 +58076,6 @@
 0.0.0.0 i79zj-tzyj9.ads.tremorhub.com
 0.0.0.0 i8023.icu
 0.0.0.0 i864ekhq.com
-0.0.0.0 i87b3.cn
 0.0.0.0 i99i.org
 0.0.0.0 i9w8p.pw
 0.0.0.0 ia-cert.inner-active.mobi
@@ -59576,7 +59562,6 @@
 0.0.0.0 index-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 index-winners-us-east-1-rtb.adroll.com
 0.0.0.0 index-winners-us-west-2-rtb.adroll.com
-0.0.0.0 index.ru
 0.0.0.0 indexexchange.com
 0.0.0.0 indexhu.adocean.pl
 0.0.0.0 indexstats.com
@@ -62164,7 +62149,6 @@
 0.0.0.0 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 0.0.0.0 iqdzaaaudh.cfolks.pl
 0.0.0.0 iqfp1.com
-0.0.0.0 iqiyi.pub
 0.0.0.0 iqm.com
 0.0.0.0 iqok.ru
 0.0.0.0 iqoption.com
@@ -63183,7 +63167,6 @@
 0.0.0.0 jinks.top
 0.0.0.0 jinlianchengwhcm.cn
 0.0.0.0 jinliaoyang.com
-0.0.0.0 jinlubaojie.cn
 0.0.0.0 jinrianshan.com
 0.0.0.0 jinrichaoyang.com
 0.0.0.0 jinrongwang.net
@@ -65932,7 +65915,6 @@
 0.0.0.0 laneskolan.se
 0.0.0.0 laneskolan.se.oblyapp.com
 0.0.0.0 lanetax.info
-0.0.0.0 langchars.com
 0.0.0.0 langmuse.com
 0.0.0.0 languagedude.net
 0.0.0.0 languagelake.com
@@ -69972,7 +69954,6 @@
 0.0.0.0 maramelhomes.ca
 0.0.0.0 marano-pl.com
 0.0.0.0 marantaillegible.info
-0.0.0.0 marapcana.online
 0.0.0.0 marateathe.cam
 0.0.0.0 marathasamrajya.com
 0.0.0.0 marathonconcentrate.com
@@ -70068,7 +70049,6 @@
 0.0.0.0 market.moonicorn.network
 0.0.0.0 market2.the-adult-company.com
 0.0.0.0 marketaff.com
-0.0.0.0 marketbanker.com
 0.0.0.0 marketbull.co.uk
 0.0.0.0 marketbull.live
 0.0.0.0 marketcfd.com
@@ -73990,7 +73970,6 @@
 0.0.0.0 mobads4app.com
 0.0.0.0 mobalert.net
 0.0.0.0 mobalives.com
-0.0.0.0 mobalyzer.net
 0.0.0.0 mobatori.com
 0.0.0.0 mobatory.com
 0.0.0.0 mobbahjug.com
@@ -75394,7 +75373,6 @@
 0.0.0.0 my-promo7.com
 0.0.0.0 my-ranking.de
 0.0.0.0 my-rewardsvault.com
-0.0.0.0 my-rigs.com
 0.0.0.0 my-softbank-jp.com
 0.0.0.0 my-ssl.effectivemeasure.net
 0.0.0.0 my-stats.com
@@ -75890,7 +75868,6 @@
 0.0.0.0 myusersonline.com
 0.0.0.0 myvisitors.se
 0.0.0.0 myvisualiq.net
-0.0.0.0 myvpn.pro
 0.0.0.0 mywallet.beeppool.org
 0.0.0.0 myway.com
 0.0.0.0 mywebsearch.com
@@ -87796,7 +87773,6 @@
 0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privacy-in.us
 0.0.0.0 privacy-policy.truste.com
-0.0.0.0 privacy-tools-for-you-778.com
 0.0.0.0 privacy-tools-for-you-780.com
 0.0.0.0 privacy.as.criteo.com
 0.0.0.0 privacy.commander1.com
@@ -90587,7 +90563,6 @@
 0.0.0.0 rathether.info
 0.0.0.0 rating.in
 0.0.0.0 ratings.lycos.com
-0.0.0.0 ratingtoplist.com
 0.0.0.0 ratkalol.com
 0.0.0.0 ratke.biz
 0.0.0.0 ratlinhisser.com
@@ -92422,7 +92397,6 @@
 0.0.0.0 ristorante53.it
 0.0.0.0 ristorantebiri.it
 0.0.0.0 ristoranteilmedioevo.it
-0.0.0.0 ritecounter.com
 0.0.0.0 rithikengineering.com
 0.0.0.0 rithimyphu.com
 0.0.0.0 ritinginresp.fun
@@ -94939,7 +94913,6 @@
 0.0.0.0 sbfsdvc.com
 0.0.0.0 sbgsodufuosmmvsdf.info
 0.0.0.0 sbhc.portalhc.com
-0.0.0.0 sbinx.com
 0.0.0.0 sblcjzjp.com
 0.0.0.0 sblftg.com
 0.0.0.0 sbnationbidder-d.openx.net
@@ -101052,7 +101025,6 @@
 0.0.0.0 soza6rsz3ezi.com
 0.0.0.0 sp-api.a8.net
 0.0.0.0 sp-api.dable.io
-0.0.0.0 sp-click2.jp
 0.0.0.0 sp-consent.stuttgarter-zeitung.de
 0.0.0.0 sp-r.dable.io
 0.0.0.0 sp-ycpi.analytics.yahoo.com
@@ -109261,7 +109233,6 @@
 0.0.0.0 totallifeguru.com
 0.0.0.0 totalmedia2.ynet.co.il
 0.0.0.0 totalnicefeed.com
-0.0.0.0 totalprofitplan.com
 0.0.0.0 totaltorf-com.preview-domain.com
 0.0.0.0 totemcash.com
 0.0.0.0 totentacruelor.com
@@ -112534,7 +112505,6 @@
 0.0.0.0 u.videoamp.com
 0.0.0.0 u0.extreme-dm.com
 0.0.0.0 u07k3pqfw5jh.com
-0.0.0.0 u0r9.cn
 0.0.0.0 u1.2048sj.com
 0.0.0.0 u1.20q.cn
 0.0.0.0 u1.extreme-dm.com
@@ -146775,7 +146745,6 @@
 0.0.0.0 xieyanmin.com.cn
 0.0.0.0 xigolashu.com
 0.0.0.0 xihua.me
-0.0.0.0 xihuangdushu.com
 0.0.0.0 xihucio.ru
 0.0.0.0 xiituvt.top
 0.0.0.0 xijgedjgg5f55.com
@@ -149583,7 +149552,6 @@
 0.0.0.0 zxdb123caducn.xyz
 0.0.0.0 zxglpj.cn
 0.0.0.0 zxgroymagqu.com
-0.0.0.0 zxhrq.cn
 0.0.0.0 zxlmnet.com
 0.0.0.0 zxopen.tech
 0.0.0.0 zxptw.cn
