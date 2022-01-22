@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 149672
-# Updated: 2022-01-21 01:10:52 UTC
+# Entries: 149665
+# Updated: 2022-01-22 01:09:53 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26880,7 +26880,6 @@
 0.0.0.0 boostmobile.112.2o7.net
 0.0.0.0 boostsoftware.com
 0.0.0.0 booswpl.boownew211.xyz
-0.0.0.0 boot-camp-fitness-perth.net.au
 0.0.0.0 bootdaily.us.intellitxt.com
 0.0.0.0 bootspoland.com
 0.0.0.0 bootsstation-reiherhals.de
@@ -44170,7 +44169,6 @@
 0.0.0.0 easypolls.superstats.com
 0.0.0.0 easyresearch.se
 0.0.0.0 easyshorka.info
-0.0.0.0 easysol.net
 0.0.0.0 easystopadblock.com
 0.0.0.0 easytarget.ru
 0.0.0.0 easytopproducts.com
@@ -61593,7 +61591,6 @@
 0.0.0.0 intextual.net
 0.0.0.0 inteza.pl
 0.0.0.0 intgr.net
-0.0.0.0 inthestore.it
 0.0.0.0 inthmnd.fun
 0.0.0.0 intim.love
 0.0.0.0 intimepoint.com
@@ -67107,7 +67104,6 @@
 0.0.0.0 linksmartcontract.com
 0.0.0.0 linksource.cool
 0.0.0.0 linkssd.com
-0.0.0.0 linkstat.bar
 0.0.0.0 linkstation.de
 0.0.0.0 linkstats.bar
 0.0.0.0 linkstorm.net
@@ -67164,7 +67160,6 @@
 0.0.0.0 liquefieruts.com
 0.0.0.0 liquid-lifestyles.com
 0.0.0.0 liquidad.narrowcastmedia.com
-0.0.0.0 liquidazioni.bar
 0.0.0.0 liquidfile.nocoshop.ru
 0.0.0.0 liquidfile.topupload.ru
 0.0.0.0 liquidityaggregator.com
@@ -92735,7 +92730,6 @@
 0.0.0.0 router.infolinks.com
 0.0.0.0 routeserve.info
 0.0.0.0 rouvoute.net
-0.0.0.0 rovabanopa.com
 0.0.0.0 rovauy.share-now.com
 0.0.0.0 rove.cl
 0.0.0.0 rovews.com
@@ -97331,7 +97325,6 @@
 0.0.0.0 shengshipump.cn
 0.0.0.0 shengxinwang.net
 0.0.0.0 shengyaxd.com
-0.0.0.0 shenhavmethanbar.xyz
 0.0.0.0 shenhl.top
 0.0.0.0 shenhuachuwei.cn
 0.0.0.0 shenyunkeji.com

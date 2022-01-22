@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 149672
-// Updated: 2022-01-21 01:10:52 UTC
+// Entries: 149665
+// Updated: 2022-01-22 01:09:53 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26881,7 +26881,6 @@ var BLOCKLIST = {
 "boostmobile.112.2o7.net":null,
 "boostsoftware.com":null,
 "booswpl.boownew211.xyz":null,
-"boot-camp-fitness-perth.net.au":null,
 "bootdaily.us.intellitxt.com":null,
 "bootspoland.com":null,
 "bootsstation-reiherhals.de":null,
@@ -44171,7 +44170,6 @@ var BLOCKLIST = {
 "easypolls.superstats.com":null,
 "easyresearch.se":null,
 "easyshorka.info":null,
-"easysol.net":null,
 "easystopadblock.com":null,
 "easytarget.ru":null,
 "easytopproducts.com":null,
@@ -61594,7 +61592,6 @@ var BLOCKLIST = {
 "intextual.net":null,
 "inteza.pl":null,
 "intgr.net":null,
-"inthestore.it":null,
 "inthmnd.fun":null,
 "intim.love":null,
 "intimepoint.com":null,
@@ -67108,7 +67105,6 @@ var BLOCKLIST = {
 "linksmartcontract.com":null,
 "linksource.cool":null,
 "linkssd.com":null,
-"linkstat.bar":null,
 "linkstation.de":null,
 "linkstats.bar":null,
 "linkstorm.net":null,
@@ -67165,7 +67161,6 @@ var BLOCKLIST = {
 "liquefieruts.com":null,
 "liquid-lifestyles.com":null,
 "liquidad.narrowcastmedia.com":null,
-"liquidazioni.bar":null,
 "liquidfile.nocoshop.ru":null,
 "liquidfile.topupload.ru":null,
 "liquidityaggregator.com":null,
@@ -92736,7 +92731,6 @@ var BLOCKLIST = {
 "router.infolinks.com":null,
 "routeserve.info":null,
 "rouvoute.net":null,
-"rovabanopa.com":null,
 "rovauy.share-now.com":null,
 "rove.cl":null,
 "rovews.com":null,
@@ -97332,7 +97326,6 @@ var BLOCKLIST = {
 "shengshipump.cn":null,
 "shengxinwang.net":null,
 "shengyaxd.com":null,
-"shenhavmethanbar.xyz":null,
 "shenhl.top":null,
 "shenhuachuwei.cn":null,
 "shenyunkeji.com":null,

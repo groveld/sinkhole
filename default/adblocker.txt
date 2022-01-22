@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 149672
-! Updated: 2022-01-21 01:10:52 UTC
+! Entries: 149665
+! Updated: 2022-01-22 01:09:53 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26880,7 +26880,6 @@
 ||boostmobile.112.2o7.net^
 ||boostsoftware.com^
 ||booswpl.boownew211.xyz^
-||boot-camp-fitness-perth.net.au^
 ||bootdaily.us.intellitxt.com^
 ||bootspoland.com^
 ||bootsstation-reiherhals.de^
@@ -44170,7 +44169,6 @@
 ||easypolls.superstats.com^
 ||easyresearch.se^
 ||easyshorka.info^
-||easysol.net^
 ||easystopadblock.com^
 ||easytarget.ru^
 ||easytopproducts.com^
@@ -61593,7 +61591,6 @@
 ||intextual.net^
 ||inteza.pl^
 ||intgr.net^
-||inthestore.it^
 ||inthmnd.fun^
 ||intim.love^
 ||intimepoint.com^
@@ -67107,7 +67104,6 @@
 ||linksmartcontract.com^
 ||linksource.cool^
 ||linkssd.com^
-||linkstat.bar^
 ||linkstation.de^
 ||linkstats.bar^
 ||linkstorm.net^
@@ -67164,7 +67160,6 @@
 ||liquefieruts.com^
 ||liquid-lifestyles.com^
 ||liquidad.narrowcastmedia.com^
-||liquidazioni.bar^
 ||liquidfile.nocoshop.ru^
 ||liquidfile.topupload.ru^
 ||liquidityaggregator.com^
@@ -92735,7 +92730,6 @@
 ||router.infolinks.com^
 ||routeserve.info^
 ||rouvoute.net^
-||rovabanopa.com^
 ||rovauy.share-now.com^
 ||rove.cl^
 ||rovews.com^
@@ -97331,7 +97325,6 @@
 ||shengshipump.cn^
 ||shengxinwang.net^
 ||shengyaxd.com^
-||shenhavmethanbar.xyz^
 ||shenhl.top^
 ||shenhuachuwei.cn^
 ||shenyunkeji.com^
