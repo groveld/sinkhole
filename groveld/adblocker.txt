@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 154028
-! Updated: 2022-01-27 01:13:32 UTC
+! Entries: 154023
+! Updated: 2022-01-28 01:13:33 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17477,7 +17477,6 @@
 ||amvecurt.cn^
 ||amwatching.com^
 ||amwdtt.alvieromartini.it^
-||amwsquljdpw.top^
 ||amyconcepts.com^
 ||amygrindhouse.uk.intellitxt.com^
 ||amylewindesigns.blogspot.com^
@@ -20727,7 +20726,6 @@
 ||asewlfjqwlflkew.com^
 ||asf-tm.everesttech.net^
 ||asfmhukntjwae.com^
-||asfmhukntjwae.top^
 ||asfork.info^
 ||asg.aphex.me^
 ||asg.bhabhiporn.pro^
@@ -72058,7 +72056,6 @@
 ||marchadvertisingnetwork8.com^
 ||marchadvertisingnetwork9.com^
 ||marchex.com^
-||marchex.io^
 ||marchofdimes.d2.sc.omtrdc.net^
 ||marchpartner.net.daraz.com^
 ||marchtools.cn^
@@ -87029,7 +87026,6 @@
 ||pgintro.narktrade.site^
 ||pgl.example^
 ||pgl.example.com^
-||pgl.example0101^
 ||pgmcdn.com^
 ||pgmediaserve.com^
 ||pgmrko89prom.com^
@@ -151869,7 +151865,6 @@
 ||yaizkr.168cm.kr^
 ||yak.embeddedartistry.com^
 ||yakari.id^
-||yakrhmkgl.top^
 ||yaksdf.fitomarket.ru^
 ||yakuya.cn^
 ||yallafreelancers.com^
