@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 153674
-# Updated: 2022-02-08 01:16:06 UTC
+# Entries: 153669
+# Updated: 2022-02-09 01:19:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -44048,7 +44048,6 @@ dws.reporting.dnitv.com
 dwtracking.sdo.com
 dwwmaster.com
 dwx1guhcvx8gs.cloudfront.net
-dwxrrdaqtm.top
 dwzacisze.com.pl
 dwznreotr3dxh.cloudfront.net
 dx.alcmpn.com
@@ -76029,7 +76028,6 @@ mowebify.com
 mowfruit.com
 mowiecize.eu
 mowieprawde.life
-mowjykvyjxyuqv.top
 mowmihache.pl
 mowmytonaglospolska.space
 mowuzoji.xyz
@@ -100175,7 +100173,6 @@ sjmltjmgw.com
 sjmmhhh.cn
 sjmwkj.cn
 sjpf.io
-sjqqkayldq.com
 sjremetrics.java.com
 sjrtp-cdn.marketo.com
 sjrtp1.marketo.com
@@ -110582,7 +110579,6 @@ tmsscion.112.2o7.net
 tmstoyota.112.2o7.net
 tmstrack.com
 tmvtp.com
-tmwrnladiy.xyz
 tmx.technoratimedia.com
 tmy8.madeindesign.ch
 tmz.us.intellitxt.com
@@ -113744,7 +113740,6 @@ trueskincare.tech
 truestioncarefore.site
 truestorybtc.com
 truesweb.com
-truetruetruetruetruetruetruetruetruetrue.xyz
 truevalue.d2.sc.omtrdc.net
 truex.com
 truffle.bid
