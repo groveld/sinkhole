@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 154014
-! Updated: 2022-02-10 01:16:12 UTC
+! Entries: 154002
+! Updated: 2022-02-11 01:19:33 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -20366,7 +20366,6 @@
 ||aqjdigkqvmakz.com^
 ||aqjlgsv7cvkzocg.ru^
 ||aqouep.aquaphor.ru^
-||aqqfntqejiva.top^
 ||aqsati.com^
 ||aqt.adalliance.io^
 ||aqtracker.com^
@@ -36162,7 +36161,6 @@
 ||crewelkain.com^
 ||crfrf.com^
 ||crglpt.com^
-||crhagihr.com^
 ||cri.d1.sc.omtrdc.net^
 ||cricket.mobileposse.com^
 ||cricket.theglobalindia.net^
@@ -45440,7 +45438,6 @@
 ||egazeta-s24.cleverapps.io^
 ||egda.pl^
 ||egeisterytele.xyz^
-||egemenrulman.com^
 ||egeosoftware.com^
 ||egeszsegespont.hu^
 ||egfqtvewksktz.com^
@@ -46656,7 +46653,6 @@
 ||eoapxl3.eoapxl.com^
 ||eoapxl4.eoapxl.com^
 ||eoeeunuxnyco.com^
-||eoeeunuxnyco.top^
 ||eofgreatid.biz^
 ||eoidr.cn^
 ||eol1.egyptonline.com^
@@ -46829,7 +46825,6 @@
 ||eroar.lionsclubs.org^
 ||erofan.com^
 ||eroksen.ru^
-||erolmutfak.com^
 ||eroo.shop^
 ||erop.store^
 ||eropays2.com^
@@ -52913,7 +52908,6 @@
 ||gk596.cn^
 ||gk8j5woqk26f.com^
 ||gkatxaoerueusa.com^
-||gkatxaoerueusa.top^
 ||gkgojxjucutvnt.com^
 ||gkjow.luckyofers.net^
 ||gkjow.onlineluck.net^
@@ -56235,7 +56229,6 @@
 ||gusabid.adview.com^
 ||guseyn.best^
 ||guseyn.info^
-||guseyn.online^
 ||gusfinishedsue.com^
 ||gusimp.net^
 ||gusion.space^
@@ -68875,7 +68868,6 @@
 ||lltiukmeposi.one^
 ||lltrck.com^
 ||llyqy.top^
-||llyxtecgcmhaqd.top^
 ||lm.a8.net^
 ||lm.ijq.tv^
 ||lm.logicalmedia.com^
@@ -70151,7 +70143,6 @@
 ||lsxc.shop^
 ||lsxdcdnrrco.com^
 ||lsxmg.com^
-||lsxrasthvajxx.xyz^
 ||lsxxxr.lecreuset.co.jp^
 ||lsyz.xyz^
 ||lszwj.top^
@@ -82389,7 +82380,6 @@
 ||onfocus.io^
 ||onghfx.revolve.com^
 ||ongsono.com^
-||ongspnmef.xyz^
 ||oni-in.web.app^
 ||oni-maja.eu^
 ||oni.newsyst.site^
@@ -91869,7 +91859,6 @@
 ||qmlzcm.petshop.ru^
 ||qmname.com^
 ||qmoyfh.xcite.com.sa^
-||qmrbqjdxut.xyz^
 ||qmrtubg.cn^
 ||qmsled.com^
 ||qmvezbh0l28w.com^
@@ -151152,7 +151141,6 @@
 ||xjjkxcg.cn^
 ||xjq5.belambra.be^
 ||xjs.ptengine.jp^
-||xjsuiyemaxsuu.top^
 ||xjzxrn.sugarfreeshops.com^
 ||xk2012.com^
 ||xkarasogi.blogspot.com^
