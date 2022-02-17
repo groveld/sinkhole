@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 155265
-! Updated: 2022-02-16 01:23:04 UTC
+! Entries: 155263
+! Updated: 2022-02-17 01:10:25 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -52770,7 +52770,6 @@
 ||getclicky.com^
 ||getcode.cotsta.ru^
 ||getcoder.me^
-||getcoin.development-india.com^
 ||getcontent.net^
 ||getcouponsfast.com^
 ||getcryptotab.com^
@@ -68349,7 +68348,6 @@
 ||lhpost.plinformation.xyz^
 ||lhs-3844b.com^
 ||lhusy.com^
-||lhxacerjwpbd.top^
 ||lhxwnzht.cn^
 ||lhy1.xyz^
 ||lhyang.top^
@@ -97517,7 +97515,6 @@
 ||sarcoidosisgrower.com^
 ||sardinegoodnight.com^
 ||sardynka.site^
-||sare25.com^
 ||sargas.iad-03.braze.com^
 ||sarge05.plus.com^
 ||sarov.ws^
@@ -110424,6 +110421,7 @@
 ||thaibeco.com^
 ||thaickoo.net^
 ||thaiksee.com^
+||thailandtravel.live^
 ||thainews.asia^
 ||thaivictory.co.th^
 ||thallus.net^
