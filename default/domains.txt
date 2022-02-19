@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 155358
-# Updated: 2022-02-18 01:22:30 UTC
+# Entries: 155357
+# Updated: 2022-02-19 00:19:36 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6143,7 +6143,6 @@ ad-g.doubleclick.net
 ad-gbn.com
 ad-generation.jp
 ad-generator.net
-ad-groups.com
 ad-hatena.com
 ad-hoc-news.de.intellitxt.com
 ad-house.mobi
