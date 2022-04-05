@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
 # Entries: 161852
-# Updated: 2022-04-04 00:20:17 UTC
+# Updated: 2022-04-05 00:20:09 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -121538,7 +121538,6 @@ tt3.zedo.com
 ttahsdu.top
 ttarget.adbureau.net
 ttarget.ru
-ttauri.techradar.com
 ttayy.cn
 ttbc33.com
 ttcu-union.actonservice.com
@@ -123489,6 +123488,7 @@ users.api.jeeng.com
 users.cuci.nl
 users.effectivebrand.com
 users.ero-advertising.com
+users.maxcluster.net
 users.quantumgraph.com
 users.tpg.com.au
 users.ucmore.com
