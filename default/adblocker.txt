@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 145317
-! Updated: 2022-05-06 00:22:21 UTC
+! Entries: 145300
+! Updated: 2022-05-07 00:21:25 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -482,6 +482,7 @@
 ||0zyxwvut.net.daraz.com^
 ||1-11strologie.net.daraz.com^
 ||1-139.net.daraz.com^
+||1-1ads.com^
 ||1-2-free.com^
 ||1-2fly-befragung.de^
 ||1-aadministratortrologie.net.daraz.com^
@@ -9215,7 +9216,6 @@
 ||ad4cash.de^
 ||ad4digital.checkm8.com^
 ||ad4ever.com^
-||ad4game-a.akamaihd.net^
 ||ad4game.com^
 ||ad4m.at^
 ||ad4mat.com^
@@ -9796,7 +9796,6 @@
 ||adclick.g.doublecklick.net^
 ||adclick.g.doubleclick.net^
 ||adclick.hit.gemius.pl^
-||adclick.lt^
 ||adclick.mint.se^
 ||adclick.net^
 ||adclick.pk^
@@ -14885,7 +14884,6 @@
 ||adtoolsinc.com^
 ||adtoox.com^
 ||adtop.com^
-||adtop.vn^
 ||adtorio.com^
 ||adtorque.in^
 ||adtotal.pl^
@@ -16155,10 +16153,8 @@
 ||affiliatenetwork.co.za^
 ||affiliatenetwork.com^
 ||affiliateone.jp^
-||affiliatepartners.com^
 ||affiliateprogramma.eu^
 ||affiliater.pl^
-||affiliates-solutions.com^
 ||affiliates.aka.com^
 ||affiliates.allposters.com^
 ||affiliates.arvixe.com^
@@ -16669,7 +16665,6 @@
 ||aj1907.online^
 ||aj1913.online^
 ||aj2373.online^
-||aj2392.online^
 ||aj2393.online^
 ||aj8md.johnhenry.ie^
 ||aja-recommend.com^
@@ -18400,6 +18395,7 @@
 ||analyticssso.net.daraz.com^
 ||analyticssystems.net^
 ||analyticsv2.dol.gr^
+||analytik.xyz^
 ||analyzeagg.com^
 ||analyzeanddefend.com^
 ||analyzer.fc2.com^
@@ -33701,7 +33697,6 @@
 ||contextad.pl^
 ||contextads.live^
 ||contextbar.ru^
-||contexthub.net^
 ||contextlinks.netseer.com^
 ||contexttoaster.com^
 ||contextuads.com^
@@ -34798,7 +34793,6 @@
 ||creatives.ancoraplatform.com^
 ||creatives.as4x.tmcs.net^
 ||creatives.crossinstall.com^
-||creatives.dfnb-ads.com^
 ||creatives.doubleclick.net^
 ||creatives.gunosy.com^
 ||creatives.inmotionhosting.com^
@@ -52867,7 +52861,6 @@
 ||graths.com^
 ||gratificationposture.com^
 ||gratingtode.com^
-||gratis-neuken.com^
 ||gratis-sexkontakte.com^
 ||gratis.sms.senden.sms13.de^
 ||gratisnetwork.com^
@@ -68600,7 +68593,6 @@
 ||media.scanscout.com^
 ||media.sexinyourcity.com^
 ||media.socialblue.com^
-||media.stsaff.pl^
 ||media.superstats.com^
 ||media.sweetmedia.org^
 ||media.the-adult-company.com^
@@ -76002,7 +75994,6 @@
 ||oczywiscie-teraz.eu^
 ||oczywisty861.site^
 ||oczyydookollaglowy.store^
-||odan.info^
 ||odaokmdoiamfiamfamo.bar^
 ||odb.outbrain.com^
 ||odbieramy-karty.24.eu^
@@ -78511,7 +78502,6 @@
 ||oss.stats.vng.com.vn^
 ||osseasougan.com^
 ||ossen.ga^
-||osshydreigonan.com^
 ||osskanger.com^
 ||osspalkiaom.com^
 ||ossshucklean.com^
@@ -82766,7 +82756,6 @@
 ||pocheno-com.preview-domain.com^
 ||pochor-owni.xyz^
 ||pochowanaprawda.quest^
-||pocketads.pl^
 ||pocketdonation.com^
 ||pocketgolf.host^
 ||pocketing.site^
@@ -86129,7 +86118,6 @@
 ||qc.klick.vn^
 ||qc.kqbd88.com^
 ||qc.mhsolution.vn^
-||qc.mibet.com^
 ||qc.smartadserver.com^
 ||qc.violet.vn^
 ||qccoccocmedia.vn^
@@ -87638,7 +87626,6 @@
 ||reklamanazuku.pl^
 ||reklamanet.net^
 ||reklamapoznan.com.pl^
-||reklamawadowice24.pl^
 ||reklamcsere.hu^
 ||reklamdsp.com^
 ||reklame.unwired-i.net^
@@ -96578,7 +96565,6 @@
 ||spacash.com^
 ||space-group.website^
 ||space.us.intellitxt.com^
-||spacead.pl^
 ||spacebridemag.com^
 ||spacechop.com^
 ||spaceframe.mobi.space-frame.co.za^
@@ -105573,7 +105559,6 @@
 ||travel.datatrics.com^
 ||travel.foxworldtravel.com^
 ||traveladmin.sourcetaggers.com^
-||travelads.be^
 ||traveladvertising.com^
 ||travelasity.com^
 ||travelcape.com^
@@ -143591,7 +143576,6 @@
 ||xp1.zedo.com^
 ||xp2.zedo.com^
 ||xpantivirus.com^
-||xpartners.nl^
 ||xpays.com^
 ||xpctraffic.com^
 ||xphones-2019.info^
@@ -143761,7 +143745,6 @@
 ||y0.extreme-dm.com^
 ||y1.arte.tv^
 ||y1.extreme-dm.com^
-||y2tejq2s11on.com^
 ||y3.ifengimg.com^
 ||y3bfndilkswfg.vdl.pl^
 ||y3dx36f6.love6d.com^
