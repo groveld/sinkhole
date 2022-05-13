@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 160370
-! Updated: 2022-05-12 00:23:46 UTC
+! Entries: 160365
+! Updated: 2022-05-13 00:27:49 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66824,7 +66824,6 @@
 ||ismatlab.com^
 ||ismlks.com^
 ||isncom.net.zooplus.fr^
-||isnwkcxe.com^
 ||iso100.ru^
 ||isohits.com^
 ||isolationmildred.com^
@@ -69696,7 +69695,6 @@
 ||knk95.cn^
 ||knkqjmjyxzev.info^
 ||knkyeterla.cc^
-||knneqqbgxeot.top^
 ||knorex.com^
 ||knotkettle.com^
 ||knottysticks.com^
@@ -90552,7 +90550,6 @@
 ||perihelialchimerical.pl^
 ||periljuicywary.com^
 ||perilouslimb.com^
-||perimeterx.net^
 ||perinstallcash.com^
 ||periodicpocket.com^
 ||periodsalter.com^
@@ -99355,7 +99352,6 @@
 ||rnmd.net^
 ||rnnuw.com^
 ||rnotraff.com^
-||rnovhhli.com^
 ||rnwbrm.com^
 ||rnybul.gismeteo.kz^
 ||rnybul.gismeteo.ru^
@@ -104848,7 +104844,6 @@
 ||sifomedia.idg.se^
 ||sifomedia.se^
 ||sift-campaign-creatives.sift.co^
-||sift.com^
 ||siftshortagepopped.com^
 ||sig.ig.com^
 ||sig.nadex.com^
