@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 158126
-! Updated: 2024-01-02 01:54:18 UTC
+! Entries: 158129
+! Updated: 2024-01-03 01:54:32 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26337,6 +26337,7 @@
 ||catpolska.com^
 ||catrg.peer39.net^
 ||catsplit.pl^
+||cattlecommittee.com^
 ||cattleprod.net^
 ||cattribe.net^
 ||catwalkml.com^
@@ -45972,6 +45973,7 @@
 ||hapax.qc.ca^
 ||hapicreative.com^
 ||hapjes-maken.eu^
+||haplesshydrant.com^
 ||happdnsnfeconed.site^
 ||happy-coin.org^
 ||happy12l4fe.life^
@@ -84857,6 +84859,7 @@
 ||steemcomunity.com^
 ||steenbergen.web.ero-advertising.com^
 ||steenmosaic.com^
+||steepscale.com^
 ||steevingn.sbs^
 ||stefan.corso.net.pl^
 ||stefan.wojtaszek.nieruchomosci.pl^
