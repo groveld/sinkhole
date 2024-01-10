@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 160211
-! Updated: 2024-01-09 01:55:41 UTC
+! Entries: 160213
+! Updated: 2024-01-10 01:55:24 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -28353,6 +28353,7 @@
 ||ciaoshopit.122.2o7.net^
 ||ciara.sexybabesx.com^
 ||ciarioplatense.com.ar^
+||cibconline-login.com^
 ||cibersexo.eu^
 ||ciberspacio.net^
 ||cibleclick.com^
@@ -80845,6 +80846,7 @@
 ||secure-drm.imrworldwide.com^
 ||secure-ds.serving-sys.com^
 ||secure-eu.imrworldwide.com^
+||secure-fidosolutions.com^
 ||secure-getway321f0be5-corr.tcontact.it^
 ||secure-gg.imrworldwide.com^
 ||secure-gl.imrworldwide.com^
