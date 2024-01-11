@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 160213
-! Updated: 2024-01-10 01:55:24 UTC
+! Entries: 160216
+! Updated: 2024-01-11 01:54:58 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -79913,6 +79913,7 @@
 ||sampaventures.com^
 ||sample-api-v2.crazyegg.com^
 ||sampledelic.com^
+||samplesamba.com^
 ||sampletemplates.org^
 ||sampolkmous.site^
 ||samsclub.112.2o7.net^
@@ -80363,6 +80364,7 @@
 ||scratch2cash.com^
 ||screechingfurniture.com^
 ||screechingslip.com^
+||screechingstocking.com^
 ||screechingstove.com^
 ||screen-mates.com^
 ||screen19.com^
@@ -159739,6 +159741,7 @@
 ||zeolitize.org^
 ||zeon.autos^
 ||zephyrgifts.com^
+||zephyrlabyrinth.com^
 ||zephyrspaceblog61.site^
 ||zephyrspaceeblog10.site^
 ||zeprzygodado.makeup^
