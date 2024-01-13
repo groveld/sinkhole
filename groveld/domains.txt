@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 160216
-# Updated: 2024-01-12 01:55:00 UTC
+# Entries: 160217
+# Updated: 2024-01-13 01:54:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46215,6 +46215,7 @@ haladata.com
 halal-place.com
 halaldisc.com
 halalfoodcaterers.com
+halcyoncanyon.com
 halerbarta.com
 halex.waw.pl
 haleyy.sbs
