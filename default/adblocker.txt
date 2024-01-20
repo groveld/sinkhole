@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 165909
-! Updated: 2024-01-19 01:09:36 UTC
+! Entries: 165908
+! Updated: 2024-01-20 01:08:37 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -38691,7 +38691,6 @@
 ||elaskalar.com^
 ||elasticbip.store^
 ||elasticchange.com^
-||elasticducks.com^
 ||elasticmodulus.com^
 ||elaterin.life^
 ||elazigpastane.com^

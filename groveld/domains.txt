@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 165911
-# Updated: 2024-01-19 01:55:23 UTC
+# Entries: 165910
+# Updated: 2024-01-20 01:54:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -38691,7 +38691,6 @@ elascu.live
 elaskalar.com
 elasticbip.store
 elasticchange.com
-elasticducks.com
 elasticmodulus.com
 elaterin.life
 elazigpastane.com
