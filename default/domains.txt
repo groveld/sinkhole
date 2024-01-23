@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 167128
-# Updated: 2024-01-22 01:10:42 UTC
+# Entries: 167129
+# Updated: 2024-01-23 01:09:41 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68349,6 +68349,7 @@ nochernskincare.com
 nochesdemedialuna.com
 noclegi-kozienice.pl
 nocter.com
+nocturnalloom.com
 node-p2e-zii3oh.sitescout.com
 node.gameads.io
 node.setupad.com
