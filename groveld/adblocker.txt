@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 167131
-! Updated: 2024-01-23 01:55:29 UTC
+! Entries: 167133
+! Updated: 2024-01-24 01:55:38 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35209,6 +35209,7 @@
 ||detailbrush.com^
 ||detailedglue.com^
 ||detailedgovernment.com^
+||details-update.com^
 ||details.tesla-bot.top^
 ||detailsreceipts.com^
 ||deteadult.com^
@@ -67140,6 +67141,7 @@
 ||netflix.corporation-pl.com^
 ||netflix.promo3.ml^
 ||netflixaccount--custon-net.translate.goog^
+||netflixca-updateprofilehelp.com^
 ||netflixkontoplnd.publicvm.com^
 ||netflixsupport-all.com^
 ||netflkpl.com^
