@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 167131
-! Updated: 2024-01-24 01:09:50 UTC
+! Entries: 167135
+! Updated: 2024-01-25 01:09:47 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47380,6 +47380,7 @@
 ||grossiste3d.fr^
 ||grossularious.life^
 ||grotezka-xyz.preview-domain.com^
+||grouchybrothers.com^
 ||ground-news.site^
 ||groundbois.com^
 ||groundiesbuty.com^
@@ -76699,6 +76700,7 @@
 ||poufnedane.click^
 ||pouldersblner.life^
 ||pouncing.live^
+||poundporter.best^
 ||pourcentfilers.com^
 ||pourlypainting.com^
 ||pouthered.live^
@@ -80413,6 +80415,7 @@
 ||refrplbaltic.space^
 ||reftexchange.com^
 ||refuelinstitute.com^
+||refund-int3rac.com^
 ||refundlaw.site^
 ||refundmygov.hostenko.net^
 ||refurbishednewpc.com^
@@ -86855,6 +86858,7 @@
 ||sod91.papiashvili.top^
 ||soda-trash.webnode.co.uk^
 ||sofa01.webtrekk.net^
+||sofaglobal.best^
 ||sofawood.top^
 ||sofeminine.uk.intellitxt.com^
 ||sofia.trustx.org^
