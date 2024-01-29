@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 169785
-# Updated: 2024-01-28 01:55:50 UTC
+# Entries: 169786
+# Updated: 2024-01-29 01:54:21 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -96394,6 +96394,7 @@ twitchcase.com
 twitchcase.net
 twitchgift.com
 twitchguru.us.intellitxt.com
+twitchindoor.best
 twitchs-cs2.com
 twitchs-tv.com
 twitpic.fr
