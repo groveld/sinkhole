@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 171070
-# Updated: 2024-01-31 01:54:07 UTC
+# Entries: 171072
+# Updated: 2024-02-01 01:54:59 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40785,6 +40785,7 @@ eswiatzabawek.com
 esycast.com
 et-1nt3rc.com
 et-eus.w.inmobi.com
+et-interac.etransfers1.com
 et-mobinterfundw.com
 et-revnagcan.com
 et.educationdynamics.com
@@ -85606,6 +85607,7 @@ securechance.info
 securechance.life
 securechance.top
 securecloud-smart.com
+securedeposit-et.com
 securedigipay.com
 securedloading.com
 securedlogin.org
