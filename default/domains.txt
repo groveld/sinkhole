@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 174327
-# Updated: 2024-02-08 01:07:52 UTC
+# Entries: 174331
+# Updated: 2024-02-09 01:07:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -5119,6 +5119,7 @@ accounts.winniing.click
 accountsections.com
 accountsecu.com
 accountverificationforns.weebly.com
+accrogers-overview.com
 acctrecovery.com
 acctref.com
 acculeapanalytics.com
@@ -57028,6 +57029,7 @@ jrsa.net
 jrun.net.cn
 jrv5-y.sbs
 js-agent.newrelic.com
+js-api.otherlevels.com
 js-at.goldbach.com
 js-cdn.dynatrace.com
 js-cdn.net
@@ -57037,6 +57039,7 @@ js-pola.web.app
 js-sec.casalemedia.com.edgekey.net
 js-sec.indexww.com
 js-ssl.aaddcount.com
+js-tags.otherlevels.com
 js-together.com
 js.8-starssp.net
 js.aaddcount.com
@@ -86828,6 +86831,7 @@ secure-payu-pl-pay.fx-lifeperformance.de
 secure-payu.pl
 secure-processingcenter.com
 secure-proxy.imrworldwide.com
+secure-royaibnk.com
 secure-sdk.imrworldwide.com
 secure-sg.imrworldwide.com
 secure-sts-prod.imrworldwide.com
