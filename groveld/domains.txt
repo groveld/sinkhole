@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 174333
-# Updated: 2024-02-09 01:53:19 UTC
+# Entries: 174334
+# Updated: 2024-02-10 01:52:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27786,6 +27786,7 @@ canadapost-delivery-reshedule.com
 canadapost-paymentservice.com
 canadapost-postescanada.uwpackege.top
 canadapost.112.2o7.net
+canadapostarticle.com
 canadapro.cloud
 canadapro.info
 canadapro.live
