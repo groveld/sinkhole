@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 164264
-! Updated: 2024-02-14 01:53:26 UTC
+! Entries: 164265
+! Updated: 2024-02-15 01:53:39 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47661,6 +47661,7 @@
 ||healingwaard.site^
 ||heallearndiscover.com^
 ||healomni.com^
+||healpublic.best^
 ||health-club.online^
 ||health-lab.store^
 ||health-line.me^
