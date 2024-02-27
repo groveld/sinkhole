@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 173751
-# Updated: 2024-02-26 01:54:30 UTC
+# Entries: 173752
+# Updated: 2024-02-27 01:53:44 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68956,6 +68956,7 @@ nebnr.112.2o7.net
 nebosuebey.live
 nebula-9.com
 nebula-cdn.kampyle.com
+nebulacrescent.com
 nebulaezone.lat
 nebulasquid.xyz
 nebulique.devispujasamagri.com
