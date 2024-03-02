@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 177371
-# Updated: 2024-03-01 01:59:58 UTC
+# Entries: 177375
+# Updated: 2024-03-02 01:55:18 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22563,6 +22563,7 @@ benefic.life
 beneficiosmetroalarmas.com
 benefit24.guru
 benefits.sovendus.com
+benefitsgov.info
 benefitsorganic.com
 benekaith.com
 beneko.com
@@ -41785,6 +41786,7 @@ et-eus.w.inmobi.com
 et-interac.etransfers1.com
 et-l.w.inmobi.com
 et-mobinterfundw.com
+et-mycostcorewards.info
 et-revnagcan.com
 et.educationdynamics.com
 et.eulerian.net
@@ -43805,6 +43807,7 @@ fdmtr.com
 fdn-en.net
 fdn.newlvlpro.top
 fdnzx.com
+fdoverbilled.com
 fdq62bag4937cru.com
 fdqryznbktsm.com
 fdrxvckanqbew.com
@@ -81098,6 +81101,7 @@ profile-lookup.services.53.localytics.com
 profile.adkmob.com
 profile.localytics.com
 profile.uproxx.com
+profileconfirm.info
 profilenetflix.com
 profilenotice.info
 profiles.hitslink.com
