@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 181038
-# Updated: 2024-03-05 01:08:53 UTC
+# Entries: 181039
+# Updated: 2024-03-06 01:09:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -44854,6 +44854,7 @@ fidelidade-auto.com
 fidelity-assetltd.com
 fidelity-media.com
 fidiasapp.com
+fido-team.com
 fids.hoccs.xyz
 fidz.dazll.click
 fiee.klewmedia.com
