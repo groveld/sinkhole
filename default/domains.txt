@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 181042
-# Updated: 2024-03-07 01:05:14 UTC
+# Entries: 181045
+# Updated: 2024-03-08 01:09:42 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -71095,6 +71095,7 @@ nbp24.fund
 nbredwase.site
 nbrtrack.com
 nbryb.com
+nbtp1.sa.com
 nbtyu.dehhg.xyz
 nbuiasn.com
 nc.5.p2l.info
@@ -100435,6 +100436,7 @@ transcendent-queijadas-e99992.netlify.app
 transdreamsbay.shop
 transfer-rate.com
 transfer.kaj-studio.com
+transfer.sh
 transfer.urekamedia.com
 transferkeep.com
 transferlights.com
@@ -167129,6 +167131,7 @@ www.swaerthod.site
 www.swagshoponline.pl
 www.swagster.pl
 www.swaill.site
+www.swallowwire.sa.com
 www.swanksoft.com
 www.swanmilk.quest
 www.swanring.xyz
