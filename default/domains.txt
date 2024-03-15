@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 185910
-# Updated: 2024-03-14 01:09:03 UTC
+# Entries: 185912
+# Updated: 2024-03-15 01:09:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -5556,6 +5556,7 @@ accelerationsw.com
 accelone.net
 accent-mc.com
 acceptable.a-ads.com
+acceptlnterac-email-transfer-online-2fasecure.com
 acceptthispodcast.com
 accerispartners.com
 accerti.com
@@ -83202,6 +83203,7 @@ posstasks.top
 post-a.club
 post-bl.top
 post-canada-delivery2023.com
+post-canada-reschedule2024.com
 post-ch.cc
 post-cni.top
 post-corp.cc
