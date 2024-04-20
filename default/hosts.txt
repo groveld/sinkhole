@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 137613
-# Updated: 2024-04-19 01:09:58 UTC
+# Entries: 137612
+# Updated: 2024-04-20 01:09:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -63068,7 +63068,6 @@
 0.0.0.0 pad-v3.presage.io
 0.0.0.0 padaa.net
 0.0.0.0 padcawbovz.sa.com
-0.0.0.0 paddleangle.com
 0.0.0.0 paddyabu.net
 0.0.0.0 padillaparralab.com
 0.0.0.0 padoduocii.live
