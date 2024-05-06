@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 140466
-// Updated: 2024-05-05 01:59:21 UTC
+// Entries: 140468
+// Updated: 2024-05-06 01:58:07 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17088,6 +17088,7 @@ var BLOCKLIST = {
 "apsolucionesdev.com":null,
 "apsoutheast-match.deepintent.com":null,
 "apsu.fr":null,
+"aptabase.com":null,
 "apteka-antykoncepcja.pl":null,
 "apteka2000.pl":null,
 "aptimentor.com":null,
@@ -83462,6 +83463,7 @@ var BLOCKLIST = {
 "unicredit.185-72-199-66.cprapid.com":null,
 "unicredit.91-236-55-144.cprapid.com":null,
 "unid.go.com":null,
+"unidentifiedanalytics.web.app":null,
 "unified.adsafeprotected.com":null,
 "unifiedbidding.ad.smaato.net":null,
 "unififorex.com":null,

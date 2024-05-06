@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 140464
-# Updated: 2024-05-05 01:12:13 UTC
+# Entries: 140466
+# Updated: 2024-05-06 01:11:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17087,6 +17087,7 @@ apserver.net
 apsolucionesdev.com
 apsoutheast-match.deepintent.com
 apsu.fr
+aptabase.com
 apteka-antykoncepcja.pl
 apteka2000.pl
 aptimentor.com
@@ -83460,6 +83461,7 @@ unicorpbrunei.com
 unicredit.185-72-199-66.cprapid.com
 unicredit.91-236-55-144.cprapid.com
 unid.go.com
+unidentifiedanalytics.web.app
 unified.adsafeprotected.com
 unifiedbidding.ad.smaato.net
 unififorex.com

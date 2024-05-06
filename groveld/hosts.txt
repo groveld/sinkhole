@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 140466
-# Updated: 2024-05-05 01:59:21 UTC
+# Entries: 140468
+# Updated: 2024-05-06 01:58:07 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17087,6 +17087,7 @@
 0.0.0.0 apsolucionesdev.com
 0.0.0.0 apsoutheast-match.deepintent.com
 0.0.0.0 apsu.fr
+0.0.0.0 aptabase.com
 0.0.0.0 apteka-antykoncepcja.pl
 0.0.0.0 apteka2000.pl
 0.0.0.0 aptimentor.com
@@ -83461,6 +83462,7 @@
 0.0.0.0 unicredit.185-72-199-66.cprapid.com
 0.0.0.0 unicredit.91-236-55-144.cprapid.com
 0.0.0.0 unid.go.com
+0.0.0.0 unidentifiedanalytics.web.app
 0.0.0.0 unified.adsafeprotected.com
 0.0.0.0 unifiedbidding.ad.smaato.net
 0.0.0.0 unififorex.com
