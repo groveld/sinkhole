@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 140468
-# Updated: 2024-05-06 01:58:07 UTC
+# Entries: 140469
+# Updated: 2024-05-07 01:57:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -88342,6 +88342,7 @@ widget-cdn.rpxnow.com
 widget-eforsa.pl
 widget-pixels.outbrain.com
 widget.achetezfacile.com
+widget.adcovery.com
 widget.am5.vip.prod.criteo.com
 widget.as.criteo.com
 widget.beop.io

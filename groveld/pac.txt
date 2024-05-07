@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 140468
-// Updated: 2024-05-06 01:58:07 UTC
+// Entries: 140469
+// Updated: 2024-05-07 01:57:27 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -88343,6 +88343,7 @@ var BLOCKLIST = {
 "widget-eforsa.pl":null,
 "widget-pixels.outbrain.com":null,
 "widget.achetezfacile.com":null,
+"widget.adcovery.com":null,
 "widget.am5.vip.prod.criteo.com":null,
 "widget.as.criteo.com":null,
 "widget.beop.io":null,
