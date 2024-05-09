@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 140467
-// Updated: 2024-05-08 01:06:34 UTC
+// Entries: 140468
+// Updated: 2024-05-09 01:10:07 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35034,6 +35034,7 @@ var BLOCKLIST = {
 "e.dlx.addthis.com":null,
 "e.dtscout.com":null,
 "e.eclick.vn":null,
+"e.email.simon.com":null,
 "e.freewebhostingarea.com":null,
 "e.hypnosisandfitness.com":null,
 "e.imguol.com":null,

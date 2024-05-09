@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 140469
-# Updated: 2024-05-08 01:53:44 UTC
+# Entries: 140470
+# Updated: 2024-05-09 01:57:14 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35033,6 +35033,7 @@ e.deployads.com
 e.dlx.addthis.com
 e.dtscout.com
 e.eclick.vn
+e.email.simon.com
 e.freewebhostingarea.com
 e.hypnosisandfitness.com
 e.imguol.com
