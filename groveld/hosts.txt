@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 140470
-# Updated: 2024-05-10 01:57:29 UTC
+# Entries: 140471
+# Updated: 2024-05-11 01:57:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -70119,6 +70119,7 @@
 0.0.0.0 recover-d78ee.surge.sh
 0.0.0.0 recover-direction-45098f.surge.sh
 0.0.0.0 recover-ry13012569653706.com
+0.0.0.0 recover-subscription.com
 0.0.0.0 recovery-5c55c.web.app
 0.0.0.0 recovery-f47ed.web.app
 0.0.0.0 recpcat.com
