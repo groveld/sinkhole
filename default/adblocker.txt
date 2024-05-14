@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 144857
-! Updated: 2024-05-13 01:11:47 UTC
+! Entries: 144861
+! Updated: 2024-05-14 01:10:28 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -552,6 +552,7 @@
 ||103bees.com^
 ||1041598d1a.da1a0e7bb3.com^
 ||104231.dtiblog.com^
+||105915624.com^
 ||105vibe.com^
 ||106.c752sa3k9oeb2eg2ehpgc8fnhkeyyyyyn.domsearch.net^
 ||106242.hittail.com^
@@ -72741,6 +72742,7 @@
 ||rof.wimsa.top^
 ||rofuwyedeu.info^
 ||rogde.adocean.pl^
+||rogers-wirelessphone.com^
 ||rogervalles.com^
 ||roia.biz^
 ||roimedia.advertserve.com^
@@ -85243,6 +85245,7 @@
 ||ukoffzeh.com^
 ||ukotah.com^
 ||ukrainepost.cyou^
+||ukrashulya.ru^
 ||ukrbanner.net^
 ||ukrposhtatra.top^
 ||ukrpts.net^
@@ -97706,6 +97709,7 @@
 ||www.avdo.autotrdes.top^
 ||www.avelefitness.com^
 ||www.avenuea.com^
+||www.avenues-inc.com^
 ||www.avetyntwe.cfd^
 ||www.aviabotpl.pro^
 ||www.aviadayspa.com^
