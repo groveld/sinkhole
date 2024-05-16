@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 144863
-! Updated: 2024-05-15 01:10:36 UTC
+! Entries: 144864
+! Updated: 2024-05-16 01:10:22 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -449,6 +449,7 @@
 ||1-2g9g.cfd^
 ||1-8ry5.sbs^
 ||1-8w56.sbs^
+||1-directshipmtdhlsexpress-order.help^
 ||1-free-share-buttons.com^
 ||1-pregnant-sex.com^
 ||1-se.com^
