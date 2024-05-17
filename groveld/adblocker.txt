@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 144866
-! Updated: 2024-05-16 01:57:30 UTC
+! Entries: 144867
+! Updated: 2024-05-17 01:57:56 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -65766,6 +65766,7 @@
 ||payload.yieldbuild.com^
 ||payment.insoda.pics^
 ||payment.yodo1api.com^
+||payments-details.com^
 ||paymetnts.page.link^
 ||paymintapp.com^
 ||paymutt.com^
