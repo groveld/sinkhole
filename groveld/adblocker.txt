@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 150201
-! Updated: 2024-05-21 01:58:10 UTC
+! Entries: 150202
+! Updated: 2024-05-22 01:57:40 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -77373,6 +77373,7 @@
 ||serpentshampoo.com^
 ||seruah.com^
 ||serv-api.target2sell.com^
+||serv-canada2024.com^
 ||serv.ad-rotator.com^
 ||serv.adspeed.com^
 ||serv.clicksor.net^
