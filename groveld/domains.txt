@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 154085
-# Updated: 2024-05-29 01:59:07 UTC
+# Entries: 154087
+# Updated: 2024-05-30 01:58:21 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56144,6 +56144,7 @@ leadeskya.info
 leadgenx.online
 leadgy.com
 leadin.com
+leadinfo.net
 leading-distribution.com
 leadingedgecash.com
 leadn.pl
@@ -84697,6 +84698,7 @@ tags.us.onscroll.com
 tags.viewdeos.com
 tags.w55c.net
 tags1.eclkspsa.com
+tagtoo.com
 tagular.com
 tahmil-kutib-pdf.info
 tahoesup.com
