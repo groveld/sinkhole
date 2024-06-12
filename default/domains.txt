@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 160072
-# Updated: 2024-06-11 01:11:28 UTC
+# Entries: 160073
+# Updated: 2024-06-12 01:11:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -49383,6 +49383,7 @@ httpkafka.unityads.unity3d.com
 httpmyetherwallet.com
 httpool.com
 httpring.qq.com
+https-ticketnotice.com
 httpush.com
 httpwwwadserver.com
 htttp-login.pages.net.br
