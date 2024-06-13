@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 160073
-# Updated: 2024-06-12 01:11:38 UTC
+# Entries: 160074
+# Updated: 2024-06-13 01:11:37 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -81180,6 +81180,7 @@ serv2.ad-rotator.com
 servad.mynet.com
 servads.fansshare.com
 servads.net
+servclick1move.com
 servdigitalesexteriorgrupobancolombia.com
 serve-east.acuityplatform.com
 serve-prod1204.uberads.com
