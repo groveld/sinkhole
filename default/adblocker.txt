@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 173811
-! Updated: 2024-07-01 01:16:10 UTC
+! Entries: 173812
+! Updated: 2024-07-02 01:11:56 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -79104,6 +79104,7 @@
 ||prexyone.appspot.com^
 ||prezentacjazdarzenia.click^
 ||prf.hn^
+||prfctlivs.click^
 ||prfectnewdl.club^
 ||prg.kargo.com^
 ||prg.smartadserver.com^
