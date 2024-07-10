@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 164587
-! Updated: 2024-07-09 01:59:17 UTC
+! Entries: 164594
+! Updated: 2024-07-10 01:59:38 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16811,6 +16811,7 @@
 ||api.am-smaragd.xyz^
 ||api.amplitude.com^
 ||api.applink.mob.com^
+||api.appmetrica.yandex.ru^
 ||api.appodeal.com^
 ||api.appodealx.com^
 ||api.appsee.com^
@@ -56965,6 +56966,7 @@
 ||knippshild.net^
 ||knirtec.com^
 ||knishwings.world^
+||knitstamp.com^
 ||knoctaktechs.com^
 ||knoozalbararigents.com^
 ||knorex.com^
@@ -75848,6 +75850,7 @@
 ||pricefortoday.com^
 ||pricelessexteriorcleaning.com^
 ||priceypies.com^
+||pricklydebt.com^
 ||prid.ltdroom.top^
 ||prideaquatech.com^
 ||prideofbride.com^
@@ -79356,10 +79359,14 @@
 ||replycase12991.tilda.ws^
 ||repolpost.top^
 ||reporo.net^
+||report-1.appmetrica.webvisor.com^
+||report-2.appmetrica.webvisor.com^
 ||report-ads-to.pubnation.com^
 ||report-caseid-kiorig.helpbusiness7ct.cyou^
+||report-partners.appmetrica.yandex.net^
 ||report.adsplay.net^
 ||report.adviad.com^
+||report.ap.yandex-net.ru^
 ||report.appmetrica.yandex.net^
 ||report.hb.brainlyads.com^
 ||report.mediahub.vn^
