@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 171457
-! Updated: 2024-07-25 01:59:52 UTC
+! Entries: 171459
+! Updated: 2024-07-26 01:59:44 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -60984,6 +60984,7 @@
 ||links.industrybrains.com^
 ||links.onlinedownloads.org^
 ||links.outster.com^
+||links.prosservice.fr^
 ||links.services.disqus.com^
 ||links.sexlist.com^
 ||links.sextracker.com^
@@ -85879,6 +85880,7 @@
 ||settings-analytics.hotstar.com^
 ||settings-liverez.com^
 ||settings.luckyorange.net^
+||setup-mydelivery-date6437-fedex.com^
 ||setup.advancedcleaner.com^
 ||setupspcp1.888.com^
 ||setynv.sbs^
