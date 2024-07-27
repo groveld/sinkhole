@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 171459
-! Updated: 2024-07-26 01:59:44 UTC
+! Entries: 171460
+! Updated: 2024-07-27 01:59:08 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -97749,6 +97749,7 @@
 ||url.adtrgt.com^
 ||url1.io^
 ||url2all.net^
+||url9467.comms-2.zoopla.co.uk^
 ||url9810.tokocrypto.com^
 ||urlcash.net^
 ||urlconnection.net^

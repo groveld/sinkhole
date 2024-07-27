@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 171456
-# Updated: 2024-07-26 01:12:33 UTC
+# Entries: 171458
+# Updated: 2024-07-27 01:12:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -85879,6 +85879,7 @@ setting.rayjump.com
 settings-analytics.hotstar.com
 settings-liverez.com
 settings.luckyorange.net
+setup-mydelivery-date6437-fedex.com
 setup.advancedcleaner.com
 setupspcp1.888.com
 setynv.sbs
@@ -97747,6 +97748,7 @@ url.1.hubs.vn
 url.adtrgt.com
 url1.io
 url2all.net
+url9467.comms-2.zoopla.co.uk
 url9810.tokocrypto.com
 urlcash.net
 urlconnection.net
