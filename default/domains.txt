@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 177902
-# Updated: 2024-08-12 01:14:19 UTC
+# Entries: 177903
+# Updated: 2024-08-13 01:13:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40853,6 +40853,7 @@ email.sysstem.shop
 email.unifier.best
 emailacess02.node.cloudlets.zone
 emaildireto.com.br
+emailer.stockbit.com
 emaillinks.soundiiz.com
 emailretargeting.com
 emailtoolnest.com
