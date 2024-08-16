@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 177905
-# Updated: 2024-08-15 01:59:28 UTC
+# Entries: 177906
+# Updated: 2024-08-16 02:00:12 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1961,6 +1961,7 @@
 2vyi.cfd
 2w.biogrensek.com
 2wink.com.au
+2x1gratis.com
 2xbranding.com
 2xel.cfd
 2xjl.cfd
