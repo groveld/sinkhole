@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 182464
-# Updated: 2024-08-21 01:12:59 UTC
+# Entries: 182465
+# Updated: 2024-08-22 01:13:15 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -88768,6 +88768,7 @@ scotia-secure-2fauth-9a276d.netlify.app
 scotiabankpe.serv00.net
 scotiaconnect-portal.com
 scotiahelp-loginscotia.com
+scotiaonline-verification.com
 scotternerd.com
 scottishexaminer.com
 scottishstuff-online.com
