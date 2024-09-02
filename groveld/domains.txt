@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 186880
-# Updated: 2024-09-01 02:07:23 UTC
+# Entries: 186881
+# Updated: 2024-09-02 02:02:36 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -86841,6 +86841,7 @@ redecasacenter.com
 redefine.hit.stat24.com
 redefine2.hit.stat24.com
 redeimigra.com
+redelivercadpost.com
 redemptionengine.com
 redemptionphrase.com
 redemptivemarriage.com
