@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 178554
-# Updated: 2024-09-14 01:14:07 UTC
+# Entries: 178555
+# Updated: 2024-09-15 01:18:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -67962,6 +67962,7 @@ mobile.logs.roku.com
 mobile.measurelib.com
 mobile.mng-ads.com
 mobile.novanet.vn
+mobile.parkandpay-ca.com
 mobile.pipe.aria.microsoft.com
 mobile.smartadserver.com
 mobile.webvisor.com
