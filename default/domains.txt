@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 179522
-# Updated: 2024-09-19 01:15:13 UTC
+# Entries: 179528
+# Updated: 2024-09-20 01:15:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19927,6 +19927,7 @@ ay.www.youla.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru
 ay.youla.inpost-pl-pacid273jks.abin.shopmusic.icanmining.ru
 ay9r.cfd
 aya.boostteen.top
+ayads.co
 ayamkremesblitar.com
 ayamperu.com
 ayanaforward.com
@@ -66280,6 +66281,7 @@ mediaserver.bwinpartypartners.it
 mediashakers.com
 mediasmart.io
 mediaspoleczenstwa.click
+mediasquare.fr
 mediasurabayarek.com
 mediaterre.fr
 mediatex.in
@@ -73508,6 +73510,7 @@ ofwnpzco.cfd
 ofy.valuez.top
 og-gswr.cfd
 og5sts.icu
+ogads-pa.googleapis.com
 ogaq.actiprogz.top
 ogefer.com
 ogeviews.tagnons.com
@@ -75738,6 +75741,7 @@ pa.prot-rad.top
 pa.vhrr.top
 pa.wme.catchmedia.com
 pa5natew5k.site
+paa-reporting-advertising.amazon
 paadisepapaya.xyz
 paalp.fr
 paas-push-api-log.immomo.com
@@ -84871,6 +84875,7 @@ richardcardenas.com
 richardsmithbeverly.com
 richardwilliamsorenson.com
 richarfqjr.com
+richaudience.com
 richdosia.com
 richesofwisdom.com
 richestdomains.net
@@ -91956,6 +91961,7 @@ ssh.shopland.cloud
 sshowads.pubmatic.com
 ssimdedos.site
 ssk.qvelo.top
+sskzlabs.com
 ssl-avd.innity.net
 ssl-compass.oewabox.at
 ssl-esklep-poczta-polska-pl.marinoah.de
