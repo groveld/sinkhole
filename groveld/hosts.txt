@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 128602
-# Updated: 2024-10-06 02:06:17 UTC
+# Entries: 128604
+# Updated: 2024-10-07 02:05:04 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47464,6 +47464,7 @@
 0.0.0.0 live.rezync.com
 0.0.0.0 live.sekindo.com
 0.0.0.0 live.sex-explorer.com
+0.0.0.0 live.trmzum.com
 0.0.0.0 live.vnpgroup.net
 0.0.0.0 live1powerlife.com
 0.0.0.0 livead.jp
@@ -49085,6 +49086,7 @@
 0.0.0.0 magnum188up.com
 0.0.0.0 magnumbd.com
 0.0.0.0 magopl.xyz
+0.0.0.0 magsrv.com
 0.0.0.0 magstarmining.com
 0.0.0.0 magurait.com
 0.0.0.0 magyarkozosseg.net

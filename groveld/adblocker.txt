@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 128602
-! Updated: 2024-10-06 02:06:17 UTC
+! Entries: 128604
+! Updated: 2024-10-07 02:05:04 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47464,6 +47464,7 @@
 ||live.rezync.com^
 ||live.sekindo.com^
 ||live.sex-explorer.com^
+||live.trmzum.com^
 ||live.vnpgroup.net^
 ||live1powerlife.com^
 ||livead.jp^
@@ -49085,6 +49086,7 @@
 ||magnum188up.com^
 ||magnumbd.com^
 ||magopl.xyz^
+||magsrv.com^
 ||magstarmining.com^
 ||magurait.com^
 ||magyarkozosseg.net^

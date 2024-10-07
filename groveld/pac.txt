@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 128602
-// Updated: 2024-10-06 02:06:17 UTC
+// Entries: 128604
+// Updated: 2024-10-07 02:05:04 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47465,6 +47465,7 @@ var BLOCKLIST = {
 "live.rezync.com":null,
 "live.sekindo.com":null,
 "live.sex-explorer.com":null,
+"live.trmzum.com":null,
 "live.vnpgroup.net":null,
 "live1powerlife.com":null,
 "livead.jp":null,
@@ -49086,6 +49087,7 @@ var BLOCKLIST = {
 "magnum188up.com":null,
 "magnumbd.com":null,
 "magopl.xyz":null,
+"magsrv.com":null,
 "magstarmining.com":null,
 "magurait.com":null,
 "magyarkozosseg.net":null,
