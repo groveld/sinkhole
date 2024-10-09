@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 128086
-# Updated: 2024-10-08 02:02:55 UTC
+# Entries: 128088
+# Updated: 2024-10-09 02:03:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46113,6 +46113,7 @@
 0.0.0.0 labaneraca.com
 0.0.0.0 labanquepoqtale.fr
 0.0.0.0 labanqueposttale.fr
+0.0.0.0 labashl.de
 0.0.0.0 labautomation360.xyz
 0.0.0.0 labersa.com
 0.0.0.0 labfloral.com
@@ -62226,6 +62227,7 @@
 0.0.0.0 qoqoz.com
 0.0.0.0 qotersanches.com
 0.0.0.0 qotileo8.cfd
+0.0.0.0 qouv.fr
 0.0.0.0 qovoq.in
 0.0.0.0 qowexei8.pro
 0.0.0.0 qoxawyi1.cyou

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 128084
-// Updated: 2024-10-08 01:15:45 UTC
+// Entries: 128086
+// Updated: 2024-10-09 01:16:02 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46113,6 +46113,7 @@ var BLOCKLIST = {
 "labaneraca.com":null,
 "labanquepoqtale.fr":null,
 "labanqueposttale.fr":null,
+"labashl.de":null,
 "labautomation360.xyz":null,
 "labersa.com":null,
 "labfloral.com":null,
@@ -62226,6 +62227,7 @@ var BLOCKLIST = {
 "qoqoz.com":null,
 "qotersanches.com":null,
 "qotileo8.cfd":null,
+"qouv.fr":null,
 "qovoq.in":null,
 "qowexei8.pro":null,
 "qoxawyi1.cyou":null,

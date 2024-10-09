@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 128084
-! Updated: 2024-10-08 01:15:45 UTC
+! Entries: 128086
+! Updated: 2024-10-09 01:16:02 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46112,6 +46112,7 @@
 ||labaneraca.com^
 ||labanquepoqtale.fr^
 ||labanqueposttale.fr^
+||labashl.de^
 ||labautomation360.xyz^
 ||labersa.com^
 ||labfloral.com^
@@ -62225,6 +62226,7 @@
 ||qoqoz.com^
 ||qotersanches.com^
 ||qotileo8.cfd^
+||qouv.fr^
 ||qovoq.in^
 ||qowexei8.pro^
 ||qoxawyi1.cyou^
