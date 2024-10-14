@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 129588
-# Updated: 2024-10-13 01:19:00 UTC
+# Entries: 129590
+# Updated: 2024-10-14 01:17:53 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29419,6 +29419,7 @@
 0.0.0.0 dhl.express.faktura.tecsla.com.mx
 0.0.0.0 dhlashop5ywl.vip
 0.0.0.0 dhlliui.icu
+0.0.0.0 dhlmyorder82662-info-can.com
 0.0.0.0 dhlukmurl.modinnielantle.ga
 0.0.0.0 dhnconstrucciones.com.ar
 0.0.0.0 dholeraitzone.com
@@ -63694,6 +63695,7 @@
 0.0.0.0 redecasacenter.com
 0.0.0.0 redefine.hit.stat24.com
 0.0.0.0 redefine2.hit.stat24.com
+0.0.0.0 redelivauthcentre.com
 0.0.0.0 redelivercadpost.com
 0.0.0.0 redelivtls.online
 0.0.0.0 redemptionengine.com
