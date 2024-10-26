@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 130477
-# Updated: 2024-10-25 01:16:41 UTC
+# Entries: 130478
+# Updated: 2024-10-26 01:15:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11372,6 +11372,7 @@
 0.0.0.0 adwealth.com
 0.0.0.0 adweb1.hornymatches.com
 0.0.0.0 adweb2.hornymatches.com
+0.0.0.0 adwebone.com
 0.0.0.0 adwhirl.com
 0.0.0.0 adwin.startappservice.com
 0.0.0.0 adwitserver.com
