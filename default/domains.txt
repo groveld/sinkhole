@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 132419
-# Updated: 2024-11-03 01:19:35 UTC
+# Entries: 132423
+# Updated: 2024-11-04 01:18:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14040,6 +14040,8 @@ ams.toxity.biz
 ams1-ib.adnxs.com
 ams1-mobile.adnxs.com
 ams1.ib.adnxs.com
+ams2.rumourobey.com
+ams2.rumourrubicon.com
 ams900.goo.ne.jp
 amsstellensucheneuwebsiteproduction.112.2o7.net
 amswebproduction.112.2o7.net
@@ -37442,6 +37444,7 @@ getproslider.com
 getrank.net
 getrelator.com
 getrockerbox.com
+getrunkhomuto.info
 getrxhere.co
 getspecialgifts.com
 getstable.monster
@@ -76196,6 +76199,7 @@ toggletools.com
 toha.trackmygreatclicks.com
 tohedau7.pro
 tohuguu1.space
+toiletpaper.life
 tojestto.is-best.net
 tok.nowyplx.top
 tokemoniak.com

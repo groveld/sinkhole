@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 132419
-// Updated: 2024-11-03 01:19:35 UTC
+// Entries: 132423
+// Updated: 2024-11-04 01:18:13 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14041,6 +14041,8 @@ var BLOCKLIST = {
 "ams1-ib.adnxs.com":null,
 "ams1-mobile.adnxs.com":null,
 "ams1.ib.adnxs.com":null,
+"ams2.rumourobey.com":null,
+"ams2.rumourrubicon.com":null,
 "ams900.goo.ne.jp":null,
 "amsstellensucheneuwebsiteproduction.112.2o7.net":null,
 "amswebproduction.112.2o7.net":null,
@@ -37443,6 +37445,7 @@ var BLOCKLIST = {
 "getrank.net":null,
 "getrelator.com":null,
 "getrockerbox.com":null,
+"getrunkhomuto.info":null,
 "getrxhere.co":null,
 "getspecialgifts.com":null,
 "getstable.monster":null,
@@ -76197,6 +76200,7 @@ var BLOCKLIST = {
 "toha.trackmygreatclicks.com":null,
 "tohedau7.pro":null,
 "tohuguu1.space":null,
+"toiletpaper.life":null,
 "tojestto.is-best.net":null,
 "tok.nowyplx.top":null,
 "tokemoniak.com":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 132421
-# Updated: 2024-11-03 02:06:43 UTC
+# Entries: 132425
+# Updated: 2024-11-04 02:05:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14040,6 +14040,8 @@
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 ams1-mobile.adnxs.com
 0.0.0.0 ams1.ib.adnxs.com
+0.0.0.0 ams2.rumourobey.com
+0.0.0.0 ams2.rumourrubicon.com
 0.0.0.0 ams900.goo.ne.jp
 0.0.0.0 amsstellensucheneuwebsiteproduction.112.2o7.net
 0.0.0.0 amswebproduction.112.2o7.net
@@ -37442,6 +37444,7 @@
 0.0.0.0 getrank.net
 0.0.0.0 getrelator.com
 0.0.0.0 getrockerbox.com
+0.0.0.0 getrunkhomuto.info
 0.0.0.0 getrxhere.co
 0.0.0.0 getspecialgifts.com
 0.0.0.0 getstable.monster
@@ -76197,6 +76200,7 @@
 0.0.0.0 toha.trackmygreatclicks.com
 0.0.0.0 tohedau7.pro
 0.0.0.0 tohuguu1.space
+0.0.0.0 toiletpaper.life
 0.0.0.0 tojestto.is-best.net
 0.0.0.0 tok.nowyplx.top
 0.0.0.0 tokemoniak.com
