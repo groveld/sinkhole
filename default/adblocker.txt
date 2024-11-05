@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 132423
-! Updated: 2024-11-04 01:18:13 UTC
+! Entries: 132424
+! Updated: 2024-11-05 01:16:03 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22820,6 +22820,7 @@
 ||canadapost.112.2o7.net^
 ||canadapost.ca-help-h.top^
 ||canadapost.helpdag.top^
+||canadapost.postescanadad.xyz^
 ||canadapostarticle.com^
 ||canadaprvisa.com^
 ||canadaquestion.com^
