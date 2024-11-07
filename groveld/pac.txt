@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 132426
-// Updated: 2024-11-06 02:03:07 UTC
+// Entries: 132428
+// Updated: 2024-11-07 02:03:06 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -377,6 +377,7 @@ var BLOCKLIST = {
 "1-2fly-befragung.de":null,
 "1-2g9g.cfd":null,
 "1-avfd.sbs":null,
+"1-bmo-client-login.com":null,
 "1-directshipmtdhlsexpress-order.help":null,
 "1-free-share-buttons.com":null,
 "1-pregnant-sex.com":null,
@@ -52280,6 +52281,7 @@ var BLOCKLIST = {
 "mlntracker.com":null,
 "mloda-cera.pl":null,
 "mlog.hiido.com":null,
+"mlpoo11-secondary.z13.web.core.windows.net":null,
 "mlsend.com":null,
 "mlsglobal.112.2o7.net":null,
 "mlslistingforsale.com":null,
