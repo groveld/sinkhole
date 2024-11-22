@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 133863
-# Updated: 2024-11-21 01:17:53 UTC
+# Entries: 133864
+# Updated: 2024-11-22 01:18:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -25527,6 +25527,7 @@
 0.0.0.0 click.uamtrk.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click.union.ucweb.com
+0.0.0.0 click.v.visionlab.es
 0.0.0.0 click.vieon.vn
 0.0.0.0 click.watchjmp.com
 0.0.0.0 click.zeroclickdirect.com
