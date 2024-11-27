@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 133274
-// Updated: 2024-11-26 01:18:16 UTC
+// Entries: 133281
+// Updated: 2024-11-27 01:18:20 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1525,6 +1525,7 @@ var BLOCKLIST = {
 "2kwk.skin":null,
 "2leep.com":null,
 "2lesbians.net":null,
+"2linkpath.com":null,
 "2lwlh385os.com":null,
 "2m-17m.sbs":null,
 "2manshow.com":null,
@@ -1966,6 +1967,7 @@ var BLOCKLIST = {
 "4bqs.com":null,
 "4c28d6.r.axf8.net":null,
 "4click.biz":null,
+"4clicker.pro":null,
 "4clvr.jp":null,
 "4cock.com":null,
 "4cywq-eqnre.ads.tremorhub.com":null,
@@ -29281,6 +29283,7 @@ var BLOCKLIST = {
 "deafpioneers.com":null,
 "deainyou.com":null,
 "deal-courrier.be":null,
+"deal-on.eu":null,
 "deal24seven.com":null,
 "deal4unow.com":null,
 "dealabs.digidip.net":null,
@@ -30137,6 +30140,7 @@ var BLOCKLIST = {
 "direct-energy.ltd":null,
 "direct-events-collector.spot.im":null,
 "direct-klb.com":null,
+"direct-re2.pl":null,
 "direct-space.com":null,
 "direct-xxx-access.com":null,
 "direct.adachi6.eu.org":null,
@@ -49245,6 +49249,7 @@ var BLOCKLIST = {
 "lowervalues.com":null,
 "lowes.tt.omtrdc.net":null,
 "lowesguarabted.info":null,
+"lowest-price.eu":null,
 "lowisko-podolsze.pl":null,
 "lowkeynews.com":null,
 "lowratefinderai.com":null,
@@ -64945,6 +64950,7 @@ var BLOCKLIST = {
 "rdt.screensaver.com":null,
 "rdt2.ringtone.com":null,
 "re-direct.pl":null,
+"re-direct1.com":null,
 "re-directme.com":null,
 "re.directrev.com":null,
 "re.nwmw.skin":null,
@@ -65999,6 +66005,7 @@ var BLOCKLIST = {
 "rihannabeauty.tn":null,
 "rihlagroup.com":null,
 "rihoentertain.com":null,
+"riktok.pl":null,
 "rillionairegraphics.com":null,
 "rim.whapl.top":null,
 "rimaje.nl":null,

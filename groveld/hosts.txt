@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 133276
-# Updated: 2024-11-26 02:05:24 UTC
+# Entries: 133283
+# Updated: 2024-11-27 02:05:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1524,6 +1524,7 @@
 0.0.0.0 2kwk.skin
 0.0.0.0 2leep.com
 0.0.0.0 2lesbians.net
+0.0.0.0 2linkpath.com
 0.0.0.0 2lwlh385os.com
 0.0.0.0 2m-17m.sbs
 0.0.0.0 2manshow.com
@@ -1965,6 +1966,7 @@
 0.0.0.0 4bqs.com
 0.0.0.0 4c28d6.r.axf8.net
 0.0.0.0 4click.biz
+0.0.0.0 4clicker.pro
 0.0.0.0 4clvr.jp
 0.0.0.0 4cock.com
 0.0.0.0 4cywq-eqnre.ads.tremorhub.com
@@ -29280,6 +29282,7 @@
 0.0.0.0 deafpioneers.com
 0.0.0.0 deainyou.com
 0.0.0.0 deal-courrier.be
+0.0.0.0 deal-on.eu
 0.0.0.0 deal24seven.com
 0.0.0.0 deal4unow.com
 0.0.0.0 dealabs.digidip.net
@@ -30136,6 +30139,7 @@
 0.0.0.0 direct-energy.ltd
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-klb.com
+0.0.0.0 direct-re2.pl
 0.0.0.0 direct-space.com
 0.0.0.0 direct-xxx-access.com
 0.0.0.0 direct.adachi6.eu.org
@@ -49245,6 +49249,7 @@
 0.0.0.0 lowervalues.com
 0.0.0.0 lowes.tt.omtrdc.net
 0.0.0.0 lowesguarabted.info
+0.0.0.0 lowest-price.eu
 0.0.0.0 lowisko-podolsze.pl
 0.0.0.0 lowkeynews.com
 0.0.0.0 lowratefinderai.com
@@ -64945,6 +64950,7 @@
 0.0.0.0 rdt.screensaver.com
 0.0.0.0 rdt2.ringtone.com
 0.0.0.0 re-direct.pl
+0.0.0.0 re-direct1.com
 0.0.0.0 re-directme.com
 0.0.0.0 re.directrev.com
 0.0.0.0 re.nwmw.skin
@@ -65999,6 +66005,7 @@
 0.0.0.0 rihannabeauty.tn
 0.0.0.0 rihlagroup.com
 0.0.0.0 rihoentertain.com
+0.0.0.0 riktok.pl
 0.0.0.0 rillionairegraphics.com
 0.0.0.0 rim.whapl.top
 0.0.0.0 rimaje.nl

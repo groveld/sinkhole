@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 133276
-! Updated: 2024-11-26 02:05:24 UTC
+! Entries: 133283
+! Updated: 2024-11-27 02:05:29 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1524,6 +1524,7 @@
 ||2kwk.skin^
 ||2leep.com^
 ||2lesbians.net^
+||2linkpath.com^
 ||2lwlh385os.com^
 ||2m-17m.sbs^
 ||2manshow.com^
@@ -1965,6 +1966,7 @@
 ||4bqs.com^
 ||4c28d6.r.axf8.net^
 ||4click.biz^
+||4clicker.pro^
 ||4clvr.jp^
 ||4cock.com^
 ||4cywq-eqnre.ads.tremorhub.com^
@@ -29280,6 +29282,7 @@
 ||deafpioneers.com^
 ||deainyou.com^
 ||deal-courrier.be^
+||deal-on.eu^
 ||deal24seven.com^
 ||deal4unow.com^
 ||dealabs.digidip.net^
@@ -30136,6 +30139,7 @@
 ||direct-energy.ltd^
 ||direct-events-collector.spot.im^
 ||direct-klb.com^
+||direct-re2.pl^
 ||direct-space.com^
 ||direct-xxx-access.com^
 ||direct.adachi6.eu.org^
@@ -49245,6 +49249,7 @@
 ||lowervalues.com^
 ||lowes.tt.omtrdc.net^
 ||lowesguarabted.info^
+||lowest-price.eu^
 ||lowisko-podolsze.pl^
 ||lowkeynews.com^
 ||lowratefinderai.com^
@@ -64945,6 +64950,7 @@
 ||rdt.screensaver.com^
 ||rdt2.ringtone.com^
 ||re-direct.pl^
+||re-direct1.com^
 ||re-directme.com^
 ||re.directrev.com^
 ||re.nwmw.skin^
@@ -65999,6 +66005,7 @@
 ||rihannabeauty.tn^
 ||rihlagroup.com^
 ||rihoentertain.com^
+||riktok.pl^
 ||rillionairegraphics.com^
 ||rim.whapl.top^
 ||rimaje.nl^
