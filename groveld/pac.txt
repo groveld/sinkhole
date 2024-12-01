@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 134105
-// Updated: 2024-11-30 02:04:42 UTC
+// Entries: 134106
+// Updated: 2024-12-01 02:12:29 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -85190,6 +85190,7 @@ var BLOCKLIST = {
 "wp.pl.cube-cologne.com":null,
 "wp.pl.kegypz.com":null,
 "wp1.cor-natty.com":null,
+"wpad":null,
 "wpad.engineer":null,
 "wpad.exchange":null,
 "wpad.exposed":null,
