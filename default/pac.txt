@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 134017
-// Updated: 2024-12-05 01:19:19 UTC
+// Entries: 134018
+// Updated: 2024-12-06 01:19:11 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19160,6 +19160,7 @@ var BLOCKLIST = {
 "bestoffersnz.com":null,
 "bestofnorthwestarkansas.com":null,
 "bestofthewestland.com":null,
+"bestoftoday.click":null,
 "bestonlinestoredeals.com":null,
 "bestopticals.com":null,
 "bestoptionspets.com":null,

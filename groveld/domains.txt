@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 134019
-# Updated: 2024-12-05 02:06:25 UTC
+# Entries: 134020
+# Updated: 2024-12-06 02:06:20 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19159,6 +19159,7 @@ bestoffers.activeshopper.com
 bestoffersnz.com
 bestofnorthwestarkansas.com
 bestofthewestland.com
+bestoftoday.click
 bestonlinestoredeals.com
 bestopticals.com
 bestoptionspets.com

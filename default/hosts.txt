@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 134017
-# Updated: 2024-12-05 01:19:19 UTC
+# Entries: 134018
+# Updated: 2024-12-06 01:19:11 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19159,6 +19159,7 @@
 0.0.0.0 bestoffersnz.com
 0.0.0.0 bestofnorthwestarkansas.com
 0.0.0.0 bestofthewestland.com
+0.0.0.0 bestoftoday.click
 0.0.0.0 bestonlinestoredeals.com
 0.0.0.0 bestopticals.com
 0.0.0.0 bestoptionspets.com
