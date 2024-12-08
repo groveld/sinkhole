@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 134092
-# Updated: 2024-12-07 02:05:51 UTC
+# Entries: 134094
+# Updated: 2024-12-08 02:09:22 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35676,6 +35676,7 @@
 0.0.0.0 firbranchgrove573.sbs
 0.0.0.0 firead.org
 0.0.0.0 fireads.online
+0.0.0.0 fireads.org
 0.0.0.0 fireads.pl
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebid.pl
@@ -54095,6 +54096,7 @@
 0.0.0.0 myketodietlife.com
 0.0.0.0 mykronikaluxury.com
 0.0.0.0 mylead-tracking.tracknow.info
+0.0.0.0 mylead.global
 0.0.0.0 mylegacyglobal.com
 0.0.0.0 mylegalkit.com
 0.0.0.0 mylifetoperfection.blogspot.com
