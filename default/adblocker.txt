@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 133681
-! Updated: 2024-12-13 01:19:35 UTC
+! Entries: 133686
+! Updated: 2024-12-14 01:18:08 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11926,6 +11926,7 @@
 ||affinity-xml.t.domdex.com^
 ||affinity.go2jump.org^
 ||affiz.net^
+||afflnx.com^
 ||affmates.com^
 ||affntwklnk.com^
 ||afford17.org^
@@ -26263,6 +26264,7 @@
 ||cntj.zj.dcys.ijinshan.com^
 ||cntmc.com^
 ||cnv.event.prod.bidr.io^
+||cnvlink.com^
 ||cnvrsns.clickmeter.com^
 ||cny.yoyo.org^
 ||cnychevrolet.com^
@@ -39393,6 +39395,7 @@
 ||h-n-balticpipe-pl.web.app^
 ||h-qks1.sbs^
 ||h-sdk.online-metrix.net^
+||h-trck.com^
 ||h-trzy.sbs^
 ||h-villamotel.com^
 ||h.accesstrade.net^
@@ -64959,6 +64962,7 @@
 ||randkivip.pl^
 ||randkowa.pl^
 ||randkuj.xyz^
+||randkula.online^
 ||randmcnally.112.2o7.net^
 ||randomhouse.com.102.122.2o7.net^
 ||randomlane.net^
@@ -77519,6 +77523,7 @@
 ||track.privacyatclearbit.com^
 ||track.prizeglobal.net^
 ||track.promptfile.com^
+||track.przejdzdostrony.pl^
 ||track.publeadmedia.com^
 ||track.pubmatic.com^
 ||track.radtracking.com^

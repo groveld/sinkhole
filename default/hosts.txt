@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 133681
-# Updated: 2024-12-13 01:19:35 UTC
+# Entries: 133686
+# Updated: 2024-12-14 01:18:08 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11926,6 +11926,7 @@
 0.0.0.0 affinity-xml.t.domdex.com
 0.0.0.0 affinity.go2jump.org
 0.0.0.0 affiz.net
+0.0.0.0 afflnx.com
 0.0.0.0 affmates.com
 0.0.0.0 affntwklnk.com
 0.0.0.0 afford17.org
@@ -26263,6 +26264,7 @@
 0.0.0.0 cntj.zj.dcys.ijinshan.com
 0.0.0.0 cntmc.com
 0.0.0.0 cnv.event.prod.bidr.io
+0.0.0.0 cnvlink.com
 0.0.0.0 cnvrsns.clickmeter.com
 0.0.0.0 cny.yoyo.org
 0.0.0.0 cnychevrolet.com
@@ -39393,6 +39395,7 @@
 0.0.0.0 h-n-balticpipe-pl.web.app
 0.0.0.0 h-qks1.sbs
 0.0.0.0 h-sdk.online-metrix.net
+0.0.0.0 h-trck.com
 0.0.0.0 h-trzy.sbs
 0.0.0.0 h-villamotel.com
 0.0.0.0 h.accesstrade.net
@@ -64959,6 +64962,7 @@
 0.0.0.0 randkivip.pl
 0.0.0.0 randkowa.pl
 0.0.0.0 randkuj.xyz
+0.0.0.0 randkula.online
 0.0.0.0 randmcnally.112.2o7.net
 0.0.0.0 randomhouse.com.102.122.2o7.net
 0.0.0.0 randomlane.net
@@ -77519,6 +77523,7 @@
 0.0.0.0 track.privacyatclearbit.com
 0.0.0.0 track.prizeglobal.net
 0.0.0.0 track.promptfile.com
+0.0.0.0 track.przejdzdostrony.pl
 0.0.0.0 track.publeadmedia.com
 0.0.0.0 track.pubmatic.com
 0.0.0.0 track.radtracking.com
