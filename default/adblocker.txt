@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 133336
-! Updated: 2024-12-17 01:19:18 UTC
+! Entries: 133338
+! Updated: 2024-12-18 01:18:09 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46965,6 +46965,7 @@
 ||labango.com^
 ||labanquepoqtale.fr^
 ||labanqueposttale.fr^
+||labas-hl.de^
 ||labashl.de^
 ||labautomation.cfd^
 ||labautomation360.xyz^
@@ -77592,6 +77593,7 @@
 ||tracking-3-9f58.trnox.com^
 ||tracking-amp.vnexpress.net^
 ||tracking-express.benjamingrab.com^
+||tracking-lealcobrancaspremium.p-email.net^
 ||tracking-mylocation.info^
 ||tracking-server-prod-1.zenmxapps.com^
 ||tracking-thirdparty.i2w.io^
