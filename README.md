@@ -6,18 +6,18 @@
 
 |File|Entries|Size|Updated|Hash|
 |-|-|-|-|-|
-|[adblocker](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt)|132919|3.1M|2024-12-20 01:16:51 UTC|237fc45dd48d177299362cea70fe2ebfdbf879f3de36fe9ddb6274794d8b34fb|
-|[dnsmasq](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt)|132919|4.8M|2024-12-20 01:16:51 UTC|2ce2ae07e2cfebfee765dc1f43a417774eb5b4f7211ed0e50f70c1df8644844e|
-|[domains](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt)|132919|2.7M|2024-12-20 01:16:51 UTC|0bcf68641bc978fb55f30a48063faee56874a6a02918852134c4a7b907969e34|
-|[hosts](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt)|132919|3.7M|2024-12-20 01:16:51 UTC|01b21c8e8b0dbd784459323a1207d5935075e911c23fea8079ce3b7bfb52df79|
-|[pac](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt)|132919|3.7M|2024-12-20 01:16:51 UTC|13d5541c5c80851e9b2a20af1487f346f53325654be8f591e0499dad9860cfdd|
+|[adblocker](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt)|132417|3.1M|2024-12-21 01:16:22 UTC|653754b39d43990acd3c59866530298c159e408560d26dc1f35d498c438efa6f|
+|[dnsmasq](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt)|132417|4.8M|2024-12-21 01:16:22 UTC|faadca8e915d2ce8c5b4678b60c7c0bf529a15bca222823a0f59f0e6af89d14a|
+|[domains](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt)|132417|2.7M|2024-12-21 01:16:22 UTC|b2115ff33463dea6be4f0483862a7cd0421674a340ed6a0c5423da03999e8562|
+|[hosts](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt)|132417|3.7M|2024-12-21 01:16:22 UTC|c71510dd9de78ec89e6ef4aba7979e1fc1cba0ee3b103daf4150da3f2d298f28|
+|[pac](https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt)|132417|3.7M|2024-12-21 01:16:22 UTC|c702708dfd7f64e4064749af36d0dba7e18fef68e9ff30fa7d0aaaf694170c28|
 
 ### groveld
 
 |File|Entries|Size|Updated|Hash|
 |-|-|-|-|-|
-|[adblocker](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt)|132921|3.1M|2024-12-20 02:03:59 UTC|710e123bacf1d089e63fa90b39d85c359bd43f8b86b137628809b1269bb22ef6|
-|[dnsmasq](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt)|132921|4.8M|2024-12-20 02:03:59 UTC|3d8b857411ff1209d2f6ec58b073f780a5ad783aed6bd23f235295013980b86c|
-|[domains](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt)|132921|2.7M|2024-12-20 02:03:59 UTC|5b8b814900a9de25e2bc65f5487ba52fd976c9ff7bbc5ec66c7c45389b3e540f|
-|[hosts](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt)|132921|3.7M|2024-12-20 02:03:59 UTC|64f155566cb9ecd407a4e61936b96cfd629847d17c15023dce85a0daebfcbc48|
-|[pac](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt)|132921|3.7M|2024-12-20 02:03:59 UTC|7dcd41f88d955978dd90e694b30d511dd0a0d57fae763aadc48c29ce988a7b99|
+|[adblocker](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt)|132419|3.1M|2024-12-21 02:03:33 UTC|00c1e3895dd91e766fa0b27d6c41843be1d6445ac8b98fc66bbdd30f3bb08a36|
+|[dnsmasq](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt)|132419|4.8M|2024-12-21 02:03:33 UTC|78aba44b4cb12805a34f8af8d95b5f36bb966034d0bc13569e9709823f04f482|
+|[domains](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt)|132419|2.7M|2024-12-21 02:03:33 UTC|f13068100443a72d9e9bf8a991ab89c088e17e3f1287001b9d919069b60c3152|
+|[hosts](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt)|132419|3.7M|2024-12-21 02:03:33 UTC|711259819925c6a130f4c846362a375f0b7ef01273b21ce2d55f4ac414e60e39|
+|[pac](https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt)|132419|3.7M|2024-12-21 02:03:33 UTC|c579bb3e5d6e05f1ca2f97f6cbccdcb220750224e579b10a286635f33eb69350|
