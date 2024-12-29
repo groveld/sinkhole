@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 129636
-# Updated: 2024-12-28 02:03:09 UTC
+# Entries: 129637
+# Updated: 2024-12-29 02:07:12 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15562,6 +15562,7 @@
 0.0.0.0 apartmentfinder.com.112.2o7.net
 0.0.0.0 apbwm6.xorg.pl
 0.0.0.0 apc.socdm.com
+0.0.0.0 apconsultantgroup.com
 0.0.0.0 apdc3n.adpushup.com
 0.0.0.0 apdigitalorg.112.2o7.net
 0.0.0.0 apdigitalorgovn.112.2o7.net
@@ -46294,7 +46295,6 @@
 0.0.0.0 latticescipub.com
 0.0.0.0 latvoy.top
 0.0.0.0 latweprawo.online
-0.0.0.0 laughcloth.com
 0.0.0.0 laughframe.xyz
 0.0.0.0 laughingeye.com
 0.0.0.0 laughingjoyplay392.sbs
@@ -74259,6 +74259,7 @@
 0.0.0.0 thebelovedbath.com
 0.0.0.0 thebestgame2020.com
 0.0.0.0 thebestknifes.fr
+0.0.0.0 thebestone.click
 0.0.0.0 thebestwebpillplace.com
 0.0.0.0 thebighits.com
 0.0.0.0 thebirdnestingguide.com

@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 129636
-! Updated: 2024-12-28 02:03:09 UTC
+! Entries: 129637
+! Updated: 2024-12-29 02:07:12 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15562,6 +15562,7 @@
 ||apartmentfinder.com.112.2o7.net^
 ||apbwm6.xorg.pl^
 ||apc.socdm.com^
+||apconsultantgroup.com^
 ||apdc3n.adpushup.com^
 ||apdigitalorg.112.2o7.net^
 ||apdigitalorgovn.112.2o7.net^
@@ -46294,7 +46295,6 @@
 ||latticescipub.com^
 ||latvoy.top^
 ||latweprawo.online^
-||laughcloth.com^
 ||laughframe.xyz^
 ||laughingeye.com^
 ||laughingjoyplay392.sbs^
@@ -74259,6 +74259,7 @@
 ||thebelovedbath.com^
 ||thebestgame2020.com^
 ||thebestknifes.fr^
+||thebestone.click^
 ||thebestwebpillplace.com^
 ||thebighits.com^
 ||thebirdnestingguide.com^

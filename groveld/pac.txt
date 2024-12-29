@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 129636
-// Updated: 2024-12-28 02:03:09 UTC
+// Entries: 129637
+// Updated: 2024-12-29 02:07:12 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15563,6 +15563,7 @@ var BLOCKLIST = {
 "apartmentfinder.com.112.2o7.net":null,
 "apbwm6.xorg.pl":null,
 "apc.socdm.com":null,
+"apconsultantgroup.com":null,
 "apdc3n.adpushup.com":null,
 "apdigitalorg.112.2o7.net":null,
 "apdigitalorgovn.112.2o7.net":null,
@@ -46295,7 +46296,6 @@ var BLOCKLIST = {
 "latticescipub.com":null,
 "latvoy.top":null,
 "latweprawo.online":null,
-"laughcloth.com":null,
 "laughframe.xyz":null,
 "laughingeye.com":null,
 "laughingjoyplay392.sbs":null,
@@ -74260,6 +74260,7 @@ var BLOCKLIST = {
 "thebelovedbath.com":null,
 "thebestgame2020.com":null,
 "thebestknifes.fr":null,
+"thebestone.click":null,
 "thebestwebpillplace.com":null,
 "thebighits.com":null,
 "thebirdnestingguide.com":null,

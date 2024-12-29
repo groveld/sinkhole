@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 129634
-# Updated: 2024-12-28 01:16:01 UTC
+# Entries: 129635
+# Updated: 2024-12-29 01:20:05 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15562,6 +15562,7 @@
 0.0.0.0 apartmentfinder.com.112.2o7.net
 0.0.0.0 apbwm6.xorg.pl
 0.0.0.0 apc.socdm.com
+0.0.0.0 apconsultantgroup.com
 0.0.0.0 apdc3n.adpushup.com
 0.0.0.0 apdigitalorg.112.2o7.net
 0.0.0.0 apdigitalorgovn.112.2o7.net
