@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 129637
-# Updated: 2024-12-29 02:07:12 UTC
+# Entries: 129639
+# Updated: 2024-12-30 02:05:26 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46295,6 +46295,7 @@
 0.0.0.0 latticescipub.com
 0.0.0.0 latvoy.top
 0.0.0.0 latweprawo.online
+0.0.0.0 laughcloth.com
 0.0.0.0 laughframe.xyz
 0.0.0.0 laughingeye.com
 0.0.0.0 laughingjoyplay392.sbs
@@ -75572,6 +75573,7 @@
 0.0.0.0 track-711.trafiz.net
 0.0.0.0 track-east.mobileadtrading.com
 0.0.0.0 track-js.link
+0.0.0.0 track-on.eu
 0.0.0.0 track-on.pl
 0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track-vero.com

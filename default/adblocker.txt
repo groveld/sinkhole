@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 129635
-! Updated: 2024-12-29 01:20:05 UTC
+! Entries: 129637
+! Updated: 2024-12-30 01:18:18 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74259,6 +74259,7 @@
 ||thebelovedbath.com^
 ||thebestgame2020.com^
 ||thebestknifes.fr^
+||thebestone.click^
 ||thebestwebpillplace.com^
 ||thebighits.com^
 ||thebirdnestingguide.com^
@@ -75571,6 +75572,7 @@
 ||track-711.trafiz.net^
 ||track-east.mobileadtrading.com^
 ||track-js.link^
+||track-on.eu^
 ||track-on.pl^
 ||track-srv.vietnamnet.vn^
 ||track-vero.com^
