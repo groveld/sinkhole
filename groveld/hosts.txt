@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 129733
-# Updated: 2024-12-31 02:03:48 UTC
+# Entries: 129734
+# Updated: 2025-01-01 02:07:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -25462,6 +25462,7 @@
 0.0.0.0 click.classmates.com
 0.0.0.0 click.clktraker.com
 0.0.0.0 click.comm.rcibank.co.uk
+0.0.0.0 click.crm.ba.com
 0.0.0.0 click.dealshark.com
 0.0.0.0 click.digital.metaquestmail.com
 0.0.0.0 click.discord.com

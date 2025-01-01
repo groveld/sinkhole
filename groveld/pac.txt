@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 129733
-// Updated: 2024-12-31 02:03:48 UTC
+// Entries: 129734
+// Updated: 2025-01-01 02:07:28 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -25463,6 +25463,7 @@ var BLOCKLIST = {
 "click.classmates.com":null,
 "click.clktraker.com":null,
 "click.comm.rcibank.co.uk":null,
+"click.crm.ba.com":null,
 "click.dealshark.com":null,
 "click.digital.metaquestmail.com":null,
 "click.discord.com":null,
