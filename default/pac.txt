@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 129732
-// Updated: 2025-01-02 01:16:26 UTC
+// Entries: 129733
+// Updated: 2025-01-03 01:16:40 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23127,6 +23127,7 @@ var BLOCKLIST = {
 "can0pycove.xyz":null,
 "can0pycrest.xyz":null,
 "canaaniterien.online":null,
+"canada.postcanadakxcif.top":null,
 "canada.postcanadantwb.top":null,
 "canada.postscanadafil.top":null,
 "canadaalltax.com":null,

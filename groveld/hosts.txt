@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 129734
-# Updated: 2025-01-02 02:03:32 UTC
+# Entries: 129735
+# Updated: 2025-01-03 02:03:49 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23126,6 +23126,7 @@
 0.0.0.0 can0pycove.xyz
 0.0.0.0 can0pycrest.xyz
 0.0.0.0 canaaniterien.online
+0.0.0.0 canada.postcanadakxcif.top
 0.0.0.0 canada.postcanadantwb.top
 0.0.0.0 canada.postscanadafil.top
 0.0.0.0 canadaalltax.com
