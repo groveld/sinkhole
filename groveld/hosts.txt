@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 127761
-# Updated: 2025-01-07 02:04:44 UTC
+# Entries: 127762
+# Updated: 2025-01-08 02:04:20 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -51944,6 +51944,7 @@
 0.0.0.0 myhifou.com
 0.0.0.0 myhitbox.com
 0.0.0.0 myhomecareny.com
+0.0.0.0 myhst2024.com
 0.0.0.0 myinfosds.com
 0.0.0.0 myinifd.com
 0.0.0.0 myipmywatch.com
