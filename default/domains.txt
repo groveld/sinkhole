@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
 # Entries: 127760
-# Updated: 2025-01-08 01:17:10 UTC
+# Updated: 2025-01-09 01:16:57 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
