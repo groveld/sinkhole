@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 128401
-// Updated: 2025-01-12 02:07:31 UTC
+// Entries: 128402
+// Updated: 2025-01-13 02:06:44 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -48772,6 +48772,7 @@ var BLOCKLIST = {
 "map.media6degrees.com":null,
 "map2.adsniper.ru":null,
 "mapandong.com":null,
+"mapcommand.com":null,
 "maper.info":null,
 "maperclue.site":null,
 "maphonortea.com":null,

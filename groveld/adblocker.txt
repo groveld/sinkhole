@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 128401
-! Updated: 2025-01-12 02:07:31 UTC
+! Entries: 128402
+! Updated: 2025-01-13 02:06:44 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -48771,6 +48771,7 @@
 ||map.media6degrees.com^
 ||map2.adsniper.ru^
 ||mapandong.com^
+||mapcommand.com^
 ||maper.info^
 ||maperclue.site^
 ||maphonortea.com^

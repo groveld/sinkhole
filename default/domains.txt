@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 128399
-# Updated: 2025-01-12 01:20:21 UTC
+# Entries: 128400
+# Updated: 2025-01-13 01:19:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -48770,6 +48770,7 @@ map.go.affec.tv
 map.media6degrees.com
 map2.adsniper.ru
 mapandong.com
+mapcommand.com
 maper.info
 maperclue.site
 maphonortea.com
