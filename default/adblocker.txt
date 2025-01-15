@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 128400
-! Updated: 2025-01-14 01:15:39 UTC
+! Entries: 128402
+! Updated: 2025-01-15 01:16:41 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -70207,6 +70207,7 @@
 ||sproutsymphony.cam^
 ||sproutya.com^
 ||sprucemeadownest876.sbs^
+||sprysummit.com^
 ||sprzedajemy-pl.dost-ordport.homes^
 ||sprzedajemy-pl.order000.info^
 ||sprzedajemy-pl.post-check1902.shop^
@@ -77256,6 +77257,7 @@
 ||unknowntray.com^
 ||unlimiclick.com^
 ||unlimitedteacup.com^
+||unloadyourself.com^
 ||unlock-your-account-444.click^
 ||unlockedtracks.com^
 ||unlockshutter.com^

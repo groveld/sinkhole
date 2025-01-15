@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 128400
-// Updated: 2025-01-14 01:15:39 UTC
+// Entries: 128402
+// Updated: 2025-01-15 01:16:41 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -70208,6 +70208,7 @@ var BLOCKLIST = {
 "sproutsymphony.cam":null,
 "sproutya.com":null,
 "sprucemeadownest876.sbs":null,
+"sprysummit.com":null,
 "sprzedajemy-pl.dost-ordport.homes":null,
 "sprzedajemy-pl.order000.info":null,
 "sprzedajemy-pl.post-check1902.shop":null,
@@ -77257,6 +77258,7 @@ var BLOCKLIST = {
 "unknowntray.com":null,
 "unlimiclick.com":null,
 "unlimitedteacup.com":null,
+"unloadyourself.com":null,
 "unlock-your-account-444.click":null,
 "unlockedtracks.com":null,
 "unlockshutter.com":null,
