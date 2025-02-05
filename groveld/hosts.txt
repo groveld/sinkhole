@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 133031
-# Updated: 2025-02-04 02:03:19 UTC
+# Entries: 133033
+# Updated: 2025-02-05 02:03:52 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19834,6 +19834,7 @@
 0.0.0.0 bespeakableb.com
 0.0.0.0 bespoke-computers.com
 0.0.0.0 bespoke.iln8.net
+0.0.0.0 bespokeshirtsmail.com
 0.0.0.0 besstbuy.com
 0.0.0.0 best-ads.com
 0.0.0.0 best-click.pro
@@ -118817,6 +118818,7 @@
 0.0.0.0 www.riteabvy.xyz
 0.0.0.0 www.ritesofpassagefilms.com
 0.0.0.0 www.rithuhomestay.com
+0.0.0.0 www.ritikhush.com
 0.0.0.0 www.rittersafe.com
 0.0.0.0 www.ritualesparaparejas.com
 0.0.0.0 www.ritualsgift.xyz
