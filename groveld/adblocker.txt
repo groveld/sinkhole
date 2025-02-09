@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 133627
-! Updated: 2025-02-08 02:03:07 UTC
+! Entries: 133628
+! Updated: 2025-02-09 02:06:25 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -28946,6 +28946,7 @@
 ||customeraccount.dns.army^
 ||customerarealog.es^
 ||customerconnect.dns.army^
+||customeriomail.com^
 ||customers-lidl.kameleoon.com^
 ||customers.fptad.com^
 ||customers.kameleoon.com^

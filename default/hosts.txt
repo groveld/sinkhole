@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 133625
-# Updated: 2025-02-08 01:15:57 UTC
+# Entries: 133626
+# Updated: 2025-02-09 01:19:15 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -28946,6 +28946,7 @@
 0.0.0.0 customeraccount.dns.army
 0.0.0.0 customerarealog.es
 0.0.0.0 customerconnect.dns.army
+0.0.0.0 customeriomail.com
 0.0.0.0 customers-lidl.kameleoon.com
 0.0.0.0 customers.fptad.com
 0.0.0.0 customers.kameleoon.com
