@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 133626
-// Updated: 2025-02-11 01:16:55 UTC
+// Entries: 133633
+// Updated: 2025-02-12 01:16:44 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9520,6 +9520,7 @@ var BLOCKLIST = {
 "ads219.hpg.ig.com.br":null,
 "ads219.liteweb.net":null,
 "ads22.focalink.com":null,
+"ads22.host-cdn.net":null,
 "ads22.hpg.com.br":null,
 "ads22.hpg.ig.com.br":null,
 "ads22.liteweb.net":null,
@@ -22934,6 +22935,7 @@ var BLOCKLIST = {
 "bullfightingtijuana.com":null,
 "bullfightsintj.com":null,
 "bullgame.net":null,
+"bullionglidingscuttle.com":null,
 "bullrun-new.com":null,
 "bullseye.backbeatmedia.com":null,
 "bullz-eye-ads.com":null,
@@ -34353,6 +34355,8 @@ var BLOCKLIST = {
 "eurosport2hd.blogspot.com":null,
 "eurostar.122.2o7.net":null,
 "eurostelya.com":null,
+"eurostreaming.myproxy.help":null,
+"eurostreaming.superproxy.lol":null,
 "eurotrades.pl":null,
 "eurovisions.free.fr":null,
 "eurovistparis.com":null,
@@ -59135,6 +59139,7 @@ var BLOCKLIST = {
 "ot.whampl.top":null,
 "ot7tmb.lol":null,
 "ota.cartrawler.com":null,
+"otakutee.com":null,
 "otamerch.com":null,
 "otcits.com":null,
 "otclick-adv.ru":null,
@@ -63975,6 +63980,7 @@ var BLOCKLIST = {
 "psicoterapiatamquam.com":null,
 "psinetutor.com":null,
 "psipshop.com":null,
+"psoabojaksou.net":null,
 "pson.logging.admicro.vn":null,
 "psorias.atspace.com":null,
 "psorismax.pl":null,
@@ -80928,6 +80934,7 @@ var BLOCKLIST = {
 "vhowland.co.uk":null,
 "vhrr.top":null,
 "vht.tradedoubler.com":null,
+"vi-improved.org":null,
 "vi-serve.com":null,
 "vi.5.p2l.info":null,
 "vi.ml314.com":null,

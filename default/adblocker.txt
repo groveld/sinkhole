@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 133626
-! Updated: 2025-02-11 01:16:55 UTC
+! Entries: 133633
+! Updated: 2025-02-12 01:16:44 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9519,6 +9519,7 @@
 ||ads219.hpg.ig.com.br^
 ||ads219.liteweb.net^
 ||ads22.focalink.com^
+||ads22.host-cdn.net^
 ||ads22.hpg.com.br^
 ||ads22.hpg.ig.com.br^
 ||ads22.liteweb.net^
@@ -22933,6 +22934,7 @@
 ||bullfightingtijuana.com^
 ||bullfightsintj.com^
 ||bullgame.net^
+||bullionglidingscuttle.com^
 ||bullrun-new.com^
 ||bullseye.backbeatmedia.com^
 ||bullz-eye-ads.com^
@@ -34352,6 +34354,8 @@
 ||eurosport2hd.blogspot.com^
 ||eurostar.122.2o7.net^
 ||eurostelya.com^
+||eurostreaming.myproxy.help^
+||eurostreaming.superproxy.lol^
 ||eurotrades.pl^
 ||eurovisions.free.fr^
 ||eurovistparis.com^
@@ -59134,6 +59138,7 @@
 ||ot.whampl.top^
 ||ot7tmb.lol^
 ||ota.cartrawler.com^
+||otakutee.com^
 ||otamerch.com^
 ||otcits.com^
 ||otclick-adv.ru^
@@ -63974,6 +63979,7 @@
 ||psicoterapiatamquam.com^
 ||psinetutor.com^
 ||psipshop.com^
+||psoabojaksou.net^
 ||pson.logging.admicro.vn^
 ||psorias.atspace.com^
 ||psorismax.pl^
@@ -80927,6 +80933,7 @@
 ||vhowland.co.uk^
 ||vhrr.top^
 ||vht.tradedoubler.com^
+||vi-improved.org^
 ||vi-serve.com^
 ||vi.5.p2l.info^
 ||vi.ml314.com^
