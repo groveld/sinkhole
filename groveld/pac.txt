@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 136323
-// Updated: 2025-02-13 02:04:05 UTC
+// Entries: 136325
+// Updated: 2025-02-14 02:04:05 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -28276,6 +28276,7 @@ var BLOCKLIST = {
 "coscloth-pl.com":null,
 "coscus.shop":null,
 "coseismv.resides.lat":null,
+"cosi.iprive.net":null,
 "cosiloon.com":null,
 "cositc.com":null,
 "cosmarooc.ru":null,
@@ -29311,6 +29312,7 @@ var BLOCKLIST = {
 "curatedtrip.com":null,
 "curatenieoradea.com":null,
 "curaticg.intransigent.store":null,
+"curbminers.com":null,
 "curediabetesinthirtydays.com":null,
 "curieronline.com":null,
 "curmic.com":null,
