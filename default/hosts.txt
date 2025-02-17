@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 136323
-# Updated: 2025-02-16 01:19:54 UTC
+# Entries: 136324
+# Updated: 2025-02-17 01:19:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -65633,6 +65633,7 @@
 0.0.0.0 qdagmawi.com
 0.0.0.0 qds.tnsinternet.be
 0.0.0.0 qds0l.publishers.tremorhub.com
+0.0.0.0 qdssy.balistrera.sbs
 0.0.0.0 qdwhh.gazeta-regionalna.com
 0.0.0.0 qebegey9.pro
 0.0.0.0 qeepee.com
