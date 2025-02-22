@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 139340
-# Updated: 2025-02-21 01:17:28 UTC
+# Entries: 139341
+# Updated: 2025-02-22 01:16:11 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -8842,6 +8842,7 @@
 0.0.0.0 ads.tvtv.bg
 0.0.0.0 ads.tw.adsonar.com
 0.0.0.0 ads.twitter.com
+0.0.0.0 ads.twojatv.info
 0.0.0.0 ads.uberads.com
 0.0.0.0 ads.uigc.net
 0.0.0.0 ads.ukclimbing.com
