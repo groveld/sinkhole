@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 139708
-! Updated: 2025-02-23 01:19:53 UTC
+! Entries: 139711
+! Updated: 2025-02-24 01:18:50 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39915,6 +39915,7 @@
 ||glance-internal.inmobi.com^
 ||glance.inmobi.com^
 ||glance.l.inmobicdn.net^
+||glasscoyote.com^
 ||glasscupchina.com^
 ||glassesofwine.com^
 ||glassestransport.com^
@@ -58328,6 +58329,7 @@
 ||offrezleweb.com^
 ||offroad4x4levante.com^
 ||offshorecostaricaclub.com^
+||offshoregeology.com^
 ||offsideventures.com^
 ||offspringperform.net^
 ||offstraussvip.shop^
@@ -80425,6 +80427,7 @@
 ||tr.adplatform.jp^
 ||tr.affiliate.hu^
 ||tr.alphonso.tv^
+||tr.api.fanbyte.com^
 ||tr.bigpoint.com^
 ||tr.blismedia.com^
 ||tr.ch.adlink.net^

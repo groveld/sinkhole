@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 139710
-# Updated: 2025-02-23 02:07:03 UTC
+# Entries: 139713
+# Updated: 2025-02-24 02:06:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39915,6 +39915,7 @@
 0.0.0.0 glance-internal.inmobi.com
 0.0.0.0 glance.inmobi.com
 0.0.0.0 glance.l.inmobicdn.net
+0.0.0.0 glasscoyote.com
 0.0.0.0 glasscupchina.com
 0.0.0.0 glassesofwine.com
 0.0.0.0 glassestransport.com
@@ -58329,6 +58330,7 @@
 0.0.0.0 offrezleweb.com
 0.0.0.0 offroad4x4levante.com
 0.0.0.0 offshorecostaricaclub.com
+0.0.0.0 offshoregeology.com
 0.0.0.0 offsideventures.com
 0.0.0.0 offspringperform.net
 0.0.0.0 offstraussvip.shop
@@ -80426,6 +80428,7 @@
 0.0.0.0 tr.adplatform.jp
 0.0.0.0 tr.affiliate.hu
 0.0.0.0 tr.alphonso.tv
+0.0.0.0 tr.api.fanbyte.com
 0.0.0.0 tr.bigpoint.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 tr.ch.adlink.net

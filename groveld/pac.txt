@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 139710
-// Updated: 2025-02-23 02:07:03 UTC
+// Entries: 139713
+// Updated: 2025-02-24 02:06:00 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39916,6 +39916,7 @@ var BLOCKLIST = {
 "glance-internal.inmobi.com":null,
 "glance.inmobi.com":null,
 "glance.l.inmobicdn.net":null,
+"glasscoyote.com":null,
 "glasscupchina.com":null,
 "glassesofwine.com":null,
 "glassestransport.com":null,
@@ -58330,6 +58331,7 @@ var BLOCKLIST = {
 "offrezleweb.com":null,
 "offroad4x4levante.com":null,
 "offshorecostaricaclub.com":null,
+"offshoregeology.com":null,
 "offsideventures.com":null,
 "offspringperform.net":null,
 "offstraussvip.shop":null,
@@ -80427,6 +80429,7 @@ var BLOCKLIST = {
 "tr.adplatform.jp":null,
 "tr.affiliate.hu":null,
 "tr.alphonso.tv":null,
+"tr.api.fanbyte.com":null,
 "tr.bigpoint.com":null,
 "tr.blismedia.com":null,
 "tr.ch.adlink.net":null,
