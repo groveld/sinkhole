@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 139713
-# Updated: 2025-02-27 02:04:50 UTC
+# Entries: 139714
+# Updated: 2025-02-28 02:04:52 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -49736,6 +49736,7 @@
 0.0.0.0 links-ranking.de
 0.0.0.0 links.crackportal.com
 0.0.0.0 links.email.crunchbase.com
+0.0.0.0 links.housekeep.com
 0.0.0.0 links.industrybrains.com
 0.0.0.0 links.onlinedownloads.org
 0.0.0.0 links.outster.com
