@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
 # Entries: 141589
-# Updated: 2025-03-03 01:19:21 UTC
+# Updated: 2025-03-04 01:17:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
