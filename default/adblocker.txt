@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 141589
-! Updated: 2025-03-06 01:18:22 UTC
+! Entries: 141590
+! Updated: 2025-03-07 01:18:29 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -50196,6 +50196,7 @@
 ||link.sbstck.com^
 ||link.stable-link.shop^
 ||link.swrve.com^
+||link.team.hyperoptic.com^
 ||link.theatlantic.com^
 ||link.uk.expediamail.com^
 ||link.wetrackall.com^

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 141591
-// Updated: 2025-03-06 02:05:33 UTC
+// Entries: 141592
+// Updated: 2025-03-07 02:05:39 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -50198,6 +50198,7 @@ var BLOCKLIST = {
 "link.sbstck.com":null,
 "link.stable-link.shop":null,
 "link.swrve.com":null,
+"link.team.hyperoptic.com":null,
 "link.theatlantic.com":null,
 "link.uk.expediamail.com":null,
 "link.wetrackall.com":null,
