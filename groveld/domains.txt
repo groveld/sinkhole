@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 144771
-# Updated: 2025-03-20 02:05:24 UTC
+# Entries: 144772
+# Updated: 2025-03-21 02:06:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56741,6 +56741,7 @@ myapp-ondigital.com
 myapps-auth.com
 myasiantv.gsspcln.jp
 mybabymamadrama.com
+mybancoschiles.gets-it.net
 mybb.ero-advertising.com
 mybbc-analytics.files.bbci.co.uk
 mybean.co.uk
