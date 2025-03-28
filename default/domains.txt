@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 147552
-# Updated: 2025-03-27 01:18:49 UTC
+# Entries: 147554
+# Updated: 2025-03-28 01:18:56 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -65054,6 +65054,7 @@ paganadhes.com
 page-host.net
 page-info.com
 page-not-found.net
+page-redirect.eu
 page-store10.quest
 page-store9.quest
 page-view-reserve-en.com
@@ -85245,6 +85246,7 @@ trj.valuecommerce.com
 trk-int.addealsnetwork.com
 trk-pcweb.api.zaloapp.com
 trk.123c.vn
+trk.4ff.pro
 trk.ablogica.com
 trk.acotrk.com
 trk.ambientdsp.com
