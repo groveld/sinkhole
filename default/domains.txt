@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 148113
-# Updated: 2025-04-14 01:22:15 UTC
+# Entries: 148115
+# Updated: 2025-04-15 01:20:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -37153,6 +37153,7 @@ email-links.crowdfireapp.com
 email-open.adtidy.net
 email-open.adtidy.org
 email-reflex.com
+email-trk.ihg-businessedge.com
 email-verifyi.glitch.me
 email.aceleration.click
 email.advantages.best
@@ -46658,6 +46659,7 @@ images.kolmic.com
 images.linkwithin.com
 images.m4n.nl
 images.mbuyu.nl
+images.mediago.io
 images.mxpnl.com
 images.netcomvad.com
 images.outbrain.com
