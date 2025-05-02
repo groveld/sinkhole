@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 174325
-# Updated: 2025-05-01 01:25:02 UTC
+# Entries: 174327
+# Updated: 2025-05-02 01:20:47 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -51545,6 +51545,7 @@ hydeaways.com
 hydelao.com
 hydra-88.com
 hydra.alibaba.com
+hydraconcept.com
 hydramedia.com
 hydrangeamacrophylla.cyou
 hydrecsatered.pro
@@ -102081,6 +102082,7 @@ vilari.com
 vilatenda.com
 vilcabuilders.com
 vilelatransport.com
+vilenexus.com
 viliria.com
 vilking-life.com
 villa.alphonso.tv
