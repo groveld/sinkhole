@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 174329
-# Updated: 2025-05-02 02:07:57 UTC
+# Entries: 174327
+# Updated: 2025-05-03 02:06:59 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -3888,7 +3888,6 @@ abrogfurna.pro
 abrp.net
 abrtp1-cdn.marketo.com
 abrtp1.marketo.com
-abruptroad.com
 abrutel.fr
 abruzzoinitaly.co.uk
 abs.ants.vn
@@ -28314,7 +28313,6 @@ brndtoz.website
 brnsshahi.pro
 brnys.netmng.com
 broadbandfiberoptics.com
-broadboundary.com
 broadcast.piximedia.fr
 broadcastbed.com
 broadcaster.streamate.com
@@ -43117,7 +43115,6 @@ excite.us.intellitxt.com
 excitingadventures.pro
 excjoyz.com
 exclusiotv.be
-exclusivebrass.com
 exclusivebreaking.click
 exclusiveflashnews.click
 exclusivegiftcards.com
@@ -54493,6 +54490,7 @@ integration-assets.sharethrough.com
 integration.richrelevance.com
 intel-ark.com
 intela.com
+intelcomasfcmscta.com
 intelcorpchan.112.2o7.net
 intelcorpcim.112.2o7.net
 intelcorperror.112.2o7.net
