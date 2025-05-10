@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 178119
-# Updated: 2025-05-09 01:21:12 UTC
+# Entries: 178120
+# Updated: 2025-05-10 01:19:33 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66721,6 +66721,7 @@ mseuppremain.112.2o7.net
 mseupwinxpfam.112.2o7.net
 msfn.us.intellitxt.com
 msfsecumtr3.com
+msft-ssp-emea.adnxs.com
 msg.simeji.baidu.jp
 msg.umengcloud.com
 msgtag.com
