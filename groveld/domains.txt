@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 178122
-# Updated: 2025-05-10 02:06:44 UTC
+# Entries: 178123
+# Updated: 2025-05-11 02:11:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -33335,6 +33335,7 @@ click.bkdpt.com
 click.bounceads.net
 click.cartsguru.io
 click.cashengines.com
+click.ccg.nintendo.com
 click.celebmoney.com
 click.cheaperforyou.com
 click.cheapstuff.com
