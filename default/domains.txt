@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 185295
-# Updated: 2025-05-22 01:21:20 UTC
+# Entries: 185297
+# Updated: 2025-05-23 01:21:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -7906,6 +7906,7 @@ ads-fr.ret01.ligatus.com
 ads-game-187f4.firebaseapp.com
 ads-i.focalink.com
 ads-i2i.jp
+ads-img.mozilla.org
 ads-instrument.focalink.com
 ads-kurir.providus.rs
 ads-lfi3olnec7fr.stackpathdns.com
@@ -9111,6 +9112,7 @@ ads.pro-market.net
 ads.pro-market.net.edgesuite.net
 ads.proboards.com
 ads.proc.cc
+ads.prod.webservices.mozgcp.net
 ads.profitsdeluxe.com
 ads.profootballtalk.com
 ads.program3.com
