@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 185299
-# Updated: 2025-05-23 02:09:00 UTC
+# Entries: 185300
+# Updated: 2025-05-24 02:07:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66013,6 +66013,7 @@ maxexp.com
 maxichollosortopedia.com
 maxim.122.2o7.net
 maximcondu.holdsaccen.com
+maximiser.net
 maximize.gammacash.com
 maximointegrated.com
 maximumcash.com
