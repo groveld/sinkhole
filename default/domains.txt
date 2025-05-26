@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 185298
-# Updated: 2025-05-25 01:25:41 UTC
+# Entries: 185299
+# Updated: 2025-05-26 01:22:56 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -34944,6 +34944,7 @@ clickserve.us2.dartsearch.net
 clicksgrow.com
 clickshiftz.com
 clicksimpact.cashtrk.com
+clicksinfo.thefork.co.uk
 clicksmithdigitalservices.com
 clicksn.com
 clicksor.com
