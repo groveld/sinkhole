@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 265227
-# Updated: 2025-07-12 01:23:40 UTC
+# Entries: 265228
+# Updated: 2025-07-13 01:27:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -54353,6 +54353,7 @@
 0.0.0.0 eclecticnewsfeed.com
 0.0.0.0 ecleneue.com
 0.0.0.0 eclick.vn
+0.0.0.0 eclicks.deliveroo.com
 0.0.0.0 eclickz.com
 0.0.0.0 eclinicsystem.com
 0.0.0.0 eclipce-earn.net
