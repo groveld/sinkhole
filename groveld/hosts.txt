@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 230842
-# Updated: 2025-07-17 02:11:40 UTC
+# Entries: 230935
+# Updated: 2025-07-18 02:11:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1166,6 +1166,7 @@
 0.0.0.0 2000greetings.com
 0.0.0.0 2001positions.com
 0.0.0.0 2005-search.com
+0.0.0.0 2006mindfreaklike.blogspot.com
 0.0.0.0 2007-search.com
 0.0.0.0 2009-search.com
 0.0.0.0 200l9lawi.zeabur.app
@@ -3067,8 +3068,21 @@
 0.0.0.0 9vbz.wlocl.pl
 0.0.0.0 9vj5uqlfkmprh6t.aktuaplat.cfd
 0.0.0.0 9wh6vxt80lu8xxy2.fellnasenwelt.de
+0.0.0.0 AUSpolice.com
 0.0.0.0 Adsatt.ABCNews.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
+0.0.0.0 BRApolice.com
+0.0.0.0 COMpolice.com
+0.0.0.0 COMpolice.net
+0.0.0.0 CYPpolice.com
+0.0.0.0 EGYpolice.com
+0.0.0.0 ETHpolice.com
+0.0.0.0 GEOpolice.com
+0.0.0.0 INDpolice.com
+0.0.0.0 LUXpolice.com
+0.0.0.0 LUXpolice.net
+0.0.0.0 PAKpolice.com
+0.0.0.0 USApolice.com
 0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 a-5.info
 0.0.0.0 a-a-access.com
@@ -4694,6 +4708,7 @@
 0.0.0.0 ad-ndtv.3s.com.vn
 0.0.0.0 ad-nex.com
 0.0.0.0 ad-pay.de
+0.0.0.0 ad-plus.cn
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-score.com
 0.0.0.0 ad-sdk.altamob.xiaoying.co
@@ -23652,6 +23667,7 @@
 0.0.0.0 bnserving.com
 0.0.0.0 bnsytoshsiba.info
 0.0.0.0 bntbcstglobal.112.2o7.net
+0.0.0.0 bnvxcfhdgf.blogspot.com.es
 0.0.0.0 bnygoitrogenic.info
 0.0.0.0 bnyovercorrections.info
 0.0.0.0 bnysubappressed.info
@@ -26852,6 +26868,7 @@
 0.0.0.0 buxo.liynkos.com
 0.0.0.0 buy-adipex.aca.ru
 0.0.0.0 buy-adipex.hut1.ru
+0.0.0.0 buy-cheap-phentermine.blogspot.com
 0.0.0.0 buy-cialis-online.iscool.nl
 0.0.0.0 buy-cialis.splinder.com
 0.0.0.0 buy-fioricet.hut1.ru
@@ -31003,6 +31020,8 @@
 0.0.0.0 che-controlan.shop
 0.0.0.0 cheap-adipex.hut1.ru
 0.0.0.0 cheap-flights-britain.xyz
+0.0.0.0 cheap-web-hosting-here.blogspot.com
+0.0.0.0 cheap-xanax-here.blogspot.com
 0.0.0.0 cheapapartmentsaroundme.com
 0.0.0.0 cheapblows.pro
 0.0.0.0 cheapglasses123.net
@@ -31842,6 +31861,7 @@
 0.0.0.0 cityads.telus.net
 0.0.0.0 cityadstrack.com
 0.0.0.0 citybackpack.top
+0.0.0.0 citycash2.blogspot.com
 0.0.0.0 citycenterescorts.com
 0.0.0.0 citycenterhosting.com
 0.0.0.0 cityclick.my
@@ -36082,6 +36102,7 @@
 0.0.0.0 creditrepairintampa.com
 0.0.0.0 creditroman.com
 0.0.0.0 creditron.org
+0.0.0.0 creditsoffer.blogspot.com
 0.0.0.0 creditstrategy.top
 0.0.0.0 creditsucker.com
 0.0.0.0 credittadvisor.xyz
@@ -44342,6 +44363,7 @@
 0.0.0.0 ehg-peoplesoft.hitbox.com
 0.0.0.0 ehg-philipsvheusen.hitbox.com
 0.0.0.0 ehg-pizzahut.hitbox.com
+0.0.0.0 ehg-playboy.hitbox.com
 0.0.0.0 ehg-qualcomm.hitbox.com
 0.0.0.0 ehg-quantumcorp.hitbox.com
 0.0.0.0 ehg-randomhouse.hitbox.com
@@ -49365,6 +49387,7 @@
 0.0.0.0 fiorericer.pro
 0.0.0.0 fiorespulz.pro
 0.0.0.0 fiorestefano.com
+0.0.0.0 fioricet-online.blogspot.com
 0.0.0.0 fioricet.1.p2l.info
 0.0.0.0 fioricet.3.p2l.info
 0.0.0.0 fioricet.4.p2l.info
@@ -50454,6 +50477,7 @@
 0.0.0.0 forex-signal.hut1.ru
 0.0.0.0 forex-trade.hut1.ru
 0.0.0.0 forex-trader-ai.com
+0.0.0.0 forex-trading-benefits.blogspot.com
 0.0.0.0 forexadv.eu
 0.0.0.0 forexcell.com
 0.0.0.0 forexhousecapital.com
@@ -53406,7 +53430,10 @@
 0.0.0.0 getweathercast.com
 0.0.0.0 getxmlisi.com
 0.0.0.0 getyoojl.com
+0.0.0.0 getyour5kcredits0.blogspot.com
 0.0.0.0 getyourcurtains.com
+0.0.0.0 getyourgiftnow2.blogspot.com
+0.0.0.0 getyourgiftnow3.blogspot.com
 0.0.0.0 getyourpromo.online
 0.0.0.0 getyundari.site
 0.0.0.0 getzpharmasigma.com
@@ -53713,6 +53740,7 @@
 0.0.0.0 girlfriendsguidetospas.com
 0.0.0.0 girlgooutside.com
 0.0.0.0 girllyday.com
+0.0.0.0 girlownedbypolicelike.blogspot.com
 0.0.0.0 girlporn.ru
 0.0.0.0 girls-chat.tv
 0.0.0.0 girlsaskguys.us.intellitxt.com
@@ -56680,6 +56708,7 @@
 0.0.0.0 hal5von.top
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 hala49.com
+0.0.0.0 halal-place.com
 0.0.0.0 halalwish.com
 0.0.0.0 halcyoncanyon.com
 0.0.0.0 haldentradex.com
@@ -57958,6 +57987,7 @@
 0.0.0.0 hipstgenov.pro
 0.0.0.0 hiq.fotolog.com
 0.0.0.0 hir-tv.com
+0.0.0.0 hir44.blogspot.com
 0.0.0.0 hirado.top
 0.0.0.0 hiragazza.com
 0.0.0.0 hiram.iad-03.braze.com
@@ -57976,6 +58006,7 @@
 0.0.0.0 hirozon.info
 0.0.0.0 hirsch-ille.fr
 0.0.0.0 hirslmicro.pro
+0.0.0.0 hirszabadsag.blogspot.com
 0.0.0.0 hirtop.in
 0.0.0.0 hirturi.blogspot.hu
 0.0.0.0 hirumalaichemicals.com
@@ -59458,6 +59489,7 @@
 0.0.0.0 hydrationessentials.com
 0.0.0.0 hydrobedea.pro
 0.0.0.0 hydrocirco.pro
+0.0.0.0 hydrocodone-buy-online.blogspot.com
 0.0.0.0 hydrocodone.irondel.swisshost.by
 0.0.0.0 hydrocodone.shengen.ru
 0.0.0.0 hydrocodone.t-amo.net
@@ -73364,6 +73396,7 @@
 0.0.0.0 m9sug5vwrtp3yd94.fellnasenwelt.de
 0.0.0.0 ma-i2i.jp
 0.0.0.0 ma-kaeser.ch
+0.0.0.0 ma-plastifieuse.info
 0.0.0.0 ma.5.p2l.info
 0.0.0.0 ma.ants.vn
 0.0.0.0 ma.logsss.com
@@ -75382,6 +75415,7 @@
 0.0.0.0 media.datahc.com
 0.0.0.0 media.easyads.bg
 0.0.0.0 media.eqcablog.org
+0.0.0.0 media.espace-plus.net
 0.0.0.0 media.eurolive.com
 0.0.0.0 media.evolv.ai
 0.0.0.0 media.exchange-it.com
@@ -76089,6 +76123,7 @@
 0.0.0.0 mertums.com
 0.0.0.0 meru2kiliafricatours.com
 0.0.0.0 merynasibime.top
+0.0.0.0 mes-bon-plans.fr
 0.0.0.0 mescicanma.pro
 0.0.0.0 mesciorava.pro
 0.0.0.0 mescosciam.pro
@@ -80995,6 +81030,7 @@
 0.0.0.0 new-bethel-baptist-church.org
 0.0.0.0 new-bgpost.icu
 0.0.0.0 new-paths.info
+0.0.0.0 new-vid-zone-1.blogspot.com.au
 0.0.0.0 new.915yzt.cn
 0.0.0.0 new.aunewsmakesense.com
 0.0.0.0 new.cetrk.com
@@ -86011,11 +86047,13 @@
 0.0.0.0 online-de.vip
 0.0.0.0 online-dn.com
 0.0.0.0 online-feed-fresh.com
+0.0.0.0 online-forex-trading-systems.blogspot.com
 0.0.0.0 online-forex.hut1.ru
 0.0.0.0 online-loading.com
 0.0.0.0 online-magichero.com
 0.0.0.0 online-metrix.net
 0.0.0.0 online-office365.com
+0.0.0.0 online-pharmacy-online.blogspot.com
 0.0.0.0 online-poker.shengen.ru
 0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 online-store2.vip
@@ -87131,6 +87169,7 @@
 0.0.0.0 otopfornecedor.com
 0.0.0.0 otowebs.com
 0.0.0.0 otpcrew.help
+0.0.0.0 otpercpiheno.blogspot.com
 0.0.0.0 otpercpiheno.hu
 0.0.0.0 otracking.com
 0.0.0.0 ots.optimize.webtrends.com
@@ -89810,6 +89849,7 @@
 0.0.0.0 petcareessentialsstore.com
 0.0.0.0 petcareproject.com
 0.0.0.0 pete-churchill.online
+0.0.0.0 peter-north-cum-shot.blogspot.com
 0.0.0.0 peterapyjamas.com
 0.0.0.0 peterforsbergphotography.com
 0.0.0.0 peterknowsbusiness.com
@@ -90003,6 +90043,7 @@
 0.0.0.0 phantomwhisper.store
 0.0.0.0 phar.gu-web.net
 0.0.0.0 pharmacy-canada.forsearch.net
+0.0.0.0 pharmacy-news.blogspot.com
 0.0.0.0 pharmacy.hut1.ru
 0.0.0.0 pharmacyrxone.com
 0.0.0.0 pharmafresher.com
@@ -92969,6 +93010,7 @@
 0.0.0.0 planosella.pro
 0.0.0.0 planprocpp.com
 0.0.0.0 planpush.digital
+0.0.0.0 planrecanpost1.info
 0.0.0.0 planrout.digital
 0.0.0.0 plansmean.lat
 0.0.0.0 plansy.top
@@ -94675,6 +94717,8 @@
 0.0.0.0 postclick.adcentriconline.com
 0.0.0.0 postcolonialbook.click
 0.0.0.0 postcolonialwrit.click
+0.0.0.0 postecan-canpost.confrm942.link
+0.0.0.0 postecan-canpost.updt491.link
 0.0.0.0 postecs.life
 0.0.0.0 posten-online.help
 0.0.0.0 poster.gamesprite.me
@@ -96452,6 +96496,45 @@
 0.0.0.0 protection-high-secured-software.autos
 0.0.0.0 protection-improper-recommended-trusted.top
 0.0.0.0 protection-scanner-verified-now.top
+0.0.0.0 protection.ASpolice.com
+0.0.0.0 protection.AUpolice.com
+0.0.0.0 protection.AZpolice.com
+0.0.0.0 protection.BTpolice.com
+0.0.0.0 protection.BYpolice.com
+0.0.0.0 protection.CApolice.com
+0.0.0.0 protection.CCpolice.com
+0.0.0.0 protection.DKpolice.com
+0.0.0.0 protection.ESpolice.com
+0.0.0.0 protection.FRpolice.com
+0.0.0.0 protection.FXpolice.com
+0.0.0.0 protection.GApolice.com
+0.0.0.0 protection.HKpolice.com
+0.0.0.0 protection.HNpolice.com
+0.0.0.0 protection.ILpolice.com
+0.0.0.0 protection.ITpolice.com
+0.0.0.0 protection.JMpolice.com
+0.0.0.0 protection.KYpolice.com
+0.0.0.0 protection.LApolice.com
+0.0.0.0 protection.LBpolice.com
+0.0.0.0 protection.LCpolice.com
+0.0.0.0 protection.LIpolice.com
+0.0.0.0 protection.LRpolice.com
+0.0.0.0 protection.LSpolice.com
+0.0.0.0 protection.LVpolice.com
+0.0.0.0 protection.MApolice.com
+0.0.0.0 protection.MDpolice.com
+0.0.0.0 protection.MEpolice.com
+0.0.0.0 protection.MNpolice.com
+0.0.0.0 protection.NApolice.com
+0.0.0.0 protection.NCpolice.com
+0.0.0.0 protection.NZpolice.com
+0.0.0.0 protection.PApolice.com
+0.0.0.0 protection.PGpolice.com
+0.0.0.0 protection.SBpolice.com
+0.0.0.0 protection.TNpolice.com
+0.0.0.0 protection.TOpolice.com
+0.0.0.0 protection.VApolice.com
+0.0.0.0 protection.VIpolice.com
 0.0.0.0 protection.aspolice.com
 0.0.0.0 protection.aupolice.com
 0.0.0.0 protection.azpolice.com
@@ -100487,6 +100570,7 @@
 0.0.0.0 regetstoresl.xyz
 0.0.0.0 regflow.com
 0.0.0.0 reggidespr.pro
+0.0.0.0 regie.espace-plus.net
 0.0.0.0 reginacabinets.com
 0.0.0.0 regio.adlink.de
 0.0.0.0 regiodiffi.pro
@@ -101335,6 +101419,7 @@
 0.0.0.0 return.bs.domainnamesales.com
 0.0.0.0 return.domainnamesales.com
 0.0.0.0 return.uk.domainnamesales.com
+0.0.0.0 return2025costco.com
 0.0.0.0 returnassets.top
 0.0.0.0 returnsartof.com
 0.0.0.0 reubenjbecker.com
@@ -102267,6 +102352,7 @@
 0.0.0.0 rioluxinvestir.com
 0.0.0.0 rioluxinvestir.net
 0.0.0.0 riordcoraz.pro
+0.0.0.0 riosaladohp.com
 0.0.0.0 rioscpolys.pro
 0.0.0.0 riosereno.lat
 0.0.0.0 riosok.lat
@@ -105198,6 +105284,7 @@
 0.0.0.0 sautoimpit.pro
 0.0.0.0 savagedistro.com
 0.0.0.0 savagesecret.com
+0.0.0.0 save-plan.com
 0.0.0.0 savealexnord.com
 0.0.0.0 saveaz.com
 0.0.0.0 savedseed.com
@@ -121157,6 +121244,7 @@
 0.0.0.0 toughskunk.pro
 0.0.0.0 toughslug.pro
 0.0.0.0 toulsremounts.xyz
+0.0.0.0 tour.SweetDiscreet.com
 0.0.0.0 tour.affbuzzads.com
 0.0.0.0 tour.brazzers.com
 0.0.0.0 tour.cineble.com
@@ -123867,6 +123955,7 @@
 0.0.0.0 tudatosanelok.com
 0.0.0.0 tudbcqa.shop
 0.0.0.0 tuderridis.pro
+0.0.0.0 tudnodkel.blogspot.com
 0.0.0.0 tudnodkell.info
 0.0.0.0 tudoja9.pics
 0.0.0.0 tudordinescu.com
@@ -127748,6 +127837,7 @@
 0.0.0.0 viad.fr
 0.0.0.0 viaebay.net
 0.0.0.0 viagametrailers.112.2o7.net
+0.0.0.0 viagra-pill.blogspot.com
 0.0.0.0 viagra-soft-tabs.1.p2l.info
 0.0.0.0 viagra-store.shengen.ru
 0.0.0.0 viagra.1.p2l.info
@@ -128158,6 +128248,7 @@
 0.0.0.0 vilabay.com
 0.0.0.0 vilacoba.net
 0.0.0.0 vilagfigyelo.com
+0.0.0.0 vilaghelyzete.blogspot.com
 0.0.0.0 vilagiodebobo.top
 0.0.0.0 vilagpolgarok.blogspot.hu
 0.0.0.0 vilagunk.hu
@@ -132666,6 +132757,7 @@
 0.0.0.0 wp.hit.gemius.pl
 0.0.0.0 wp.xplayoff.com
 0.0.0.0 wp1.cor-natty.com
+0.0.0.0 wpad
 0.0.0.0 wpad.engineer
 0.0.0.0 wpad.exchange
 0.0.0.0 wpad.exposed
@@ -228286,6 +228378,7 @@
 0.0.0.0 xhaisveidhs.org
 0.0.0.0 xhasa.shop
 0.0.0.0 xhealth.112.2o7.net
+0.0.0.0 xhealthmobiletools.112.2o7.net
 0.0.0.0 xhealthmobiltools.112.2o7.net
 0.0.0.0 xhhd.ljroof.com
 0.0.0.0 xiabvhqa.e-kei.pl
