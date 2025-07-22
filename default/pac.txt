@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 233752
-// Updated: 2025-07-21 01:27:10 UTC
+// Entries: 233754
+// Updated: 2025-07-22 01:24:39 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47246,6 +47246,7 @@ var BLOCKLIST = {
 "exponential54894892.s.moatpixel.com":null,
 "exponentialjsint8023749877114.s.moatpixel.com":null,
 "expopwoc.weebly.com":null,
+"exportdialog.com":null,
 "exposarbal.pro":null,
 "exposepl.com":null,
 "expreecdem.pro":null,
@@ -70592,6 +70593,7 @@ var BLOCKLIST = {
 "libraducki.pro":null,
 "library.cowley.edu":null,
 "library.noqtools.com":null,
+"libraryfacts.com":null,
 "librarytk.org":null,
 "librazon.space":null,
 "librebeats.com":null,

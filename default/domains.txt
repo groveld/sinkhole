@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 233752
-# Updated: 2025-07-21 01:27:10 UTC
+# Entries: 233754
+# Updated: 2025-07-22 01:24:39 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47245,6 +47245,7 @@ exponential.com
 exponential54894892.s.moatpixel.com
 exponentialjsint8023749877114.s.moatpixel.com
 expopwoc.weebly.com
+exportdialog.com
 exposarbal.pro
 exposepl.com
 expreecdem.pro
@@ -70591,6 +70592,7 @@ libra-method.net
 libraducki.pro
 library.cowley.edu
 library.noqtools.com
+libraryfacts.com
 librarytk.org
 librazon.space
 librebeats.com
