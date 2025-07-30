@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 237238
-# Updated: 2025-07-29 01:28:26 UTC
+# Entries: 237239
+# Updated: 2025-07-30 01:24:56 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -8952,6 +8952,7 @@
 0.0.0.0 ads.movieflix.com
 0.0.0.0 ads.movieweb.com
 0.0.0.0 ads.movpod.in
+0.0.0.0 ads.mozilla.org
 0.0.0.0 ads.mp.mydas.mobi
 0.0.0.0 ads.mp3-online.com.ua
 0.0.0.0 ads.mp3.com

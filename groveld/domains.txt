@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 237240
-# Updated: 2025-07-29 02:17:53 UTC
+# Entries: 237241
+# Updated: 2025-07-30 02:12:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -8952,6 +8952,7 @@ ads.mouseplanet.com
 ads.movieflix.com
 ads.movieweb.com
 ads.movpod.in
+ads.mozilla.org
 ads.mp.mydas.mobi
 ads.mp3-online.com.ua
 ads.mp3.com

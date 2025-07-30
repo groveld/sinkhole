@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 237238
-// Updated: 2025-07-29 01:28:26 UTC
+// Entries: 237239
+// Updated: 2025-07-30 01:24:56 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -8953,6 +8953,7 @@ var BLOCKLIST = {
 "ads.movieflix.com":null,
 "ads.movieweb.com":null,
 "ads.movpod.in":null,
+"ads.mozilla.org":null,
 "ads.mp.mydas.mobi":null,
 "ads.mp3-online.com.ua":null,
 "ads.mp3.com":null,
