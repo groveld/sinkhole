@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 237239
-# Updated: 2025-07-30 01:24:56 UTC
+# Entries: 237240
+# Updated: 2025-07-31 01:24:57 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -128351,6 +128351,7 @@
 0.0.0.0 urbaniotfarm.com
 0.0.0.0 urbanirrum.pro
 0.0.0.0 urbanityadnetwork.com
+0.0.0.0 urbanlaurel.com
 0.0.0.0 urbanlegendsstream.live
 0.0.0.0 urbanloop.xyz
 0.0.0.0 urbanmind.bond
