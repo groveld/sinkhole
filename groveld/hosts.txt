@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 239554
-# Updated: 2025-08-02 02:10:38 UTC
+# Entries: 239555
+# Updated: 2025-08-03 02:16:37 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56970,6 +56970,7 @@
 0.0.0.0 gsspat.jp
 0.0.0.0 gsspcln.jp
 0.0.0.0 gssprt.jp
+0.0.0.0 gstscra.com
 0.0.0.0 gsway.info
 0.0.0.0 gswoq.com
 0.0.0.0 gta-turk.com
