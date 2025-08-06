@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 240287
-! Updated: 2025-08-05 01:26:00 UTC
+! Entries: 240289
+! Updated: 2025-08-06 01:25:29 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -97145,6 +97145,7 @@
 ||polmska-online.com^
 ||polnoutlet.shop^
 ||polo-ralph-lauren-pl.com^
+||polo.feathr.co^
 ||polofaus.com^
 ||poloralphlaurenlotusstg.112.2o7.net^
 ||poloska-online.com^
@@ -122831,6 +122832,7 @@
 ||themagicofcornwall.com^
 ||themalabarorigins.com^
 ||themalloflimassol.com^
+||themangotea.com^
 ||themanpowerhub.com^
 ||themanroom.us.intellitxt.com^
 ||themaplemethod.com^

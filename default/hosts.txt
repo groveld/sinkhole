@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 240287
-# Updated: 2025-08-05 01:26:00 UTC
+# Entries: 240289
+# Updated: 2025-08-06 01:25:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -97145,6 +97145,7 @@
 0.0.0.0 polmska-online.com
 0.0.0.0 polnoutlet.shop
 0.0.0.0 polo-ralph-lauren-pl.com
+0.0.0.0 polo.feathr.co
 0.0.0.0 polofaus.com
 0.0.0.0 poloralphlaurenlotusstg.112.2o7.net
 0.0.0.0 poloska-online.com
@@ -122831,6 +122832,7 @@
 0.0.0.0 themagicofcornwall.com
 0.0.0.0 themalabarorigins.com
 0.0.0.0 themalloflimassol.com
+0.0.0.0 themangotea.com
 0.0.0.0 themanpowerhub.com
 0.0.0.0 themanroom.us.intellitxt.com
 0.0.0.0 themaplemethod.com

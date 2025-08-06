@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 240287
-// Updated: 2025-08-05 01:26:00 UTC
+// Entries: 240289
+// Updated: 2025-08-06 01:25:29 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -97146,6 +97146,7 @@ var BLOCKLIST = {
 "polmska-online.com":null,
 "polnoutlet.shop":null,
 "polo-ralph-lauren-pl.com":null,
+"polo.feathr.co":null,
 "polofaus.com":null,
 "poloralphlaurenlotusstg.112.2o7.net":null,
 "poloska-online.com":null,
@@ -122832,6 +122833,7 @@ var BLOCKLIST = {
 "themagicofcornwall.com":null,
 "themalabarorigins.com":null,
 "themalloflimassol.com":null,
+"themangotea.com":null,
 "themanpowerhub.com":null,
 "themanroom.us.intellitxt.com":null,
 "themaplemethod.com":null,

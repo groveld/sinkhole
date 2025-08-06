@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 240287
-# Updated: 2025-08-05 01:26:00 UTC
+# Entries: 240289
+# Updated: 2025-08-06 01:25:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -97145,6 +97145,7 @@ address=/pollurine.xyz/0.0.0.0
 address=/polmska-online.com/0.0.0.0
 address=/polnoutlet.shop/0.0.0.0
 address=/polo-ralph-lauren-pl.com/0.0.0.0
+address=/polo.feathr.co/0.0.0.0
 address=/polofaus.com/0.0.0.0
 address=/poloralphlaurenlotusstg.112.2o7.net/0.0.0.0
 address=/poloska-online.com/0.0.0.0
@@ -122831,6 +122832,7 @@ address=/themacuser.org/0.0.0.0
 address=/themagicofcornwall.com/0.0.0.0
 address=/themalabarorigins.com/0.0.0.0
 address=/themalloflimassol.com/0.0.0.0
+address=/themangotea.com/0.0.0.0
 address=/themanpowerhub.com/0.0.0.0
 address=/themanroom.us.intellitxt.com/0.0.0.0
 address=/themaplemethod.com/0.0.0.0
