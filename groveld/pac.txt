@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 240291
-// Updated: 2025-08-06 02:12:39 UTC
+// Entries: 240294
+// Updated: 2025-08-07 02:13:03 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40719,6 +40719,7 @@ var BLOCKLIST = {
 "difspenpoint.com":null,
 "difudi-dozaco.pics":null,
 "difx-platform.com":null,
+"dig":null,
 "dig-dat1a.store":null,
 "dig-vis0ion.store":null,
 "dig-visio4n.space":null,
@@ -55272,6 +55273,7 @@ var BLOCKLIST = {
 "gma.alicdn.com":null,
 "gmads.net":null,
 "gmail.com.org":null,
+"gmailapcq6.eblink5.com":null,
 "gmainis.shop":null,
 "gmchevyapprentice.112.2o7.net":null,
 "gmdtrk.com":null,
@@ -205689,6 +205691,7 @@ var BLOCKLIST = {
 "www.pruebascq.com":null,
 "www.pruegdragh.pro":null,
 "www.prufen.top":null,
+"www.pruialoatpmye.xyz":null,
 "www.prunechoi.esplanadeventure.com":null,
 "www.prunepolar.pro":null,
 "www.pruriarbor.pro":null,

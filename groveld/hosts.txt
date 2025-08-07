@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 240291
-# Updated: 2025-08-06 02:12:39 UTC
+# Entries: 240294
+# Updated: 2025-08-07 02:13:03 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40718,6 +40718,7 @@
 0.0.0.0 difspenpoint.com
 0.0.0.0 difudi-dozaco.pics
 0.0.0.0 difx-platform.com
+0.0.0.0 dig
 0.0.0.0 dig-dat1a.store
 0.0.0.0 dig-vis0ion.store
 0.0.0.0 dig-visio4n.space
@@ -55271,6 +55272,7 @@
 0.0.0.0 gma.alicdn.com
 0.0.0.0 gmads.net
 0.0.0.0 gmail.com.org
+0.0.0.0 gmailapcq6.eblink5.com
 0.0.0.0 gmainis.shop
 0.0.0.0 gmchevyapprentice.112.2o7.net
 0.0.0.0 gmdtrk.com
@@ -205688,6 +205690,7 @@
 0.0.0.0 www.pruebascq.com
 0.0.0.0 www.pruegdragh.pro
 0.0.0.0 www.prufen.top
+0.0.0.0 www.pruialoatpmye.xyz
 0.0.0.0 www.prunechoi.esplanadeventure.com
 0.0.0.0 www.prunepolar.pro
 0.0.0.0 www.pruriarbor.pro

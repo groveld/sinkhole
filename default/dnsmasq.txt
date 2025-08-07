@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 240289
-# Updated: 2025-08-06 01:25:29 UTC
+# Entries: 240292
+# Updated: 2025-08-07 01:25:49 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40718,6 +40718,7 @@ address=/difrareggi.pro/0.0.0.0
 address=/difspenpoint.com/0.0.0.0
 address=/difudi-dozaco.pics/0.0.0.0
 address=/difx-platform.com/0.0.0.0
+address=/dig/0.0.0.0
 address=/dig-dat1a.store/0.0.0.0
 address=/dig-vis0ion.store/0.0.0.0
 address=/dig-visio4n.space/0.0.0.0
@@ -55271,6 +55272,7 @@ address=/gm8tz.lat/0.0.0.0
 address=/gma.alicdn.com/0.0.0.0
 address=/gmads.net/0.0.0.0
 address=/gmail.com.org/0.0.0.0
+address=/gmailapcq6.eblink5.com/0.0.0.0
 address=/gmainis.shop/0.0.0.0
 address=/gmchevyapprentice.112.2o7.net/0.0.0.0
 address=/gmdtrk.com/0.0.0.0
@@ -205686,6 +205688,7 @@ address=/www.pruebadcweb.com/0.0.0.0
 address=/www.pruebascq.com/0.0.0.0
 address=/www.pruegdragh.pro/0.0.0.0
 address=/www.prufen.top/0.0.0.0
+address=/www.pruialoatpmye.xyz/0.0.0.0
 address=/www.prunechoi.esplanadeventure.com/0.0.0.0
 address=/www.prunepolar.pro/0.0.0.0
 address=/www.pruriarbor.pro/0.0.0.0
