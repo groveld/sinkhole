@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 241401
-// Updated: 2025-08-10 01:28:19 UTC
+// Entries: 241402
+// Updated: 2025-08-11 01:26:48 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -120812,6 +120812,7 @@ var BLOCKLIST = {
 "swellstrob.pro":null,
 "swertswiss.xyz":null,
 "swervoprir.pro":null,
+"swetrix.com":null,
 "swfhostltd.com":null,
 "swflightinfo.bond":null,
 "swiatglosem.cfd":null,
