@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
 # Entries: 241404
-# Updated: 2025-08-11 02:13:58 UTC
+# Updated: 2025-08-12 02:09:36 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16539,6 +16539,7 @@ api.subiz.net
 api.subiz.xyz
 api.survicate.com
 api.svcitnxpfs.com
+api.swetrix.com
 api.swrve.com
 api.system-bezpieczenstwa.pl
 api.taboola.com
@@ -120812,7 +120813,6 @@ sweetwander.pro
 swellstrob.pro
 swertswiss.xyz
 swervoprir.pro
-swetrix.com
 swfhostltd.com
 swflightinfo.bond
 swiatglosem.cfd

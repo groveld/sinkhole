@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
 # Entries: 241404
-# Updated: 2025-08-11 02:13:58 UTC
+# Updated: 2025-08-12 02:09:36 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16539,6 +16539,7 @@ address=/api.subiz.net/0.0.0.0
 address=/api.subiz.xyz/0.0.0.0
 address=/api.survicate.com/0.0.0.0
 address=/api.svcitnxpfs.com/0.0.0.0
+address=/api.swetrix.com/0.0.0.0
 address=/api.swrve.com/0.0.0.0
 address=/api.system-bezpieczenstwa.pl/0.0.0.0
 address=/api.taboola.com/0.0.0.0
@@ -120812,7 +120813,6 @@ address=/sweetwander.pro/0.0.0.0
 address=/swellstrob.pro/0.0.0.0
 address=/swertswiss.xyz/0.0.0.0
 address=/swervoprir.pro/0.0.0.0
-address=/swetrix.com/0.0.0.0
 address=/swfhostltd.com/0.0.0.0
 address=/swflightinfo.bond/0.0.0.0
 address=/swiatglosem.cfd/0.0.0.0
