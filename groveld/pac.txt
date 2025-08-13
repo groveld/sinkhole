@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 241404
-// Updated: 2025-08-12 02:09:36 UTC
+// Entries: 241407
+// Updated: 2025-08-13 02:10:31 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -48593,6 +48593,7 @@ var BLOCKLIST = {
 "fajnefanty.com":null,
 "fak-tur-a.online":null,
 "fake-offers.xyz":null,
+"fakedisguise.com":null,
 "fakemonmaker.com":null,
 "fakeosaurus.com":null,
 "fakeplantsworld.com":null,
@@ -59388,6 +59389,7 @@ var BLOCKLIST = {
 "historicwhispers.site":null,
 "historya-app.com":null,
 "historykill.com":null,
+"historytrade.com":null,
 "histospuzz.pro":null,
 "hit-counter.udub.com":null,
 "hit-now.com":null,
@@ -79113,6 +79115,7 @@ var BLOCKLIST = {
 "minehblw-ecwebmail-7aby8d6jc-mike-mikes-projects-56de02ba.vercel.app":null,
 "minehlcf-3mwebmail-oen1xofk8-checkinglog-generaltunes.vercel.app":null,
 "minehnc4-rpwebmail-jbtg13mut-checkinglog-generaltunes.vercel.app":null,
+"mineinvoice.com":null,
 "minelwy-gfkwebmail-314f1wamn-checkinglog-generaltunes.vercel.app":null,
 "minemytraffic.com":null,
 "minence.fr":null,

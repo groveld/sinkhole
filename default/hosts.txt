@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 241402
-# Updated: 2025-08-12 01:22:26 UTC
+# Entries: 241405
+# Updated: 2025-08-13 01:23:20 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -48592,6 +48592,7 @@
 0.0.0.0 fajnefanty.com
 0.0.0.0 fak-tur-a.online
 0.0.0.0 fake-offers.xyz
+0.0.0.0 fakedisguise.com
 0.0.0.0 fakemonmaker.com
 0.0.0.0 fakeosaurus.com
 0.0.0.0 fakeplantsworld.com
@@ -59386,6 +59387,7 @@
 0.0.0.0 historicwhispers.site
 0.0.0.0 historya-app.com
 0.0.0.0 historykill.com
+0.0.0.0 historytrade.com
 0.0.0.0 histospuzz.pro
 0.0.0.0 hit-counter.udub.com
 0.0.0.0 hit-now.com
@@ -79111,6 +79113,7 @@
 0.0.0.0 minehblw-ecwebmail-7aby8d6jc-mike-mikes-projects-56de02ba.vercel.app
 0.0.0.0 minehlcf-3mwebmail-oen1xofk8-checkinglog-generaltunes.vercel.app
 0.0.0.0 minehnc4-rpwebmail-jbtg13mut-checkinglog-generaltunes.vercel.app
+0.0.0.0 mineinvoice.com
 0.0.0.0 minelwy-gfkwebmail-314f1wamn-checkinglog-generaltunes.vercel.app
 0.0.0.0 minemytraffic.com
 0.0.0.0 minence.fr

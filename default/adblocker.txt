@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 241402
-! Updated: 2025-08-12 01:22:26 UTC
+! Entries: 241405
+! Updated: 2025-08-13 01:23:20 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -48592,6 +48592,7 @@
 ||fajnefanty.com^
 ||fak-tur-a.online^
 ||fake-offers.xyz^
+||fakedisguise.com^
 ||fakemonmaker.com^
 ||fakeosaurus.com^
 ||fakeplantsworld.com^
@@ -59386,6 +59387,7 @@
 ||historicwhispers.site^
 ||historya-app.com^
 ||historykill.com^
+||historytrade.com^
 ||histospuzz.pro^
 ||hit-counter.udub.com^
 ||hit-now.com^
@@ -79111,6 +79113,7 @@
 ||minehblw-ecwebmail-7aby8d6jc-mike-mikes-projects-56de02ba.vercel.app^
 ||minehlcf-3mwebmail-oen1xofk8-checkinglog-generaltunes.vercel.app^
 ||minehnc4-rpwebmail-jbtg13mut-checkinglog-generaltunes.vercel.app^
+||mineinvoice.com^
 ||minelwy-gfkwebmail-314f1wamn-checkinglog-generaltunes.vercel.app^
 ||minemytraffic.com^
 ||minence.fr^
