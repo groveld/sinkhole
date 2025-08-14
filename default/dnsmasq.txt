@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 241405
-# Updated: 2025-08-13 01:23:20 UTC
+# Entries: 241406
+# Updated: 2025-08-14 01:22:53 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -129910,6 +129910,7 @@ address=/unitabugse.pro/0.0.0.0
 address=/unitazazze.pro/0.0.0.0
 address=/unitcontrolconnect.online/0.0.0.0
 address=/unitdotto.club/0.0.0.0
+address=/united-domaine.tech/0.0.0.0
 address=/united-shop.shop/0.0.0.0
 address=/unitedblades.co.jp/0.0.0.0
 address=/unitedbyfaith.net/0.0.0.0
