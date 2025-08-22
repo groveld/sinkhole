@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 243252
-! Updated: 2025-08-21 02:06:46 UTC
+! Entries: 243256
+! Updated: 2025-08-22 02:08:00 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19845,6 +19845,7 @@
 ||bagslap.com^
 ||bagsonsale.online^
 ||bagstand.net^
+||bagsurprise.com^
 ||bagtrendsshop.com^
 ||bague-offers.com^
 ||bahamas-scotiasbank.com^
@@ -60747,6 +60748,7 @@
 ||husseinmahdi.com^
 ||hustlepro12.online^
 ||hustlercash.hit.bg^
+||hustlercoach.com^
 ||hustlervip.net^
 ||hustoon.over-blog.com^
 ||hut.whatsdafre.top^
@@ -67065,6 +67067,7 @@
 ||jamesryansimmons.com^
 ||jamessaturnio.com^
 ||jameswuart.com^
+||jamexport.com^
 ||jameyairductcleanings.com^
 ||jamgeek.com^
 ||jamiesphotos.com^
@@ -70998,6 +71001,7 @@
 ||landingpages.sunnytoolz.com^
 ||landings.trafficz.com^
 ||landings.twin.com^
+||landkarts.com^
 ||landlordlane.com^
 ||landmarkevents.online^
 ||landmarkgifts.com^

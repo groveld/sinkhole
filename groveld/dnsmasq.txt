@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 243252
-# Updated: 2025-08-21 02:06:46 UTC
+# Entries: 243256
+# Updated: 2025-08-22 02:08:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19845,6 +19845,7 @@ address=/bagshop78.com/0.0.0.0
 address=/bagslap.com/0.0.0.0
 address=/bagsonsale.online/0.0.0.0
 address=/bagstand.net/0.0.0.0
+address=/bagsurprise.com/0.0.0.0
 address=/bagtrendsshop.com/0.0.0.0
 address=/bague-offers.com/0.0.0.0
 address=/bahamas-scotiasbank.com/0.0.0.0
@@ -60747,6 +60748,7 @@ address=/hushwave.pro/0.0.0.0
 address=/husseinmahdi.com/0.0.0.0
 address=/hustlepro12.online/0.0.0.0
 address=/hustlercash.hit.bg/0.0.0.0
+address=/hustlercoach.com/0.0.0.0
 address=/hustlervip.net/0.0.0.0
 address=/hustoon.over-blog.com/0.0.0.0
 address=/hut.whatsdafre.top/0.0.0.0
@@ -67065,6 +67067,7 @@ address=/jamesrmcnally.com/0.0.0.0
 address=/jamesryansimmons.com/0.0.0.0
 address=/jamessaturnio.com/0.0.0.0
 address=/jameswuart.com/0.0.0.0
+address=/jamexport.com/0.0.0.0
 address=/jameyairductcleanings.com/0.0.0.0
 address=/jamgeek.com/0.0.0.0
 address=/jamiesphotos.com/0.0.0.0
@@ -70998,6 +71001,7 @@ address=/landingpagelagi.vn/0.0.0.0
 address=/landingpages.sunnytoolz.com/0.0.0.0
 address=/landings.trafficz.com/0.0.0.0
 address=/landings.twin.com/0.0.0.0
+address=/landkarts.com/0.0.0.0
 address=/landlordlane.com/0.0.0.0
 address=/landmarkevents.online/0.0.0.0
 address=/landmarkgifts.com/0.0.0.0

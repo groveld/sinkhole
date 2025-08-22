@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 243252
-// Updated: 2025-08-21 02:06:46 UTC
+// Entries: 243256
+// Updated: 2025-08-22 02:08:00 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19846,6 +19846,7 @@ var BLOCKLIST = {
 "bagslap.com":null,
 "bagsonsale.online":null,
 "bagstand.net":null,
+"bagsurprise.com":null,
 "bagtrendsshop.com":null,
 "bague-offers.com":null,
 "bahamas-scotiasbank.com":null,
@@ -60748,6 +60749,7 @@ var BLOCKLIST = {
 "husseinmahdi.com":null,
 "hustlepro12.online":null,
 "hustlercash.hit.bg":null,
+"hustlercoach.com":null,
 "hustlervip.net":null,
 "hustoon.over-blog.com":null,
 "hut.whatsdafre.top":null,
@@ -67066,6 +67068,7 @@ var BLOCKLIST = {
 "jamesryansimmons.com":null,
 "jamessaturnio.com":null,
 "jameswuart.com":null,
+"jamexport.com":null,
 "jameyairductcleanings.com":null,
 "jamgeek.com":null,
 "jamiesphotos.com":null,
@@ -70999,6 +71002,7 @@ var BLOCKLIST = {
 "landingpages.sunnytoolz.com":null,
 "landings.trafficz.com":null,
 "landings.twin.com":null,
+"landkarts.com":null,
 "landlordlane.com":null,
 "landmarkevents.online":null,
 "landmarkgifts.com":null,
