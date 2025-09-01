@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 244978
-! Updated: 2025-08-31 02:10:33 UTC
+! Entries: 244979
+! Updated: 2025-09-01 02:15:43 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -28491,6 +28491,7 @@
 ||capistavest.com^
 ||capital-cfds.com^
 ||capital-flox-ai.com^
+||capital-invest-can.cropvita.sbs^
 ||capital-system.org^
 ||capital-zevionisapp.com^
 ||capitaladvisor.my^

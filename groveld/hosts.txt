@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 244978
-# Updated: 2025-08-31 02:10:33 UTC
+# Entries: 244979
+# Updated: 2025-09-01 02:15:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -28491,6 +28491,7 @@
 0.0.0.0 capistavest.com
 0.0.0.0 capital-cfds.com
 0.0.0.0 capital-flox-ai.com
+0.0.0.0 capital-invest-can.cropvita.sbs
 0.0.0.0 capital-system.org
 0.0.0.0 capital-zevionisapp.com
 0.0.0.0 capitaladvisor.my
