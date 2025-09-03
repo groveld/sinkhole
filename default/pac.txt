@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
 // Entries: 244977
-// Updated: 2025-09-02 01:20:22 UTC
+// Updated: 2025-09-03 01:18:08 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
