@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 244977
-# Updated: 2025-09-03 01:18:08 UTC
+# Entries: 244978
+# Updated: 2025-09-04 01:18:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -58631,6 +58631,7 @@ address=/gwc.lphbs.com/0.0.0.0
 address=/gwd.lphbs.com/0.0.0.0
 address=/gwdmanager.com/0.0.0.0
 address=/gwedusparu.pro/0.0.0.0
+address=/gwene.com.slackware.alien.blog/0.0.0.0
 address=/gwenn.info/0.0.0.0
 address=/gwenstefani.sexybabesx.com/0.0.0.0
 address=/gwerr.vufaneu2.top/0.0.0.0

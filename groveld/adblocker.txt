@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 244979
-! Updated: 2025-09-03 02:05:18 UTC
+! Entries: 244980
+! Updated: 2025-09-04 02:05:48 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -58632,6 +58632,7 @@
 ||gwd.lphbs.com^
 ||gwdmanager.com^
 ||gwedusparu.pro^
+||gwene.com.slackware.alien.blog^
 ||gwenn.info^
 ||gwenstefani.sexybabesx.com^
 ||gwerr.vufaneu2.top^
