@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 254820
-// Updated: 2025-09-11 01:19:23 UTC
+// Entries: 254822
+// Updated: 2025-09-12 01:18:34 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -73441,6 +73441,7 @@ var BLOCKLIST = {
 "kvjkdmoiowepkao.pages.dev":null,
 "kvors.com":null,
 "kvqshot.pics":null,
+"kvsadman.com":null,
 "kvursva.help":null,
 "kwangu2kwako.com":null,
 "kwaterowanie.pl":null,
@@ -128899,6 +128900,7 @@ var BLOCKLIST = {
 "thecowgirlinme.com":null,
 "thecrashcourse.org":null,
 "thecravelist.com":null,
+"thecrazychili.com":null,
 "theculturetrail.com":null,
 "thecuratedchronicle.com":null,
 "thecurrentbriefstory.com":null,

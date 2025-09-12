@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 254822
-# Updated: 2025-09-11 02:06:33 UTC
+# Entries: 254824
+# Updated: 2025-09-12 02:05:45 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -73441,6 +73441,7 @@ address=/kvision.tv/0.0.0.0
 address=/kvjkdmoiowepkao.pages.dev/0.0.0.0
 address=/kvors.com/0.0.0.0
 address=/kvqshot.pics/0.0.0.0
+address=/kvsadman.com/0.0.0.0
 address=/kvursva.help/0.0.0.0
 address=/kwangu2kwako.com/0.0.0.0
 address=/kwaterowanie.pl/0.0.0.0
@@ -128899,6 +128900,7 @@ address=/thecowboycardealer.com/0.0.0.0
 address=/thecowgirlinme.com/0.0.0.0
 address=/thecrashcourse.org/0.0.0.0
 address=/thecravelist.com/0.0.0.0
+address=/thecrazychili.com/0.0.0.0
 address=/theculturetrail.com/0.0.0.0
 address=/thecuratedchronicle.com/0.0.0.0
 address=/thecurrentbriefstory.com/0.0.0.0

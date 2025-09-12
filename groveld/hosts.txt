@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 254822
-# Updated: 2025-09-11 02:06:33 UTC
+# Entries: 254824
+# Updated: 2025-09-12 02:05:45 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -73441,6 +73441,7 @@
 0.0.0.0 kvjkdmoiowepkao.pages.dev
 0.0.0.0 kvors.com
 0.0.0.0 kvqshot.pics
+0.0.0.0 kvsadman.com
 0.0.0.0 kvursva.help
 0.0.0.0 kwangu2kwako.com
 0.0.0.0 kwaterowanie.pl
@@ -128899,6 +128900,7 @@
 0.0.0.0 thecowgirlinme.com
 0.0.0.0 thecrashcourse.org
 0.0.0.0 thecravelist.com
+0.0.0.0 thecrazychili.com
 0.0.0.0 theculturetrail.com
 0.0.0.0 thecuratedchronicle.com
 0.0.0.0 thecurrentbriefstory.com
