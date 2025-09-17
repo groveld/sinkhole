@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 258331
-# Updated: 2025-09-16 01:18:46 UTC
+# Entries: 258334
+# Updated: 2025-09-17 01:19:10 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39395,6 +39395,7 @@ address=/d2vig74li2resi.cloudfront.net/0.0.0.0
 address=/d2wzkjnj9pfptq.cloudfront.net/0.0.0.0
 address=/d2y8g1hhn4k7zr.cloudfront.net/0.0.0.0
 address=/d2zah9y47r7bi2.cloudfront.net/0.0.0.0
+address=/d2zd0wa1vpt7j9.cloudfront.net/0.0.0.0
 address=/d3.adsplay.net/0.0.0.0
 address=/d3.moatads.com/0.0.0.0
 address=/d3.sina.com.cn/0.0.0.0
@@ -50280,6 +50281,7 @@ address=/f.gm.mob.com/0.0.0.0
 address=/f.monetate.net/0.0.0.0
 address=/f.nexac.com/0.0.0.0
 address=/f.novanet.vn/0.0.0.0
+address=/f.pie.org/0.0.0.0
 address=/f.qstatic.com/0.0.0.0
 address=/f.screensavers.com/0.0.0.0
 address=/f.thanksearch.com/0.0.0.0
@@ -95902,6 +95904,7 @@ address=/partnerads.ysm.yahoo.com/0.0.0.0
 address=/partneralior.pl/0.0.0.0
 address=/partnercash.de/0.0.0.0
 address=/partnerearning.com/0.0.0.0
+address=/partnerlinks.io/0.0.0.0
 address=/partnermask.com/0.0.0.0
 address=/partnerprogramma.bol.com/0.0.0.0
 address=/partners-hotwire-com.impactradius.com/0.0.0.0
@@ -127139,6 +127142,7 @@ address=/t.nrelate.com/0.0.0.0
 address=/t.omkt.co/0.0.0.0
 address=/t.otherprofit.com/0.0.0.0
 address=/t.p.mybuys.com/0.0.0.0
+address=/t.pie.org/0.0.0.0
 address=/t.podcast.co/0.0.0.0
 address=/t.pswec.com/0.0.0.0
 address=/t.pubmatic.com/0.0.0.0
@@ -255920,7 +255924,6 @@ address=/yasminwilshin.com/0.0.0.0
 address=/yasnoznanie1.com/0.0.0.0
 address=/yasolu-robeva.site/0.0.0.0
 address=/yassmasder.top/0.0.0.0
-address=/yastatic.net/0.0.0.0
 address=/yatirimlyxo.net/0.0.0.0
 address=/yatirimlyxoapp.com/0.0.0.0
 address=/yatirimrilo.net/0.0.0.0

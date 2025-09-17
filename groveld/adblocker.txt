@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 258333
-! Updated: 2025-09-16 02:05:57 UTC
+! Entries: 258336
+! Updated: 2025-09-17 02:06:25 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39395,6 +39395,7 @@
 ||d2wzkjnj9pfptq.cloudfront.net^
 ||d2y8g1hhn4k7zr.cloudfront.net^
 ||d2zah9y47r7bi2.cloudfront.net^
+||d2zd0wa1vpt7j9.cloudfront.net^
 ||d3.adsplay.net^
 ||d3.moatads.com^
 ||d3.sina.com.cn^
@@ -50280,6 +50281,7 @@
 ||f.monetate.net^
 ||f.nexac.com^
 ||f.novanet.vn^
+||f.pie.org^
 ||f.qstatic.com^
 ||f.screensavers.com^
 ||f.thanksearch.com^
@@ -95903,6 +95905,7 @@
 ||partneralior.pl^
 ||partnercash.de^
 ||partnerearning.com^
+||partnerlinks.io^
 ||partnermask.com^
 ||partnerprogramma.bol.com^
 ||partners-hotwire-com.impactradius.com^
@@ -127140,6 +127143,7 @@
 ||t.omkt.co^
 ||t.otherprofit.com^
 ||t.p.mybuys.com^
+||t.pie.org^
 ||t.podcast.co^
 ||t.pswec.com^
 ||t.pubmatic.com^
@@ -255922,7 +255926,6 @@
 ||yasnoznanie1.com^
 ||yasolu-robeva.site^
 ||yassmasder.top^
-||yastatic.net^
 ||yatirimlyxo.net^
 ||yatirimlyxoapp.com^
 ||yatirimrilo.net^
