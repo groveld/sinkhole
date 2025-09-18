@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 258334
-# Updated: 2025-09-17 01:19:10 UTC
+# Entries: 258336
+# Updated: 2025-09-18 01:18:14 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -132212,6 +132212,7 @@
 0.0.0.0 toolbarwizard.vmn.net
 0.0.0.0 toolbox-ed.com
 0.0.0.0 toolbuddystore.shop
+0.0.0.0 toolforthought.com
 0.0.0.0 toolingsuppliers.net
 0.0.0.0 toolixopojal.today
 0.0.0.0 toolnrest.cfd
@@ -257444,6 +257445,7 @@
 0.0.0.0 zexolo-wofepi.pics
 0.0.0.0 zextromilanudepa.space
 0.0.0.0 zeyad-group.com
+0.0.0.0 zeydoo.com
 0.0.0.0 zeylarpacte.com
 0.0.0.0 zeyloria.website
 0.0.0.0 zeylorpacte.com

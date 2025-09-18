@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 258336
-# Updated: 2025-09-17 02:06:25 UTC
+# Entries: 258338
+# Updated: 2025-09-18 02:05:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -132213,6 +132213,7 @@ address=/toolbarpartner.com/0.0.0.0
 address=/toolbarwizard.vmn.net/0.0.0.0
 address=/toolbox-ed.com/0.0.0.0
 address=/toolbuddystore.shop/0.0.0.0
+address=/toolforthought.com/0.0.0.0
 address=/toolingsuppliers.net/0.0.0.0
 address=/toolixopojal.today/0.0.0.0
 address=/toolnrest.cfd/0.0.0.0
@@ -257446,6 +257447,7 @@ address=/zexironblinkaiapp.net/0.0.0.0
 address=/zexolo-wofepi.pics/0.0.0.0
 address=/zextromilanudepa.space/0.0.0.0
 address=/zeyad-group.com/0.0.0.0
+address=/zeydoo.com/0.0.0.0
 address=/zeylarpacte.com/0.0.0.0
 address=/zeyloria.website/0.0.0.0
 address=/zeylorpacte.com/0.0.0.0
