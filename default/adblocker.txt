@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 258336
-! Updated: 2025-09-18 01:18:14 UTC
+! Entries: 258342
+! Updated: 2025-09-19 01:19:30 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -34128,6 +34128,7 @@
 ||cloudgr.info^
 ||cloudgroupstart.space^
 ||cloudgroupzonelogic.store^
+||cloudguppy.com^
 ||cloudhatch.biz^
 ||cloudimpactpartner.com^
 ||cloudintheheads.com^
@@ -35639,6 +35640,7 @@
 ||confiancepaynex.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||conficocai.pro^
+||confidencetalks.com^
 ||confident-yucca-pj0szh.mystrikingly.com^
 ||confieggbe.pro^
 ||config-add.ososysimbiontes.es^
@@ -40539,6 +40541,7 @@
 ||daxolimperunostavicle.store^
 ||daybeprese.pro^
 ||dayboappen.pro^
+||daybreaklights.com^
 ||dayeci-bucuco.site^
 ||dayfindefour.com^
 ||dayglade.space^
@@ -52058,6 +52061,7 @@
 ||fill-form-compl-may.icu^
 ||fillesfr.fun^
 ||fillmorecentral.instructure.com^
+||fillthemap.com^
 ||film-abonamentu.com^
 ||film-base.pl^
 ||film-flix.pl^
@@ -60881,6 +60885,7 @@
 ||hamradioatv.com^
 ||hamradiorepeater.com^
 ||hamsaas.com^
+||hamsterspot.com^
 ||hamstrungbyhierarchy.com^
 ||hamsukypay.com^
 ||hamyripeg.pro^
@@ -125073,6 +125078,7 @@
 ||study-focus.info^
 ||study.snapads.com^
 ||studycapsule.net^
+||studycooking.com^
 ||studyedgeonline.com^
 ||studyenexus.com^
 ||studyflicke.com^

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 258336
-// Updated: 2025-09-18 01:18:14 UTC
+// Entries: 258342
+// Updated: 2025-09-19 01:19:30 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -34129,6 +34129,7 @@ var BLOCKLIST = {
 "cloudgr.info":null,
 "cloudgroupstart.space":null,
 "cloudgroupzonelogic.store":null,
+"cloudguppy.com":null,
 "cloudhatch.biz":null,
 "cloudimpactpartner.com":null,
 "cloudintheheads.com":null,
@@ -35640,6 +35641,7 @@ var BLOCKLIST = {
 "confiancepaynex.com":null,
 "confiant-integrations.global.ssl.fastly.net":null,
 "conficocai.pro":null,
+"confidencetalks.com":null,
 "confident-yucca-pj0szh.mystrikingly.com":null,
 "confieggbe.pro":null,
 "config-add.ososysimbiontes.es":null,
@@ -40540,6 +40542,7 @@ var BLOCKLIST = {
 "daxolimperunostavicle.store":null,
 "daybeprese.pro":null,
 "dayboappen.pro":null,
+"daybreaklights.com":null,
 "dayeci-bucuco.site":null,
 "dayfindefour.com":null,
 "dayglade.space":null,
@@ -52059,6 +52062,7 @@ var BLOCKLIST = {
 "fill-form-compl-may.icu":null,
 "fillesfr.fun":null,
 "fillmorecentral.instructure.com":null,
+"fillthemap.com":null,
 "film-abonamentu.com":null,
 "film-base.pl":null,
 "film-flix.pl":null,
@@ -60882,6 +60886,7 @@ var BLOCKLIST = {
 "hamradioatv.com":null,
 "hamradiorepeater.com":null,
 "hamsaas.com":null,
+"hamsterspot.com":null,
 "hamstrungbyhierarchy.com":null,
 "hamsukypay.com":null,
 "hamyripeg.pro":null,
@@ -125074,6 +125079,7 @@ var BLOCKLIST = {
 "study-focus.info":null,
 "study.snapads.com":null,
 "studycapsule.net":null,
+"studycooking.com":null,
 "studyedgeonline.com":null,
 "studyenexus.com":null,
 "studyflicke.com":null,
