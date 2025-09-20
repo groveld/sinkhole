@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 258342
-// Updated: 2025-09-19 01:19:30 UTC
+// Entries: 258344
+// Updated: 2025-09-20 01:17:52 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -25437,6 +25437,7 @@ var BLOCKLIST = {
 "boiler-room.net":null,
 "boiling-universal-stingray.glitch.me":null,
 "boilingbeetle.com":null,
+"boilingmadsoup.com":null,
 "boilonauja.pro":null,
 "boinaof.sbs":null,
 "boislis.com":null,
@@ -131607,6 +131608,7 @@ var BLOCKLIST = {
 "tinvestvn.com":null,
 "tiny.centralacp.com":null,
 "tinybar.com":null,
+"tinybluewhale.com":null,
 "tinychameleon.pro":null,
 "tinyfilehost.com":null,
 "tinyfiles.nocoshop.ru":null,
