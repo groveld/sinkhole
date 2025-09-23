@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 258346
-# Updated: 2025-09-22 02:09:57 UTC
+# Entries: 258349
+# Updated: 2025-09-23 02:06:36 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -7413,6 +7413,7 @@ address=/adhone.com/0.0.0.0
 address=/adhood.com/0.0.0.0
 address=/adhr.hit.gemius.pl/0.0.0.0
 address=/adhref.pl/0.0.0.0
+address=/adhub.media/0.0.0.0
 address=/adhub.mobifone.vn/0.0.0.0
 address=/adhunter.media/0.0.0.0
 address=/adi.admicro.vn/0.0.0.0
@@ -13500,6 +13501,7 @@ address=/airpause.com/0.0.0.0
 address=/airpb.com/0.0.0.0
 address=/airpipeeurope.com/0.0.0.0
 address=/airplaintech.com/0.0.0.0
+address=/airplanecoffee.com/0.0.0.0
 address=/airport-terminus.com/0.0.0.0
 address=/airporthotelbillundbookings.com/0.0.0.0
 address=/airporthotelbillundbookingscheck.com/0.0.0.0
@@ -140354,6 +140356,7 @@ address=/video1.fastclick.net/0.0.0.0
 address=/videoadex.com/0.0.0.0
 address=/videoads-cloud.rovio.com/0.0.0.0
 address=/videoads.hotstar.com/0.0.0.0
+address=/videoadstech.org/0.0.0.0
 address=/videoamp.com/0.0.0.0
 address=/videoappy.com/0.0.0.0
 address=/videoapy.com/0.0.0.0
