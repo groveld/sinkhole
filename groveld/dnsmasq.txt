@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 258349
-# Updated: 2025-09-25 02:07:03 UTC
+# Entries: 258353
+# Updated: 2025-09-26 02:06:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -4235,6 +4235,7 @@ address=/ace-tag.advertising.com/0.0.0.0
 address=/ace-webmaster.com/0.0.0.0
 address=/ace.adoftheyear.com/0.0.0.0
 address=/ace9f918e5b6530180e2340a9.ip-ddns.com/0.0.0.0
+address=/acebunny.com/0.0.0.0
 address=/acecorptrust.com/0.0.0.0
 address=/acedrew.com/0.0.0.0
 address=/acedrimpa.pro/0.0.0.0
@@ -46357,6 +46358,7 @@ address=/echo-button-page-maker-10-58.lovable.app/0.0.0.0
 address=/echo-dnia.24.eu/0.0.0.0
 address=/echo.teasernet.ru/0.0.0.0
 address=/echo4sphere.top/0.0.0.0
+address=/echoacloud.com/0.0.0.0
 address=/echoalert.cfd/0.0.0.0
 address=/echoalpha.cfd/0.0.0.0
 address=/echoarbor.online/0.0.0.0
@@ -73233,6 +73235,7 @@ address=/kitsm.icu/0.0.0.0
 address=/kittenmusic.com/0.0.0.0
 address=/kittensvotetrump.com/0.0.0.0
 address=/kitty-tik.com/0.0.0.0
+address=/kittycatking.com/0.0.0.0
 address=/kittygfs.cc/0.0.0.0
 address=/kittyland.to/0.0.0.0
 address=/kitymoe1.pro/0.0.0.0
@@ -125639,6 +125642,7 @@ address=/sunrise-brink.net/0.0.0.0
 address=/sunriseglen.online/0.0.0.0
 address=/sunrisequest.pro/0.0.0.0
 address=/sunroomplans.com/0.0.0.0
+address=/sunsetcampfires.com/0.0.0.0
 address=/sunsetdnsnow.com/0.0.0.0
 address=/sunsetroutes.com/0.0.0.0
 address=/sunsetserenitygarden.com/0.0.0.0

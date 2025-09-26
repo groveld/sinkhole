@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 258349
-# Updated: 2025-09-25 02:07:03 UTC
+# Entries: 258353
+# Updated: 2025-09-26 02:06:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -4235,6 +4235,7 @@
 0.0.0.0 ace-webmaster.com
 0.0.0.0 ace.adoftheyear.com
 0.0.0.0 ace9f918e5b6530180e2340a9.ip-ddns.com
+0.0.0.0 acebunny.com
 0.0.0.0 acecorptrust.com
 0.0.0.0 acedrew.com
 0.0.0.0 acedrimpa.pro
@@ -46357,6 +46358,7 @@
 0.0.0.0 echo-dnia.24.eu
 0.0.0.0 echo.teasernet.ru
 0.0.0.0 echo4sphere.top
+0.0.0.0 echoacloud.com
 0.0.0.0 echoalert.cfd
 0.0.0.0 echoalpha.cfd
 0.0.0.0 echoarbor.online
@@ -73233,6 +73235,7 @@
 0.0.0.0 kittenmusic.com
 0.0.0.0 kittensvotetrump.com
 0.0.0.0 kitty-tik.com
+0.0.0.0 kittycatking.com
 0.0.0.0 kittygfs.cc
 0.0.0.0 kittyland.to
 0.0.0.0 kitymoe1.pro
@@ -125639,6 +125642,7 @@
 0.0.0.0 sunriseglen.online
 0.0.0.0 sunrisequest.pro
 0.0.0.0 sunroomplans.com
+0.0.0.0 sunsetcampfires.com
 0.0.0.0 sunsetdnsnow.com
 0.0.0.0 sunsetroutes.com
 0.0.0.0 sunsetserenitygarden.com

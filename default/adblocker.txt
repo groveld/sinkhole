@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 258347
-! Updated: 2025-09-25 01:19:48 UTC
+! Entries: 258351
+! Updated: 2025-09-26 01:19:16 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -4235,6 +4235,7 @@
 ||ace-webmaster.com^
 ||ace.adoftheyear.com^
 ||ace9f918e5b6530180e2340a9.ip-ddns.com^
+||acebunny.com^
 ||acecorptrust.com^
 ||acedrew.com^
 ||acedrimpa.pro^
@@ -46357,6 +46358,7 @@
 ||echo-dnia.24.eu^
 ||echo.teasernet.ru^
 ||echo4sphere.top^
+||echoacloud.com^
 ||echoalert.cfd^
 ||echoalpha.cfd^
 ||echoarbor.online^
@@ -73232,6 +73234,7 @@
 ||kittenmusic.com^
 ||kittensvotetrump.com^
 ||kitty-tik.com^
+||kittycatking.com^
 ||kittygfs.cc^
 ||kittyland.to^
 ||kitymoe1.pro^
@@ -125638,6 +125641,7 @@
 ||sunriseglen.online^
 ||sunrisequest.pro^
 ||sunroomplans.com^
+||sunsetcampfires.com^
 ||sunsetdnsnow.com^
 ||sunsetroutes.com^
 ||sunsetserenitygarden.com^

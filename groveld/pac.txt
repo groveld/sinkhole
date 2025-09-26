@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 258349
-// Updated: 2025-09-25 02:07:03 UTC
+// Entries: 258353
+// Updated: 2025-09-26 02:06:27 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -4236,6 +4236,7 @@ var BLOCKLIST = {
 "ace-webmaster.com":null,
 "ace.adoftheyear.com":null,
 "ace9f918e5b6530180e2340a9.ip-ddns.com":null,
+"acebunny.com":null,
 "acecorptrust.com":null,
 "acedrew.com":null,
 "acedrimpa.pro":null,
@@ -46358,6 +46359,7 @@ var BLOCKLIST = {
 "echo-dnia.24.eu":null,
 "echo.teasernet.ru":null,
 "echo4sphere.top":null,
+"echoacloud.com":null,
 "echoalert.cfd":null,
 "echoalpha.cfd":null,
 "echoarbor.online":null,
@@ -73234,6 +73236,7 @@ var BLOCKLIST = {
 "kittenmusic.com":null,
 "kittensvotetrump.com":null,
 "kitty-tik.com":null,
+"kittycatking.com":null,
 "kittygfs.cc":null,
 "kittyland.to":null,
 "kitymoe1.pro":null,
@@ -125640,6 +125643,7 @@ var BLOCKLIST = {
 "sunriseglen.online":null,
 "sunrisequest.pro":null,
 "sunroomplans.com":null,
+"sunsetcampfires.com":null,
 "sunsetdnsnow.com":null,
 "sunsetroutes.com":null,
 "sunsetserenitygarden.com":null,
