@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 92348
-! Updated: 2025-10-06 02:07:40 UTC
+! Entries: 92351
+! Updated: 2025-10-07 02:06:21 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2259,6 +2259,7 @@
 ||a.ucoz.net^
 ||a.ucoz.ru^
 ||a.vartoken.com^
+||a.vdo.ai^
 ||a.vertamedia.com^
 ||a.vfghd.com^
 ||a.vfgtb.com^
@@ -21298,6 +21299,7 @@
 ||clicks.babylon-x.com^
 ||clicks.bannerboxes.com^
 ||clicks.beap.ad.yieldmanager.net^
+||clicks.checkatrade.com^
 ||clicks.deliveroo.co.uk^
 ||clicks.deskbabes.com^
 ||clicks.emarketmakers.com^
@@ -31378,6 +31380,7 @@
 ||growthhsuplemments.site^
 ||growthmental.click^
 ||growthpulse.life^
+||growthrx.in^
 ||growthshares.xyz^
 ||growthsinc.com^
 ||growththerapy.digital^

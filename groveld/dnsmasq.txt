@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 92348
-# Updated: 2025-10-06 02:07:40 UTC
+# Entries: 92351
+# Updated: 2025-10-07 02:06:21 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2259,6 +2259,7 @@ address=/a.twiago.com/0.0.0.0
 address=/a.ucoz.net/0.0.0.0
 address=/a.ucoz.ru/0.0.0.0
 address=/a.vartoken.com/0.0.0.0
+address=/a.vdo.ai/0.0.0.0
 address=/a.vertamedia.com/0.0.0.0
 address=/a.vfghd.com/0.0.0.0
 address=/a.vfgtb.com/0.0.0.0
@@ -21298,6 +21299,7 @@ address=/clicks.aweber.com/0.0.0.0
 address=/clicks.babylon-x.com/0.0.0.0
 address=/clicks.bannerboxes.com/0.0.0.0
 address=/clicks.beap.ad.yieldmanager.net/0.0.0.0
+address=/clicks.checkatrade.com/0.0.0.0
 address=/clicks.deliveroo.co.uk/0.0.0.0
 address=/clicks.deskbabes.com/0.0.0.0
 address=/clicks.emarketmakers.com/0.0.0.0
@@ -31378,6 +31380,7 @@ address=/growthfunds.icu/0.0.0.0
 address=/growthhsuplemments.site/0.0.0.0
 address=/growthmental.click/0.0.0.0
 address=/growthpulse.life/0.0.0.0
+address=/growthrx.in/0.0.0.0
 address=/growthshares.xyz/0.0.0.0
 address=/growthsinc.com/0.0.0.0
 address=/growththerapy.digital/0.0.0.0

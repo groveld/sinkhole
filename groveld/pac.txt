@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 92348
-// Updated: 2025-10-06 02:07:40 UTC
+// Entries: 92351
+// Updated: 2025-10-07 02:06:21 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2260,6 +2260,7 @@ var BLOCKLIST = {
 "a.ucoz.net":null,
 "a.ucoz.ru":null,
 "a.vartoken.com":null,
+"a.vdo.ai":null,
 "a.vertamedia.com":null,
 "a.vfghd.com":null,
 "a.vfgtb.com":null,
@@ -21299,6 +21300,7 @@ var BLOCKLIST = {
 "clicks.babylon-x.com":null,
 "clicks.bannerboxes.com":null,
 "clicks.beap.ad.yieldmanager.net":null,
+"clicks.checkatrade.com":null,
 "clicks.deliveroo.co.uk":null,
 "clicks.deskbabes.com":null,
 "clicks.emarketmakers.com":null,
@@ -31379,6 +31381,7 @@ var BLOCKLIST = {
 "growthhsuplemments.site":null,
 "growthmental.click":null,
 "growthpulse.life":null,
+"growthrx.in":null,
 "growthshares.xyz":null,
 "growthsinc.com":null,
 "growththerapy.digital":null,

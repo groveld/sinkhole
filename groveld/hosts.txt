@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 92348
-# Updated: 2025-10-06 02:07:40 UTC
+# Entries: 92351
+# Updated: 2025-10-07 02:06:21 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2259,6 +2259,7 @@
 0.0.0.0 a.ucoz.net
 0.0.0.0 a.ucoz.ru
 0.0.0.0 a.vartoken.com
+0.0.0.0 a.vdo.ai
 0.0.0.0 a.vertamedia.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
@@ -21298,6 +21299,7 @@
 0.0.0.0 clicks.babylon-x.com
 0.0.0.0 clicks.bannerboxes.com
 0.0.0.0 clicks.beap.ad.yieldmanager.net
+0.0.0.0 clicks.checkatrade.com
 0.0.0.0 clicks.deliveroo.co.uk
 0.0.0.0 clicks.deskbabes.com
 0.0.0.0 clicks.emarketmakers.com
@@ -31378,6 +31380,7 @@
 0.0.0.0 growthhsuplemments.site
 0.0.0.0 growthmental.click
 0.0.0.0 growthpulse.life
+0.0.0.0 growthrx.in
 0.0.0.0 growthshares.xyz
 0.0.0.0 growthsinc.com
 0.0.0.0 growththerapy.digital
