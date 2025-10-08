@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 92351
-# Updated: 2025-10-07 02:06:21 UTC
+# Entries: 92352
+# Updated: 2025-10-08 02:06:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9670,6 +9670,7 @@ adsfeed.brabys.com
 adsfeed3.brabys.co.za
 adsfile.qq.com
 adsflame.com
+adsflowprime.top
 adsfs.oppomobile.com
 adsgangsta.com
 adsgard.aprod.scopely.io

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 92349
-// Updated: 2025-10-07 01:19:10 UTC
+// Entries: 92350
+// Updated: 2025-10-08 01:19:05 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9671,6 +9671,7 @@ var BLOCKLIST = {
 "adsfeed3.brabys.co.za":null,
 "adsfile.qq.com":null,
 "adsflame.com":null,
+"adsflowprime.top":null,
 "adsfs.oppomobile.com":null,
 "adsgangsta.com":null,
 "adsgard.aprod.scopely.io":null,

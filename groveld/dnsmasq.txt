@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 92351
-# Updated: 2025-10-07 02:06:21 UTC
+# Entries: 92352
+# Updated: 2025-10-08 02:06:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9670,6 +9670,7 @@ address=/adsfeed.brabys.com/0.0.0.0
 address=/adsfeed3.brabys.co.za/0.0.0.0
 address=/adsfile.qq.com/0.0.0.0
 address=/adsflame.com/0.0.0.0
+address=/adsflowprime.top/0.0.0.0
 address=/adsfs.oppomobile.com/0.0.0.0
 address=/adsgangsta.com/0.0.0.0
 address=/adsgard.aprod.scopely.io/0.0.0.0
