@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 92242
-# Updated: 2025-10-10 01:19:19 UTC
+# Entries: 92243
+# Updated: 2025-10-11 01:17:55 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -41919,6 +41919,7 @@ novyraproai.digital
 now-online.net
 now.eloqua.com
 nowa-oferta2191281.icu
+nowaymail.com
 noweciezarowe.pl
 nowinformer.live
 nowinki.blog-online.eu

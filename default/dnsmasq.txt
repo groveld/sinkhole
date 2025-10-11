@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 92242
-# Updated: 2025-10-10 01:19:19 UTC
+# Entries: 92243
+# Updated: 2025-10-11 01:17:55 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -41919,6 +41919,7 @@ address=/novyraproai.digital/0.0.0.0
 address=/now-online.net/0.0.0.0
 address=/now.eloqua.com/0.0.0.0
 address=/nowa-oferta2191281.icu/0.0.0.0
+address=/nowaymail.com/0.0.0.0
 address=/noweciezarowe.pl/0.0.0.0
 address=/nowinformer.live/0.0.0.0
 address=/nowinki.blog-online.eu/0.0.0.0
