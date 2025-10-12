@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 92245
-// Updated: 2025-10-11 02:05:05 UTC
+// Entries: 92246
+// Updated: 2025-10-12 02:08:41 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46865,6 +46865,7 @@ var BLOCKLIST = {
 "pretrackio.digital":null,
 "pretrackio.top":null,
 "prettyboring.us.intellitxt.com":null,
+"prettyeasycafe.com":null,
 "prevacid.1.p2l.info":null,
 "preventadmission.com":null,
 "prevepalpa.pro":null,

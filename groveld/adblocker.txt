@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 92245
-! Updated: 2025-10-11 02:05:05 UTC
+! Entries: 92246
+! Updated: 2025-10-12 02:08:41 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46864,6 +46864,7 @@
 ||pretrackio.digital^
 ||pretrackio.top^
 ||prettyboring.us.intellitxt.com^
+||prettyeasycafe.com^
 ||prevacid.1.p2l.info^
 ||preventadmission.com^
 ||prevepalpa.pro^
