@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 91783
-! Updated: 2025-10-14 01:18:55 UTC
+! Entries: 91784
+! Updated: 2025-10-15 01:20:52 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -63595,6 +63595,7 @@
 ||viralvideo.112.2o7.net^
 ||viralvideos.tips^
 ||vire-elvoxe-app.com^
+||virewin.com^
 ||virgiliopro.info^
 ||virginmedia.112.2o7.net^
 ||virginmobile.122.2o7.net^
