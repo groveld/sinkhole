@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 91784
-// Updated: 2025-10-16 01:20:22 UTC
+// Entries: 91791
+// Updated: 2025-10-17 01:19:53 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16536,6 +16536,7 @@ var BLOCKLIST = {
 "bizible.com":null,
 "bizjournals-d.openx.net":null,
 "bizjournals.112.2o7.net":null,
+"bizlawpoint.com":null,
 "bizmondclever.xyz":null,
 "bizneed.com":null,
 "biznifi.com":null,
@@ -19383,6 +19384,7 @@ var BLOCKLIST = {
 "cardioa-pl.treasure-shop.org":null,
 "cardionv.com":null,
 "cardivil-new.com":null,
+"cardmethod.com":null,
 "cards.cardfountain.com":null,
 "cards.free.cardfountain.com":null,
 "cards.virtuagirlhd.com":null,
@@ -29073,6 +29075,7 @@ var BLOCKLIST = {
 "funskins.ezthemes.com":null,
 "funtabsafe.com":null,
 "funtoonez.com":null,
+"funtoyplanet.com":null,
 "funwithvegas.com":null,
 "fuorvvafa.pro":null,
 "furlapolska.com":null,
@@ -31123,6 +31126,7 @@ var BLOCKLIST = {
 "hai2u.com":null,
 "haiapungo.pro":null,
 "haigekassaandmed.com":null,
+"haikusoap.com":null,
 "hail-reporting.tutelatechnologies.com":null,
 "hairboutique.us.intellitxt.com":null,
 "hairsalonsinthailand.online":null,
@@ -39390,6 +39394,7 @@ var BLOCKLIST = {
 "mini.videostrip.com":null,
 "miniapp.cyou":null,
 "miniatureguppy.com":null,
+"minibilling.com":null,
 "minicryer.top":null,
 "minimob.com":null,
 "ministryisyou.org":null,
@@ -47588,6 +47593,7 @@ var BLOCKLIST = {
 "rachelmcadams.sexybabesx.com":null,
 "rachelstevens.sexybabesx.com":null,
 "rachelweisz.sexybabesx.com":null,
+"rackforstorage.com":null,
 "raconteuses.info":null,
 "rad.live.com":null,
 "rad.msn.com":null,
@@ -91157,6 +91163,7 @@ var BLOCKLIST = {
 "you-fm.fr":null,
 "youaresogay.com":null,
 "youborafds01.com":null,
+"youcandrawanything.com":null,
 "youcanoptout.com":null,
 "youcunts.com":null,
 "youdaovx.top":null,

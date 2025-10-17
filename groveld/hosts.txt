@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 91786
-# Updated: 2025-10-16 02:07:32 UTC
+# Entries: 91793
+# Updated: 2025-10-17 02:07:04 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16535,6 +16535,7 @@
 0.0.0.0 bizible.com
 0.0.0.0 bizjournals-d.openx.net
 0.0.0.0 bizjournals.112.2o7.net
+0.0.0.0 bizlawpoint.com
 0.0.0.0 bizmondclever.xyz
 0.0.0.0 bizneed.com
 0.0.0.0 biznifi.com
@@ -19382,6 +19383,7 @@
 0.0.0.0 cardioa-pl.treasure-shop.org
 0.0.0.0 cardionv.com
 0.0.0.0 cardivil-new.com
+0.0.0.0 cardmethod.com
 0.0.0.0 cards.cardfountain.com
 0.0.0.0 cards.free.cardfountain.com
 0.0.0.0 cards.virtuagirlhd.com
@@ -29072,6 +29074,7 @@
 0.0.0.0 funskins.ezthemes.com
 0.0.0.0 funtabsafe.com
 0.0.0.0 funtoonez.com
+0.0.0.0 funtoyplanet.com
 0.0.0.0 funwithvegas.com
 0.0.0.0 fuorvvafa.pro
 0.0.0.0 furlapolska.com
@@ -31123,6 +31126,7 @@
 0.0.0.0 hai2u.com
 0.0.0.0 haiapungo.pro
 0.0.0.0 haigekassaandmed.com
+0.0.0.0 haikusoap.com
 0.0.0.0 hail-reporting.tutelatechnologies.com
 0.0.0.0 hairboutique.us.intellitxt.com
 0.0.0.0 hairsalonsinthailand.online
@@ -39390,6 +39394,7 @@
 0.0.0.0 mini.videostrip.com
 0.0.0.0 miniapp.cyou
 0.0.0.0 miniatureguppy.com
+0.0.0.0 minibilling.com
 0.0.0.0 minicryer.top
 0.0.0.0 minimob.com
 0.0.0.0 ministryisyou.org
@@ -47588,6 +47593,7 @@
 0.0.0.0 rachelmcadams.sexybabesx.com
 0.0.0.0 rachelstevens.sexybabesx.com
 0.0.0.0 rachelweisz.sexybabesx.com
+0.0.0.0 rackforstorage.com
 0.0.0.0 raconteuses.info
 0.0.0.0 rad.live.com
 0.0.0.0 rad.msn.com
@@ -91158,6 +91164,7 @@
 0.0.0.0 you-fm.fr
 0.0.0.0 youaresogay.com
 0.0.0.0 youborafds01.com
+0.0.0.0 youcandrawanything.com
 0.0.0.0 youcanoptout.com
 0.0.0.0 youcunts.com
 0.0.0.0 youdaovx.top

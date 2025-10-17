@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 91786
-! Updated: 2025-10-16 02:07:32 UTC
+! Entries: 91793
+! Updated: 2025-10-17 02:07:04 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16535,6 +16535,7 @@
 ||bizible.com^
 ||bizjournals-d.openx.net^
 ||bizjournals.112.2o7.net^
+||bizlawpoint.com^
 ||bizmondclever.xyz^
 ||bizneed.com^
 ||biznifi.com^
@@ -19382,6 +19383,7 @@
 ||cardioa-pl.treasure-shop.org^
 ||cardionv.com^
 ||cardivil-new.com^
+||cardmethod.com^
 ||cards.cardfountain.com^
 ||cards.free.cardfountain.com^
 ||cards.virtuagirlhd.com^
@@ -29072,6 +29074,7 @@
 ||funskins.ezthemes.com^
 ||funtabsafe.com^
 ||funtoonez.com^
+||funtoyplanet.com^
 ||funwithvegas.com^
 ||fuorvvafa.pro^
 ||furlapolska.com^
@@ -31123,6 +31126,7 @@
 ||hai2u.com^
 ||haiapungo.pro^
 ||haigekassaandmed.com^
+||haikusoap.com^
 ||hail-reporting.tutelatechnologies.com^
 ||hairboutique.us.intellitxt.com^
 ||hairsalonsinthailand.online^
@@ -39390,6 +39394,7 @@
 ||mini.videostrip.com^
 ||miniapp.cyou^
 ||miniatureguppy.com^
+||minibilling.com^
 ||minicryer.top^
 ||minimob.com^
 ||ministryisyou.org^
@@ -47588,6 +47593,7 @@
 ||rachelmcadams.sexybabesx.com^
 ||rachelstevens.sexybabesx.com^
 ||rachelweisz.sexybabesx.com^
+||rackforstorage.com^
 ||raconteuses.info^
 ||rad.live.com^
 ||rad.msn.com^
@@ -91158,6 +91164,7 @@
 ||you-fm.fr^
 ||youaresogay.com^
 ||youborafds01.com^
+||youcandrawanything.com^
 ||youcanoptout.com^
 ||youcunts.com^
 ||youdaovx.top^
