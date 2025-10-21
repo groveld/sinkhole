@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 92479
-# Updated: 2025-10-20 01:23:06 UTC
+# Entries: 92480
+# Updated: 2025-10-21 01:20:47 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39097,6 +39097,7 @@ address=/merciless.localstars.com/0.0.0.0
 address=/merctransfers.gradycares.com/0.0.0.0
 address=/mercury.bravenet.com/0.0.0.0
 address=/mercury.tiser.com.au/0.0.0.0
+address=/mercuryace.com/0.0.0.0
 address=/meredithlocal-d.openx.net/0.0.0.0
 address=/meredithtv.us.intellitxt.com/0.0.0.0
 address=/merequartz.com/0.0.0.0

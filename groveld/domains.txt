@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 92481
-# Updated: 2025-10-20 02:10:17 UTC
+# Entries: 92482
+# Updated: 2025-10-21 02:07:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39098,6 +39098,7 @@ merciless.localstars.com
 merctransfers.gradycares.com
 mercury.bravenet.com
 mercury.tiser.com.au
+mercuryace.com
 meredithlocal-d.openx.net
 meredithtv.us.intellitxt.com
 merequartz.com
