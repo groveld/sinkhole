@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 92480
-# Updated: 2025-10-21 01:20:47 UTC
+# Entries: 92481
+# Updated: 2025-10-22 01:21:48 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29847,6 +29847,7 @@ address=/geekpius.com/0.0.0.0
 address=/geekstogo.us.intellitxt.com/0.0.0.0
 address=/gehsrkoltjg.work/0.0.0.0
 address=/geizhals.oewabox.at/0.0.0.0
+address=/gekowex.com/0.0.0.0
 address=/gelatoheaven.co.uk/0.0.0.0
 address=/geldronaiapp.com/0.0.0.0
 address=/geliowet.site/0.0.0.0

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 92482
-# Updated: 2025-10-21 02:07:58 UTC
+# Entries: 92483
+# Updated: 2025-10-22 02:09:03 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29847,6 +29847,7 @@
 0.0.0.0 geekstogo.us.intellitxt.com
 0.0.0.0 gehsrkoltjg.work
 0.0.0.0 geizhals.oewabox.at
+0.0.0.0 gekowex.com
 0.0.0.0 gelatoheaven.co.uk
 0.0.0.0 geldronaiapp.com
 0.0.0.0 geliowet.site

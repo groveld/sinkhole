@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 92480
-# Updated: 2025-10-21 01:20:47 UTC
+# Entries: 92481
+# Updated: 2025-10-22 01:21:48 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29847,6 +29847,7 @@ geekpius.com
 geekstogo.us.intellitxt.com
 gehsrkoltjg.work
 geizhals.oewabox.at
+gekowex.com
 gelatoheaven.co.uk
 geldronaiapp.com
 geliowet.site

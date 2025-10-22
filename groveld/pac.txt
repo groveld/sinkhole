@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 92482
-// Updated: 2025-10-21 02:07:58 UTC
+// Entries: 92483
+// Updated: 2025-10-22 02:09:03 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29848,6 +29848,7 @@ var BLOCKLIST = {
 "geekstogo.us.intellitxt.com":null,
 "gehsrkoltjg.work":null,
 "geizhals.oewabox.at":null,
+"gekowex.com":null,
 "gelatoheaven.co.uk":null,
 "geldronaiapp.com":null,
 "geliowet.site":null,
