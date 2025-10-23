@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 92481
-# Updated: 2025-10-22 01:21:48 UTC
+# Entries: 92484
+# Updated: 2025-10-23 01:20:23 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53894,6 +53894,7 @@ starmach.com.pl
 staroil.pl
 starpulse.us.intellitxt.com
 starreturned.com
+starrynets.com
 starsdencer.top
 starseed.fr
 starshipstart.com
@@ -54923,6 +54924,7 @@ substancesprincess.cfd
 subway2016.tt.omtrdc.net
 subwayfranchiseeadvertising.sc.omtrdc.net
 succeedscene.com
+successbuffet.com
 successstudio.live
 suckdude.com
 sudavscalf.com
@@ -62056,6 +62058,7 @@ upformixly.top
 upgrabent.site
 upgrade-ms-home.com
 upgradecustomcabinets.com
+upgradeyoga.com
 uphold-wallet-connect.com
 upi.112.2o7.net
 upi.us.intellitxt.com

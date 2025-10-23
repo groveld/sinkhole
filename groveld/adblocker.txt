@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 92483
-! Updated: 2025-10-22 02:09:03 UTC
+! Entries: 92486
+! Updated: 2025-10-23 02:07:33 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53895,6 +53895,7 @@
 ||staroil.pl^
 ||starpulse.us.intellitxt.com^
 ||starreturned.com^
+||starrynets.com^
 ||starsdencer.top^
 ||starseed.fr^
 ||starshipstart.com^
@@ -54924,6 +54925,7 @@
 ||subway2016.tt.omtrdc.net^
 ||subwayfranchiseeadvertising.sc.omtrdc.net^
 ||succeedscene.com^
+||successbuffet.com^
 ||successstudio.live^
 ||suckdude.com^
 ||sudavscalf.com^
@@ -62057,6 +62059,7 @@
 ||upgrabent.site^
 ||upgrade-ms-home.com^
 ||upgradecustomcabinets.com^
+||upgradeyoga.com^
 ||uphold-wallet-connect.com^
 ||upi.112.2o7.net^
 ||upi.us.intellitxt.com^

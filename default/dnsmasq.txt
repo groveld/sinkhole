@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 92481
-# Updated: 2025-10-22 01:21:48 UTC
+# Entries: 92484
+# Updated: 2025-10-23 01:20:23 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53894,6 +53894,7 @@ address=/starmach.com.pl/0.0.0.0
 address=/staroil.pl/0.0.0.0
 address=/starpulse.us.intellitxt.com/0.0.0.0
 address=/starreturned.com/0.0.0.0
+address=/starrynets.com/0.0.0.0
 address=/starsdencer.top/0.0.0.0
 address=/starseed.fr/0.0.0.0
 address=/starshipstart.com/0.0.0.0
@@ -54923,6 +54924,7 @@ address=/substancesprincess.cfd/0.0.0.0
 address=/subway2016.tt.omtrdc.net/0.0.0.0
 address=/subwayfranchiseeadvertising.sc.omtrdc.net/0.0.0.0
 address=/succeedscene.com/0.0.0.0
+address=/successbuffet.com/0.0.0.0
 address=/successstudio.live/0.0.0.0
 address=/suckdude.com/0.0.0.0
 address=/sudavscalf.com/0.0.0.0
@@ -62056,6 +62058,7 @@ address=/upformixly.top/0.0.0.0
 address=/upgrabent.site/0.0.0.0
 address=/upgrade-ms-home.com/0.0.0.0
 address=/upgradecustomcabinets.com/0.0.0.0
+address=/upgradeyoga.com/0.0.0.0
 address=/uphold-wallet-connect.com/0.0.0.0
 address=/upi.112.2o7.net/0.0.0.0
 address=/upi.us.intellitxt.com/0.0.0.0

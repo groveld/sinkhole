@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 92483
-// Updated: 2025-10-22 02:09:03 UTC
+// Entries: 92486
+// Updated: 2025-10-23 02:07:33 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53896,6 +53896,7 @@ var BLOCKLIST = {
 "staroil.pl":null,
 "starpulse.us.intellitxt.com":null,
 "starreturned.com":null,
+"starrynets.com":null,
 "starsdencer.top":null,
 "starseed.fr":null,
 "starshipstart.com":null,
@@ -54925,6 +54926,7 @@ var BLOCKLIST = {
 "subway2016.tt.omtrdc.net":null,
 "subwayfranchiseeadvertising.sc.omtrdc.net":null,
 "succeedscene.com":null,
+"successbuffet.com":null,
 "successstudio.live":null,
 "suckdude.com":null,
 "sudavscalf.com":null,
@@ -62058,6 +62060,7 @@ var BLOCKLIST = {
 "upgrabent.site":null,
 "upgrade-ms-home.com":null,
 "upgradecustomcabinets.com":null,
+"upgradeyoga.com":null,
 "uphold-wallet-connect.com":null,
 "upi.112.2o7.net":null,
 "upi.us.intellitxt.com":null,
