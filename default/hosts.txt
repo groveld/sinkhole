@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 113603
-# Updated: 2025-10-27 01:24:15 UTC
+# Entries: 113605
+# Updated: 2025-10-28 01:19:55 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16449,6 +16449,7 @@
 0.0.0.0 bastiaoserendipidadeapp.com
 0.0.0.0 bastiaoserendipidadeapp.net
 0.0.0.0 bastiaoserendipidadesoft.com
+0.0.0.0 bastingart.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batatinha123.top
 0.0.0.0 batch.upsight-api.com
@@ -40361,6 +40362,7 @@
 0.0.0.0 jeupicard.fr
 0.0.0.0 jewelleryoflinks.com
 0.0.0.0 jewelrybykraftworks.com
+0.0.0.0 jewelrysprings.com
 0.0.0.0 jewsondirect.com
 0.0.0.0 jf.revolvermaps.com
 0.0.0.0 jf71qh5v14.com

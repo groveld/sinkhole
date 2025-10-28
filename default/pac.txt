@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 113603
-// Updated: 2025-10-27 01:24:15 UTC
+// Entries: 113605
+// Updated: 2025-10-28 01:19:55 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16450,6 +16450,7 @@ var BLOCKLIST = {
 "bastiaoserendipidadeapp.com":null,
 "bastiaoserendipidadeapp.net":null,
 "bastiaoserendipidadesoft.com":null,
+"bastingart.com":null,
 "bat.bing.com":null,
 "batatinha123.top":null,
 "batch.upsight-api.com":null,
@@ -40362,6 +40363,7 @@ var BLOCKLIST = {
 "jeupicard.fr":null,
 "jewelleryoflinks.com":null,
 "jewelrybykraftworks.com":null,
+"jewelrysprings.com":null,
 "jewsondirect.com":null,
 "jf.revolvermaps.com":null,
 "jf71qh5v14.com":null,
