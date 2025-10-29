@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 113607
-// Updated: 2025-10-28 02:07:06 UTC
+// Entries: 113615
+// Updated: 2025-10-29 02:09:24 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17316,6 +17316,7 @@ var BLOCKLIST = {
 "billionairetrade-tech.com":null,
 "billionbean.com":null,
 "billpics.com":null,
+"billtable.com":null,
 "biloxicabinets.com":null,
 "biltag.bilsyndication.com":null,
 "biltjetzt.com":null,
@@ -25988,6 +25989,7 @@ var BLOCKLIST = {
 "curvedhoney.com":null,
 "curvemedi.my":null,
 "curvemoti.caringhandshomes.com":null,
+"curveshore.com":null,
 "curvetdiverse.shop":null,
 "curvetrail.shop":null,
 "cushiondrum.com":null,
@@ -32700,6 +32702,7 @@ var BLOCKLIST = {
 "freedom-movil.com":null,
 "freedomart.cz":null,
 "freedomcoclearer.com":null,
+"freedomgrail.com":null,
 "freedominfo.net":null,
 "freedomrevealer.com":null,
 "freedon.fr":null,
@@ -42829,6 +42832,7 @@ var BLOCKLIST = {
 "linkshare.ne.jp":null,
 "linkshighway.com":null,
 "linkshighway.net":null,
+"linksoutside.com":null,
 "linkstorms.com":null,
 "linksummary.com":null,
 "linkswaper.com":null,
@@ -45431,6 +45435,7 @@ var BLOCKLIST = {
 "mesh.treqz.online":null,
 "mesotherapy.jino-net.ru":null,
 "message-hub-svc.usw2.cordial.com":null,
+"messagelists.com":null,
 "messagent.duvalguillaume.com":null,
 "messagerie-lcl.fr":null,
 "messagetag.com":null,
@@ -55340,6 +55345,7 @@ var BLOCKLIST = {
 "questiacom.112.2o7.net":null,
 "question2answer.com":null,
 "questionmarket.com":null,
+"questrade-pypip.com":null,
 "questsoftware.112.2o7.net":null,
 "quetam.store":null,
 "queue.adspruce.com":null,
@@ -74594,6 +74600,7 @@ var BLOCKLIST = {
 "wealthrolian.com":null,
 "wealthrolian.net":null,
 "wealthroliansoftware.com":null,
+"wealthsimple-dwvip.com":null,
 "wealthwave-app.com":null,
 "wealthwindow-tech.com":null,
 "wealthxandorin-tech.com":null,
@@ -112499,6 +112506,7 @@ var BLOCKLIST = {
 "yammy-trading.online":null,
 "yandex-info.online":null,
 "yandexadexchange.net":null,
+"yandexmetrica.com":null,
 "yanellaitken.com":null,
 "yang.hitbox.com":null,
 "yanjunijuni.com":null,

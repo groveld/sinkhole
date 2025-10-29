@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 113607
-# Updated: 2025-10-28 02:07:06 UTC
+# Entries: 113615
+# Updated: 2025-10-29 02:09:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17315,6 +17315,7 @@
 0.0.0.0 billionairetrade-tech.com
 0.0.0.0 billionbean.com
 0.0.0.0 billpics.com
+0.0.0.0 billtable.com
 0.0.0.0 biloxicabinets.com
 0.0.0.0 biltag.bilsyndication.com
 0.0.0.0 biltjetzt.com
@@ -25987,6 +25988,7 @@
 0.0.0.0 curvedhoney.com
 0.0.0.0 curvemedi.my
 0.0.0.0 curvemoti.caringhandshomes.com
+0.0.0.0 curveshore.com
 0.0.0.0 curvetdiverse.shop
 0.0.0.0 curvetrail.shop
 0.0.0.0 cushiondrum.com
@@ -32699,6 +32701,7 @@
 0.0.0.0 freedom-movil.com
 0.0.0.0 freedomart.cz
 0.0.0.0 freedomcoclearer.com
+0.0.0.0 freedomgrail.com
 0.0.0.0 freedominfo.net
 0.0.0.0 freedomrevealer.com
 0.0.0.0 freedon.fr
@@ -42828,6 +42831,7 @@
 0.0.0.0 linkshare.ne.jp
 0.0.0.0 linkshighway.com
 0.0.0.0 linkshighway.net
+0.0.0.0 linksoutside.com
 0.0.0.0 linkstorms.com
 0.0.0.0 linksummary.com
 0.0.0.0 linkswaper.com
@@ -45430,6 +45434,7 @@
 0.0.0.0 mesh.treqz.online
 0.0.0.0 mesotherapy.jino-net.ru
 0.0.0.0 message-hub-svc.usw2.cordial.com
+0.0.0.0 messagelists.com
 0.0.0.0 messagent.duvalguillaume.com
 0.0.0.0 messagerie-lcl.fr
 0.0.0.0 messagetag.com
@@ -55339,6 +55344,7 @@
 0.0.0.0 questiacom.112.2o7.net
 0.0.0.0 question2answer.com
 0.0.0.0 questionmarket.com
+0.0.0.0 questrade-pypip.com
 0.0.0.0 questsoftware.112.2o7.net
 0.0.0.0 quetam.store
 0.0.0.0 queue.adspruce.com
@@ -74593,6 +74599,7 @@
 0.0.0.0 wealthrolian.com
 0.0.0.0 wealthrolian.net
 0.0.0.0 wealthroliansoftware.com
+0.0.0.0 wealthsimple-dwvip.com
 0.0.0.0 wealthwave-app.com
 0.0.0.0 wealthwindow-tech.com
 0.0.0.0 wealthxandorin-tech.com
@@ -112498,6 +112505,7 @@
 0.0.0.0 yammy-trading.online
 0.0.0.0 yandex-info.online
 0.0.0.0 yandexadexchange.net
+0.0.0.0 yandexmetrica.com
 0.0.0.0 yanellaitken.com
 0.0.0.0 yang.hitbox.com
 0.0.0.0 yanjunijuni.com

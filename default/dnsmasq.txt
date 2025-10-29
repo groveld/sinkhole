@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 113605
-# Updated: 2025-10-28 01:19:55 UTC
+# Entries: 113613
+# Updated: 2025-10-29 01:22:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17315,6 +17315,7 @@ address=/billionaire-trade.net/0.0.0.0
 address=/billionairetrade-tech.com/0.0.0.0
 address=/billionbean.com/0.0.0.0
 address=/billpics.com/0.0.0.0
+address=/billtable.com/0.0.0.0
 address=/biloxicabinets.com/0.0.0.0
 address=/biltag.bilsyndication.com/0.0.0.0
 address=/biltjetzt.com/0.0.0.0
@@ -25987,6 +25988,7 @@ address=/curvecha.site/0.0.0.0
 address=/curvedhoney.com/0.0.0.0
 address=/curvemedi.my/0.0.0.0
 address=/curvemoti.caringhandshomes.com/0.0.0.0
+address=/curveshore.com/0.0.0.0
 address=/curvetdiverse.shop/0.0.0.0
 address=/curvetrail.shop/0.0.0.0
 address=/cushiondrum.com/0.0.0.0
@@ -32699,6 +32701,7 @@ address=/freedailydownload.com/0.0.0.0
 address=/freedom-movil.com/0.0.0.0
 address=/freedomart.cz/0.0.0.0
 address=/freedomcoclearer.com/0.0.0.0
+address=/freedomgrail.com/0.0.0.0
 address=/freedominfo.net/0.0.0.0
 address=/freedomrevealer.com/0.0.0.0
 address=/freedon.fr/0.0.0.0
@@ -42827,6 +42830,7 @@ address=/linkshare.com/0.0.0.0
 address=/linkshare.ne.jp/0.0.0.0
 address=/linkshighway.com/0.0.0.0
 address=/linkshighway.net/0.0.0.0
+address=/linksoutside.com/0.0.0.0
 address=/linkstorms.com/0.0.0.0
 address=/linksummary.com/0.0.0.0
 address=/linkswaper.com/0.0.0.0
@@ -45429,6 +45433,7 @@ address=/mes-bon-plans.fr/0.0.0.0
 address=/mesh.treqz.online/0.0.0.0
 address=/mesotherapy.jino-net.ru/0.0.0.0
 address=/message-hub-svc.usw2.cordial.com/0.0.0.0
+address=/messagelists.com/0.0.0.0
 address=/messagent.duvalguillaume.com/0.0.0.0
 address=/messagerie-lcl.fr/0.0.0.0
 address=/messagetag.com/0.0.0.0
@@ -55338,6 +55343,7 @@ address=/questdsgsupport.112.2o7.net/0.0.0.0
 address=/questiacom.112.2o7.net/0.0.0.0
 address=/question2answer.com/0.0.0.0
 address=/questionmarket.com/0.0.0.0
+address=/questrade-pypip.com/0.0.0.0
 address=/questsoftware.112.2o7.net/0.0.0.0
 address=/quetam.store/0.0.0.0
 address=/queue.adspruce.com/0.0.0.0
@@ -74592,6 +74598,7 @@ address=/wealthprogram.net/0.0.0.0
 address=/wealthrolian.com/0.0.0.0
 address=/wealthrolian.net/0.0.0.0
 address=/wealthroliansoftware.com/0.0.0.0
+address=/wealthsimple-dwvip.com/0.0.0.0
 address=/wealthwave-app.com/0.0.0.0
 address=/wealthwindow-tech.com/0.0.0.0
 address=/wealthxandorin-tech.com/0.0.0.0
@@ -112496,6 +112503,7 @@ address=/yamizdayentrader.com/0.0.0.0
 address=/yammy-trading.online/0.0.0.0
 address=/yandex-info.online/0.0.0.0
 address=/yandexadexchange.net/0.0.0.0
+address=/yandexmetrica.com/0.0.0.0
 address=/yanellaitken.com/0.0.0.0
 address=/yang.hitbox.com/0.0.0.0
 address=/yanjunijuni.com/0.0.0.0
