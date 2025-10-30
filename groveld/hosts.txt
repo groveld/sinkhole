@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 113615
-# Updated: 2025-10-29 02:09:24 UTC
+# Entries: 113617
+# Updated: 2025-10-30 02:09:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53242,6 +53242,7 @@
 0.0.0.0 popinads.com
 0.0.0.0 popit.mediumpimpin.com
 0.0.0.0 popmedia.carpediem.fr
+0.0.0.0 popmixradio.com
 0.0.0.0 popmyads.com
 0.0.0.0 popmycash.com
 0.0.0.0 popoholic.us.intellitxt.com
@@ -64391,6 +64392,7 @@
 0.0.0.0 system.litaheart.com
 0.0.0.0 systematixinfotech.fr
 0.0.0.0 systemiprophet.com
+0.0.0.0 systemssummit.com
 0.0.0.0 systemtrees.com
 0.0.0.0 systracking.admicro.vn
 0.0.0.0 systweak.com

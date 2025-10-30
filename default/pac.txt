@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 113613
-// Updated: 2025-10-29 01:22:13 UTC
+// Entries: 113615
+// Updated: 2025-10-30 01:22:17 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53242,6 +53242,7 @@ var BLOCKLIST = {
 "popinads.com":null,
 "popit.mediumpimpin.com":null,
 "popmedia.carpediem.fr":null,
+"popmixradio.com":null,
 "popmyads.com":null,
 "popmycash.com":null,
 "popoholic.us.intellitxt.com":null,
@@ -64391,6 +64392,7 @@ var BLOCKLIST = {
 "system.litaheart.com":null,
 "systematixinfotech.fr":null,
 "systemiprophet.com":null,
+"systemssummit.com":null,
 "systemtrees.com":null,
 "systracking.admicro.vn":null,
 "systweak.com":null,

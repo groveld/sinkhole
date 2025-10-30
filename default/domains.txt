@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 113613
-# Updated: 2025-10-29 01:22:13 UTC
+# Entries: 113615
+# Updated: 2025-10-30 01:22:17 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53241,6 +53241,7 @@ popfree.adultcash.com
 popinads.com
 popit.mediumpimpin.com
 popmedia.carpediem.fr
+popmixradio.com
 popmyads.com
 popmycash.com
 popoholic.us.intellitxt.com
@@ -64390,6 +64391,7 @@ system.adquick.nl
 system.litaheart.com
 systematixinfotech.fr
 systemiprophet.com
+systemssummit.com
 systemtrees.com
 systracking.admicro.vn
 systweak.com
