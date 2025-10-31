@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 113617
-// Updated: 2025-10-30 02:09:27 UTC
+// Entries: 113621
+// Updated: 2025-10-31 02:08:11 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15088,6 +15088,7 @@ var BLOCKLIST = {
 "audienceinsights.com":null,
 "audio-book.net.pl":null,
 "audio-pa-service.de":null,
+"audio.ad":null,
 "audio.de.intellitxt.com":null,
 "audio3d.com":null,
 "audiocharts.com":null,
@@ -35504,6 +35505,7 @@ var BLOCKLIST = {
 "hallohaus.co":null,
 "hallwprogram.shop":null,
 "halo.ad.gt":null,
+"halocolor.com":null,
 "halodzwonek.pl":null,
 "halopozyczka.pl":null,
 "halovartmo.shop":null,
@@ -50338,6 +50340,7 @@ var BLOCKLIST = {
 "option9.adultfriendfinder.com":null,
 "optionmodifycanitem.info":null,
 "optionsgenuine.site":null,
+"optionsnomad.com":null,
 "optionstoreplace.com":null,
 "optionzypharel-solution.com":null,
 "optionzypharel-tech.com":null,
@@ -61734,6 +61737,7 @@ var BLOCKLIST = {
 "spektrax-aisoft.com":null,
 "spell.itim.vn":null,
 "spellconsulting.com":null,
+"spellingthoughts.com":null,
 "spellinsharp.com":null,
 "spelll-track.com":null,
 "spellonwave.com":null,

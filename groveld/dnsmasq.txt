@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 113617
-# Updated: 2025-10-30 02:09:27 UTC
+# Entries: 113621
+# Updated: 2025-10-31 02:08:11 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15087,6 +15087,7 @@ address=/audience2media.com/0.0.0.0
 address=/audienceinsights.com/0.0.0.0
 address=/audio-book.net.pl/0.0.0.0
 address=/audio-pa-service.de/0.0.0.0
+address=/audio.ad/0.0.0.0
 address=/audio.de.intellitxt.com/0.0.0.0
 address=/audio3d.com/0.0.0.0
 address=/audiocharts.com/0.0.0.0
@@ -35503,6 +35504,7 @@ address=/hallmarkibmcom.112.2o7.net/0.0.0.0
 address=/hallohaus.co/0.0.0.0
 address=/hallwprogram.shop/0.0.0.0
 address=/halo.ad.gt/0.0.0.0
+address=/halocolor.com/0.0.0.0
 address=/halodzwonek.pl/0.0.0.0
 address=/halopozyczka.pl/0.0.0.0
 address=/halovartmo.shop/0.0.0.0
@@ -50337,6 +50339,7 @@ address=/option-zypharel.net/0.0.0.0
 address=/option9.adultfriendfinder.com/0.0.0.0
 address=/optionmodifycanitem.info/0.0.0.0
 address=/optionsgenuine.site/0.0.0.0
+address=/optionsnomad.com/0.0.0.0
 address=/optionstoreplace.com/0.0.0.0
 address=/optionzypharel-solution.com/0.0.0.0
 address=/optionzypharel-tech.com/0.0.0.0
@@ -61733,6 +61736,7 @@ address=/spektrax-ai-bot.com/0.0.0.0
 address=/spektrax-aisoft.com/0.0.0.0
 address=/spell.itim.vn/0.0.0.0
 address=/spellconsulting.com/0.0.0.0
+address=/spellingthoughts.com/0.0.0.0
 address=/spellinsharp.com/0.0.0.0
 address=/spelll-track.com/0.0.0.0
 address=/spellonwave.com/0.0.0.0

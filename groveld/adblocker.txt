@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 113617
-! Updated: 2025-10-30 02:09:27 UTC
+! Entries: 113621
+! Updated: 2025-10-31 02:08:11 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15087,6 +15087,7 @@
 ||audienceinsights.com^
 ||audio-book.net.pl^
 ||audio-pa-service.de^
+||audio.ad^
 ||audio.de.intellitxt.com^
 ||audio3d.com^
 ||audiocharts.com^
@@ -35503,6 +35504,7 @@
 ||hallohaus.co^
 ||hallwprogram.shop^
 ||halo.ad.gt^
+||halocolor.com^
 ||halodzwonek.pl^
 ||halopozyczka.pl^
 ||halovartmo.shop^
@@ -50337,6 +50339,7 @@
 ||option9.adultfriendfinder.com^
 ||optionmodifycanitem.info^
 ||optionsgenuine.site^
+||optionsnomad.com^
 ||optionstoreplace.com^
 ||optionzypharel-solution.com^
 ||optionzypharel-tech.com^
@@ -61733,6 +61736,7 @@
 ||spektrax-aisoft.com^
 ||spell.itim.vn^
 ||spellconsulting.com^
+||spellingthoughts.com^
 ||spellinsharp.com^
 ||spelll-track.com^
 ||spellonwave.com^

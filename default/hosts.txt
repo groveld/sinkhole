@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 113615
-# Updated: 2025-10-30 01:22:17 UTC
+# Entries: 113619
+# Updated: 2025-10-31 01:21:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15087,6 +15087,7 @@
 0.0.0.0 audienceinsights.com
 0.0.0.0 audio-book.net.pl
 0.0.0.0 audio-pa-service.de
+0.0.0.0 audio.ad
 0.0.0.0 audio.de.intellitxt.com
 0.0.0.0 audio3d.com
 0.0.0.0 audiocharts.com
@@ -35502,6 +35503,7 @@
 0.0.0.0 hallohaus.co
 0.0.0.0 hallwprogram.shop
 0.0.0.0 halo.ad.gt
+0.0.0.0 halocolor.com
 0.0.0.0 halodzwonek.pl
 0.0.0.0 halopozyczka.pl
 0.0.0.0 halovartmo.shop
@@ -50336,6 +50338,7 @@
 0.0.0.0 option9.adultfriendfinder.com
 0.0.0.0 optionmodifycanitem.info
 0.0.0.0 optionsgenuine.site
+0.0.0.0 optionsnomad.com
 0.0.0.0 optionstoreplace.com
 0.0.0.0 optionzypharel-solution.com
 0.0.0.0 optionzypharel-tech.com
@@ -61732,6 +61735,7 @@
 0.0.0.0 spektrax-aisoft.com
 0.0.0.0 spell.itim.vn
 0.0.0.0 spellconsulting.com
+0.0.0.0 spellingthoughts.com
 0.0.0.0 spellinsharp.com
 0.0.0.0 spelll-track.com
 0.0.0.0 spellonwave.com
