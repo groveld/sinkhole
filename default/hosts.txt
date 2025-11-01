@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 113619
-# Updated: 2025-10-31 01:21:01 UTC
+# Entries: 113621
+# Updated: 2025-11-01 01:24:03 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56475,6 +56475,7 @@
 0.0.0.0 resalag.com
 0.0.0.0 resaleauthority.com
 0.0.0.0 resanium.com
+0.0.0.0 rescuerhino.com
 0.0.0.0 researchestransport.site
 0.0.0.0 researchnow.com
 0.0.0.0 reseaux-telecoms.fr.intellitxt.com
@@ -61119,6 +61120,7 @@
 0.0.0.0 snarranimalrescue.com
 0.0.0.0 snazan-portbit-app.com
 0.0.0.0 snazanportbit.com
+0.0.0.0 snazzypoodle.com
 0.0.0.0 sneakerheadclub.com
 0.0.0.0 sneakers-line.com
 0.0.0.0 sneakersjapanu.com

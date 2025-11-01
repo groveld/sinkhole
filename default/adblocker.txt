@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 113619
-! Updated: 2025-10-31 01:21:01 UTC
+! Entries: 113621
+! Updated: 2025-11-01 01:24:03 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56475,6 +56475,7 @@
 ||resalag.com^
 ||resaleauthority.com^
 ||resanium.com^
+||rescuerhino.com^
 ||researchestransport.site^
 ||researchnow.com^
 ||reseaux-telecoms.fr.intellitxt.com^
@@ -61119,6 +61120,7 @@
 ||snarranimalrescue.com^
 ||snazan-portbit-app.com^
 ||snazanportbit.com^
+||snazzypoodle.com^
 ||sneakerheadclub.com^
 ||sneakers-line.com^
 ||sneakersjapanu.com^

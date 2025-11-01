@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 113621
-// Updated: 2025-10-31 02:08:11 UTC
+// Entries: 113623
+// Updated: 2025-11-01 02:11:18 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56477,6 +56477,7 @@ var BLOCKLIST = {
 "resalag.com":null,
 "resaleauthority.com":null,
 "resanium.com":null,
+"rescuerhino.com":null,
 "researchestransport.site":null,
 "researchnow.com":null,
 "reseaux-telecoms.fr.intellitxt.com":null,
@@ -61121,6 +61122,7 @@ var BLOCKLIST = {
 "snarranimalrescue.com":null,
 "snazan-portbit-app.com":null,
 "snazanportbit.com":null,
+"snazzypoodle.com":null,
 "sneakerheadclub.com":null,
 "sneakers-line.com":null,
 "sneakersjapanu.com":null,
