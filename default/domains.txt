@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 119722
-# Updated: 2025-11-02 01:23:54 UTC
+# Entries: 119726
+# Updated: 2025-11-03 01:23:49 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17384,6 +17384,7 @@ bigtus.com
 bigwagsmedia.com
 bigwebtools.com
 bigwinallin99.biz
+bigworldfashion.com
 bikeadventures.info
 bikeandsport.info
 bikecraftxyz.info
@@ -26527,6 +26528,7 @@ cybilling.com
 cyborgibrand.my
 cycleadventures.info
 cyclemodi.my
+cyclinghere.com
 cyclingsport.info
 cyclobenzaprine.1.p2l.info
 cyclobenzaprine.ourtablets.com
@@ -31676,6 +31678,7 @@ falendorquix.lol
 falkag.net
 falkcoppercookware.fr
 fallaciousfifth.com
+fallingshoals.com
 fallround.com
 falonmanb.shop
 falquentilora.sbs
@@ -71044,6 +71047,7 @@ tidaltv.com.akadns.net
 tidbitscom.skimlinks.com
 tidebuy.com
 tidint.pro
+tidysprite.com
 tie.247-inc.net
 tie.iprom.net
 tiegrht.me

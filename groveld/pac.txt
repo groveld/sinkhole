@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 119724
-// Updated: 2025-11-02 02:11:05 UTC
+// Entries: 119728
+// Updated: 2025-11-03 02:10:59 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17385,6 +17385,7 @@ var BLOCKLIST = {
 "bigwagsmedia.com":null,
 "bigwebtools.com":null,
 "bigwinallin99.biz":null,
+"bigworldfashion.com":null,
 "bikeadventures.info":null,
 "bikeandsport.info":null,
 "bikecraftxyz.info":null,
@@ -26528,6 +26529,7 @@ var BLOCKLIST = {
 "cyborgibrand.my":null,
 "cycleadventures.info":null,
 "cyclemodi.my":null,
+"cyclinghere.com":null,
 "cyclingsport.info":null,
 "cyclobenzaprine.1.p2l.info":null,
 "cyclobenzaprine.ourtablets.com":null,
@@ -31677,6 +31679,7 @@ var BLOCKLIST = {
 "falkag.net":null,
 "falkcoppercookware.fr":null,
 "fallaciousfifth.com":null,
+"fallingshoals.com":null,
 "fallround.com":null,
 "falonmanb.shop":null,
 "falquentilora.sbs":null,
@@ -71046,6 +71049,7 @@ var BLOCKLIST = {
 "tidbitscom.skimlinks.com":null,
 "tidebuy.com":null,
 "tidint.pro":null,
+"tidysprite.com":null,
 "tie.247-inc.net":null,
 "tie.iprom.net":null,
 "tiegrht.me":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 119722
-# Updated: 2025-11-02 01:23:54 UTC
+# Entries: 119726
+# Updated: 2025-11-03 01:23:49 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17384,6 +17384,7 @@ address=/bigtus.com/0.0.0.0
 address=/bigwagsmedia.com/0.0.0.0
 address=/bigwebtools.com/0.0.0.0
 address=/bigwinallin99.biz/0.0.0.0
+address=/bigworldfashion.com/0.0.0.0
 address=/bikeadventures.info/0.0.0.0
 address=/bikeandsport.info/0.0.0.0
 address=/bikecraftxyz.info/0.0.0.0
@@ -26527,6 +26528,7 @@ address=/cybilling.com/0.0.0.0
 address=/cyborgibrand.my/0.0.0.0
 address=/cycleadventures.info/0.0.0.0
 address=/cyclemodi.my/0.0.0.0
+address=/cyclinghere.com/0.0.0.0
 address=/cyclingsport.info/0.0.0.0
 address=/cyclobenzaprine.1.p2l.info/0.0.0.0
 address=/cyclobenzaprine.ourtablets.com/0.0.0.0
@@ -31676,6 +31678,7 @@ address=/falendorquix.lol/0.0.0.0
 address=/falkag.net/0.0.0.0
 address=/falkcoppercookware.fr/0.0.0.0
 address=/fallaciousfifth.com/0.0.0.0
+address=/fallingshoals.com/0.0.0.0
 address=/fallround.com/0.0.0.0
 address=/falonmanb.shop/0.0.0.0
 address=/falquentilora.sbs/0.0.0.0
@@ -71044,6 +71047,7 @@ address=/tidaltv.com.akadns.net/0.0.0.0
 address=/tidbitscom.skimlinks.com/0.0.0.0
 address=/tidebuy.com/0.0.0.0
 address=/tidint.pro/0.0.0.0
+address=/tidysprite.com/0.0.0.0
 address=/tie.247-inc.net/0.0.0.0
 address=/tie.iprom.net/0.0.0.0
 address=/tiegrht.me/0.0.0.0
