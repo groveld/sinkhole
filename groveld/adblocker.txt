@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 119205
-! Updated: 2025-11-04 02:08:12 UTC
+! Entries: 119207
+! Updated: 2025-11-05 02:09:32 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42366,6 +42366,7 @@
 ||justuwatchmee.com^
 ||justwatch.asia^
 ||justwebads.com^
+||justwowjars.com^
 ||jutcom.com^
 ||jutiagroup.us.intellitxt.com^
 ||jutrobedzie.is-best.net^
@@ -62371,6 +62372,7 @@
 ||simplehitcounter.com^
 ||simpleosity.com^
 ||simplereach.com^
+||simplesafari.com^
 ||simplesemisolutions.com^
 ||simplesharebuttons.com^
 ||simpletexting.com^

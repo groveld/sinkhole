@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 119203
-# Updated: 2025-11-04 01:21:01 UTC
+# Entries: 119205
+# Updated: 2025-11-05 01:22:22 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42365,6 +42365,7 @@
 0.0.0.0 justuwatchmee.com
 0.0.0.0 justwatch.asia
 0.0.0.0 justwebads.com
+0.0.0.0 justwowjars.com
 0.0.0.0 jutcom.com
 0.0.0.0 jutiagroup.us.intellitxt.com
 0.0.0.0 jutrobedzie.is-best.net
@@ -62370,6 +62371,7 @@
 0.0.0.0 simplehitcounter.com
 0.0.0.0 simpleosity.com
 0.0.0.0 simplereach.com
+0.0.0.0 simplesafari.com
 0.0.0.0 simplesemisolutions.com
 0.0.0.0 simplesharebuttons.com
 0.0.0.0 simpletexting.com

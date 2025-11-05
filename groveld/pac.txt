@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 119205
-// Updated: 2025-11-04 02:08:12 UTC
+// Entries: 119207
+// Updated: 2025-11-05 02:09:32 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42367,6 +42367,7 @@ var BLOCKLIST = {
 "justuwatchmee.com":null,
 "justwatch.asia":null,
 "justwebads.com":null,
+"justwowjars.com":null,
 "jutcom.com":null,
 "jutiagroup.us.intellitxt.com":null,
 "jutrobedzie.is-best.net":null,
@@ -62372,6 +62373,7 @@ var BLOCKLIST = {
 "simplehitcounter.com":null,
 "simpleosity.com":null,
 "simplereach.com":null,
+"simplesafari.com":null,
 "simplesemisolutions.com":null,
 "simplesharebuttons.com":null,
 "simpletexting.com":null,

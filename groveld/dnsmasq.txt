@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 119205
-# Updated: 2025-11-04 02:08:12 UTC
+# Entries: 119207
+# Updated: 2025-11-05 02:09:32 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42366,6 +42366,7 @@ address=/justtrck.com/0.0.0.0
 address=/justuwatchmee.com/0.0.0.0
 address=/justwatch.asia/0.0.0.0
 address=/justwebads.com/0.0.0.0
+address=/justwowjars.com/0.0.0.0
 address=/jutcom.com/0.0.0.0
 address=/jutiagroup.us.intellitxt.com/0.0.0.0
 address=/jutrobedzie.is-best.net/0.0.0.0
@@ -62371,6 +62372,7 @@ address=/simpleconceptsusa.com/0.0.0.0
 address=/simplehitcounter.com/0.0.0.0
 address=/simpleosity.com/0.0.0.0
 address=/simplereach.com/0.0.0.0
+address=/simplesafari.com/0.0.0.0
 address=/simplesemisolutions.com/0.0.0.0
 address=/simplesharebuttons.com/0.0.0.0
 address=/simpletexting.com/0.0.0.0
