@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 120184
-// Updated: 2025-11-06 02:08:52 UTC
+// Entries: 120188
+// Updated: 2025-11-07 02:08:59 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2871,6 +2871,7 @@ var BLOCKLIST = {
 "absolutelyfreeeroticstories.com":null,
 "absolutelyfreemovies.com":null,
 "absolutelyric.com":null,
+"absolutering.com":null,
 "absolutethumbs.net":null,
 "absolutewrite.fr":null,
 "absolutezeros.duckdns.org":null,
@@ -36365,6 +36366,7 @@ var BLOCKLIST = {
 "gum.va1.vip.prod.criteo.com":null,
 "gum.xbooks.to":null,
 "gumgum.com":null,
+"gumyfui.com":null,
 "gunay-group.com":null,
 "gunduzendustriyel.com":null,
 "gunggo.com":null,
@@ -44678,6 +44680,7 @@ var BLOCKLIST = {
 "linkshighway.net":null,
 "linkshopho.shop":null,
 "linksoutside.com":null,
+"linkstable.com":null,
 "linkstorms.com":null,
 "linksummary.com":null,
 "linkswaper.com":null,
@@ -57845,6 +57848,7 @@ var BLOCKLIST = {
 "quik2link.com":null,
 "quillcascade.site":null,
 "quilnaro.top":null,
+"quiltruler.com":null,
 "quindarock.wiki":null,
 "quinni.cyou":null,
 "quinnwealth.com":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 120184
-# Updated: 2025-11-06 02:08:52 UTC
+# Entries: 120188
+# Updated: 2025-11-07 02:08:59 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2870,6 +2870,7 @@ address=/absolutefreesmut.com/0.0.0.0
 address=/absolutelyfreeeroticstories.com/0.0.0.0
 address=/absolutelyfreemovies.com/0.0.0.0
 address=/absolutelyric.com/0.0.0.0
+address=/absolutering.com/0.0.0.0
 address=/absolutethumbs.net/0.0.0.0
 address=/absolutewrite.fr/0.0.0.0
 address=/absolutezeros.duckdns.org/0.0.0.0
@@ -36364,6 +36365,7 @@ address=/gum.hk5.vip.prod.criteo.com/0.0.0.0
 address=/gum.va1.vip.prod.criteo.com/0.0.0.0
 address=/gum.xbooks.to/0.0.0.0
 address=/gumgum.com/0.0.0.0
+address=/gumyfui.com/0.0.0.0
 address=/gunay-group.com/0.0.0.0
 address=/gunduzendustriyel.com/0.0.0.0
 address=/gunggo.com/0.0.0.0
@@ -44677,6 +44679,7 @@ address=/linkshighway.com/0.0.0.0
 address=/linkshighway.net/0.0.0.0
 address=/linkshopho.shop/0.0.0.0
 address=/linksoutside.com/0.0.0.0
+address=/linkstable.com/0.0.0.0
 address=/linkstorms.com/0.0.0.0
 address=/linksummary.com/0.0.0.0
 address=/linkswaper.com/0.0.0.0
@@ -57844,6 +57847,7 @@ address=/quik-serv.com/0.0.0.0
 address=/quik2link.com/0.0.0.0
 address=/quillcascade.site/0.0.0.0
 address=/quilnaro.top/0.0.0.0
+address=/quiltruler.com/0.0.0.0
 address=/quindarock.wiki/0.0.0.0
 address=/quinni.cyou/0.0.0.0
 address=/quinnwealth.com/0.0.0.0

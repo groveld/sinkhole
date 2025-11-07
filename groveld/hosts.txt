@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 120184
-# Updated: 2025-11-06 02:08:52 UTC
+# Entries: 120188
+# Updated: 2025-11-07 02:08:59 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2870,6 +2870,7 @@
 0.0.0.0 absolutelyfreeeroticstories.com
 0.0.0.0 absolutelyfreemovies.com
 0.0.0.0 absolutelyric.com
+0.0.0.0 absolutering.com
 0.0.0.0 absolutethumbs.net
 0.0.0.0 absolutewrite.fr
 0.0.0.0 absolutezeros.duckdns.org
@@ -36364,6 +36365,7 @@
 0.0.0.0 gum.va1.vip.prod.criteo.com
 0.0.0.0 gum.xbooks.to
 0.0.0.0 gumgum.com
+0.0.0.0 gumyfui.com
 0.0.0.0 gunay-group.com
 0.0.0.0 gunduzendustriyel.com
 0.0.0.0 gunggo.com
@@ -44677,6 +44679,7 @@
 0.0.0.0 linkshighway.net
 0.0.0.0 linkshopho.shop
 0.0.0.0 linksoutside.com
+0.0.0.0 linkstable.com
 0.0.0.0 linkstorms.com
 0.0.0.0 linksummary.com
 0.0.0.0 linkswaper.com
@@ -57844,6 +57847,7 @@
 0.0.0.0 quik2link.com
 0.0.0.0 quillcascade.site
 0.0.0.0 quilnaro.top
+0.0.0.0 quiltruler.com
 0.0.0.0 quindarock.wiki
 0.0.0.0 quinni.cyou
 0.0.0.0 quinnwealth.com
