@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 122031
-// Updated: 2025-11-10 02:11:11 UTC
+// Entries: 122038
+// Updated: 2025-11-11 02:09:34 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18601,6 +18601,7 @@ var BLOCKLIST = {
 "blaztor-yieldapp.com":null,
 "blck.pages.dev":null,
 "bleachbit.com":null,
+"bleachbubble.com":null,
 "bleepingcomputer.us.intellitxt.com":null,
 "blefos.com":null,
 "blekko.com":null,
@@ -24926,6 +24927,7 @@ var BLOCKLIST = {
 "colorbaragency.com":null,
 "colored-contact-lenses.com":null,
 "colorfulnotebooks.com":null,
+"colorfulpet.com":null,
 "colorgap.com":null,
 "colorking.es":null,
 "colorsoflife.online":null,
@@ -42485,6 +42487,7 @@ var BLOCKLIST = {
 "islamipedia.org":null,
 "islamiyaat.com":null,
 "islandmob.com":null,
+"islandwebhelp.com":null,
 "islerkitap.com":null,
 "ism2trk.com":null,
 "ismailalkus.com":null,
@@ -43853,6 +43856,7 @@ var BLOCKLIST = {
 "kermitowy-sklep.pl":null,
 "kern-luxeron.net":null,
 "kerncredix.com":null,
+"kernellife.com":null,
 "kernfinix-ai.com":null,
 "kernfintria.com":null,
 "kernfintria.net":null,
@@ -63564,6 +63568,7 @@ var BLOCKLIST = {
 "shadetreejoe.com":null,
 "shadow-grove.ru":null,
 "shadowgrove.ru":null,
+"shadowmade.com":null,
 "shadowpatentoffice.com":null,
 "shadowsandspice.com":null,
 "shadowyfluxgateway.sbs":null,
@@ -66570,6 +66575,7 @@ var BLOCKLIST = {
 "starrynets.com":null,
 "starseed.fr":null,
 "starshipstart.com":null,
+"starsmarter.com":null,
 "start.badults.se":null,
 "start.favbook.net":null,
 "start.freeze.com":null,
@@ -79590,6 +79596,7 @@ var BLOCKLIST = {
 "writefitnesstwq.info":null,
 "writemadeeasy.com":null,
 "writerartist.com":null,
+"writerhubs.com":null,
 "writeyogacbw.info":null,
 "writingassociates.com":null,
 "writingbooksforwriters.com":null,

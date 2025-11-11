@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 122029
-# Updated: 2025-11-10 01:24:00 UTC
+# Entries: 122036
+# Updated: 2025-11-11 01:22:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18600,6 +18600,7 @@ blazix-exploit.net
 blaztor-yieldapp.com
 blck.pages.dev
 bleachbit.com
+bleachbubble.com
 bleepingcomputer.us.intellitxt.com
 blefos.com
 blekko.com
@@ -24925,6 +24926,7 @@ coloradodivorcesupport.com
 colorbaragency.com
 colored-contact-lenses.com
 colorfulnotebooks.com
+colorfulpet.com
 colorgap.com
 colorking.es
 colorsoflife.online
@@ -42483,6 +42485,7 @@ islam3000.com
 islamipedia.org
 islamiyaat.com
 islandmob.com
+islandwebhelp.com
 islerkitap.com
 ism2trk.com
 ismailalkus.com
@@ -43851,6 +43854,7 @@ kermal-4povinx.biz
 kermitowy-sklep.pl
 kern-luxeron.net
 kerncredix.com
+kernellife.com
 kernfinix-ai.com
 kernfintria.com
 kernfintria.net
@@ -63562,6 +63566,7 @@ shaderm.com
 shadetreejoe.com
 shadow-grove.ru
 shadowgrove.ru
+shadowmade.com
 shadowpatentoffice.com
 shadowsandspice.com
 shadowyfluxgateway.sbs
@@ -66568,6 +66573,7 @@ starrygreen.com
 starrynets.com
 starseed.fr
 starshipstart.com
+starsmarter.com
 start.badults.se
 start.favbook.net
 start.freeze.com
@@ -79588,6 +79594,7 @@ writefitnessmir.info
 writefitnesstwq.info
 writemadeeasy.com
 writerartist.com
+writerhubs.com
 writeyogacbw.info
 writingassociates.com
 writingbooksforwriters.com

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 122029
-# Updated: 2025-11-10 01:24:00 UTC
+# Entries: 122036
+# Updated: 2025-11-11 01:22:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18600,6 +18600,7 @@ address=/blazix-exploit.net/0.0.0.0
 address=/blaztor-yieldapp.com/0.0.0.0
 address=/blck.pages.dev/0.0.0.0
 address=/bleachbit.com/0.0.0.0
+address=/bleachbubble.com/0.0.0.0
 address=/bleepingcomputer.us.intellitxt.com/0.0.0.0
 address=/blefos.com/0.0.0.0
 address=/blekko.com/0.0.0.0
@@ -24925,6 +24926,7 @@ address=/coloradodivorcesupport.com/0.0.0.0
 address=/colorbaragency.com/0.0.0.0
 address=/colored-contact-lenses.com/0.0.0.0
 address=/colorfulnotebooks.com/0.0.0.0
+address=/colorfulpet.com/0.0.0.0
 address=/colorgap.com/0.0.0.0
 address=/colorking.es/0.0.0.0
 address=/colorsoflife.online/0.0.0.0
@@ -42483,6 +42485,7 @@ address=/islam3000.com/0.0.0.0
 address=/islamipedia.org/0.0.0.0
 address=/islamiyaat.com/0.0.0.0
 address=/islandmob.com/0.0.0.0
+address=/islandwebhelp.com/0.0.0.0
 address=/islerkitap.com/0.0.0.0
 address=/ism2trk.com/0.0.0.0
 address=/ismailalkus.com/0.0.0.0
@@ -43851,6 +43854,7 @@ address=/kermal-4povinx.biz/0.0.0.0
 address=/kermitowy-sklep.pl/0.0.0.0
 address=/kern-luxeron.net/0.0.0.0
 address=/kerncredix.com/0.0.0.0
+address=/kernellife.com/0.0.0.0
 address=/kernfinix-ai.com/0.0.0.0
 address=/kernfintria.com/0.0.0.0
 address=/kernfintria.net/0.0.0.0
@@ -63562,6 +63566,7 @@ address=/shaderm.com/0.0.0.0
 address=/shadetreejoe.com/0.0.0.0
 address=/shadow-grove.ru/0.0.0.0
 address=/shadowgrove.ru/0.0.0.0
+address=/shadowmade.com/0.0.0.0
 address=/shadowpatentoffice.com/0.0.0.0
 address=/shadowsandspice.com/0.0.0.0
 address=/shadowyfluxgateway.sbs/0.0.0.0
@@ -66568,6 +66573,7 @@ address=/starrygreen.com/0.0.0.0
 address=/starrynets.com/0.0.0.0
 address=/starseed.fr/0.0.0.0
 address=/starshipstart.com/0.0.0.0
+address=/starsmarter.com/0.0.0.0
 address=/start.badults.se/0.0.0.0
 address=/start.favbook.net/0.0.0.0
 address=/start.freeze.com/0.0.0.0
@@ -79588,6 +79594,7 @@ address=/writefitnessmir.info/0.0.0.0
 address=/writefitnesstwq.info/0.0.0.0
 address=/writemadeeasy.com/0.0.0.0
 address=/writerartist.com/0.0.0.0
+address=/writerhubs.com/0.0.0.0
 address=/writeyogacbw.info/0.0.0.0
 address=/writingassociates.com/0.0.0.0
 address=/writingbooksforwriters.com/0.0.0.0

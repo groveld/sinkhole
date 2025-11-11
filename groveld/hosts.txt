@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 122031
-# Updated: 2025-11-10 02:11:11 UTC
+# Entries: 122038
+# Updated: 2025-11-11 02:09:34 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18600,6 +18600,7 @@
 0.0.0.0 blaztor-yieldapp.com
 0.0.0.0 blck.pages.dev
 0.0.0.0 bleachbit.com
+0.0.0.0 bleachbubble.com
 0.0.0.0 bleepingcomputer.us.intellitxt.com
 0.0.0.0 blefos.com
 0.0.0.0 blekko.com
@@ -24925,6 +24926,7 @@
 0.0.0.0 colorbaragency.com
 0.0.0.0 colored-contact-lenses.com
 0.0.0.0 colorfulnotebooks.com
+0.0.0.0 colorfulpet.com
 0.0.0.0 colorgap.com
 0.0.0.0 colorking.es
 0.0.0.0 colorsoflife.online
@@ -42484,6 +42486,7 @@
 0.0.0.0 islamipedia.org
 0.0.0.0 islamiyaat.com
 0.0.0.0 islandmob.com
+0.0.0.0 islandwebhelp.com
 0.0.0.0 islerkitap.com
 0.0.0.0 ism2trk.com
 0.0.0.0 ismailalkus.com
@@ -43852,6 +43855,7 @@
 0.0.0.0 kermitowy-sklep.pl
 0.0.0.0 kern-luxeron.net
 0.0.0.0 kerncredix.com
+0.0.0.0 kernellife.com
 0.0.0.0 kernfinix-ai.com
 0.0.0.0 kernfintria.com
 0.0.0.0 kernfintria.net
@@ -63563,6 +63567,7 @@
 0.0.0.0 shadetreejoe.com
 0.0.0.0 shadow-grove.ru
 0.0.0.0 shadowgrove.ru
+0.0.0.0 shadowmade.com
 0.0.0.0 shadowpatentoffice.com
 0.0.0.0 shadowsandspice.com
 0.0.0.0 shadowyfluxgateway.sbs
@@ -66569,6 +66574,7 @@
 0.0.0.0 starrynets.com
 0.0.0.0 starseed.fr
 0.0.0.0 starshipstart.com
+0.0.0.0 starsmarter.com
 0.0.0.0 start.badults.se
 0.0.0.0 start.favbook.net
 0.0.0.0 start.freeze.com
@@ -79589,6 +79595,7 @@
 0.0.0.0 writefitnesstwq.info
 0.0.0.0 writemadeeasy.com
 0.0.0.0 writerartist.com
+0.0.0.0 writerhubs.com
 0.0.0.0 writeyogacbw.info
 0.0.0.0 writingassociates.com
 0.0.0.0 writingbooksforwriters.com
