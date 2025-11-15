@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 119494
-# Updated: 2025-11-14 01:22:04 UTC
+# Entries: 119495
+# Updated: 2025-11-15 01:20:57 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29079,6 +29079,7 @@ address=/draco-artgallery.wz.cz/0.0.0.0
 address=/draemiston.wiki/0.0.0.0
 address=/draftpad.org/0.0.0.0
 address=/dragerwerk.122.2o7.net/0.0.0.0
+address=/dragonbats.com/0.0.0.0
 address=/dragonbiscuit.sbs/0.0.0.0
 address=/dragontechs.com/0.0.0.0
 address=/drakens-fundex.net/0.0.0.0
