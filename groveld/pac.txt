@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 122784
-// Updated: 2025-11-17 02:10:51 UTC
+// Entries: 122785
+// Updated: 2025-11-18 02:08:51 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -72696,6 +72696,7 @@ var BLOCKLIST = {
 "tr-eu.adsmoloco.com":null,
 "tr-gmtdmp.mookie1.com":null,
 "tr-op.datatrics.com":null,
+"tr-red.lamanoqueayuda.org":null,
 "tr-reshift.datatrics.com":null,
 "tr-romsp-unifyconfig.vivoglobal.com":null,
 "tr-st-sl.vivoglobal.com":null,

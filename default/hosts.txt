@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 122782
-# Updated: 2025-11-17 01:23:40 UTC
+# Entries: 122783
+# Updated: 2025-11-18 01:21:41 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -72694,6 +72694,7 @@
 0.0.0.0 tr-eu.adsmoloco.com
 0.0.0.0 tr-gmtdmp.mookie1.com
 0.0.0.0 tr-op.datatrics.com
+0.0.0.0 tr-red.lamanoqueayuda.org
 0.0.0.0 tr-reshift.datatrics.com
 0.0.0.0 tr-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 tr-st-sl.vivoglobal.com

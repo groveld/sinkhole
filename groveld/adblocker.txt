@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 122784
-! Updated: 2025-11-17 02:10:51 UTC
+! Entries: 122785
+! Updated: 2025-11-18 02:08:51 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -72695,6 +72695,7 @@
 ||tr-eu.adsmoloco.com^
 ||tr-gmtdmp.mookie1.com^
 ||tr-op.datatrics.com^
+||tr-red.lamanoqueayuda.org^
 ||tr-reshift.datatrics.com^
 ||tr-romsp-unifyconfig.vivoglobal.com^
 ||tr-st-sl.vivoglobal.com^
