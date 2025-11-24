@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 109553
-! Updated: 2025-11-23 02:14:36 UTC
+! Entries: 109554
+! Updated: 2025-11-24 02:12:04 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -60128,6 +60128,7 @@
 ||showsplash.com^
 ||showup-tv.com.pl^
 ||shqdown.ggzuhao.com^
+||shredform.com^
 ||shrek.6.cn^
 ||shrillspoon.com^
 ||shrimpsqueezed.com^

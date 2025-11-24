@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 109551
-# Updated: 2025-11-23 01:27:25 UTC
+# Entries: 109552
+# Updated: 2025-11-24 01:24:54 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -60127,6 +60127,7 @@ address=/showshard.com/0.0.0.0
 address=/showsplash.com/0.0.0.0
 address=/showup-tv.com.pl/0.0.0.0
 address=/shqdown.ggzuhao.com/0.0.0.0
+address=/shredform.com/0.0.0.0
 address=/shrek.6.cn/0.0.0.0
 address=/shrillspoon.com/0.0.0.0
 address=/shrimpsqueezed.com/0.0.0.0
