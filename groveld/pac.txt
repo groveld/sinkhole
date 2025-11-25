@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 109554
-// Updated: 2025-11-24 02:12:04 UTC
+// Entries: 109555
+// Updated: 2025-11-25 02:08:20 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -31944,6 +31944,7 @@ var BLOCKLIST = {
 "fonksiyoneltipzirvesi.com":null,
 "fontostudni.club":null,
 "fonts.ad.admitad.com":null,
+"fontserif.com":null,
 "foo.cosmocode.de":null,
 "food-offer.com":null,
 "foodandcot.com":null,
