@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 109555
-# Updated: 2025-11-25 02:08:20 UTC
+# Entries: 109556
+# Updated: 2025-11-26 02:09:42 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -55535,6 +55535,7 @@
 0.0.0.0 r.clickdensity.com
 0.0.0.0 r.clicktale.net
 0.0.0.0 r.dir.bg
+0.0.0.0 r.drinksdirect.net
 0.0.0.0 r.eclick.vn
 0.0.0.0 r.edge.inmobicdn.com
 0.0.0.0 r.ibg.bg

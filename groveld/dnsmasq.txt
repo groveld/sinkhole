@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 109555
-# Updated: 2025-11-25 02:08:20 UTC
+# Entries: 109556
+# Updated: 2025-11-26 02:09:42 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -55535,6 +55535,7 @@ address=/r.chitika.net/0.0.0.0
 address=/r.clickdensity.com/0.0.0.0
 address=/r.clicktale.net/0.0.0.0
 address=/r.dir.bg/0.0.0.0
+address=/r.drinksdirect.net/0.0.0.0
 address=/r.eclick.vn/0.0.0.0
 address=/r.edge.inmobicdn.com/0.0.0.0
 address=/r.ibg.bg/0.0.0.0
