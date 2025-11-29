@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 100509
-# Updated: 2025-11-28 01:21:21 UTC
+# Entries: 100511
+# Updated: 2025-11-29 01:21:08 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10997,6 +10997,7 @@
 0.0.0.0 aens.net
 0.0.0.0 aenta.com
 0.0.0.0 aeps.112.2o7.net
+0.0.0.0 aerialapps.com
 0.0.0.0 aerlingus2.solution.weborama.fr
 0.0.0.0 aerochems.com
 0.0.0.0 aerserv.com
@@ -48195,6 +48196,7 @@
 0.0.0.0 p_third.advertmedias.com
 0.0.0.0 p_third.apsmediaagency.com
 0.0.0.0 p_third.cpmtrafficker.com
+0.0.0.0 pa-cd.com
 0.0.0.0 pa-voyance.fr
 0.0.0.0 pa.5.p2l.info
 0.0.0.0 pa.wme.catchmedia.com

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 100511
-// Updated: 2025-11-28 02:08:31 UTC
+// Entries: 100513
+// Updated: 2025-11-29 02:08:19 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10998,6 +10998,7 @@ var BLOCKLIST = {
 "aens.net":null,
 "aenta.com":null,
 "aeps.112.2o7.net":null,
+"aerialapps.com":null,
 "aerlingus2.solution.weborama.fr":null,
 "aerochems.com":null,
 "aerserv.com":null,
@@ -48197,6 +48198,7 @@ var BLOCKLIST = {
 "p_third.advertmedias.com":null,
 "p_third.apsmediaagency.com":null,
 "p_third.cpmtrafficker.com":null,
+"pa-cd.com":null,
 "pa-voyance.fr":null,
 "pa.5.p2l.info":null,
 "pa.wme.catchmedia.com":null,
