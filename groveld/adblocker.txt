@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 85411
-! Updated: 2025-11-30 02:14:17 UTC
+! Entries: 85421
+! Updated: 2025-12-01 02:18:00 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17924,6 +17924,10 @@
 ||dbg52463.moatads.com^
 ||dbhyrykb.space^
 ||dbios.org^
+||dbl.oisd.nl^
+||dbl2.oisd.nl^
+||dblmobile.oisd.nl^
+||dblzero.oisd.nl^
 ||dbrvwhskbf2dh.lat^
 ||dbs.pushwoosh.com^
 ||dbta.ero-advertising.com^
@@ -20941,6 +20945,7 @@
 ||essaouirahammam.com^
 ||essayconsultant.com^
 ||essayer.ch^
+||essaygiants.com^
 ||essenceinfo.info^
 ||essentialnewspack.pro^
 ||essenzfinaxis.com^
@@ -26392,6 +26397,8 @@
 ||hostingfreelife.com^
 ||hostingprod.com^
 ||hostpowermedium.112.2o7.net^
+||hosts.oisd.nl^
+||hostsmobile.oisd.nl^
 ||hostujmy.pl^
 ||hot-bot.com^
 ||hot-mob.com^
@@ -32214,6 +32221,7 @@
 ||louisvil.app.ur.gcion.com^
 ||louisvil.ur.gcion.com^
 ||lovable24.click^
+||love-quest.blog^
 ||love.cityads.com^
 ||loveaholics.com^
 ||lovedonesproducts.com^
@@ -38328,6 +38336,7 @@
 ||paas-push-api-log.immomo.com^
 ||paas-push-api.immomo.com^
 ||pabonoo3.com^
+||pac.oisd.nl^
 ||pacacademia.com^
 ||pacific-poker.e-online-poker-4u.net^
 ||pacificlifereprod.112.2o7.net^
@@ -46082,6 +46091,7 @@
 ||shkeant.pro^
 ||shlinks.industrybrains.com^
 ||shltkoftey.store^
+||shnfpdbl.oisd.nl^
 ||shoalike.fr^
 ||shobarcar.com^
 ||shockgore.com^

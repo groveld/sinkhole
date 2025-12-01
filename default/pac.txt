@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 85409
-// Updated: 2025-11-30 01:27:07 UTC
+// Entries: 85419
+// Updated: 2025-12-01 01:30:49 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17925,6 +17925,10 @@ var BLOCKLIST = {
 "dbg52463.moatads.com":null,
 "dbhyrykb.space":null,
 "dbios.org":null,
+"dbl.oisd.nl":null,
+"dbl2.oisd.nl":null,
+"dblmobile.oisd.nl":null,
+"dblzero.oisd.nl":null,
 "dbrvwhskbf2dh.lat":null,
 "dbs.pushwoosh.com":null,
 "dbta.ero-advertising.com":null,
@@ -20942,6 +20946,7 @@ var BLOCKLIST = {
 "essaouirahammam.com":null,
 "essayconsultant.com":null,
 "essayer.ch":null,
+"essaygiants.com":null,
 "essenceinfo.info":null,
 "essentialnewspack.pro":null,
 "essenzfinaxis.com":null,
@@ -26392,6 +26397,8 @@ var BLOCKLIST = {
 "hostingfreelife.com":null,
 "hostingprod.com":null,
 "hostpowermedium.112.2o7.net":null,
+"hosts.oisd.nl":null,
+"hostsmobile.oisd.nl":null,
 "hostujmy.pl":null,
 "hot-bot.com":null,
 "hot-mob.com":null,
@@ -32214,6 +32221,7 @@ var BLOCKLIST = {
 "louisvil.app.ur.gcion.com":null,
 "louisvil.ur.gcion.com":null,
 "lovable24.click":null,
+"love-quest.blog":null,
 "love.cityads.com":null,
 "loveaholics.com":null,
 "lovedonesproducts.com":null,
@@ -38328,6 +38336,7 @@ var BLOCKLIST = {
 "paas-push-api-log.immomo.com":null,
 "paas-push-api.immomo.com":null,
 "pabonoo3.com":null,
+"pac.oisd.nl":null,
 "pacacademia.com":null,
 "pacific-poker.e-online-poker-4u.net":null,
 "pacificlifereprod.112.2o7.net":null,
@@ -46082,6 +46091,7 @@ var BLOCKLIST = {
 "shkeant.pro":null,
 "shlinks.industrybrains.com":null,
 "shltkoftey.store":null,
+"shnfpdbl.oisd.nl":null,
 "shoalike.fr":null,
 "shobarcar.com":null,
 "shockgore.com":null,

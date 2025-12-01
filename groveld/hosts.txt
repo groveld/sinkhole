@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 85411
-# Updated: 2025-11-30 02:14:17 UTC
+# Entries: 85421
+# Updated: 2025-12-01 02:18:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17924,6 +17924,10 @@
 0.0.0.0 dbg52463.moatads.com
 0.0.0.0 dbhyrykb.space
 0.0.0.0 dbios.org
+0.0.0.0 dbl.oisd.nl
+0.0.0.0 dbl2.oisd.nl
+0.0.0.0 dblmobile.oisd.nl
+0.0.0.0 dblzero.oisd.nl
 0.0.0.0 dbrvwhskbf2dh.lat
 0.0.0.0 dbs.pushwoosh.com
 0.0.0.0 dbta.ero-advertising.com
@@ -20941,6 +20945,7 @@
 0.0.0.0 essaouirahammam.com
 0.0.0.0 essayconsultant.com
 0.0.0.0 essayer.ch
+0.0.0.0 essaygiants.com
 0.0.0.0 essenceinfo.info
 0.0.0.0 essentialnewspack.pro
 0.0.0.0 essenzfinaxis.com
@@ -26392,6 +26397,8 @@
 0.0.0.0 hostingfreelife.com
 0.0.0.0 hostingprod.com
 0.0.0.0 hostpowermedium.112.2o7.net
+0.0.0.0 hosts.oisd.nl
+0.0.0.0 hostsmobile.oisd.nl
 0.0.0.0 hostujmy.pl
 0.0.0.0 hot-bot.com
 0.0.0.0 hot-mob.com
@@ -32214,6 +32221,7 @@
 0.0.0.0 louisvil.app.ur.gcion.com
 0.0.0.0 louisvil.ur.gcion.com
 0.0.0.0 lovable24.click
+0.0.0.0 love-quest.blog
 0.0.0.0 love.cityads.com
 0.0.0.0 loveaholics.com
 0.0.0.0 lovedonesproducts.com
@@ -38328,6 +38336,7 @@
 0.0.0.0 paas-push-api-log.immomo.com
 0.0.0.0 paas-push-api.immomo.com
 0.0.0.0 pabonoo3.com
+0.0.0.0 pac.oisd.nl
 0.0.0.0 pacacademia.com
 0.0.0.0 pacific-poker.e-online-poker-4u.net
 0.0.0.0 pacificlifereprod.112.2o7.net
@@ -46082,6 +46091,7 @@
 0.0.0.0 shkeant.pro
 0.0.0.0 shlinks.industrybrains.com
 0.0.0.0 shltkoftey.store
+0.0.0.0 shnfpdbl.oisd.nl
 0.0.0.0 shoalike.fr
 0.0.0.0 shobarcar.com
 0.0.0.0 shockgore.com

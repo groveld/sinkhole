@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 85409
-# Updated: 2025-11-30 01:27:07 UTC
+# Entries: 85419
+# Updated: 2025-12-01 01:30:49 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -17924,6 +17924,10 @@ address=/dbdtp.online/0.0.0.0
 address=/dbg52463.moatads.com/0.0.0.0
 address=/dbhyrykb.space/0.0.0.0
 address=/dbios.org/0.0.0.0
+address=/dbl.oisd.nl/0.0.0.0
+address=/dbl2.oisd.nl/0.0.0.0
+address=/dblmobile.oisd.nl/0.0.0.0
+address=/dblzero.oisd.nl/0.0.0.0
 address=/dbrvwhskbf2dh.lat/0.0.0.0
 address=/dbs.pushwoosh.com/0.0.0.0
 address=/dbta.ero-advertising.com/0.0.0.0
@@ -20941,6 +20945,7 @@ address=/esrasezis.org/0.0.0.0
 address=/essaouirahammam.com/0.0.0.0
 address=/essayconsultant.com/0.0.0.0
 address=/essayer.ch/0.0.0.0
+address=/essaygiants.com/0.0.0.0
 address=/essenceinfo.info/0.0.0.0
 address=/essentialnewspack.pro/0.0.0.0
 address=/essenzfinaxis.com/0.0.0.0
@@ -26391,6 +26396,8 @@ address=/hosting.sextracker.com/0.0.0.0
 address=/hostingfreelife.com/0.0.0.0
 address=/hostingprod.com/0.0.0.0
 address=/hostpowermedium.112.2o7.net/0.0.0.0
+address=/hosts.oisd.nl/0.0.0.0
+address=/hostsmobile.oisd.nl/0.0.0.0
 address=/hostujmy.pl/0.0.0.0
 address=/hot-bot.com/0.0.0.0
 address=/hot-mob.com/0.0.0.0
@@ -32213,6 +32220,7 @@ address=/louis-360.com/0.0.0.0
 address=/louisvil.app.ur.gcion.com/0.0.0.0
 address=/louisvil.ur.gcion.com/0.0.0.0
 address=/lovable24.click/0.0.0.0
+address=/love-quest.blog/0.0.0.0
 address=/love.cityads.com/0.0.0.0
 address=/loveaholics.com/0.0.0.0
 address=/lovedonesproducts.com/0.0.0.0
@@ -38327,6 +38335,7 @@ address=/paalp.fr/0.0.0.0
 address=/paas-push-api-log.immomo.com/0.0.0.0
 address=/paas-push-api.immomo.com/0.0.0.0
 address=/pabonoo3.com/0.0.0.0
+address=/pac.oisd.nl/0.0.0.0
 address=/pacacademia.com/0.0.0.0
 address=/pacific-poker.e-online-poker-4u.net/0.0.0.0
 address=/pacificlifereprod.112.2o7.net/0.0.0.0
@@ -46081,6 +46090,7 @@ address=/shjbes05.com/0.0.0.0
 address=/shkeant.pro/0.0.0.0
 address=/shlinks.industrybrains.com/0.0.0.0
 address=/shltkoftey.store/0.0.0.0
+address=/shnfpdbl.oisd.nl/0.0.0.0
 address=/shoalike.fr/0.0.0.0
 address=/shobarcar.com/0.0.0.0
 address=/shockgore.com/0.0.0.0
