@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 96637
-# Updated: 2025-12-02 02:10:37 UTC
+# Entries: 96638
+# Updated: 2025-12-03 02:09:53 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -61909,6 +61909,7 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.sitetag.us
 0.0.0.0 track.smaato.net
+0.0.0.0 track.smtpmessage.com
 0.0.0.0 track.software-codes.com
 0.0.0.0 track.spe.schoolmessenger.com
 0.0.0.0 track.special-promotions.online
