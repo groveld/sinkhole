@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 86880
-# Updated: 2025-12-07 02:14:29 UTC
+# Entries: 86872
+# Updated: 2025-12-08 02:10:56 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18217,10 +18217,6 @@
 0.0.0.0 dbgtty.top
 0.0.0.0 dbhyrykb.space
 0.0.0.0 dbios.org
-0.0.0.0 dbl.oisd.nl
-0.0.0.0 dbl2.oisd.nl
-0.0.0.0 dblmobile.oisd.nl
-0.0.0.0 dblzero.oisd.nl
 0.0.0.0 dbmenerji.com
 0.0.0.0 dbrvwhskbf2dh.lat
 0.0.0.0 dbs.pushwoosh.com
@@ -26850,8 +26846,6 @@
 0.0.0.0 hostingfreelife.com
 0.0.0.0 hostingprod.com
 0.0.0.0 hostpowermedium.112.2o7.net
-0.0.0.0 hosts.oisd.nl
-0.0.0.0 hostsmobile.oisd.nl
 0.0.0.0 hostujmy.pl
 0.0.0.0 hot-bot.com
 0.0.0.0 hot-mob.com
@@ -38969,7 +38963,6 @@
 0.0.0.0 paas-push-api-log.immomo.com
 0.0.0.0 paas-push-api.immomo.com
 0.0.0.0 pabonoo3.com
-0.0.0.0 pac.oisd.nl
 0.0.0.0 pacacademia.com
 0.0.0.0 pacefuo.com
 0.0.0.0 pacestr.komisiok.com
@@ -46826,7 +46819,6 @@
 0.0.0.0 shkeant.pro
 0.0.0.0 shlinks.industrybrains.com
 0.0.0.0 shltkoftey.store
-0.0.0.0 shnfpdbl.oisd.nl
 0.0.0.0 shoalike.fr
 0.0.0.0 shobarcar.com
 0.0.0.0 shockgore.com

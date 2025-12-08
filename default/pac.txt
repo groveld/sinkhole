@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 86878
-// Updated: 2025-12-07 01:27:19 UTC
+// Entries: 86870
+// Updated: 2025-12-08 01:23:45 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18218,10 +18218,6 @@ var BLOCKLIST = {
 "dbgtty.top":null,
 "dbhyrykb.space":null,
 "dbios.org":null,
-"dbl.oisd.nl":null,
-"dbl2.oisd.nl":null,
-"dblmobile.oisd.nl":null,
-"dblzero.oisd.nl":null,
 "dbmenerji.com":null,
 "dbrvwhskbf2dh.lat":null,
 "dbs.pushwoosh.com":null,
@@ -26850,8 +26846,6 @@ var BLOCKLIST = {
 "hostingfreelife.com":null,
 "hostingprod.com":null,
 "hostpowermedium.112.2o7.net":null,
-"hosts.oisd.nl":null,
-"hostsmobile.oisd.nl":null,
 "hostujmy.pl":null,
 "hot-bot.com":null,
 "hot-mob.com":null,
@@ -38969,7 +38963,6 @@ var BLOCKLIST = {
 "paas-push-api-log.immomo.com":null,
 "paas-push-api.immomo.com":null,
 "pabonoo3.com":null,
-"pac.oisd.nl":null,
 "pacacademia.com":null,
 "pacefuo.com":null,
 "pacestr.komisiok.com":null,
@@ -46826,7 +46819,6 @@ var BLOCKLIST = {
 "shkeant.pro":null,
 "shlinks.industrybrains.com":null,
 "shltkoftey.store":null,
-"shnfpdbl.oisd.nl":null,
 "shoalike.fr":null,
 "shobarcar.com":null,
 "shockgore.com":null,
