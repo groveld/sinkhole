@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 99126
-# Updated: 2025-12-16 02:11:34 UTC
+# Entries: 99128
+# Updated: 2025-12-17 02:09:41 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -34410,6 +34410,7 @@ haydisanat.com
 hayeselsa.shop
 haymarketbusinesspublications.122.2o7.net
 haynet.adbureau.net
+hayweb.net
 hazatleshay.com
 haze.hiiistorm.ru
 hazel-projektowanie.com.pl
@@ -34760,6 +34761,7 @@ highlandcapital.mom
 highlandfleece.com
 highlandschainixapp.net
 highlandscoffee.adsota.com
+highnoongear.com
 highpeakzenix-app.com
 highpointventures.mom
 highpro1.com
