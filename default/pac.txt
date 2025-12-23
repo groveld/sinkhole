@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 100957
-// Updated: 2025-12-22 01:26:29 UTC
+// Entries: 100959
+// Updated: 2025-12-23 01:24:00 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -62748,6 +62748,7 @@ var BLOCKLIST = {
 "theadex.com":null,
 "theadhost.com":null,
 "theads.me":null,
+"theadsparks.com":null,
 "theadvertiser.us.intellitxt.com":null,
 "theadvocate-d.openx.net":null,
 "theamazingmagiccompany.com":null,
@@ -79220,6 +79221,7 @@ var BLOCKLIST = {
 "www.fhatfee.ero-advertising.com":null,
 "www.fhgfffdsf9.appspot.com":null,
 "www.fhserve.com":null,
+"www.fhtmmeeting.com":null,
 "www.fi88t.online":null,
 "www.fiammgasse.digital":null,
 "www.fibernetim.net":null,
