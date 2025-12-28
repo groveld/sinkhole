@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 99290
-# Updated: 2025-12-27 02:10:33 UTC
+# Entries: 99292
+# Updated: 2025-12-28 02:16:32 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -13597,6 +13597,7 @@ address=/api.adtima.vn/0.0.0.0
 address=/api.adtimaserver.vn/0.0.0.0
 address=/api.adtrade.com/0.0.0.0
 address=/api.adviad.com/0.0.0.0
+address=/api.affiliations.site/0.0.0.0
 address=/api.affinesystems.com/0.0.0.0
 address=/api.affmates.com/0.0.0.0
 address=/api.airpush.com/0.0.0.0
@@ -98584,6 +98585,7 @@ address=/yourgiftzone.com/0.0.0.0
 address=/yourgodess.com/0.0.0.0
 address=/yourhealthturkey.com/0.0.0.0
 address=/youripad4free.com/0.0.0.0
+address=/yourofficialsurveysplace.store/0.0.0.0
 address=/youronlinesoft.com/0.0.0.0
 address=/yourrewardzone.com/0.0.0.0
 address=/yourshoppingsecrets.com/0.0.0.0

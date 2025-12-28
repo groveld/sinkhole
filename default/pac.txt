@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 99288
-// Updated: 2025-12-27 01:23:23 UTC
+// Entries: 99290
+// Updated: 2025-12-28 01:29:22 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -13598,6 +13598,7 @@ var BLOCKLIST = {
 "api.adtimaserver.vn":null,
 "api.adtrade.com":null,
 "api.adviad.com":null,
+"api.affiliations.site":null,
 "api.affinesystems.com":null,
 "api.affmates.com":null,
 "api.airpush.com":null,
@@ -98583,6 +98584,7 @@ var BLOCKLIST = {
 "yourgodess.com":null,
 "yourhealthturkey.com":null,
 "youripad4free.com":null,
+"yourofficialsurveysplace.store":null,
 "youronlinesoft.com":null,
 "yourrewardzone.com":null,
 "yourshoppingsecrets.com":null,

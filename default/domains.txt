@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 99288
-# Updated: 2025-12-27 01:23:23 UTC
+# Entries: 99290
+# Updated: 2025-12-28 01:29:22 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -13597,6 +13597,7 @@ api.adtima.vn
 api.adtimaserver.vn
 api.adtrade.com
 api.adviad.com
+api.affiliations.site
 api.affinesystems.com
 api.affmates.com
 api.airpush.com
@@ -98582,6 +98583,7 @@ yourgiftzone.com
 yourgodess.com
 yourhealthturkey.com
 youripad4free.com
+yourofficialsurveysplace.store
 youronlinesoft.com
 yourrewardzone.com
 yourshoppingsecrets.com
