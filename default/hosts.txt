@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 99290
-# Updated: 2025-12-29 01:27:58 UTC
+# Entries: 99296
+# Updated: 2025-12-30 01:24:08 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23286,6 +23286,7 @@
 0.0.0.0 colorfulnotebooks.com
 0.0.0.0 colorfulpet.com
 0.0.0.0 colorking.es
+0.0.0.0 coloroptimizer.com
 0.0.0.0 colorsoflife.online
 0.0.0.0 colorwhisperer.org
 0.0.0.0 colossalpreciousdust.com
@@ -23636,6 +23637,7 @@
 0.0.0.0 contennt-hubx.icu
 0.0.0.0 content-ads.impactengine.com
 0.0.0.0 content-cdn.swrve.com
+0.0.0.0 content-loader.com
 0.0.0.0 content-ml.admicro.vn
 0.0.0.0 content-prod3.glance-internal.inmobi.com
 0.0.0.0 content-rannk.digital
@@ -26528,6 +26530,7 @@
 0.0.0.0 dir.opank.com
 0.0.0.0 dirbg.hit.gemius.pl
 0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 direct-promo.pro
 0.0.0.0 direct-re2.pl
 0.0.0.0 direct-space.com
 0.0.0.0 direct-xxx-access.com
@@ -31780,6 +31783,7 @@
 0.0.0.0 fuckmebook.com
 0.0.0.0 fuckworld.com
 0.0.0.0 fucossvent.pro
+0.0.0.0 fudgegenie.com
 0.0.0.0 fudonia.xyz
 0.0.0.0 fuelbuck.com
 0.0.0.0 fuelstat-solution.com
@@ -31802,6 +31806,7 @@
 0.0.0.0 fulldownload.pl
 0.0.0.0 fullgamingacc.com
 0.0.0.0 fullplayer.pl
+0.0.0.0 fullrestore.net
 0.0.0.0 fullrss.net
 0.0.0.0 fullstacknir.com
 0.0.0.0 fullstory.com
@@ -55033,6 +55038,7 @@
 0.0.0.0 safebrowse.com
 0.0.0.0 safedownloadsrus157.com
 0.0.0.0 safemobilelink.com
+0.0.0.0 safeoffers.pro
 0.0.0.0 safepay2.interactivebrands.com
 0.0.0.0 safepccleaner.com
 0.0.0.0 safetyccamera.lat

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 99292
-# Updated: 2025-12-29 02:15:08 UTC
+# Entries: 99298
+# Updated: 2025-12-30 02:11:18 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23286,6 +23286,7 @@ address=/colorfuldress.store/0.0.0.0
 address=/colorfulnotebooks.com/0.0.0.0
 address=/colorfulpet.com/0.0.0.0
 address=/colorking.es/0.0.0.0
+address=/coloroptimizer.com/0.0.0.0
 address=/colorsoflife.online/0.0.0.0
 address=/colorwhisperer.org/0.0.0.0
 address=/colossalpreciousdust.com/0.0.0.0
@@ -23636,6 +23637,7 @@ address=/contempojewellery.com/0.0.0.0
 address=/contennt-hubx.icu/0.0.0.0
 address=/content-ads.impactengine.com/0.0.0.0
 address=/content-cdn.swrve.com/0.0.0.0
+address=/content-loader.com/0.0.0.0
 address=/content-ml.admicro.vn/0.0.0.0
 address=/content-prod3.glance-internal.inmobi.com/0.0.0.0
 address=/content-rannk.digital/0.0.0.0
@@ -26528,6 +26530,7 @@ address=/dippy1dot.info/0.0.0.0
 address=/dir.opank.com/0.0.0.0
 address=/dirbg.hit.gemius.pl/0.0.0.0
 address=/direct-events-collector.spot.im/0.0.0.0
+address=/direct-promo.pro/0.0.0.0
 address=/direct-re2.pl/0.0.0.0
 address=/direct-space.com/0.0.0.0
 address=/direct-xxx-access.com/0.0.0.0
@@ -31780,6 +31783,7 @@ address=/fuckforfree.com/0.0.0.0
 address=/fuckmebook.com/0.0.0.0
 address=/fuckworld.com/0.0.0.0
 address=/fucossvent.pro/0.0.0.0
+address=/fudgegenie.com/0.0.0.0
 address=/fudonia.xyz/0.0.0.0
 address=/fuelbuck.com/0.0.0.0
 address=/fuelstat-solution.com/0.0.0.0
@@ -31802,6 +31806,7 @@ address=/fulgorluxentsolution.com/0.0.0.0
 address=/fulldownload.pl/0.0.0.0
 address=/fullgamingacc.com/0.0.0.0
 address=/fullplayer.pl/0.0.0.0
+address=/fullrestore.net/0.0.0.0
 address=/fullrss.net/0.0.0.0
 address=/fullstacknir.com/0.0.0.0
 address=/fullstory.com/0.0.0.0
@@ -55034,6 +55039,7 @@ address=/safeashouses-book.com/0.0.0.0
 address=/safebrowse.com/0.0.0.0
 address=/safedownloadsrus157.com/0.0.0.0
 address=/safemobilelink.com/0.0.0.0
+address=/safeoffers.pro/0.0.0.0
 address=/safepay2.interactivebrands.com/0.0.0.0
 address=/safepccleaner.com/0.0.0.0
 address=/safetyccamera.lat/0.0.0.0

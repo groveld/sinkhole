@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 99292
-// Updated: 2025-12-29 02:15:08 UTC
+// Entries: 99298
+// Updated: 2025-12-30 02:11:18 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23287,6 +23287,7 @@ var BLOCKLIST = {
 "colorfulnotebooks.com":null,
 "colorfulpet.com":null,
 "colorking.es":null,
+"coloroptimizer.com":null,
 "colorsoflife.online":null,
 "colorwhisperer.org":null,
 "colossalpreciousdust.com":null,
@@ -23637,6 +23638,7 @@ var BLOCKLIST = {
 "contennt-hubx.icu":null,
 "content-ads.impactengine.com":null,
 "content-cdn.swrve.com":null,
+"content-loader.com":null,
 "content-ml.admicro.vn":null,
 "content-prod3.glance-internal.inmobi.com":null,
 "content-rannk.digital":null,
@@ -26529,6 +26531,7 @@ var BLOCKLIST = {
 "dir.opank.com":null,
 "dirbg.hit.gemius.pl":null,
 "direct-events-collector.spot.im":null,
+"direct-promo.pro":null,
 "direct-re2.pl":null,
 "direct-space.com":null,
 "direct-xxx-access.com":null,
@@ -31781,6 +31784,7 @@ var BLOCKLIST = {
 "fuckmebook.com":null,
 "fuckworld.com":null,
 "fucossvent.pro":null,
+"fudgegenie.com":null,
 "fudonia.xyz":null,
 "fuelbuck.com":null,
 "fuelstat-solution.com":null,
@@ -31803,6 +31807,7 @@ var BLOCKLIST = {
 "fulldownload.pl":null,
 "fullgamingacc.com":null,
 "fullplayer.pl":null,
+"fullrestore.net":null,
 "fullrss.net":null,
 "fullstacknir.com":null,
 "fullstory.com":null,
@@ -55035,6 +55040,7 @@ var BLOCKLIST = {
 "safebrowse.com":null,
 "safedownloadsrus157.com":null,
 "safemobilelink.com":null,
+"safeoffers.pro":null,
 "safepay2.interactivebrands.com":null,
 "safepccleaner.com":null,
 "safetyccamera.lat":null,
