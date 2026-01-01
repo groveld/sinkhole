@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 99296
-# Updated: 2025-12-31 01:24:46 UTC
+# Entries: 99300
+# Updated: 2026-01-01 01:30:02 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16372,6 +16372,7 @@ base-cdn.admarvel.com
 base-vod.pl
 basebanner.com
 basecamp-shop.com
+baselabo.heteml.net
 baselinemag.us.intellitxt.com
 baselinerosatis.com
 basemultimedia.com
@@ -22561,6 +22562,7 @@ clicklog.info
 clickmedia.ro
 clickmeter.com
 clickngo.pro
+clickngo.top
 clickonometrics.pl
 clickratex.click
 clickretent.shop
@@ -41416,6 +41418,7 @@ lowejet.chen-group.com
 lowervalues.com
 lowes.tt.omtrdc.net
 lowest-price.eu
+lowest-prices.eu
 lowhavenstone.world
 lowisko-podolsze.pl
 lowlandwhiskyfestival.com
@@ -48323,6 +48326,7 @@ pafnel.cask-wander.ru
 pafqud.g2un7makeup.ru
 pagamentoprotegidocheck.shop
 pagazx.com
+page-checker.eu
 page-host.net
 page-info.com
 page-not-found.net

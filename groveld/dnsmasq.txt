@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 99298
-# Updated: 2025-12-31 02:11:56 UTC
+# Entries: 99302
+# Updated: 2026-01-01 02:17:12 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16372,6 +16372,7 @@ address=/base-cdn.admarvel.com/0.0.0.0
 address=/base-vod.pl/0.0.0.0
 address=/basebanner.com/0.0.0.0
 address=/basecamp-shop.com/0.0.0.0
+address=/baselabo.heteml.net/0.0.0.0
 address=/baselinemag.us.intellitxt.com/0.0.0.0
 address=/baselinerosatis.com/0.0.0.0
 address=/basemultimedia.com/0.0.0.0
@@ -22561,6 +22562,7 @@ address=/clicklog.info/0.0.0.0
 address=/clickmedia.ro/0.0.0.0
 address=/clickmeter.com/0.0.0.0
 address=/clickngo.pro/0.0.0.0
+address=/clickngo.top/0.0.0.0
 address=/clickonometrics.pl/0.0.0.0
 address=/clickratex.click/0.0.0.0
 address=/clickretent.shop/0.0.0.0
@@ -41417,6 +41419,7 @@ address=/lowejet.chen-group.com/0.0.0.0
 address=/lowervalues.com/0.0.0.0
 address=/lowes.tt.omtrdc.net/0.0.0.0
 address=/lowest-price.eu/0.0.0.0
+address=/lowest-prices.eu/0.0.0.0
 address=/lowhavenstone.world/0.0.0.0
 address=/lowisko-podolsze.pl/0.0.0.0
 address=/lowlandwhiskyfestival.com/0.0.0.0
@@ -48324,6 +48327,7 @@ address=/pafnel.cask-wander.ru/0.0.0.0
 address=/pafqud.g2un7makeup.ru/0.0.0.0
 address=/pagamentoprotegidocheck.shop/0.0.0.0
 address=/pagazx.com/0.0.0.0
+address=/page-checker.eu/0.0.0.0
 address=/page-host.net/0.0.0.0
 address=/page-info.com/0.0.0.0
 address=/page-not-found.net/0.0.0.0
