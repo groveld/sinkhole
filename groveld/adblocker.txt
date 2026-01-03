@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 95377
-! Updated: 2026-01-02 02:12:04 UTC
+! Entries: 95380
+! Updated: 2026-01-03 02:10:14 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14779,6 +14779,7 @@
 ||asy.a8ww.net^
 ||async-px-eu.dynamicyield.com^
 ||async-px.dynamicyield.com^
+||async.gsyndication.com^
 ||async01.admantx.com^
 ||at-adserver.alltop.com^
 ||at-o.net^
@@ -23444,6 +23445,7 @@
 ||coolgirl.biz^
 ||coolinc.info^
 ||coolkaba.com^
+||coolkidsdistrict.com^
 ||coollcoast.info^
 ||coolleaf.info^
 ||coolnovelties.co.uk^
@@ -24078,6 +24080,7 @@
 ||creativeteam.it^
 ||creativity-nodeix-ai.com^
 ||creativlonk.fr^
+||creatopy.net^
 ||crecimiento-glamvex-app.net^
 ||crecimiento-glowture.net^
 ||creda-home.com^

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 95375
-// Updated: 2026-01-02 01:24:54 UTC
+// Entries: 95378
+// Updated: 2026-01-03 01:23:03 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14780,6 +14780,7 @@ var BLOCKLIST = {
 "asy.a8ww.net":null,
 "async-px-eu.dynamicyield.com":null,
 "async-px.dynamicyield.com":null,
+"async.gsyndication.com":null,
 "async01.admantx.com":null,
 "at-adserver.alltop.com":null,
 "at-o.net":null,
@@ -23445,6 +23446,7 @@ var BLOCKLIST = {
 "coolgirl.biz":null,
 "coolinc.info":null,
 "coolkaba.com":null,
+"coolkidsdistrict.com":null,
 "coollcoast.info":null,
 "coolleaf.info":null,
 "coolnovelties.co.uk":null,
@@ -24079,6 +24081,7 @@ var BLOCKLIST = {
 "creativeteam.it":null,
 "creativity-nodeix-ai.com":null,
 "creativlonk.fr":null,
+"creatopy.net":null,
 "crecimiento-glamvex-app.net":null,
 "crecimiento-glowture.net":null,
 "creda-home.com":null,

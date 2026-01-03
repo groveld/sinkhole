@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 95375
-# Updated: 2026-01-02 01:24:54 UTC
+# Entries: 95378
+# Updated: 2026-01-03 01:23:03 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14779,6 +14779,7 @@ address=/aswpsdkus.com/0.0.0.0
 address=/asy.a8ww.net/0.0.0.0
 address=/async-px-eu.dynamicyield.com/0.0.0.0
 address=/async-px.dynamicyield.com/0.0.0.0
+address=/async.gsyndication.com/0.0.0.0
 address=/async01.admantx.com/0.0.0.0
 address=/at-adserver.alltop.com/0.0.0.0
 address=/at-o.net/0.0.0.0
@@ -23444,6 +23445,7 @@ address=/coolfreehost.com/0.0.0.0
 address=/coolgirl.biz/0.0.0.0
 address=/coolinc.info/0.0.0.0
 address=/coolkaba.com/0.0.0.0
+address=/coolkidsdistrict.com/0.0.0.0
 address=/coollcoast.info/0.0.0.0
 address=/coolleaf.info/0.0.0.0
 address=/coolnovelties.co.uk/0.0.0.0
@@ -24078,6 +24080,7 @@ address=/creatives.smadex.com/0.0.0.0
 address=/creativeteam.it/0.0.0.0
 address=/creativity-nodeix-ai.com/0.0.0.0
 address=/creativlonk.fr/0.0.0.0
+address=/creatopy.net/0.0.0.0
 address=/crecimiento-glamvex-app.net/0.0.0.0
 address=/crecimiento-glowture.net/0.0.0.0
 address=/creda-home.com/0.0.0.0

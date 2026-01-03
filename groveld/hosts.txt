@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 95377
-# Updated: 2026-01-02 02:12:04 UTC
+# Entries: 95380
+# Updated: 2026-01-03 02:10:14 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14779,6 +14779,7 @@
 0.0.0.0 asy.a8ww.net
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 async-px.dynamicyield.com
+0.0.0.0 async.gsyndication.com
 0.0.0.0 async01.admantx.com
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 at-o.net
@@ -23444,6 +23445,7 @@
 0.0.0.0 coolgirl.biz
 0.0.0.0 coolinc.info
 0.0.0.0 coolkaba.com
+0.0.0.0 coolkidsdistrict.com
 0.0.0.0 coollcoast.info
 0.0.0.0 coolleaf.info
 0.0.0.0 coolnovelties.co.uk
@@ -24078,6 +24080,7 @@
 0.0.0.0 creativeteam.it
 0.0.0.0 creativity-nodeix-ai.com
 0.0.0.0 creativlonk.fr
+0.0.0.0 creatopy.net
 0.0.0.0 crecimiento-glamvex-app.net
 0.0.0.0 crecimiento-glowture.net
 0.0.0.0 creda-home.com
