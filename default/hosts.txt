@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 92281
-# Updated: 2026-01-05 01:28:31 UTC
+# Entries: 92283
+# Updated: 2026-01-06 01:25:22 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -32375,6 +32375,7 @@
 0.0.0.0 groksmakina.com
 0.0.0.0 groodees.shop
 0.0.0.0 grooveshark.fr
+0.0.0.0 groovespacing.com
 0.0.0.0 groovy3lamp.info
 0.0.0.0 gross65.com
 0.0.0.0 grossiste3d.fr
@@ -41762,6 +41763,7 @@
 0.0.0.0 moralesmason.shop
 0.0.0.0 more-2-flirt.com
 0.0.0.0 morefastermac.trade
+0.0.0.0 morefolks.com
 0.0.0.0 morefreecamsecrets.com
 0.0.0.0 morehitserver.com
 0.0.0.0 morele.otttos-ch.sbs

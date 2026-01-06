@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 92283
-# Updated: 2026-01-05 02:15:41 UTC
+# Entries: 92285
+# Updated: 2026-01-06 02:12:32 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -32376,6 +32376,7 @@ address=/grokai-app.net/0.0.0.0
 address=/groksmakina.com/0.0.0.0
 address=/groodees.shop/0.0.0.0
 address=/grooveshark.fr/0.0.0.0
+address=/groovespacing.com/0.0.0.0
 address=/groovy3lamp.info/0.0.0.0
 address=/gross65.com/0.0.0.0
 address=/grossiste3d.fr/0.0.0.0
@@ -41763,6 +41764,7 @@ address=/moradu.com/0.0.0.0
 address=/moralesmason.shop/0.0.0.0
 address=/more-2-flirt.com/0.0.0.0
 address=/morefastermac.trade/0.0.0.0
+address=/morefolks.com/0.0.0.0
 address=/morefreecamsecrets.com/0.0.0.0
 address=/morehitserver.com/0.0.0.0
 address=/morele.otttos-ch.sbs/0.0.0.0
