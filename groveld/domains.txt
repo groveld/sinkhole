@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 92285
-# Updated: 2026-01-07 02:11:40 UTC
+# Entries: 92290
+# Updated: 2026-01-08 02:12:19 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6538,6 +6538,7 @@ adonweb.com
 adop.asia
 adop.cc
 adoperator.com
+adopsboost.com
 adopt.euroclick.com
 adopt.precisead.com
 adopt.specificclick.net
@@ -22748,6 +22749,7 @@ conferenceguideh.info
 confesfile.digital
 confg.fr
 confiant-integrations.global.ssl.fastly.net
+confiant-integrations.net
 confidencetalks.com
 config-ltvp.inmobi.com
 config.88-f.net
@@ -37571,6 +37573,7 @@ kuciditedhijeno.cloud
 kucukbutik.com
 kucukcekmecevidanjor.com
 kuder.fr
+kueezrtb.com
 kuhdi.com
 kuhimui.com
 kuikdelivery.com
@@ -45871,6 +45874,7 @@ p6.preppypm.com
 p69523.clksite.com
 p6f0ak.icu
 p7.preppypm.com
+p7cloud.net
 p8x4yt.sbs
 p_third.advertmedias.com
 p_third.apsmediaagency.com
@@ -54999,6 +55003,7 @@ smibs.112.2o7.net
 smicaval.fr
 smiercidata.5v.pl
 smile-angel.com
+smilewanted.com
 smilingcattle.com
 smincarus.world
 smithwick.net

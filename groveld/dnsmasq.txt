@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 92285
-# Updated: 2026-01-07 02:11:40 UTC
+# Entries: 92290
+# Updated: 2026-01-08 02:12:19 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6538,6 +6538,7 @@ address=/adonweb.com/0.0.0.0
 address=/adop.asia/0.0.0.0
 address=/adop.cc/0.0.0.0
 address=/adoperator.com/0.0.0.0
+address=/adopsboost.com/0.0.0.0
 address=/adopt.euroclick.com/0.0.0.0
 address=/adopt.precisead.com/0.0.0.0
 address=/adopt.specificclick.net/0.0.0.0
@@ -22748,6 +22749,7 @@ address=/conferenceguideh.info/0.0.0.0
 address=/confesfile.digital/0.0.0.0
 address=/confg.fr/0.0.0.0
 address=/confiant-integrations.global.ssl.fastly.net/0.0.0.0
+address=/confiant-integrations.net/0.0.0.0
 address=/confidencetalks.com/0.0.0.0
 address=/config-ltvp.inmobi.com/0.0.0.0
 address=/config.88-f.net/0.0.0.0
@@ -37571,6 +37573,7 @@ address=/kuciditedhijeno.cloud/0.0.0.0
 address=/kucukbutik.com/0.0.0.0
 address=/kucukcekmecevidanjor.com/0.0.0.0
 address=/kuder.fr/0.0.0.0
+address=/kueezrtb.com/0.0.0.0
 address=/kuhdi.com/0.0.0.0
 address=/kuhimui.com/0.0.0.0
 address=/kuikdelivery.com/0.0.0.0
@@ -45871,6 +45874,7 @@ address=/p6.preppypm.com/0.0.0.0
 address=/p69523.clksite.com/0.0.0.0
 address=/p6f0ak.icu/0.0.0.0
 address=/p7.preppypm.com/0.0.0.0
+address=/p7cloud.net/0.0.0.0
 address=/p8x4yt.sbs/0.0.0.0
 address=/p_third.advertmedias.com/0.0.0.0
 address=/p_third.apsmediaagency.com/0.0.0.0
@@ -54999,6 +55003,7 @@ address=/smibs.112.2o7.net/0.0.0.0
 address=/smicaval.fr/0.0.0.0
 address=/smiercidata.5v.pl/0.0.0.0
 address=/smile-angel.com/0.0.0.0
+address=/smilewanted.com/0.0.0.0
 address=/smilingcattle.com/0.0.0.0
 address=/smincarus.world/0.0.0.0
 address=/smithwick.net/0.0.0.0

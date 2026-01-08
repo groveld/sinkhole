@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 92285
-// Updated: 2026-01-07 02:11:40 UTC
+// Entries: 92290
+// Updated: 2026-01-08 02:12:19 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6539,6 +6539,7 @@ var BLOCKLIST = {
 "adop.asia":null,
 "adop.cc":null,
 "adoperator.com":null,
+"adopsboost.com":null,
 "adopt.euroclick.com":null,
 "adopt.precisead.com":null,
 "adopt.specificclick.net":null,
@@ -22749,6 +22750,7 @@ var BLOCKLIST = {
 "confesfile.digital":null,
 "confg.fr":null,
 "confiant-integrations.global.ssl.fastly.net":null,
+"confiant-integrations.net":null,
 "confidencetalks.com":null,
 "config-ltvp.inmobi.com":null,
 "config.88-f.net":null,
@@ -37572,6 +37574,7 @@ var BLOCKLIST = {
 "kucukbutik.com":null,
 "kucukcekmecevidanjor.com":null,
 "kuder.fr":null,
+"kueezrtb.com":null,
 "kuhdi.com":null,
 "kuhimui.com":null,
 "kuikdelivery.com":null,
@@ -45872,6 +45875,7 @@ var BLOCKLIST = {
 "p69523.clksite.com":null,
 "p6f0ak.icu":null,
 "p7.preppypm.com":null,
+"p7cloud.net":null,
 "p8x4yt.sbs":null,
 "p_third.advertmedias.com":null,
 "p_third.apsmediaagency.com":null,
@@ -55000,6 +55004,7 @@ var BLOCKLIST = {
 "smicaval.fr":null,
 "smiercidata.5v.pl":null,
 "smile-angel.com":null,
+"smilewanted.com":null,
 "smilingcattle.com":null,
 "smincarus.world":null,
 "smithwick.net":null,
