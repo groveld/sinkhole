@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 87819
-# Updated: 2026-01-09 02:12:12 UTC
+# Entries: 87825
+# Updated: 2026-01-10 02:11:50 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18648,6 +18648,7 @@ address=/bucket.cdnwebcloud.com/0.0.0.0
 address=/bucket.rtk.io/0.0.0.0
 address=/buckscountytaxattorney.com/0.0.0.0
 address=/budapest1873.net/0.0.0.0
+address=/buddycanvas.com/0.0.0.0
 address=/budgetcarhire.112.2o7.net/0.0.0.0
 address=/budgetmedicines.com/0.0.0.0
 address=/budgetwanderer355d.info/0.0.0.0
@@ -23616,6 +23617,7 @@ address=/customers.kameleoon.com/0.0.0.0
 address=/customersupporthelp.com/0.0.0.0
 address=/custometrackingservice.cc/0.0.0.0
 address=/customize.dtiserv.com/0.0.0.0
+address=/customsoftwaredeveloper.com.au/0.0.0.0
 address=/customtraffic.impactradius.com/0.0.0.0
 address=/cutebaitsforum.cc/0.0.0.0
 address=/cutecams.space/0.0.0.0
@@ -43117,6 +43119,7 @@ address=/oil-veltrix.net/0.0.0.0
 address=/oiltraderai.com/0.0.0.0
 address=/oimg.nbcuni.com/0.0.0.0
 address=/oimsgad.qq.com/0.0.0.0
+address=/ois.is/0.0.0.0
 address=/oiseau-perdu.fr/0.0.0.0
 address=/oix.com/0.0.0.0
 address=/oix.net/0.0.0.0
@@ -47350,6 +47353,7 @@ address=/prod.us-east-1.cxm-bcn.publisher-services.amazon.dev/0.0.0.0
 address=/prod.zenkube.com/0.0.0.0
 address=/prodcdn.playstream.media/0.0.0.0
 address=/prodealscenter.com/0.0.0.0
+address=/prodentim101.com/0.0.0.0
 address=/product-cdn.liftoff-creatives.io/0.0.0.0
 address=/product-reviews.uk.intellitxt.com/0.0.0.0
 address=/product.adingo.jp.eimg.jp/0.0.0.0
@@ -53521,6 +53525,7 @@ address=/soccerdiplomacy.org/0.0.0.0
 address=/soccergaming.us.intellitxt.com/0.0.0.0
 address=/socdm.com/0.0.0.0
 address=/sochr.com/0.0.0.0
+address=/sociagil.fr/0.0.0.0
 address=/social-runner.net/0.0.0.0
 address=/social.bidsystem.com/0.0.0.0
 address=/socialanxietysupport.us.intellitxt.com/0.0.0.0
@@ -67149,6 +67154,7 @@ address=/www.californiastateparks.com/0.0.0.0
 address=/www.calmretreat259d.info/0.0.0.0
 address=/www.calmretreat362d.info/0.0.0.0
 address=/www.calmretreat53d.info/0.0.0.0
+address=/www.calnanflack.com/0.0.0.0
 address=/www.calomlagne.sbs/0.0.0.0
 address=/www.calveroniduxa.cloud/0.0.0.0
 address=/www.calviappos.world/0.0.0.0

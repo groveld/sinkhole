@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 87819
-# Updated: 2026-01-09 02:12:12 UTC
+# Entries: 87825
+# Updated: 2026-01-10 02:11:50 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18648,6 +18648,7 @@
 0.0.0.0 bucket.rtk.io
 0.0.0.0 buckscountytaxattorney.com
 0.0.0.0 budapest1873.net
+0.0.0.0 buddycanvas.com
 0.0.0.0 budgetcarhire.112.2o7.net
 0.0.0.0 budgetmedicines.com
 0.0.0.0 budgetwanderer355d.info
@@ -23616,6 +23617,7 @@
 0.0.0.0 customersupporthelp.com
 0.0.0.0 custometrackingservice.cc
 0.0.0.0 customize.dtiserv.com
+0.0.0.0 customsoftwaredeveloper.com.au
 0.0.0.0 customtraffic.impactradius.com
 0.0.0.0 cutebaitsforum.cc
 0.0.0.0 cutecams.space
@@ -43117,6 +43119,7 @@
 0.0.0.0 oiltraderai.com
 0.0.0.0 oimg.nbcuni.com
 0.0.0.0 oimsgad.qq.com
+0.0.0.0 ois.is
 0.0.0.0 oiseau-perdu.fr
 0.0.0.0 oix.com
 0.0.0.0 oix.net
@@ -47350,6 +47353,7 @@
 0.0.0.0 prod.zenkube.com
 0.0.0.0 prodcdn.playstream.media
 0.0.0.0 prodealscenter.com
+0.0.0.0 prodentim101.com
 0.0.0.0 product-cdn.liftoff-creatives.io
 0.0.0.0 product-reviews.uk.intellitxt.com
 0.0.0.0 product.adingo.jp.eimg.jp
@@ -53521,6 +53525,7 @@
 0.0.0.0 soccergaming.us.intellitxt.com
 0.0.0.0 socdm.com
 0.0.0.0 sochr.com
+0.0.0.0 sociagil.fr
 0.0.0.0 social-runner.net
 0.0.0.0 social.bidsystem.com
 0.0.0.0 socialanxietysupport.us.intellitxt.com
@@ -67149,6 +67154,7 @@
 0.0.0.0 www.calmretreat259d.info
 0.0.0.0 www.calmretreat362d.info
 0.0.0.0 www.calmretreat53d.info
+0.0.0.0 www.calnanflack.com
 0.0.0.0 www.calomlagne.sbs
 0.0.0.0 www.calveroniduxa.cloud
 0.0.0.0 www.calviappos.world
