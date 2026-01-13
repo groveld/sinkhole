@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 86212
-# Updated: 2026-01-12 02:14:40 UTC
+# Entries: 86217
+# Updated: 2026-01-13 02:08:35 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26609,6 +26609,7 @@
 0.0.0.0 en.ultrex.ru
 0.0.0.0 en.xachinaproject.fun
 0.0.0.0 enablebrief.shop
+0.0.0.0 enablement.joethecpa.info
 0.0.0.0 enabler.datalake.mediaset.it
 0.0.0.0 enalytics.fr
 0.0.0.0 enappstat.xbext.com
@@ -44141,6 +44142,7 @@
 0.0.0.0 parachutehome.sjv.io
 0.0.0.0 paradanhaber.net
 0.0.0.0 parade.122.2o7.net
+0.0.0.0 paradise.homemortgageblog.info
 0.0.0.0 parado.pl
 0.0.0.0 parafiaukta.pl
 0.0.0.0 paragongrivex.com
@@ -44273,6 +44275,7 @@
 0.0.0.0 passiinfio.world
 0.0.0.0 passion-4.net
 0.0.0.0 passivemarcoanyhow.com
+0.0.0.0 passport.acla.org.cn
 0.0.0.0 passportindex.fr
 0.0.0.0 passpport.com
 0.0.0.0 pasta.da.duapps.com
@@ -58473,6 +58476,7 @@
 0.0.0.0 tubemogul154237275611.s.moatpixel.com
 0.0.0.0 tubemogulvideoint58768396734.s.moatpixel.com
 0.0.0.0 tubeololo.org
+0.0.0.0 tubero.ellystegge.info
 0.0.0.0 tubertermi.rest
 0.0.0.0 tubgirl.me
 0.0.0.0 tubgirl.org
@@ -59244,6 +59248,7 @@
 0.0.0.0 url-redirect.com
 0.0.0.0 url.adtrgt.com
 0.0.0.0 url2all.net
+0.0.0.0 url3781.host.inreception.com
 0.0.0.0 url9467.comms-2.zoopla.co.uk
 0.0.0.0 url9810.tokocrypto.com
 0.0.0.0 urlcash.net
