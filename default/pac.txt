@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 86172
-// Updated: 2026-01-14 01:26:37 UTC
+// Entries: 86174
+// Updated: 2026-01-15 01:22:26 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -54948,6 +54948,7 @@ var BLOCKLIST = {
 "sudokuwhiz.com":null,
 "suecepp.top":null,
 "sueddeut.ivwbox.de":null,
+"suenosurcolchones.com.ar.abakotest.com.ar":null,
 "suffrsetol.world":null,
 "sugarcraftcorner.com":null,
 "sugoicounter.com":null,
@@ -67782,6 +67783,7 @@ var BLOCKLIST = {
 "www.dehacimpol.rest":null,
 "www.deichmann.outlet-za.sbs":null,
 "www.deinhandwegweiser.ch":null,
+"www.dejamesertuvoz.com":null,
 "www.delcuera.com":null,
 "www.delegrispi.world":null,
 "www.deleosunmakinde.org":null,

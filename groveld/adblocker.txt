@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 86174
-! Updated: 2026-01-14 02:13:47 UTC
+! Entries: 86176
+! Updated: 2026-01-15 02:09:36 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -54948,6 +54948,7 @@
 ||sudokuwhiz.com^
 ||suecepp.top^
 ||sueddeut.ivwbox.de^
+||suenosurcolchones.com.ar.abakotest.com.ar^
 ||suffrsetol.world^
 ||sugarcraftcorner.com^
 ||sugoicounter.com^
@@ -67782,6 +67783,7 @@
 ||www.dehacimpol.rest^
 ||www.deichmann.outlet-za.sbs^
 ||www.deinhandwegweiser.ch^
+||www.dejamesertuvoz.com^
 ||www.delcuera.com^
 ||www.delegrispi.world^
 ||www.deleosunmakinde.org^
