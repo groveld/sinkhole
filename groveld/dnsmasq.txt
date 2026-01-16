@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 86176
-# Updated: 2026-01-15 02:09:36 UTC
+# Entries: 86180
+# Updated: 2026-01-16 02:13:08 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40777,6 +40777,7 @@ address=/najlepszekonkursy.com/0.0.0.0
 address=/najlepszewrozby.pl/0.0.0.0
 address=/nakanohito.jp/0.0.0.0
 address=/nakladatelstvi-brazda.wz.cz/0.0.0.0
+address=/nakshatra.northeastrail.info/0.0.0.0
 address=/nalumgaxavwu.top/0.0.0.0
 address=/nalumgaxavwu.world/0.0.0.0
 address=/nalvirosapp.com/0.0.0.0
@@ -47179,6 +47180,7 @@ address=/pu.plugrush.com/0.0.0.0
 address=/pu.trafficshop.com/0.0.0.0
 address=/puandorg.com/0.0.0.0
 address=/pub-1a9ca3f34fe745cf8a6b977773f7cfe4.r2.dev/0.0.0.0
+address=/pub-251d6c694a0641dd9e95aeca9e3219e8.r2.dev/0.0.0.0
 address=/pub-9cd3bd7350ce4d9d8bd885c5470d939c.r2.dev/0.0.0.0
 address=/pub-dev.novaonx.com/0.0.0.0
 address=/pub-sdk-cfg.criteo.com/0.0.0.0
@@ -56866,6 +56868,7 @@ address=/tn086cisce.org/0.0.0.0
 address=/tnc16-alisg.isnssdk.com/0.0.0.0
 address=/tnc16-useast1a.isnssdk.com/0.0.0.0
 address=/tnctrx.com/0.0.0.0
+address=/tnews.day/0.0.0.0
 address=/tnkexchange.com/0.0.0.0
 address=/tnkfactory.com/0.0.0.0
 address=/tnoazxqhwl.info/0.0.0.0
@@ -69415,6 +69418,7 @@ address=/www.fenal-jorin-biz-samon-qevor-nd12kt12.pages.dev/0.0.0.0
 address=/www.fencelogic.net/0.0.0.0
 address=/www.fenoraxivulme.cloud/0.0.0.0
 address=/www.fenorixtrader84ai.com/0.0.0.0
+address=/www.fenquavo.com/0.0.0.0
 address=/www.fenzy.pl/0.0.0.0
 address=/www.feriowepieniazki.wixsite.com/0.0.0.0
 address=/www.ferixiumpro.net/0.0.0.0

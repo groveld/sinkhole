@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 86174
-# Updated: 2026-01-15 01:22:26 UTC
+# Entries: 86178
+# Updated: 2026-01-16 01:25:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40776,6 +40776,7 @@
 0.0.0.0 najlepszewrozby.pl
 0.0.0.0 nakanohito.jp
 0.0.0.0 nakladatelstvi-brazda.wz.cz
+0.0.0.0 nakshatra.northeastrail.info
 0.0.0.0 nalumgaxavwu.top
 0.0.0.0 nalumgaxavwu.world
 0.0.0.0 nalvirosapp.com
@@ -47178,6 +47179,7 @@
 0.0.0.0 pu.trafficshop.com
 0.0.0.0 puandorg.com
 0.0.0.0 pub-1a9ca3f34fe745cf8a6b977773f7cfe4.r2.dev
+0.0.0.0 pub-251d6c694a0641dd9e95aeca9e3219e8.r2.dev
 0.0.0.0 pub-9cd3bd7350ce4d9d8bd885c5470d939c.r2.dev
 0.0.0.0 pub-dev.novaonx.com
 0.0.0.0 pub-sdk-cfg.criteo.com
@@ -56865,6 +56867,7 @@
 0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tnc16-useast1a.isnssdk.com
 0.0.0.0 tnctrx.com
+0.0.0.0 tnews.day
 0.0.0.0 tnkexchange.com
 0.0.0.0 tnkfactory.com
 0.0.0.0 tnoazxqhwl.info
@@ -69414,6 +69417,7 @@
 0.0.0.0 www.fencelogic.net
 0.0.0.0 www.fenoraxivulme.cloud
 0.0.0.0 www.fenorixtrader84ai.com
+0.0.0.0 www.fenquavo.com
 0.0.0.0 www.fenzy.pl
 0.0.0.0 www.feriowepieniazki.wixsite.com
 0.0.0.0 www.ferixiumpro.net

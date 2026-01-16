@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 86174
-# Updated: 2026-01-15 01:22:26 UTC
+# Entries: 86178
+# Updated: 2026-01-16 01:25:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40776,6 +40776,7 @@ najlepszekonkursy.com
 najlepszewrozby.pl
 nakanohito.jp
 nakladatelstvi-brazda.wz.cz
+nakshatra.northeastrail.info
 nalumgaxavwu.top
 nalumgaxavwu.world
 nalvirosapp.com
@@ -47178,6 +47179,7 @@ pu.plugrush.com
 pu.trafficshop.com
 puandorg.com
 pub-1a9ca3f34fe745cf8a6b977773f7cfe4.r2.dev
+pub-251d6c694a0641dd9e95aeca9e3219e8.r2.dev
 pub-9cd3bd7350ce4d9d8bd885c5470d939c.r2.dev
 pub-dev.novaonx.com
 pub-sdk-cfg.criteo.com
@@ -56865,6 +56867,7 @@ tn086cisce.org
 tnc16-alisg.isnssdk.com
 tnc16-useast1a.isnssdk.com
 tnctrx.com
+tnews.day
 tnkexchange.com
 tnkfactory.com
 tnoazxqhwl.info
@@ -69414,6 +69417,7 @@ www.fenal-jorin-biz-samon-qevor-nd12kt12.pages.dev
 www.fencelogic.net
 www.fenoraxivulme.cloud
 www.fenorixtrader84ai.com
+www.fenquavo.com
 www.fenzy.pl
 www.feriowepieniazki.wixsite.com
 www.ferixiumpro.net
