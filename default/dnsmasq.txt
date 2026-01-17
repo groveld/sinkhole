@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 86178
-# Updated: 2026-01-16 01:25:58 UTC
+# Entries: 86182
+# Updated: 2026-01-17 01:23:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -36782,6 +36782,7 @@ address=/lifestreetmedia.com/0.0.0.0
 address=/lifetabernaclegranville.com/0.0.0.0
 address=/lifigaro.fr/0.0.0.0
 address=/liforms.com/0.0.0.0
+address=/lifsfer.shop/0.0.0.0
 address=/liftdna.com/0.0.0.0
 address=/lifttechservices.co.za/0.0.0.0
 address=/ligalgo.com/0.0.0.0
@@ -39691,6 +39692,7 @@ address=/mittencattle.com/0.0.0.0
 address=/miva.com/0.0.0.0
 address=/mix-test.uts.ngdata.com/0.0.0.0
 address=/mix.assetdigpulse.site/0.0.0.0
+address=/mix2ads.com/0.0.0.0
 address=/mixadvert.com/0.0.0.0
 address=/mixedreading.com/0.0.0.0
 address=/mixmarket.biz/0.0.0.0
@@ -44434,6 +44436,7 @@ address=/pch.122.2o7.net/0.0.0.0
 address=/pcinpact.fr.intellitxt.com/0.0.0.0
 address=/pckgatups.bond/0.0.0.0
 address=/pclick.yahoo.com/0.0.0.0
+address=/pclt.net/0.0.0.0
 address=/pcmag.us.intellitxt.com/0.0.0.0
 address=/pcmatic.com/0.0.0.0
 address=/pcmax.jp/0.0.0.0
@@ -55910,6 +55913,7 @@ address=/tarandka.com/0.0.0.0
 address=/tarasoft.bg/0.0.0.0
 address=/taravliveti.pro/0.0.0.0
 address=/taraxinol-new.org/0.0.0.0
+address=/tarbosau.bbqpitcleaners.info/0.0.0.0
 address=/tarflow.shop/0.0.0.0
 address=/targad.de/0.0.0.0
 address=/target.cm/0.0.0.0

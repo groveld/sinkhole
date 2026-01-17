@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 86178
-# Updated: 2026-01-16 01:25:58 UTC
+# Entries: 86182
+# Updated: 2026-01-17 01:23:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -36782,6 +36782,7 @@ lifestreetmedia.com
 lifetabernaclegranville.com
 lifigaro.fr
 liforms.com
+lifsfer.shop
 liftdna.com
 lifttechservices.co.za
 ligalgo.com
@@ -39691,6 +39692,7 @@ mittencattle.com
 miva.com
 mix-test.uts.ngdata.com
 mix.assetdigpulse.site
+mix2ads.com
 mixadvert.com
 mixedreading.com
 mixmarket.biz
@@ -44434,6 +44436,7 @@ pch.122.2o7.net
 pcinpact.fr.intellitxt.com
 pckgatups.bond
 pclick.yahoo.com
+pclt.net
 pcmag.us.intellitxt.com
 pcmatic.com
 pcmax.jp
@@ -55910,6 +55913,7 @@ tarandka.com
 tarasoft.bg
 taravliveti.pro
 taraxinol-new.org
+tarbosau.bbqpitcleaners.info
 tarflow.shop
 targad.de
 target.cm

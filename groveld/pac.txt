@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 86180
-// Updated: 2026-01-16 02:13:08 UTC
+// Entries: 86184
+// Updated: 2026-01-17 02:10:38 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -36784,6 +36784,7 @@ var BLOCKLIST = {
 "lifetabernaclegranville.com":null,
 "lifigaro.fr":null,
 "liforms.com":null,
+"lifsfer.shop":null,
 "liftdna.com":null,
 "lifttechservices.co.za":null,
 "ligalgo.com":null,
@@ -39693,6 +39694,7 @@ var BLOCKLIST = {
 "miva.com":null,
 "mix-test.uts.ngdata.com":null,
 "mix.assetdigpulse.site":null,
+"mix2ads.com":null,
 "mixadvert.com":null,
 "mixedreading.com":null,
 "mixmarket.biz":null,
@@ -44436,6 +44438,7 @@ var BLOCKLIST = {
 "pcinpact.fr.intellitxt.com":null,
 "pckgatups.bond":null,
 "pclick.yahoo.com":null,
+"pclt.net":null,
 "pcmag.us.intellitxt.com":null,
 "pcmatic.com":null,
 "pcmax.jp":null,
@@ -55912,6 +55915,7 @@ var BLOCKLIST = {
 "tarasoft.bg":null,
 "taravliveti.pro":null,
 "taraxinol-new.org":null,
+"tarbosau.bbqpitcleaners.info":null,
 "tarflow.shop":null,
 "targad.de":null,
 "target.cm":null,
