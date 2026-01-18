@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 86184
-# Updated: 2026-01-17 02:10:38 UTC
+# Entries: 86186
+# Updated: 2026-01-18 02:18:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -43765,6 +43765,7 @@ owlsr.us
 own-eu-cloud.com
 owneriq.net
 owneriq.net.edgekey.net
+ownpathway.digital
 ox-d.apax.servedbyopenx.com
 ox-d.ask.servedbyopenx.com
 ox-d.bauer.servedbyopenx.com
@@ -58235,6 +58236,7 @@ tresshotel.com
 trethonis-gpt-68.com
 treuvaultix.com
 treuzinapex-app.net
+trevia.za.com
 trevionixtrader-18.com
 treviproject.org
 trevxa.com

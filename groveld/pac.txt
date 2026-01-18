@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 86184
-// Updated: 2026-01-17 02:10:38 UTC
+// Entries: 86186
+// Updated: 2026-01-18 02:18:30 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -43766,6 +43766,7 @@ var BLOCKLIST = {
 "own-eu-cloud.com":null,
 "owneriq.net":null,
 "owneriq.net.edgekey.net":null,
+"ownpathway.digital":null,
 "ox-d.apax.servedbyopenx.com":null,
 "ox-d.ask.servedbyopenx.com":null,
 "ox-d.bauer.servedbyopenx.com":null,
@@ -58236,6 +58237,7 @@ var BLOCKLIST = {
 "trethonis-gpt-68.com":null,
 "treuvaultix.com":null,
 "treuzinapex-app.net":null,
+"trevia.za.com":null,
 "trevionixtrader-18.com":null,
 "treviproject.org":null,
 "trevxa.com":null,

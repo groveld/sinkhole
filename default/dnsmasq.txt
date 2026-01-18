@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 86182
-# Updated: 2026-01-17 01:23:28 UTC
+# Entries: 86184
+# Updated: 2026-01-18 01:29:08 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -43764,6 +43764,7 @@ address=/owlsr.us/0.0.0.0
 address=/own-eu-cloud.com/0.0.0.0
 address=/owneriq.net/0.0.0.0
 address=/owneriq.net.edgekey.net/0.0.0.0
+address=/ownpathway.digital/0.0.0.0
 address=/ox-d.apax.servedbyopenx.com/0.0.0.0
 address=/ox-d.ask.servedbyopenx.com/0.0.0.0
 address=/ox-d.bauer.servedbyopenx.com/0.0.0.0
@@ -58234,6 +58235,7 @@ address=/tresshotel.com/0.0.0.0
 address=/trethonis-gpt-68.com/0.0.0.0
 address=/treuvaultix.com/0.0.0.0
 address=/treuzinapex-app.net/0.0.0.0
+address=/trevia.za.com/0.0.0.0
 address=/trevionixtrader-18.com/0.0.0.0
 address=/treviproject.org/0.0.0.0
 address=/trevxa.com/0.0.0.0
