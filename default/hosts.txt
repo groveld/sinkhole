@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 86184
-# Updated: 2026-01-18 01:29:08 UTC
+# Entries: 86187
+# Updated: 2026-01-19 01:28:19 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35119,6 +35119,7 @@
 0.0.0.0 joycart.club
 0.0.0.0 joyeriatauro.com
 0.0.0.0 joyful-pavlova-e5afa4.netlify.app
+0.0.0.0 joyjak.st
 0.0.0.0 joyoussurprise.com
 0.0.0.0 joyprarian.site
 0.0.0.0 jp-g2.gumgum.com
@@ -68401,6 +68402,7 @@
 0.0.0.0 www.dwnlad.ws
 0.0.0.0 www.dwzacisze.com.pl
 0.0.0.0 www.dxrwuhjivl.info
+0.0.0.0 www.dymor.cfd
 0.0.0.0 www.dynamictoolbar.com
 0.0.0.0 www.dynamischavonexapp.com
 0.0.0.0 www.dynamoforgeg.info
@@ -72788,6 +72790,7 @@
 0.0.0.0 www.joy-box.pl
 0.0.0.0 www.joycart.club
 0.0.0.0 www.joyful-pavlova-e5afa4.netlify.app
+0.0.0.0 www.joyjak.st
 0.0.0.0 www.joyprarian.site
 0.0.0.0 www.jozefinskiatelje.si
 0.0.0.0 www.jpapidix.com

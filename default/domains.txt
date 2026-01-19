@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 86184
-# Updated: 2026-01-18 01:29:08 UTC
+# Entries: 86187
+# Updated: 2026-01-19 01:28:19 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35119,6 +35119,7 @@ joy-box.pl
 joycart.club
 joyeriatauro.com
 joyful-pavlova-e5afa4.netlify.app
+joyjak.st
 joyoussurprise.com
 joyprarian.site
 jp-g2.gumgum.com
@@ -68401,6 +68402,7 @@ www.dwin1.com
 www.dwnlad.ws
 www.dwzacisze.com.pl
 www.dxrwuhjivl.info
+www.dymor.cfd
 www.dynamictoolbar.com
 www.dynamischavonexapp.com
 www.dynamoforgeg.info
@@ -72788,6 +72790,7 @@ www.joxjefak.cloud
 www.joy-box.pl
 www.joycart.club
 www.joyful-pavlova-e5afa4.netlify.app
+www.joyjak.st
 www.joyprarian.site
 www.jozefinskiatelje.si
 www.jpapidix.com

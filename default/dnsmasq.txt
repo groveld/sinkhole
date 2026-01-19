@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 86184
-# Updated: 2026-01-18 01:29:08 UTC
+# Entries: 86187
+# Updated: 2026-01-19 01:28:19 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35119,6 +35119,7 @@ address=/joy-box.pl/0.0.0.0
 address=/joycart.club/0.0.0.0
 address=/joyeriatauro.com/0.0.0.0
 address=/joyful-pavlova-e5afa4.netlify.app/0.0.0.0
+address=/joyjak.st/0.0.0.0
 address=/joyoussurprise.com/0.0.0.0
 address=/joyprarian.site/0.0.0.0
 address=/jp-g2.gumgum.com/0.0.0.0
@@ -68401,6 +68402,7 @@ address=/www.dwin1.com/0.0.0.0
 address=/www.dwnlad.ws/0.0.0.0
 address=/www.dwzacisze.com.pl/0.0.0.0
 address=/www.dxrwuhjivl.info/0.0.0.0
+address=/www.dymor.cfd/0.0.0.0
 address=/www.dynamictoolbar.com/0.0.0.0
 address=/www.dynamischavonexapp.com/0.0.0.0
 address=/www.dynamoforgeg.info/0.0.0.0
@@ -72788,6 +72790,7 @@ address=/www.joxjefak.cloud/0.0.0.0
 address=/www.joy-box.pl/0.0.0.0
 address=/www.joycart.club/0.0.0.0
 address=/www.joyful-pavlova-e5afa4.netlify.app/0.0.0.0
+address=/www.joyjak.st/0.0.0.0
 address=/www.joyprarian.site/0.0.0.0
 address=/www.jozefinskiatelje.si/0.0.0.0
 address=/www.jpapidix.com/0.0.0.0
