@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 80814
-// Updated: 2026-01-20 01:24:35 UTC
+// Entries: 80820
+// Updated: 2026-01-21 01:26:14 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26764,6 +26764,7 @@ var BLOCKLIST = {
 "exoclick.com":null,
 "exogripper.com":null,
 "exosrv.com":null,
+"exotic-wax.surge.sh":null,
 "exotie.com":null,
 "exoties.com":null,
 "exp.360in.com":null,
@@ -65933,6 +65934,7 @@ var BLOCKLIST = {
 "www.farmafit.it":null,
 "www.farmharborg.info":null,
 "www.farmsteadg.info":null,
+"www.farnazinternational.com":null,
 "www.farnecontr.world":null,
 "www.fartuchy-kuchenne.pl":null,
 "www.farukgulluoglubursa.com":null,
@@ -66865,6 +66867,7 @@ var BLOCKLIST = {
 "www.gatorpodcast.com":null,
 "www.gatu.pl":null,
 "www.gauchstill.pro":null,
+"www.gavelandcap.com":null,
 "www.gavilunrid.pro":null,
 "www.gavirtualpd.instructure.com":null,
 "www.gawelda.pl":null,
@@ -70401,6 +70404,7 @@ var BLOCKLIST = {
 "www.modawanilia.com":null,
 "www.modelconco.world":null,
 "www.modello.co.il":null,
+"www.modelsailboat.net":null,
 "www.modelzwerge.info":null,
 "www.modifsupra.rest":null,
 "www.modigcrapu.rest":null,
@@ -73674,6 +73678,7 @@ var BLOCKLIST = {
 "www.rachaellegrimsrud.com":null,
 "www.racingandclassic.com":null,
 "www.rackasotto.world":null,
+"www.rackusread.com":null,
 "www.raconglomerate.com":null,
 "www.radarkobiet.pl":null,
 "www.radarsaw.com":null,
@@ -75066,6 +75071,7 @@ var BLOCKLIST = {
 "www.sicilriadd.pro":null,
 "www.sidebayhotel.com":null,
 "www.sidequadsafari.com":null,
+"www.sidneyman.com":null,
 "www.siduh.com.pe":null,
 "www.sigarabirakma.org":null,
 "www.sightlydesign.com":null,

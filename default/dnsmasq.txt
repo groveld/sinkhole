@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 80814
-# Updated: 2026-01-20 01:24:35 UTC
+# Entries: 80820
+# Updated: 2026-01-21 01:26:14 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26763,6 +26763,7 @@ address=/exityield.advertise.com/0.0.0.0
 address=/exoclick.com/0.0.0.0
 address=/exogripper.com/0.0.0.0
 address=/exosrv.com/0.0.0.0
+address=/exotic-wax.surge.sh/0.0.0.0
 address=/exotie.com/0.0.0.0
 address=/exoties.com/0.0.0.0
 address=/exp.360in.com/0.0.0.0
@@ -65932,6 +65933,7 @@ address=/www.fargonpozyczki.pl/0.0.0.0
 address=/www.farmafit.it/0.0.0.0
 address=/www.farmharborg.info/0.0.0.0
 address=/www.farmsteadg.info/0.0.0.0
+address=/www.farnazinternational.com/0.0.0.0
 address=/www.farnecontr.world/0.0.0.0
 address=/www.fartuchy-kuchenne.pl/0.0.0.0
 address=/www.farukgulluoglubursa.com/0.0.0.0
@@ -66864,6 +66866,7 @@ address=/www.gatoradvertisinginformationnetwork.com/0.0.0.0
 address=/www.gatorpodcast.com/0.0.0.0
 address=/www.gatu.pl/0.0.0.0
 address=/www.gauchstill.pro/0.0.0.0
+address=/www.gavelandcap.com/0.0.0.0
 address=/www.gavilunrid.pro/0.0.0.0
 address=/www.gavirtualpd.instructure.com/0.0.0.0
 address=/www.gawelda.pl/0.0.0.0
@@ -70400,6 +70403,7 @@ address=/www.modablask.com/0.0.0.0
 address=/www.modawanilia.com/0.0.0.0
 address=/www.modelconco.world/0.0.0.0
 address=/www.modello.co.il/0.0.0.0
+address=/www.modelsailboat.net/0.0.0.0
 address=/www.modelzwerge.info/0.0.0.0
 address=/www.modifsupra.rest/0.0.0.0
 address=/www.modigcrapu.rest/0.0.0.0
@@ -73673,6 +73677,7 @@ address=/www.raceagainstreproduction.com/0.0.0.0
 address=/www.rachaellegrimsrud.com/0.0.0.0
 address=/www.racingandclassic.com/0.0.0.0
 address=/www.rackasotto.world/0.0.0.0
+address=/www.rackusread.com/0.0.0.0
 address=/www.raconglomerate.com/0.0.0.0
 address=/www.radarkobiet.pl/0.0.0.0
 address=/www.radarsaw.com/0.0.0.0
@@ -75065,6 +75070,7 @@ address=/www.siapost.qpon/0.0.0.0
 address=/www.sicilriadd.pro/0.0.0.0
 address=/www.sidebayhotel.com/0.0.0.0
 address=/www.sidequadsafari.com/0.0.0.0
+address=/www.sidneyman.com/0.0.0.0
 address=/www.siduh.com.pe/0.0.0.0
 address=/www.sigarabirakma.org/0.0.0.0
 address=/www.sightlydesign.com/0.0.0.0
