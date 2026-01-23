@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 82360
-# Updated: 2026-01-22 01:26:27 UTC
+# Entries: 82369
+# Updated: 2026-01-23 01:25:51 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35703,6 +35703,7 @@
 0.0.0.0 libjss.inquirerjs.com
 0.0.0.0 libotyo.com
 0.0.0.0 library.cowley.edu
+0.0.0.0 library.roadring.info
 0.0.0.0 libraryfacts.com
 0.0.0.0 librarystudios.org
 0.0.0.0 libs.coremetrics.com
@@ -64325,6 +64326,7 @@
 0.0.0.0 www.cichyromans.pl
 0.0.0.0 www.cici-luna.com
 0.0.0.0 www.cicibans.club
+0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.ciekawe24.pl.ua
 0.0.0.0 www.ciemnastronafaktow.com
 0.0.0.0 www.cienum.fr
@@ -65488,6 +65490,7 @@
 0.0.0.0 www.devon38.plus.com
 0.0.0.0 www.devsinc-earning.com
 0.0.0.0 www.devuwisupugserwo.today
+0.0.0.0 www.dewwillowwj.site
 0.0.0.0 www.dexarn-biz-tornix-15126.pages.dev
 0.0.0.0 www.dexavorline.cloud
 0.0.0.0 www.dexyard.com
@@ -66686,6 +66689,7 @@
 0.0.0.0 www.extraripra.rest
 0.0.0.0 www.extreme-dm.com
 0.0.0.0 www.exurbvesic.casa
+0.0.0.0 www.exvaro.cfd
 0.0.0.0 www.exxot-design.com
 0.0.0.0 www.eyes.by
 0.0.0.0 www.eyesinfocus.com
@@ -70157,6 +70161,7 @@
 0.0.0.0 www.kindexec.cyou
 0.0.0.0 www.kindlebookpublishing.net
 0.0.0.0 www.kindnessinmotioncards.com
+0.0.0.0 www.kindwebdg.site
 0.0.0.0 www.kinesfuria.rest
 0.0.0.0 www.kinetic6global.com
 0.0.0.0 www.kingcoma.site
@@ -71375,6 +71380,7 @@
 0.0.0.0 www.milffinder.pl
 0.0.0.0 www.milioner2023.pl
 0.0.0.0 www.milkfountain.com
+0.0.0.0 www.milkycascadeut.site
 0.0.0.0 www.millento.com
 0.0.0.0 www.milleremma.shop
 0.0.0.0 www.millionaireconsulting.com
@@ -75799,6 +75805,7 @@
 0.0.0.0 www.sandomir.pl
 0.0.0.0 www.sands-hildesheim.de
 0.0.0.0 www.sandyandalabrams.com
+0.0.0.0 www.sandybellxb.site
 0.0.0.0 www.sanignaciotown.com
 0.0.0.0 www.sanisurual.com
 0.0.0.0 www.sanopriwikuxibni.cloud
@@ -76409,6 +76416,7 @@
 0.0.0.0 www.silasbuchanan.shop
 0.0.0.0 www.silc-im.com
 0.0.0.0 www.silcom.com
+0.0.0.0 www.silentgateck.site
 0.0.0.0 www.silentspire.com
 0.0.0.0 www.silerutimasidoc.cloud
 0.0.0.0 www.siliqiy.com
@@ -78012,6 +78020,7 @@
 0.0.0.0 www.thesalsaexpert.com
 0.0.0.0 www.thescottstewart.com
 0.0.0.0 www.thesearchagency.net
+0.0.0.0 www.thesecuredtrader.com
 0.0.0.0 www.thesexcinema.com
 0.0.0.0 www.thesilkpocket.com
 0.0.0.0 www.thesocialsexnetwork.com

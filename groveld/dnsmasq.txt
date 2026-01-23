@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 82362
-# Updated: 2026-01-22 02:15:50 UTC
+# Entries: 82371
+# Updated: 2026-01-23 02:15:15 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35704,6 +35704,7 @@ address=/libjs.inquirerjs.com/0.0.0.0
 address=/libjss.inquirerjs.com/0.0.0.0
 address=/libotyo.com/0.0.0.0
 address=/library.cowley.edu/0.0.0.0
+address=/library.roadring.info/0.0.0.0
 address=/libraryfacts.com/0.0.0.0
 address=/librarystudios.org/0.0.0.0
 address=/libs.coremetrics.com/0.0.0.0
@@ -64326,6 +64327,7 @@ address=/www.cichodaje.pl/0.0.0.0
 address=/www.cichyromans.pl/0.0.0.0
 address=/www.cici-luna.com/0.0.0.0
 address=/www.cicibans.club/0.0.0.0
+address=/www.ciderglowcm.site/0.0.0.0
 address=/www.ciekawe24.pl.ua/0.0.0.0
 address=/www.ciemnastronafaktow.com/0.0.0.0
 address=/www.cienum.fr/0.0.0.0
@@ -65489,6 +65491,7 @@ address=/www.devis-abri-de-piscine.fr/0.0.0.0
 address=/www.devon38.plus.com/0.0.0.0
 address=/www.devsinc-earning.com/0.0.0.0
 address=/www.devuwisupugserwo.today/0.0.0.0
+address=/www.dewwillowwj.site/0.0.0.0
 address=/www.dexarn-biz-tornix-15126.pages.dev/0.0.0.0
 address=/www.dexavorline.cloud/0.0.0.0
 address=/www.dexyard.com/0.0.0.0
@@ -66687,6 +66690,7 @@ address=/www.exterconco.pro/0.0.0.0
 address=/www.extraripra.rest/0.0.0.0
 address=/www.extreme-dm.com/0.0.0.0
 address=/www.exurbvesic.casa/0.0.0.0
+address=/www.exvaro.cfd/0.0.0.0
 address=/www.exxot-design.com/0.0.0.0
 address=/www.eyes.by/0.0.0.0
 address=/www.eyesinfocus.com/0.0.0.0
@@ -70159,6 +70163,7 @@ address=/www.kimvictor.shop/0.0.0.0
 address=/www.kindexec.cyou/0.0.0.0
 address=/www.kindlebookpublishing.net/0.0.0.0
 address=/www.kindnessinmotioncards.com/0.0.0.0
+address=/www.kindwebdg.site/0.0.0.0
 address=/www.kinesfuria.rest/0.0.0.0
 address=/www.kinetic6global.com/0.0.0.0
 address=/www.kingcoma.site/0.0.0.0
@@ -71377,6 +71382,7 @@ address=/www.milffinder.com/0.0.0.0
 address=/www.milffinder.pl/0.0.0.0
 address=/www.milioner2023.pl/0.0.0.0
 address=/www.milkfountain.com/0.0.0.0
+address=/www.milkycascadeut.site/0.0.0.0
 address=/www.millento.com/0.0.0.0
 address=/www.milleremma.shop/0.0.0.0
 address=/www.millionaireconsulting.com/0.0.0.0
@@ -75801,6 +75807,7 @@ address=/www.sandiegolaboratoryspace.com/0.0.0.0
 address=/www.sandomir.pl/0.0.0.0
 address=/www.sands-hildesheim.de/0.0.0.0
 address=/www.sandyandalabrams.com/0.0.0.0
+address=/www.sandybellxb.site/0.0.0.0
 address=/www.sanignaciotown.com/0.0.0.0
 address=/www.sanisurual.com/0.0.0.0
 address=/www.sanopriwikuxibni.cloud/0.0.0.0
@@ -76411,6 +76418,7 @@ address=/www.sikologic.com/0.0.0.0
 address=/www.silasbuchanan.shop/0.0.0.0
 address=/www.silc-im.com/0.0.0.0
 address=/www.silcom.com/0.0.0.0
+address=/www.silentgateck.site/0.0.0.0
 address=/www.silentspire.com/0.0.0.0
 address=/www.silerutimasidoc.cloud/0.0.0.0
 address=/www.siliqiy.com/0.0.0.0
@@ -78014,6 +78022,7 @@ address=/www.theroofingsite.com/0.0.0.0
 address=/www.thesalsaexpert.com/0.0.0.0
 address=/www.thescottstewart.com/0.0.0.0
 address=/www.thesearchagency.net/0.0.0.0
+address=/www.thesecuredtrader.com/0.0.0.0
 address=/www.thesexcinema.com/0.0.0.0
 address=/www.thesilkpocket.com/0.0.0.0
 address=/www.thesocialsexnetwork.com/0.0.0.0

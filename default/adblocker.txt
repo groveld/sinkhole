@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 82360
-! Updated: 2026-01-22 01:26:27 UTC
+! Entries: 82369
+! Updated: 2026-01-23 01:25:51 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35703,6 +35703,7 @@
 ||libjss.inquirerjs.com^
 ||libotyo.com^
 ||library.cowley.edu^
+||library.roadring.info^
 ||libraryfacts.com^
 ||librarystudios.org^
 ||libs.coremetrics.com^
@@ -64325,6 +64326,7 @@
 ||www.cichyromans.pl^
 ||www.cici-luna.com^
 ||www.cicibans.club^
+||www.ciderglowcm.site^
 ||www.ciekawe24.pl.ua^
 ||www.ciemnastronafaktow.com^
 ||www.cienum.fr^
@@ -65488,6 +65490,7 @@
 ||www.devon38.plus.com^
 ||www.devsinc-earning.com^
 ||www.devuwisupugserwo.today^
+||www.dewwillowwj.site^
 ||www.dexarn-biz-tornix-15126.pages.dev^
 ||www.dexavorline.cloud^
 ||www.dexyard.com^
@@ -66686,6 +66689,7 @@
 ||www.extraripra.rest^
 ||www.extreme-dm.com^
 ||www.exurbvesic.casa^
+||www.exvaro.cfd^
 ||www.exxot-design.com^
 ||www.eyes.by^
 ||www.eyesinfocus.com^
@@ -70157,6 +70161,7 @@
 ||www.kindexec.cyou^
 ||www.kindlebookpublishing.net^
 ||www.kindnessinmotioncards.com^
+||www.kindwebdg.site^
 ||www.kinesfuria.rest^
 ||www.kinetic6global.com^
 ||www.kingcoma.site^
@@ -71375,6 +71380,7 @@
 ||www.milffinder.pl^
 ||www.milioner2023.pl^
 ||www.milkfountain.com^
+||www.milkycascadeut.site^
 ||www.millento.com^
 ||www.milleremma.shop^
 ||www.millionaireconsulting.com^
@@ -75799,6 +75805,7 @@
 ||www.sandomir.pl^
 ||www.sands-hildesheim.de^
 ||www.sandyandalabrams.com^
+||www.sandybellxb.site^
 ||www.sanignaciotown.com^
 ||www.sanisurual.com^
 ||www.sanopriwikuxibni.cloud^
@@ -76409,6 +76416,7 @@
 ||www.silasbuchanan.shop^
 ||www.silc-im.com^
 ||www.silcom.com^
+||www.silentgateck.site^
 ||www.silentspire.com^
 ||www.silerutimasidoc.cloud^
 ||www.siliqiy.com^
@@ -78012,6 +78020,7 @@
 ||www.thesalsaexpert.com^
 ||www.thescottstewart.com^
 ||www.thesearchagency.net^
+||www.thesecuredtrader.com^
 ||www.thesexcinema.com^
 ||www.thesilkpocket.com^
 ||www.thesocialsexnetwork.com^

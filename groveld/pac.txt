@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 82362
-// Updated: 2026-01-22 02:15:50 UTC
+// Entries: 82371
+// Updated: 2026-01-23 02:15:15 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35705,6 +35705,7 @@ var BLOCKLIST = {
 "libjss.inquirerjs.com":null,
 "libotyo.com":null,
 "library.cowley.edu":null,
+"library.roadring.info":null,
 "libraryfacts.com":null,
 "librarystudios.org":null,
 "libs.coremetrics.com":null,
@@ -64327,6 +64328,7 @@ var BLOCKLIST = {
 "www.cichyromans.pl":null,
 "www.cici-luna.com":null,
 "www.cicibans.club":null,
+"www.ciderglowcm.site":null,
 "www.ciekawe24.pl.ua":null,
 "www.ciemnastronafaktow.com":null,
 "www.cienum.fr":null,
@@ -65490,6 +65492,7 @@ var BLOCKLIST = {
 "www.devon38.plus.com":null,
 "www.devsinc-earning.com":null,
 "www.devuwisupugserwo.today":null,
+"www.dewwillowwj.site":null,
 "www.dexarn-biz-tornix-15126.pages.dev":null,
 "www.dexavorline.cloud":null,
 "www.dexyard.com":null,
@@ -66688,6 +66691,7 @@ var BLOCKLIST = {
 "www.extraripra.rest":null,
 "www.extreme-dm.com":null,
 "www.exurbvesic.casa":null,
+"www.exvaro.cfd":null,
 "www.exxot-design.com":null,
 "www.eyes.by":null,
 "www.eyesinfocus.com":null,
@@ -70160,6 +70164,7 @@ var BLOCKLIST = {
 "www.kindexec.cyou":null,
 "www.kindlebookpublishing.net":null,
 "www.kindnessinmotioncards.com":null,
+"www.kindwebdg.site":null,
 "www.kinesfuria.rest":null,
 "www.kinetic6global.com":null,
 "www.kingcoma.site":null,
@@ -71378,6 +71383,7 @@ var BLOCKLIST = {
 "www.milffinder.pl":null,
 "www.milioner2023.pl":null,
 "www.milkfountain.com":null,
+"www.milkycascadeut.site":null,
 "www.millento.com":null,
 "www.milleremma.shop":null,
 "www.millionaireconsulting.com":null,
@@ -75802,6 +75808,7 @@ var BLOCKLIST = {
 "www.sandomir.pl":null,
 "www.sands-hildesheim.de":null,
 "www.sandyandalabrams.com":null,
+"www.sandybellxb.site":null,
 "www.sanignaciotown.com":null,
 "www.sanisurual.com":null,
 "www.sanopriwikuxibni.cloud":null,
@@ -76412,6 +76419,7 @@ var BLOCKLIST = {
 "www.silasbuchanan.shop":null,
 "www.silc-im.com":null,
 "www.silcom.com":null,
+"www.silentgateck.site":null,
 "www.silentspire.com":null,
 "www.silerutimasidoc.cloud":null,
 "www.siliqiy.com":null,
@@ -78015,6 +78023,7 @@ var BLOCKLIST = {
 "www.thesalsaexpert.com":null,
 "www.thescottstewart.com":null,
 "www.thesearchagency.net":null,
+"www.thesecuredtrader.com":null,
 "www.thesexcinema.com":null,
 "www.thesilkpocket.com":null,
 "www.thesocialsexnetwork.com":null,
