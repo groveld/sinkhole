@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 82371
-# Updated: 2026-01-23 02:15:15 UTC
+# Entries: 82372
+# Updated: 2026-01-24 02:14:23 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6259,6 +6259,7 @@
 0.0.0.0 adocean.pl
 0.0.0.0 adod.info
 0.0.0.0 adolf.tv
+0.0.0.0 adolfoqsalondmacha.standard.us-east-1.oortstorages.com
 0.0.0.0 adone.net
 0.0.0.0 adone.yicha.jp
 0.0.0.0 adonline.e-kolay.net
@@ -13947,6 +13948,7 @@
 0.0.0.0 ascoopof.com
 0.0.0.0 ascout24.oewabox.at
 0.0.0.0 ascribe.rqmob.com
+0.0.0.0 asd.is
 0.0.0.0 asd.tynt.com
 0.0.0.0 asdad.florpeter.xyz
 0.0.0.0 asdasdqwdqwd.xyz
@@ -18055,7 +18057,6 @@
 0.0.0.0 buckscountytaxattorney.com
 0.0.0.0 budapest1873.net
 0.0.0.0 buddhimitra.org
-0.0.0.0 buddycanvas.com
 0.0.0.0 budgetcarhire.112.2o7.net
 0.0.0.0 budgetmedicines.com
 0.0.0.0 budgetvsaudio.com
@@ -26641,7 +26642,6 @@
 0.0.0.0 evecircuit.com
 0.0.0.0 evelinsaul.com
 0.0.0.0 evelynswonderland.com
-0.0.0.0 evencoating.com
 0.0.0.0 evendors.org
 0.0.0.0 evening-badlands-6215.herokuapp.com
 0.0.0.0 event-logger.tagboard.com.herokudns.com
@@ -28187,7 +28187,6 @@
 0.0.0.0 fotoseiten.heimat.eu
 0.0.0.0 found.ee
 0.0.0.0 foundguide.com
-0.0.0.0 fourlevelsgame.com
 0.0.0.0 fourtuneo.fr
 0.0.0.0 fout.jp
 0.0.0.0 foutuneo.fr
@@ -29095,6 +29094,7 @@
 0.0.0.0 gds.mmstat.com
 0.0.0.0 gds786bomyc.com
 0.0.0.0 gdsns1.mmstat.com
+0.0.0.0 gdudh473-chersfeye483.landmarksfeed.su
 0.0.0.0 gdyn.cnn.com
 0.0.0.0 gdyn.cnngo.com
 0.0.0.0 gdyn.nascar.com
@@ -30262,6 +30262,7 @@
 0.0.0.0 growflow.digital
 0.0.0.0 growfund.digital
 0.0.0.0 growgenbio.com
+0.0.0.0 growhairs.shop
 0.0.0.0 growlr.adsbynimbus.com
 0.0.0.0 growmove.digital
 0.0.0.0 growonup.com
@@ -38604,7 +38605,6 @@
 0.0.0.0 mittencattle.com
 0.0.0.0 miva.com
 0.0.0.0 mix-test.uts.ngdata.com
-0.0.0.0 mix2ads.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixmarket.biz
@@ -44940,7 +44940,6 @@
 0.0.0.0 popunder.paypopup.com
 0.0.0.0 popunder.ru
 0.0.0.0 popunder.smartcpx.com
-0.0.0.0 popunhot1.blogspot.com
 0.0.0.0 popup.msn.com
 0.0.0.0 popup.oxcash.com
 0.0.0.0 popup.sapoapps.vn
@@ -54059,7 +54058,6 @@
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.chartboost.com
-0.0.0.0 t.co
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.cqq5id8n.com
 0.0.0.0 t.d.adup-tech.com
@@ -62820,6 +62818,7 @@
 0.0.0.0 www.avast-downloads.com
 0.0.0.0 www.avatar-clothing.com
 0.0.0.0 www.avcikasik.com
+0.0.0.0 www.avemoo.com
 0.0.0.0 www.avenixio-app.com
 0.0.0.0 www.avenuea.com
 0.0.0.0 www.avenues-inc.com
@@ -64051,6 +64050,7 @@
 0.0.0.0 www.casinotropez.com
 0.0.0.0 www.casroker.icu
 0.0.0.0 www.cassecontr.rest
+0.0.0.0 www.cassink.com
 0.0.0.0 www.castelovex.world
 0.0.0.0 www.castibubol.pro
 0.0.0.0 www.castmuse.buzz
@@ -67130,6 +67130,7 @@
 0.0.0.0 www.first-security-verden.de
 0.0.0.0 www.firstbookmark.com
 0.0.0.0 www.firstclick.pro
+0.0.0.0 www.firsttrchfed.com
 0.0.0.0 www.firstweb.pl
 0.0.0.0 www.fiscasubch.rest
 0.0.0.0 www.fischereszter.hu

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 82369
-// Updated: 2026-01-23 01:25:51 UTC
+// Entries: 82370
+// Updated: 2026-01-24 01:25:01 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6260,6 +6260,7 @@ var BLOCKLIST = {
 "adocean.pl":null,
 "adod.info":null,
 "adolf.tv":null,
+"adolfoqsalondmacha.standard.us-east-1.oortstorages.com":null,
 "adone.net":null,
 "adone.yicha.jp":null,
 "adonline.e-kolay.net":null,
@@ -13948,6 +13949,7 @@ var BLOCKLIST = {
 "ascoopof.com":null,
 "ascout24.oewabox.at":null,
 "ascribe.rqmob.com":null,
+"asd.is":null,
 "asd.tynt.com":null,
 "asdad.florpeter.xyz":null,
 "asdasdqwdqwd.xyz":null,
@@ -18056,7 +18058,6 @@ var BLOCKLIST = {
 "buckscountytaxattorney.com":null,
 "budapest1873.net":null,
 "buddhimitra.org":null,
-"buddycanvas.com":null,
 "budgetcarhire.112.2o7.net":null,
 "budgetmedicines.com":null,
 "budgetvsaudio.com":null,
@@ -26642,7 +26643,6 @@ var BLOCKLIST = {
 "evecircuit.com":null,
 "evelinsaul.com":null,
 "evelynswonderland.com":null,
-"evencoating.com":null,
 "evendors.org":null,
 "evening-badlands-6215.herokuapp.com":null,
 "event-logger.tagboard.com.herokudns.com":null,
@@ -28188,7 +28188,6 @@ var BLOCKLIST = {
 "fotoseiten.heimat.eu":null,
 "found.ee":null,
 "foundguide.com":null,
-"fourlevelsgame.com":null,
 "fourtuneo.fr":null,
 "fout.jp":null,
 "foutuneo.fr":null,
@@ -29096,6 +29095,7 @@ var BLOCKLIST = {
 "gds.mmstat.com":null,
 "gds786bomyc.com":null,
 "gdsns1.mmstat.com":null,
+"gdudh473-chersfeye483.landmarksfeed.su":null,
 "gdyn.cnn.com":null,
 "gdyn.cnngo.com":null,
 "gdyn.nascar.com":null,
@@ -30262,6 +30262,7 @@ var BLOCKLIST = {
 "growflow.digital":null,
 "growfund.digital":null,
 "growgenbio.com":null,
+"growhairs.shop":null,
 "growlr.adsbynimbus.com":null,
 "growmove.digital":null,
 "growonup.com":null,
@@ -38604,7 +38605,6 @@ var BLOCKLIST = {
 "mittencattle.com":null,
 "miva.com":null,
 "mix-test.uts.ngdata.com":null,
-"mix2ads.com":null,
 "mixadvert.com":null,
 "mixedreading.com":null,
 "mixmarket.biz":null,
@@ -44940,7 +44940,6 @@ var BLOCKLIST = {
 "popunder.paypopup.com":null,
 "popunder.ru":null,
 "popunder.smartcpx.com":null,
-"popunhot1.blogspot.com":null,
 "popup.msn.com":null,
 "popup.oxcash.com":null,
 "popup.sapoapps.vn":null,
@@ -54059,7 +54058,6 @@ var BLOCKLIST = {
 "t.cfjump.com":null,
 "t.channeladvisor.com":null,
 "t.chartboost.com":null,
-"t.co":null,
 "t.contentsquare.net":null,
 "t.cqq5id8n.com":null,
 "t.d.adup-tech.com":null,
@@ -62820,6 +62818,7 @@ var BLOCKLIST = {
 "www.avast-downloads.com":null,
 "www.avatar-clothing.com":null,
 "www.avcikasik.com":null,
+"www.avemoo.com":null,
 "www.avenixio-app.com":null,
 "www.avenuea.com":null,
 "www.avenues-inc.com":null,
@@ -64051,6 +64050,7 @@ var BLOCKLIST = {
 "www.casinotropez.com":null,
 "www.casroker.icu":null,
 "www.cassecontr.rest":null,
+"www.cassink.com":null,
 "www.castelovex.world":null,
 "www.castibubol.pro":null,
 "www.castmuse.buzz":null,
@@ -67130,6 +67130,7 @@ var BLOCKLIST = {
 "www.first-security-verden.de":null,
 "www.firstbookmark.com":null,
 "www.firstclick.pro":null,
+"www.firsttrchfed.com":null,
 "www.firstweb.pl":null,
 "www.fiscasubch.rest":null,
 "www.fischereszter.hu":null,

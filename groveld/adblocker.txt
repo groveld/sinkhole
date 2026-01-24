@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 82371
-! Updated: 2026-01-23 02:15:15 UTC
+! Entries: 82372
+! Updated: 2026-01-24 02:14:23 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6259,6 +6259,7 @@
 ||adocean.pl^
 ||adod.info^
 ||adolf.tv^
+||adolfoqsalondmacha.standard.us-east-1.oortstorages.com^
 ||adone.net^
 ||adone.yicha.jp^
 ||adonline.e-kolay.net^
@@ -13947,6 +13948,7 @@
 ||ascoopof.com^
 ||ascout24.oewabox.at^
 ||ascribe.rqmob.com^
+||asd.is^
 ||asd.tynt.com^
 ||asdad.florpeter.xyz^
 ||asdasdqwdqwd.xyz^
@@ -18055,7 +18057,6 @@
 ||buckscountytaxattorney.com^
 ||budapest1873.net^
 ||buddhimitra.org^
-||buddycanvas.com^
 ||budgetcarhire.112.2o7.net^
 ||budgetmedicines.com^
 ||budgetvsaudio.com^
@@ -26641,7 +26642,6 @@
 ||evecircuit.com^
 ||evelinsaul.com^
 ||evelynswonderland.com^
-||evencoating.com^
 ||evendors.org^
 ||evening-badlands-6215.herokuapp.com^
 ||event-logger.tagboard.com.herokudns.com^
@@ -28187,7 +28187,6 @@
 ||fotoseiten.heimat.eu^
 ||found.ee^
 ||foundguide.com^
-||fourlevelsgame.com^
 ||fourtuneo.fr^
 ||fout.jp^
 ||foutuneo.fr^
@@ -29095,6 +29094,7 @@
 ||gds.mmstat.com^
 ||gds786bomyc.com^
 ||gdsns1.mmstat.com^
+||gdudh473-chersfeye483.landmarksfeed.su^
 ||gdyn.cnn.com^
 ||gdyn.cnngo.com^
 ||gdyn.nascar.com^
@@ -30262,6 +30262,7 @@
 ||growflow.digital^
 ||growfund.digital^
 ||growgenbio.com^
+||growhairs.shop^
 ||growlr.adsbynimbus.com^
 ||growmove.digital^
 ||growonup.com^
@@ -38604,7 +38605,6 @@
 ||mittencattle.com^
 ||miva.com^
 ||mix-test.uts.ngdata.com^
-||mix2ads.com^
 ||mixadvert.com^
 ||mixedreading.com^
 ||mixmarket.biz^
@@ -44940,7 +44940,6 @@
 ||popunder.paypopup.com^
 ||popunder.ru^
 ||popunder.smartcpx.com^
-||popunhot1.blogspot.com^
 ||popup.msn.com^
 ||popup.oxcash.com^
 ||popup.sapoapps.vn^
@@ -54059,7 +54058,6 @@
 ||t.cfjump.com^
 ||t.channeladvisor.com^
 ||t.chartboost.com^
-||t.co^
 ||t.contentsquare.net^
 ||t.cqq5id8n.com^
 ||t.d.adup-tech.com^
@@ -62820,6 +62818,7 @@
 ||www.avast-downloads.com^
 ||www.avatar-clothing.com^
 ||www.avcikasik.com^
+||www.avemoo.com^
 ||www.avenixio-app.com^
 ||www.avenuea.com^
 ||www.avenues-inc.com^
@@ -64051,6 +64050,7 @@
 ||www.casinotropez.com^
 ||www.casroker.icu^
 ||www.cassecontr.rest^
+||www.cassink.com^
 ||www.castelovex.world^
 ||www.castibubol.pro^
 ||www.castmuse.buzz^
@@ -67130,6 +67130,7 @@
 ||www.first-security-verden.de^
 ||www.firstbookmark.com^
 ||www.firstclick.pro^
+||www.firsttrchfed.com^
 ||www.firstweb.pl^
 ||www.fiscasubch.rest^
 ||www.fischereszter.hu^
