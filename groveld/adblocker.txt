@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 82372
-! Updated: 2026-01-24 02:14:23 UTC
+! Entries: 82378
+! Updated: 2026-01-25 02:19:31 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18057,6 +18057,7 @@
 ||buckscountytaxattorney.com^
 ||budapest1873.net^
 ||buddhimitra.org^
+||buddycanvas.com^
 ||budgetcarhire.112.2o7.net^
 ||budgetmedicines.com^
 ||budgetvsaudio.com^
@@ -26642,6 +26643,7 @@
 ||evecircuit.com^
 ||evelinsaul.com^
 ||evelynswonderland.com^
+||evencoating.com^
 ||evendors.org^
 ||evening-badlands-6215.herokuapp.com^
 ||event-logger.tagboard.com.herokudns.com^
@@ -28187,6 +28189,7 @@
 ||fotoseiten.heimat.eu^
 ||found.ee^
 ||foundguide.com^
+||fourlevelsgame.com^
 ||fourtuneo.fr^
 ||fout.jp^
 ||foutuneo.fr^
@@ -38605,6 +38608,7 @@
 ||mittencattle.com^
 ||miva.com^
 ||mix-test.uts.ngdata.com^
+||mix2ads.com^
 ||mixadvert.com^
 ||mixedreading.com^
 ||mixmarket.biz^
@@ -44940,6 +44944,7 @@
 ||popunder.paypopup.com^
 ||popunder.ru^
 ||popunder.smartcpx.com^
+||popunhot1.blogspot.com^
 ||popup.msn.com^
 ||popup.oxcash.com^
 ||popup.sapoapps.vn^
@@ -54058,6 +54063,7 @@
 ||t.cfjump.com^
 ||t.channeladvisor.com^
 ||t.chartboost.com^
+||t.co^
 ||t.contentsquare.net^
 ||t.cqq5id8n.com^
 ||t.d.adup-tech.com^

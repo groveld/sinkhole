@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 82372
-// Updated: 2026-01-24 02:14:23 UTC
+// Entries: 82378
+// Updated: 2026-01-25 02:19:31 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18058,6 +18058,7 @@ var BLOCKLIST = {
 "buckscountytaxattorney.com":null,
 "budapest1873.net":null,
 "buddhimitra.org":null,
+"buddycanvas.com":null,
 "budgetcarhire.112.2o7.net":null,
 "budgetmedicines.com":null,
 "budgetvsaudio.com":null,
@@ -26643,6 +26644,7 @@ var BLOCKLIST = {
 "evecircuit.com":null,
 "evelinsaul.com":null,
 "evelynswonderland.com":null,
+"evencoating.com":null,
 "evendors.org":null,
 "evening-badlands-6215.herokuapp.com":null,
 "event-logger.tagboard.com.herokudns.com":null,
@@ -28188,6 +28190,7 @@ var BLOCKLIST = {
 "fotoseiten.heimat.eu":null,
 "found.ee":null,
 "foundguide.com":null,
+"fourlevelsgame.com":null,
 "fourtuneo.fr":null,
 "fout.jp":null,
 "foutuneo.fr":null,
@@ -38606,6 +38609,7 @@ var BLOCKLIST = {
 "mittencattle.com":null,
 "miva.com":null,
 "mix-test.uts.ngdata.com":null,
+"mix2ads.com":null,
 "mixadvert.com":null,
 "mixedreading.com":null,
 "mixmarket.biz":null,
@@ -44941,6 +44945,7 @@ var BLOCKLIST = {
 "popunder.paypopup.com":null,
 "popunder.ru":null,
 "popunder.smartcpx.com":null,
+"popunhot1.blogspot.com":null,
 "popup.msn.com":null,
 "popup.oxcash.com":null,
 "popup.sapoapps.vn":null,
@@ -54059,6 +54064,7 @@ var BLOCKLIST = {
 "t.cfjump.com":null,
 "t.channeladvisor.com":null,
 "t.chartboost.com":null,
+"t.co":null,
 "t.contentsquare.net":null,
 "t.cqq5id8n.com":null,
 "t.d.adup-tech.com":null,
