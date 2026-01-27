@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 84330
-# Updated: 2026-01-26 02:18:28 UTC
+# Entries: 84342
+# Updated: 2026-01-27 02:17:07 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23122,6 +23122,7 @@
 0.0.0.0 cumonamateurs.com
 0.0.0.0 cumshotvideos.com
 0.0.0.0 cumulwinte.rest
+0.0.0.0 cun.accountcare.cfd
 0.0.0.0 cunevelassecep.world
 0.0.0.0 cunnyhoney.com
 0.0.0.0 cuntwars.com
@@ -23492,6 +23493,7 @@
 0.0.0.0 dafighatur.com
 0.0.0.0 dagadinhcao.com
 0.0.0.0 dagcoin.org
+0.0.0.0 dahenie.accsvc.cfd
 0.0.0.0 dahocaj.com
 0.0.0.0 daia.ero-advertising.com
 0.0.0.0 daily.boonovel.com
@@ -39638,6 +39640,7 @@
 0.0.0.0 movitex.122.2o7.net
 0.0.0.0 movsflix.com
 0.0.0.0 movu.brighthaveen.com
+0.0.0.0 movvx.accunit.cfd
 0.0.0.0 mowmihache.pl
 0.0.0.0 moyeurt.weebly.com
 0.0.0.0 moz.execulink.net
@@ -60619,6 +60622,7 @@
 0.0.0.0 webmail-staff-kyc-checkupdate-system.appwrite.network
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 webmail.auth000sys.sandpiperdaho.com
+0.0.0.0 webmail.grahachemical.co.id
 0.0.0.0 webmail.kanoodle.com
 0.0.0.0 webmail.mmtimes.net
 0.0.0.0 webmailauthtsya5d5dfauthnotify.s3.eu-central-4.ionoscloud.com
@@ -68976,6 +68980,7 @@
 0.0.0.0 www.gainoscale.com
 0.0.0.0 www.gainoview.com
 0.0.0.0 www.gainsphereai.net
+0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gaja79.com
 0.0.0.0 www.gajucai.com
 0.0.0.0 www.gajucai.convertri.com
@@ -70820,6 +70825,7 @@
 0.0.0.0 www.informcje1.is-best.net
 0.0.0.0 www.informcje2.is-best.net
 0.0.0.0 www.informcje3.is-best.net
+0.0.0.0 www.informecadastral.com
 0.0.0.0 www.informereng.com
 0.0.0.0 www.informje3.is-best.net
 0.0.0.0 www.informje4.is-best.net
@@ -74725,6 +74731,7 @@
 0.0.0.0 www.parado.pl
 0.0.0.0 www.parafricon.rest
 0.0.0.0 www.paralidya.com
+0.0.0.0 www.paramutplus.com
 0.0.0.0 www.paraphrasingservice.org
 0.0.0.0 www.parasdispr.world
 0.0.0.0 www.paraserup.homes
@@ -74810,6 +74817,7 @@
 0.0.0.0 www.paupusuper.my
 0.0.0.0 www.pavanaircool.com
 0.0.0.0 www.paviprktool.com
+0.0.0.0 www.paviro.cfd
 0.0.0.0 www.pavlorabulyak.com
 0.0.0.0 www.pawilonyrosa-sp.com
 0.0.0.0 www.pawnauctions.net
@@ -75907,6 +75915,7 @@
 0.0.0.0 www.portaldruku.pl
 0.0.0.0 www.portalrandkowy.c.pl
 0.0.0.0 www.portfelrynek.com
+0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.portoftakoradi.net
 0.0.0.0 www.portuguese-guide.com
 0.0.0.0 www.positdigit.rest
@@ -76804,6 +76813,7 @@
 0.0.0.0 www.removiov.com
 0.0.0.0 www.remvpol.top
 0.0.0.0 www.renaturalizacion.com
+0.0.0.0 www.renderfoest.com
 0.0.0.0 www.renditixai-app.com
 0.0.0.0 www.renew.wixdomainsubscription.com
 0.0.0.0 www.renewableresource48d.info
@@ -79332,6 +79342,7 @@
 0.0.0.0 www.swapprotection.com
 0.0.0.0 www.swatdidyn.rest
 0.0.0.0 www.swbmetals.com
+0.0.0.0 www.sweetiesecrets.com
 0.0.0.0 www.sweetsforfree.com
 0.0.0.0 www.sweetsprop.pro
 0.0.0.0 www.sweetteamusic.com
@@ -81953,6 +81964,7 @@
 0.0.0.0 www.wielkanagroda.com
 0.0.0.0 www.wielkaniespodzianka.pl
 0.0.0.0 www.wielofunkcyjne-okulary-do-czytania-pl.com
+0.0.0.0 www.wifimarfixhotspot.com
 0.0.0.0 www.wifiprotector.com
 0.0.0.0 www.wigasto.com
 0.0.0.0 www.wigetmedia.com

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 84328
-// Updated: 2026-01-26 01:29:01 UTC
+// Entries: 84335
+// Updated: 2026-01-27 01:27:46 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23123,6 +23123,7 @@ var BLOCKLIST = {
 "cumonamateurs.com":null,
 "cumshotvideos.com":null,
 "cumulwinte.rest":null,
+"cun.accountcare.cfd":null,
 "cunevelassecep.world":null,
 "cunnyhoney.com":null,
 "cuntwars.com":null,
@@ -68976,6 +68977,7 @@ var BLOCKLIST = {
 "www.gainoscale.com":null,
 "www.gainoview.com":null,
 "www.gainsphereai.net":null,
+"www.gainwintz.com":null,
 "www.gaja79.com":null,
 "www.gajucai.com":null,
 "www.gajucai.convertri.com":null,
@@ -70819,6 +70821,7 @@ var BLOCKLIST = {
 "www.informcje1.is-best.net":null,
 "www.informcje2.is-best.net":null,
 "www.informcje3.is-best.net":null,
+"www.informecadastral.com":null,
 "www.informereng.com":null,
 "www.informje3.is-best.net":null,
 "www.informje4.is-best.net":null,
@@ -74724,6 +74727,7 @@ var BLOCKLIST = {
 "www.parado.pl":null,
 "www.parafricon.rest":null,
 "www.paralidya.com":null,
+"www.paramutplus.com":null,
 "www.paraphrasingservice.org":null,
 "www.parasdispr.world":null,
 "www.paraserup.homes":null,
@@ -76803,6 +76807,7 @@ var BLOCKLIST = {
 "www.removiov.com":null,
 "www.remvpol.top":null,
 "www.renaturalizacion.com":null,
+"www.renderfoest.com":null,
 "www.renditixai-app.com":null,
 "www.renew.wixdomainsubscription.com":null,
 "www.renewableresource48d.info":null,
@@ -79331,6 +79336,7 @@ var BLOCKLIST = {
 "www.swapprotection.com":null,
 "www.swatdidyn.rest":null,
 "www.swbmetals.com":null,
+"www.sweetiesecrets.com":null,
 "www.sweetsforfree.com":null,
 "www.sweetsprop.pro":null,
 "www.sweetteamusic.com":null,
@@ -81952,6 +81958,7 @@ var BLOCKLIST = {
 "www.wielkanagroda.com":null,
 "www.wielkaniespodzianka.pl":null,
 "www.wielofunkcyjne-okulary-do-czytania-pl.com":null,
+"www.wifimarfixhotspot.com":null,
 "www.wifiprotector.com":null,
 "www.wigasto.com":null,
 "www.wigetmedia.com":null,

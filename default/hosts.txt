@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 84328
-# Updated: 2026-01-26 01:29:01 UTC
+# Entries: 84335
+# Updated: 2026-01-27 01:27:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23122,6 +23122,7 @@
 0.0.0.0 cumonamateurs.com
 0.0.0.0 cumshotvideos.com
 0.0.0.0 cumulwinte.rest
+0.0.0.0 cun.accountcare.cfd
 0.0.0.0 cunevelassecep.world
 0.0.0.0 cunnyhoney.com
 0.0.0.0 cuntwars.com
@@ -68975,6 +68976,7 @@
 0.0.0.0 www.gainoscale.com
 0.0.0.0 www.gainoview.com
 0.0.0.0 www.gainsphereai.net
+0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gaja79.com
 0.0.0.0 www.gajucai.com
 0.0.0.0 www.gajucai.convertri.com
@@ -70818,6 +70820,7 @@
 0.0.0.0 www.informcje1.is-best.net
 0.0.0.0 www.informcje2.is-best.net
 0.0.0.0 www.informcje3.is-best.net
+0.0.0.0 www.informecadastral.com
 0.0.0.0 www.informereng.com
 0.0.0.0 www.informje3.is-best.net
 0.0.0.0 www.informje4.is-best.net
@@ -74723,6 +74726,7 @@
 0.0.0.0 www.parado.pl
 0.0.0.0 www.parafricon.rest
 0.0.0.0 www.paralidya.com
+0.0.0.0 www.paramutplus.com
 0.0.0.0 www.paraphrasingservice.org
 0.0.0.0 www.parasdispr.world
 0.0.0.0 www.paraserup.homes
@@ -76802,6 +76806,7 @@
 0.0.0.0 www.removiov.com
 0.0.0.0 www.remvpol.top
 0.0.0.0 www.renaturalizacion.com
+0.0.0.0 www.renderfoest.com
 0.0.0.0 www.renditixai-app.com
 0.0.0.0 www.renew.wixdomainsubscription.com
 0.0.0.0 www.renewableresource48d.info
@@ -79330,6 +79335,7 @@
 0.0.0.0 www.swapprotection.com
 0.0.0.0 www.swatdidyn.rest
 0.0.0.0 www.swbmetals.com
+0.0.0.0 www.sweetiesecrets.com
 0.0.0.0 www.sweetsforfree.com
 0.0.0.0 www.sweetsprop.pro
 0.0.0.0 www.sweetteamusic.com
@@ -81951,6 +81957,7 @@
 0.0.0.0 www.wielkanagroda.com
 0.0.0.0 www.wielkaniespodzianka.pl
 0.0.0.0 www.wielofunkcyjne-okulary-do-czytania-pl.com
+0.0.0.0 www.wifimarfixhotspot.com
 0.0.0.0 www.wifiprotector.com
 0.0.0.0 www.wigasto.com
 0.0.0.0 www.wigetmedia.com
