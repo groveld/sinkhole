@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 84335
-! Updated: 2026-01-27 01:27:46 UTC
+! Entries: 84340
+! Updated: 2026-01-28 01:25:51 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18247,7 +18247,6 @@
 ||buckscountytaxattorney.com^
 ||budapest1873.net^
 ||buddhimitra.org^
-||buddycanvas.com^
 ||budgetcarhire.112.2o7.net^
 ||budgetmedicines.com^
 ||budgetvsaudio.com^
@@ -23493,6 +23492,7 @@
 ||dafighatur.com^
 ||dagadinhcao.com^
 ||dagcoin.org^
+||dahenie.accsvc.cfd^
 ||dahocaj.com^
 ||daia.ero-advertising.com^
 ||daily.boonovel.com^
@@ -26973,7 +26973,6 @@
 ||evecircuit.com^
 ||evelinsaul.com^
 ||evelynswonderland.com^
-||evencoating.com^
 ||evendors.org^
 ||evening-badlands-6215.herokuapp.com^
 ||event-logger.tagboard.com.herokudns.com^
@@ -28534,7 +28533,6 @@
 ||fotoseiten.heimat.eu^
 ||found.ee^
 ||foundguide.com^
-||fourlevelsgame.com^
 ||fourtuneo.fr^
 ||fout.jp^
 ||foutuneo.fr^
@@ -39131,7 +39129,6 @@
 ||mittencattle.com^
 ||miva.com^
 ||mix-test.uts.ngdata.com^
-||mix2ads.com^
 ||mixadvert.com^
 ||mixedreading.com^
 ||mixmarket.biz^
@@ -39638,6 +39635,7 @@
 ||movitex.122.2o7.net^
 ||movsflix.com^
 ||movu.brighthaveen.com^
+||movvx.accunit.cfd^
 ||mowmihache.pl^
 ||moyeurt.weebly.com^
 ||moz.execulink.net^
@@ -45583,7 +45581,6 @@
 ||popunder.paypopup.com^
 ||popunder.ru^
 ||popunder.smartcpx.com^
-||popunhot1.blogspot.com^
 ||popup.msn.com^
 ||popup.oxcash.com^
 ||popup.sapoapps.vn^
@@ -45750,6 +45747,7 @@
 ||pr-star.de^
 ||pr-ten.de^
 ||pr-v1.presage.io^
+||pr-wealth.in^
 ||pr.5.p2l.info^
 ||pr.analytics.console.aws.a2z.com^
 ||pr.atwola.com^
@@ -54857,7 +54855,6 @@
 ||t.cfjump.com^
 ||t.channeladvisor.com^
 ||t.chartboost.com^
-||t.co^
 ||t.contentsquare.net^
 ||t.cqq5id8n.com^
 ||t.d.adup-tech.com^
@@ -60619,6 +60616,7 @@
 ||webmail-staff-kyc-checkupdate-system.appwrite.network^
 ||webmail-who-int.000webhostapp.com^
 ||webmail.auth000sys.sandpiperdaho.com^
+||webmail.grahachemical.co.id^
 ||webmail.kanoodle.com^
 ||webmail.mmtimes.net^
 ||webmailauthtsya5d5dfauthnotify.s3.eu-central-4.ionoscloud.com^
@@ -66469,6 +66467,7 @@
 ||www.darkbrainl.info^
 ||www.darkdesertl.info^
 ||www.darkfoodl.info^
+||www.darkrro.com^
 ||www.darley.co.uk^
 ||www.darlingblooms.com^
 ||www.darmowe-bony.24.eu^
@@ -67416,6 +67415,7 @@
 ||www.ecofriendlyfashion.shop^
 ||www.ecogranjateijeiro.com^
 ||www.ecoideas244d.info^
+||www.ecoledessciences.com^
 ||www.ecolemaestro.com^
 ||www.ecolightl.info^
 ||www.ecolocarbo.rest^
@@ -70066,6 +70066,7 @@
 ||www.helpslr.odspecs.com^
 ||www.helpywm.odspecs.com^
 ||www.helpztw.odspecs.com^
+||www.helvax.cfd^
 ||www.hematuncap.world^
 ||www.hemitropalyst.info^
 ||www.hemogdinom.rest^
@@ -72026,6 +72027,7 @@
 ||www.leeiris.shop^
 ||www.leeladefer.pro^
 ||www.leesosbrog.rest^
+||www.leeucode.com^
 ||www.lefche.shop^
 ||www.leflix.us^
 ||www.lefos.net^
@@ -74812,6 +74814,7 @@
 ||www.paupusuper.my^
 ||www.pavanaircool.com^
 ||www.paviprktool.com^
+||www.paviro.cfd^
 ||www.pavlorabulyak.com^
 ||www.pawilonyrosa-sp.com^
 ||www.pawnauctions.net^
@@ -75909,6 +75912,7 @@
 ||www.portaldruku.pl^
 ||www.portalrandkowy.c.pl^
 ||www.portfelrynek.com^
+||www.portlanfleathergoods.com^
 ||www.portoftakoradi.net^
 ||www.portuguese-guide.com^
 ||www.positdigit.rest^
@@ -84029,6 +84033,7 @@
 ||ze.zeroredirect2.com^
 ||ze1.zeroredirect1.com^
 ||zealotnetworks-d.openx.net^
+||zealous-push.surge.sh^
 ||zebutal.1.p2l.info^
 ||zebywybielanie.c.pl^
 ||zedo.com^

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 84335
-# Updated: 2026-01-27 01:27:46 UTC
+# Entries: 84340
+# Updated: 2026-01-28 01:25:51 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18247,7 +18247,6 @@
 0.0.0.0 buckscountytaxattorney.com
 0.0.0.0 budapest1873.net
 0.0.0.0 buddhimitra.org
-0.0.0.0 buddycanvas.com
 0.0.0.0 budgetcarhire.112.2o7.net
 0.0.0.0 budgetmedicines.com
 0.0.0.0 budgetvsaudio.com
@@ -23493,6 +23492,7 @@
 0.0.0.0 dafighatur.com
 0.0.0.0 dagadinhcao.com
 0.0.0.0 dagcoin.org
+0.0.0.0 dahenie.accsvc.cfd
 0.0.0.0 dahocaj.com
 0.0.0.0 daia.ero-advertising.com
 0.0.0.0 daily.boonovel.com
@@ -26973,7 +26973,6 @@
 0.0.0.0 evecircuit.com
 0.0.0.0 evelinsaul.com
 0.0.0.0 evelynswonderland.com
-0.0.0.0 evencoating.com
 0.0.0.0 evendors.org
 0.0.0.0 evening-badlands-6215.herokuapp.com
 0.0.0.0 event-logger.tagboard.com.herokudns.com
@@ -28534,7 +28533,6 @@
 0.0.0.0 fotoseiten.heimat.eu
 0.0.0.0 found.ee
 0.0.0.0 foundguide.com
-0.0.0.0 fourlevelsgame.com
 0.0.0.0 fourtuneo.fr
 0.0.0.0 fout.jp
 0.0.0.0 foutuneo.fr
@@ -39131,7 +39129,6 @@
 0.0.0.0 mittencattle.com
 0.0.0.0 miva.com
 0.0.0.0 mix-test.uts.ngdata.com
-0.0.0.0 mix2ads.com
 0.0.0.0 mixadvert.com
 0.0.0.0 mixedreading.com
 0.0.0.0 mixmarket.biz
@@ -39638,6 +39635,7 @@
 0.0.0.0 movitex.122.2o7.net
 0.0.0.0 movsflix.com
 0.0.0.0 movu.brighthaveen.com
+0.0.0.0 movvx.accunit.cfd
 0.0.0.0 mowmihache.pl
 0.0.0.0 moyeurt.weebly.com
 0.0.0.0 moz.execulink.net
@@ -45583,7 +45581,6 @@
 0.0.0.0 popunder.paypopup.com
 0.0.0.0 popunder.ru
 0.0.0.0 popunder.smartcpx.com
-0.0.0.0 popunhot1.blogspot.com
 0.0.0.0 popup.msn.com
 0.0.0.0 popup.oxcash.com
 0.0.0.0 popup.sapoapps.vn
@@ -45750,6 +45747,7 @@
 0.0.0.0 pr-star.de
 0.0.0.0 pr-ten.de
 0.0.0.0 pr-v1.presage.io
+0.0.0.0 pr-wealth.in
 0.0.0.0 pr.5.p2l.info
 0.0.0.0 pr.analytics.console.aws.a2z.com
 0.0.0.0 pr.atwola.com
@@ -54857,7 +54855,6 @@
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.chartboost.com
-0.0.0.0 t.co
 0.0.0.0 t.contentsquare.net
 0.0.0.0 t.cqq5id8n.com
 0.0.0.0 t.d.adup-tech.com
@@ -60619,6 +60616,7 @@
 0.0.0.0 webmail-staff-kyc-checkupdate-system.appwrite.network
 0.0.0.0 webmail-who-int.000webhostapp.com
 0.0.0.0 webmail.auth000sys.sandpiperdaho.com
+0.0.0.0 webmail.grahachemical.co.id
 0.0.0.0 webmail.kanoodle.com
 0.0.0.0 webmail.mmtimes.net
 0.0.0.0 webmailauthtsya5d5dfauthnotify.s3.eu-central-4.ionoscloud.com
@@ -66469,6 +66467,7 @@
 0.0.0.0 www.darkbrainl.info
 0.0.0.0 www.darkdesertl.info
 0.0.0.0 www.darkfoodl.info
+0.0.0.0 www.darkrro.com
 0.0.0.0 www.darley.co.uk
 0.0.0.0 www.darlingblooms.com
 0.0.0.0 www.darmowe-bony.24.eu
@@ -67416,6 +67415,7 @@
 0.0.0.0 www.ecofriendlyfashion.shop
 0.0.0.0 www.ecogranjateijeiro.com
 0.0.0.0 www.ecoideas244d.info
+0.0.0.0 www.ecoledessciences.com
 0.0.0.0 www.ecolemaestro.com
 0.0.0.0 www.ecolightl.info
 0.0.0.0 www.ecolocarbo.rest
@@ -70066,6 +70066,7 @@
 0.0.0.0 www.helpslr.odspecs.com
 0.0.0.0 www.helpywm.odspecs.com
 0.0.0.0 www.helpztw.odspecs.com
+0.0.0.0 www.helvax.cfd
 0.0.0.0 www.hematuncap.world
 0.0.0.0 www.hemitropalyst.info
 0.0.0.0 www.hemogdinom.rest
@@ -72026,6 +72027,7 @@
 0.0.0.0 www.leeiris.shop
 0.0.0.0 www.leeladefer.pro
 0.0.0.0 www.leesosbrog.rest
+0.0.0.0 www.leeucode.com
 0.0.0.0 www.lefche.shop
 0.0.0.0 www.leflix.us
 0.0.0.0 www.lefos.net
@@ -74812,6 +74814,7 @@
 0.0.0.0 www.paupusuper.my
 0.0.0.0 www.pavanaircool.com
 0.0.0.0 www.paviprktool.com
+0.0.0.0 www.paviro.cfd
 0.0.0.0 www.pavlorabulyak.com
 0.0.0.0 www.pawilonyrosa-sp.com
 0.0.0.0 www.pawnauctions.net
@@ -75909,6 +75912,7 @@
 0.0.0.0 www.portaldruku.pl
 0.0.0.0 www.portalrandkowy.c.pl
 0.0.0.0 www.portfelrynek.com
+0.0.0.0 www.portlanfleathergoods.com
 0.0.0.0 www.portoftakoradi.net
 0.0.0.0 www.portuguese-guide.com
 0.0.0.0 www.positdigit.rest
@@ -84029,6 +84033,7 @@
 0.0.0.0 ze.zeroredirect2.com
 0.0.0.0 ze1.zeroredirect1.com
 0.0.0.0 zealotnetworks-d.openx.net
+0.0.0.0 zealous-push.surge.sh
 0.0.0.0 zebutal.1.p2l.info
 0.0.0.0 zebywybielanie.c.pl
 0.0.0.0 zedo.com

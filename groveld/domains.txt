@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
 # Entries: 84342
-# Updated: 2026-01-27 02:17:07 UTC
+# Updated: 2026-01-28 02:15:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18247,7 +18247,6 @@ bucket.rtk.io
 buckscountytaxattorney.com
 budapest1873.net
 buddhimitra.org
-buddycanvas.com
 budgetcarhire.112.2o7.net
 budgetmedicines.com
 budgetvsaudio.com
@@ -26974,7 +26973,6 @@ evbk.gamooga.com
 evecircuit.com
 evelinsaul.com
 evelynswonderland.com
-evencoating.com
 evendors.org
 evening-badlands-6215.herokuapp.com
 event-logger.tagboard.com.herokudns.com
@@ -28535,7 +28533,6 @@ fotopegaz.pl
 fotoseiten.heimat.eu
 found.ee
 foundguide.com
-fourlevelsgame.com
 fourtuneo.fr
 fout.jp
 foutuneo.fr
@@ -39133,7 +39130,6 @@ mitsubishielectric.112.2o7.net
 mittencattle.com
 miva.com
 mix-test.uts.ngdata.com
-mix2ads.com
 mixadvert.com
 mixedreading.com
 mixmarket.biz
@@ -45586,7 +45582,6 @@ popunder.net
 popunder.paypopup.com
 popunder.ru
 popunder.smartcpx.com
-popunhot1.blogspot.com
 popup.msn.com
 popup.oxcash.com
 popup.sapoapps.vn
@@ -45753,6 +45748,7 @@ pr-gmtdmp.mookie1.com
 pr-star.de
 pr-ten.de
 pr-v1.presage.io
+pr-wealth.in
 pr.5.p2l.info
 pr.analytics.console.aws.a2z.com
 pr.atwola.com
@@ -54860,7 +54856,6 @@ t.carta.com
 t.cfjump.com
 t.channeladvisor.com
 t.chartboost.com
-t.co
 t.contentsquare.net
 t.cqq5id8n.com
 t.d.adup-tech.com
@@ -66473,6 +66468,7 @@ www.darkail.info
 www.darkbrainl.info
 www.darkdesertl.info
 www.darkfoodl.info
+www.darkrro.com
 www.darley.co.uk
 www.darlingblooms.com
 www.darmowe-bony.24.eu
@@ -67420,6 +67416,7 @@ www.ecoenergyh.info
 www.ecofriendlyfashion.shop
 www.ecogranjateijeiro.com
 www.ecoideas244d.info
+www.ecoledessciences.com
 www.ecolemaestro.com
 www.ecolightl.info
 www.ecolocarbo.rest
@@ -70071,6 +70068,7 @@ www.helpqaw.odspecs.com
 www.helpslr.odspecs.com
 www.helpywm.odspecs.com
 www.helpztw.odspecs.com
+www.helvax.cfd
 www.hematuncap.world
 www.hemitropalyst.info
 www.hemogdinom.rest
@@ -72031,6 +72029,7 @@ www.ledzep2.com
 www.leeiris.shop
 www.leeladefer.pro
 www.leesosbrog.rest
+www.leeucode.com
 www.lefche.shop
 www.leflix.us
 www.lefos.net
@@ -84036,6 +84035,7 @@ ze.zeroredirect1.com
 ze.zeroredirect2.com
 ze1.zeroredirect1.com
 zealotnetworks-d.openx.net
+zealous-push.surge.sh
 zebutal.1.p2l.info
 zebywybielanie.c.pl
 zedo.com
