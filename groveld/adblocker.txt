@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 84342
-! Updated: 2026-01-28 02:15:25 UTC
+! Entries: 84347
+! Updated: 2026-01-29 02:20:52 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26326,6 +26326,7 @@
 ||email-reflex.com^
 ||email-trk.ihg-businessedge.com^
 ||email.advertising.com^
+||email.headers.digital^
 ||email.mg1.substack.com^
 ||email.positionly.com^
 ||email6.edwall.top^
@@ -66726,6 +66727,7 @@
 ||www.devopsjakarta.com^
 ||www.devsinc-earning.com^
 ||www.devuwisupugserwo.today^
+||www.dewcoreaj.pro^
 ||www.dewwillowwj.site^
 ||www.dexarn-biz-tornix-15126.pages.dev^
 ||www.dexavorline.cloud^
@@ -66960,6 +66962,7 @@
 ||www.dkkjjjjjdjffeieu.weebly.com^
 ||www.dkmotorsportsinc.com^
 ||www.dknproje.com^
+||www.dkpmsa.cfd^
 ||www.dkyzrl.info^
 ||www.dla-ciala.pl^
 ||www.dla-dzieci.shop^
@@ -73199,6 +73202,7 @@
 ||www.myeforsa.pl^
 ||www.myerstore.net^
 ||www.myexclusiverewards.com^
+||www.myexotel.com^
 ||www.myfashion.top^
 ||www.myfreedinner.com^
 ||www.myfreegifts.co.uk^
@@ -77297,6 +77301,7 @@
 ||www.rtb-adsterra.flshtrk.store^
 ||www.rtcode.com^
 ||www.rtk.io^
+||www.rtkmyz.cfd^
 ||www.rtpres02.com^
 ||www.rtvmax.pl^
 ||www.ru-biz.com^

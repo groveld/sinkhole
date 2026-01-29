@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 84342
-# Updated: 2026-01-28 02:15:25 UTC
+# Entries: 84347
+# Updated: 2026-01-29 02:20:52 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26326,6 +26326,7 @@ address=/email-open.adtidy.org/0.0.0.0
 address=/email-reflex.com/0.0.0.0
 address=/email-trk.ihg-businessedge.com/0.0.0.0
 address=/email.advertising.com/0.0.0.0
+address=/email.headers.digital/0.0.0.0
 address=/email.mg1.substack.com/0.0.0.0
 address=/email.positionly.com/0.0.0.0
 address=/email6.edwall.top/0.0.0.0
@@ -66726,6 +66727,7 @@ address=/www.devon38.plus.com/0.0.0.0
 address=/www.devopsjakarta.com/0.0.0.0
 address=/www.devsinc-earning.com/0.0.0.0
 address=/www.devuwisupugserwo.today/0.0.0.0
+address=/www.dewcoreaj.pro/0.0.0.0
 address=/www.dewwillowwj.site/0.0.0.0
 address=/www.dexarn-biz-tornix-15126.pages.dev/0.0.0.0
 address=/www.dexavorline.cloud/0.0.0.0
@@ -66960,6 +66962,7 @@ address=/www.djugoogs.com/0.0.0.0
 address=/www.dkkjjjjjdjffeieu.weebly.com/0.0.0.0
 address=/www.dkmotorsportsinc.com/0.0.0.0
 address=/www.dknproje.com/0.0.0.0
+address=/www.dkpmsa.cfd/0.0.0.0
 address=/www.dkyzrl.info/0.0.0.0
 address=/www.dla-ciala.pl/0.0.0.0
 address=/www.dla-dzieci.shop/0.0.0.0
@@ -73199,6 +73202,7 @@ address=/www.mydreamdegree.com/0.0.0.0
 address=/www.myeforsa.pl/0.0.0.0
 address=/www.myerstore.net/0.0.0.0
 address=/www.myexclusiverewards.com/0.0.0.0
+address=/www.myexotel.com/0.0.0.0
 address=/www.myfashion.top/0.0.0.0
 address=/www.myfreedinner.com/0.0.0.0
 address=/www.myfreegifts.co.uk/0.0.0.0
@@ -77297,6 +77301,7 @@ address=/www.rtatravel.com/0.0.0.0
 address=/www.rtb-adsterra.flshtrk.store/0.0.0.0
 address=/www.rtcode.com/0.0.0.0
 address=/www.rtk.io/0.0.0.0
+address=/www.rtkmyz.cfd/0.0.0.0
 address=/www.rtpres02.com/0.0.0.0
 address=/www.rtvmax.pl/0.0.0.0
 address=/www.ru-biz.com/0.0.0.0

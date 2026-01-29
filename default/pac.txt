@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 84340
-// Updated: 2026-01-28 01:25:51 UTC
+// Entries: 84343
+// Updated: 2026-01-29 01:31:18 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66726,6 +66726,7 @@ var BLOCKLIST = {
 "www.devopsjakarta.com":null,
 "www.devsinc-earning.com":null,
 "www.devuwisupugserwo.today":null,
+"www.dewcoreaj.pro":null,
 "www.dewwillowwj.site":null,
 "www.dexarn-biz-tornix-15126.pages.dev":null,
 "www.dexavorline.cloud":null,
@@ -73198,6 +73199,7 @@ var BLOCKLIST = {
 "www.myeforsa.pl":null,
 "www.myerstore.net":null,
 "www.myexclusiverewards.com":null,
+"www.myexotel.com":null,
 "www.myfashion.top":null,
 "www.myfreedinner.com":null,
 "www.myfreegifts.co.uk":null,
@@ -77296,6 +77298,7 @@ var BLOCKLIST = {
 "www.rtb-adsterra.flshtrk.store":null,
 "www.rtcode.com":null,
 "www.rtk.io":null,
+"www.rtkmyz.cfd":null,
 "www.rtpres02.com":null,
 "www.rtvmax.pl":null,
 "www.ru-biz.com":null,

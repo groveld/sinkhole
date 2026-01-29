@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 84342
-// Updated: 2026-01-28 02:15:25 UTC
+// Entries: 84347
+// Updated: 2026-01-29 02:20:52 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26327,6 +26327,7 @@ var BLOCKLIST = {
 "email-reflex.com":null,
 "email-trk.ihg-businessedge.com":null,
 "email.advertising.com":null,
+"email.headers.digital":null,
 "email.mg1.substack.com":null,
 "email.positionly.com":null,
 "email6.edwall.top":null,
@@ -66727,6 +66728,7 @@ var BLOCKLIST = {
 "www.devopsjakarta.com":null,
 "www.devsinc-earning.com":null,
 "www.devuwisupugserwo.today":null,
+"www.dewcoreaj.pro":null,
 "www.dewwillowwj.site":null,
 "www.dexarn-biz-tornix-15126.pages.dev":null,
 "www.dexavorline.cloud":null,
@@ -66961,6 +66963,7 @@ var BLOCKLIST = {
 "www.dkkjjjjjdjffeieu.weebly.com":null,
 "www.dkmotorsportsinc.com":null,
 "www.dknproje.com":null,
+"www.dkpmsa.cfd":null,
 "www.dkyzrl.info":null,
 "www.dla-ciala.pl":null,
 "www.dla-dzieci.shop":null,
@@ -73200,6 +73203,7 @@ var BLOCKLIST = {
 "www.myeforsa.pl":null,
 "www.myerstore.net":null,
 "www.myexclusiverewards.com":null,
+"www.myexotel.com":null,
 "www.myfashion.top":null,
 "www.myfreedinner.com":null,
 "www.myfreegifts.co.uk":null,
@@ -77298,6 +77302,7 @@ var BLOCKLIST = {
 "www.rtb-adsterra.flshtrk.store":null,
 "www.rtcode.com":null,
 "www.rtk.io":null,
+"www.rtkmyz.cfd":null,
 "www.rtpres02.com":null,
 "www.rtvmax.pl":null,
 "www.ru-biz.com":null,
