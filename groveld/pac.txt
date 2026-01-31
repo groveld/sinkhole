@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 87633
-// Updated: 2026-01-30 02:20:49 UTC
+// Entries: 87644
+// Updated: 2026-01-31 02:18:26 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14813,6 +14813,7 @@ var BLOCKLIST = {
 "avast.d0wnloadz.net":null,
 "avastats.com":null,
 "avatar-clothing.com":null,
+"avatar.supearou.in":null,
 "avaya.com.102.122.2o7.net":null,
 "avazudsp.net":null,
 "avazunativeads.com":null,
@@ -18597,6 +18598,7 @@ var BLOCKLIST = {
 "bullbridgeautomated.com":null,
 "bulldog.122.2o7.net":null,
 "bullet-ex.com":null,
+"bulletwhiskey.sa.com":null,
 "bullgame.net":null,
 "bullionglidingscuttle.com":null,
 "bullrun-new.com":null,
@@ -32655,6 +32657,7 @@ var BLOCKLIST = {
 "hln7sur7.tnsinternet.be":null,
 "hlog.hiido.com":null,
 "hlok.qertewrt.com":null,
+"hlthiliv.shop":null,
 "hm.baidu.com":null,
 "hm.d1.sc.omtrdc.net":null,
 "hm.l.qq.com":null,
@@ -66935,6 +66938,7 @@ var BLOCKLIST = {
 "www.buzzlink.co":null,
 "www.buzzonclick.com":null,
 "www.buzzstore.club":null,
+"www.bvcnle.cfd":null,
 "www.bwhpage-open01.com":null,
 "www.bwhpage-open03.com":null,
 "www.bwhpage-open04.com":null,
@@ -67661,6 +67665,7 @@ var BLOCKLIST = {
 "www.cleanup-your-computer.com":null,
 "www.clear-request.com":null,
 "www.clear-search.com":null,
+"www.clearacreonline.com":null,
 "www.clearalgorithm.com":null,
 "www.clearinvexus.com":null,
 "www.clearlymissherd.com":null,
@@ -68249,6 +68254,7 @@ var BLOCKLIST = {
 "www.cpalead.com":null,
 "www.cpalist.com":null,
 "www.cpanel-cpsess1250052404frontend-upiterdomains.nevzat.nl":null,
+"www.cpatglobal.com":null,
 "www.cpays.com":null,
 "www.cpm10.com":null,
 "www.cpm20.com":null,
@@ -68616,6 +68622,7 @@ var BLOCKLIST = {
 "www.darmowyfilmrfm44.ek1.pl":null,
 "www.darmowyfilmzlektoremoas10.ek1.pl":null,
 "www.darortuash.com":null,
+"www.dartya.com":null,
 "www.dascoin.com":null,
 "www.dascoin.prowly.com":null,
 "www.dashboat.cc":null,
@@ -69256,6 +69263,7 @@ var BLOCKLIST = {
 "www.dopestore.pl":null,
 "www.doppialeco.rest":null,
 "www.dorisgrillbar.com":null,
+"www.dorminvaders.com":null,
 "www.doroslap.bwpsites.com":null,
 "www.dorseytrimandmillwork.com":null,
 "www.dortostram.pro":null,
@@ -69670,6 +69678,7 @@ var BLOCKLIST = {
 "www.edaflowz.top":null,
 "www.edahubzz.xyz":null,
 "www.edandjeremy.net":null,
+"www.edashealthcare.com":null,
 "www.eddieedwardsspeakes.com":null,
 "www.eddy-goods.com":null,
 "www.eddyeddyedwardsrealestate.com":null,
@@ -71577,6 +71586,7 @@ var BLOCKLIST = {
 "www.geekoregon.org":null,
 "www.gegevoe.com":null,
 "www.gekk.net":null,
+"www.gekorn.com":null,
 "www.gekyxyo5.com":null,
 "www.gelarion.com":null,
 "www.geliyormu.com":null,
@@ -71597,6 +71607,7 @@ var BLOCKLIST = {
 "www.genforumgenealogy.com":null,
 "www.genknot.com":null,
 "www.gennybook.com":null,
+"www.gentleshadeox.pro":null,
 "www.gentstyle.top":null,
 "www.genzdijital.com":null,
 "www.genzynation.blog":null,

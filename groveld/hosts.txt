@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 87633
-# Updated: 2026-01-30 02:20:49 UTC
+# Entries: 87644
+# Updated: 2026-01-31 02:18:26 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14812,6 +14812,7 @@
 0.0.0.0 avast.d0wnloadz.net
 0.0.0.0 avastats.com
 0.0.0.0 avatar-clothing.com
+0.0.0.0 avatar.supearou.in
 0.0.0.0 avaya.com.102.122.2o7.net
 0.0.0.0 avazudsp.net
 0.0.0.0 avazunativeads.com
@@ -18596,6 +18597,7 @@
 0.0.0.0 bullbridgeautomated.com
 0.0.0.0 bulldog.122.2o7.net
 0.0.0.0 bullet-ex.com
+0.0.0.0 bulletwhiskey.sa.com
 0.0.0.0 bullgame.net
 0.0.0.0 bullionglidingscuttle.com
 0.0.0.0 bullrun-new.com
@@ -32654,6 +32656,7 @@
 0.0.0.0 hln7sur7.tnsinternet.be
 0.0.0.0 hlog.hiido.com
 0.0.0.0 hlok.qertewrt.com
+0.0.0.0 hlthiliv.shop
 0.0.0.0 hm.baidu.com
 0.0.0.0 hm.d1.sc.omtrdc.net
 0.0.0.0 hm.l.qq.com
@@ -66934,6 +66937,7 @@
 0.0.0.0 www.buzzlink.co
 0.0.0.0 www.buzzonclick.com
 0.0.0.0 www.buzzstore.club
+0.0.0.0 www.bvcnle.cfd
 0.0.0.0 www.bwhpage-open01.com
 0.0.0.0 www.bwhpage-open03.com
 0.0.0.0 www.bwhpage-open04.com
@@ -67660,6 +67664,7 @@
 0.0.0.0 www.cleanup-your-computer.com
 0.0.0.0 www.clear-request.com
 0.0.0.0 www.clear-search.com
+0.0.0.0 www.clearacreonline.com
 0.0.0.0 www.clearalgorithm.com
 0.0.0.0 www.clearinvexus.com
 0.0.0.0 www.clearlymissherd.com
@@ -68248,6 +68253,7 @@
 0.0.0.0 www.cpalead.com
 0.0.0.0 www.cpalist.com
 0.0.0.0 www.cpanel-cpsess1250052404frontend-upiterdomains.nevzat.nl
+0.0.0.0 www.cpatglobal.com
 0.0.0.0 www.cpays.com
 0.0.0.0 www.cpm10.com
 0.0.0.0 www.cpm20.com
@@ -68615,6 +68621,7 @@
 0.0.0.0 www.darmowyfilmrfm44.ek1.pl
 0.0.0.0 www.darmowyfilmzlektoremoas10.ek1.pl
 0.0.0.0 www.darortuash.com
+0.0.0.0 www.dartya.com
 0.0.0.0 www.dascoin.com
 0.0.0.0 www.dascoin.prowly.com
 0.0.0.0 www.dashboat.cc
@@ -69255,6 +69262,7 @@
 0.0.0.0 www.dopestore.pl
 0.0.0.0 www.doppialeco.rest
 0.0.0.0 www.dorisgrillbar.com
+0.0.0.0 www.dorminvaders.com
 0.0.0.0 www.doroslap.bwpsites.com
 0.0.0.0 www.dorseytrimandmillwork.com
 0.0.0.0 www.dortostram.pro
@@ -69669,6 +69677,7 @@
 0.0.0.0 www.edaflowz.top
 0.0.0.0 www.edahubzz.xyz
 0.0.0.0 www.edandjeremy.net
+0.0.0.0 www.edashealthcare.com
 0.0.0.0 www.eddieedwardsspeakes.com
 0.0.0.0 www.eddy-goods.com
 0.0.0.0 www.eddyeddyedwardsrealestate.com
@@ -71576,6 +71585,7 @@
 0.0.0.0 www.geekoregon.org
 0.0.0.0 www.gegevoe.com
 0.0.0.0 www.gekk.net
+0.0.0.0 www.gekorn.com
 0.0.0.0 www.gekyxyo5.com
 0.0.0.0 www.gelarion.com
 0.0.0.0 www.geliyormu.com
@@ -71596,6 +71606,7 @@
 0.0.0.0 www.genforumgenealogy.com
 0.0.0.0 www.genknot.com
 0.0.0.0 www.gennybook.com
+0.0.0.0 www.gentleshadeox.pro
 0.0.0.0 www.gentstyle.top
 0.0.0.0 www.genzdijital.com
 0.0.0.0 www.genzynation.blog
