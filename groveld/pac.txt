@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 88130
-// Updated: 2026-02-01 02:29:47 UTC
+// Entries: 88139
+// Updated: 2026-02-02 02:23:27 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1772,6 +1772,7 @@ var BLOCKLIST = {
 "6000518.com":null,
 "600ad1eb3277477ea3047f4983a04245.1-chile-1.com":null,
 "600z.com":null,
+"602.lazulya.com":null,
 "602.stats.misstrends.com":null,
 "604.stats.misstrends.com":null,
 "606.http602.com":null,
@@ -2097,6 +2098,7 @@ var BLOCKLIST = {
 "90qwjy3.lat":null,
 "911.x24hr.com":null,
 "911promotion.com":null,
+"912.lazulya.com":null,
 "9128g3c192cg31c23ooo1.shop":null,
 "9128g3c192cg31c23ooo10.shop":null,
 "9128g3c192cg31c23ooo2.shop":null,
@@ -12221,6 +12223,7 @@ var BLOCKLIST = {
 "amobee-partners.tremorhub.com":null,
 "amobee.com":null,
 "amobil.online":null,
+"amocoeastco.com":null,
 "amodrama.com":null,
 "amoniacorenovable.com":null,
 "amoresamigos.com":null,
@@ -42171,6 +42174,8 @@ var BLOCKLIST = {
 "newopenx.detik.com":null,
 "newouest.fr":null,
 "newpathgo.com":null,
+"newpipe.app":null,
+"newpipe.cc":null,
 "newre-conversions.clickmeter.com":null,
 "news-37876-mshome.com":null,
 "news-389767-mshome.com":null,
@@ -52252,6 +52257,7 @@ var BLOCKLIST = {
 "seninicinyapildi.com":null,
 "seniorcarecanada.com":null,
 "seniordiscountsavings.com":null,
+"seniului.v6.navy":null,
 "sensahome.fr":null,
 "sensenetworks.com":null,
 "senses-estetica.com":null,
@@ -56161,6 +56167,7 @@ var BLOCKLIST = {
 "summitline-ventures.com":null,
 "summitsview.org":null,
 "summmary.com":null,
+"sumo.ad":null,
 "sumo.com":null,
 "sumofus.fr":null,
 "sumome.com":null,
@@ -66545,6 +66552,7 @@ var BLOCKLIST = {
 "www.biedronkapl.sbs":null,
 "www.biedronkowe-karty.24.eu":null,
 "www.bifrost.pl":null,
+"www.bigantstore.com":null,
 "www.bigbangads.go2cloud.org":null,
 "www.bigbangempire.com":null,
 "www.bigbossfashions.com":null,
@@ -73498,6 +73506,7 @@ var BLOCKLIST = {
 "www.ibtenerjiholding.com":null,
 "www.ibtradinglda.com":null,
 "www.icacaonline.org":null,
+"www.icbc-ltd.com":null,
 "www.iccee.com":null,
 "www.ice-awards.com":null,
 "www.ice-casino-games.pl":null,

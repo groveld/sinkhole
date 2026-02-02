@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 88130
-# Updated: 2026-02-01 02:29:47 UTC
+# Entries: 88139
+# Updated: 2026-02-02 02:23:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1771,6 +1771,7 @@ address=/6.adsco.re/0.0.0.0
 address=/6000518.com/0.0.0.0
 address=/600ad1eb3277477ea3047f4983a04245.1-chile-1.com/0.0.0.0
 address=/600z.com/0.0.0.0
+address=/602.lazulya.com/0.0.0.0
 address=/602.stats.misstrends.com/0.0.0.0
 address=/604.stats.misstrends.com/0.0.0.0
 address=/606.http602.com/0.0.0.0
@@ -2096,6 +2097,7 @@ address=/90plan.ovh.net/0.0.0.0
 address=/90qwjy3.lat/0.0.0.0
 address=/911.x24hr.com/0.0.0.0
 address=/911promotion.com/0.0.0.0
+address=/912.lazulya.com/0.0.0.0
 address=/9128g3c192cg31c23ooo1.shop/0.0.0.0
 address=/9128g3c192cg31c23ooo10.shop/0.0.0.0
 address=/9128g3c192cg31c23ooo2.shop/0.0.0.0
@@ -12220,6 +12222,7 @@ address=/amoazon.com/0.0.0.0
 address=/amobee-partners.tremorhub.com/0.0.0.0
 address=/amobee.com/0.0.0.0
 address=/amobil.online/0.0.0.0
+address=/amocoeastco.com/0.0.0.0
 address=/amodrama.com/0.0.0.0
 address=/amoniacorenovable.com/0.0.0.0
 address=/amoresamigos.com/0.0.0.0
@@ -42170,6 +42173,8 @@ address=/newnudecash.com/0.0.0.0
 address=/newopenx.detik.com/0.0.0.0
 address=/newouest.fr/0.0.0.0
 address=/newpathgo.com/0.0.0.0
+address=/newpipe.app/0.0.0.0
+address=/newpipe.cc/0.0.0.0
 address=/newre-conversions.clickmeter.com/0.0.0.0
 address=/news-37876-mshome.com/0.0.0.0
 address=/news-389767-mshome.com/0.0.0.0
@@ -52251,6 +52256,7 @@ address=/senesstreb.pro/0.0.0.0
 address=/seninicinyapildi.com/0.0.0.0
 address=/seniorcarecanada.com/0.0.0.0
 address=/seniordiscountsavings.com/0.0.0.0
+address=/seniului.v6.navy/0.0.0.0
 address=/sensahome.fr/0.0.0.0
 address=/sensenetworks.com/0.0.0.0
 address=/senses-estetica.com/0.0.0.0
@@ -56160,6 +56166,7 @@ address=/summitforgety.top/0.0.0.0
 address=/summitline-ventures.com/0.0.0.0
 address=/summitsview.org/0.0.0.0
 address=/summmary.com/0.0.0.0
+address=/sumo.ad/0.0.0.0
 address=/sumo.com/0.0.0.0
 address=/sumofus.fr/0.0.0.0
 address=/sumome.com/0.0.0.0
@@ -66544,6 +66551,7 @@ address=/www.biedronka-zamyka-sklepy.24.eu/0.0.0.0
 address=/www.biedronkapl.sbs/0.0.0.0
 address=/www.biedronkowe-karty.24.eu/0.0.0.0
 address=/www.bifrost.pl/0.0.0.0
+address=/www.bigantstore.com/0.0.0.0
 address=/www.bigbangads.go2cloud.org/0.0.0.0
 address=/www.bigbangempire.com/0.0.0.0
 address=/www.bigbossfashions.com/0.0.0.0
@@ -73497,6 +73505,7 @@ address=/www.ibrainer.net/0.0.0.0
 address=/www.ibtenerjiholding.com/0.0.0.0
 address=/www.ibtradinglda.com/0.0.0.0
 address=/www.icacaonline.org/0.0.0.0
+address=/www.icbc-ltd.com/0.0.0.0
 address=/www.iccee.com/0.0.0.0
 address=/www.ice-awards.com/0.0.0.0
 address=/www.ice-casino-games.pl/0.0.0.0

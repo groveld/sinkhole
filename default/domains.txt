@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 88128
-# Updated: 2026-02-01 01:40:24 UTC
+# Entries: 88135
+# Updated: 2026-02-02 01:34:04 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1771,6 +1771,7 @@
 6000518.com
 600ad1eb3277477ea3047f4983a04245.1-chile-1.com
 600z.com
+602.lazulya.com
 602.stats.misstrends.com
 604.stats.misstrends.com
 606.http602.com
@@ -2096,6 +2097,7 @@
 90qwjy3.lat
 911.x24hr.com
 911promotion.com
+912.lazulya.com
 9128g3c192cg31c23ooo1.shop
 9128g3c192cg31c23ooo10.shop
 9128g3c192cg31c23ooo2.shop
@@ -12220,6 +12222,7 @@ amoazon.com
 amobee-partners.tremorhub.com
 amobee.com
 amobil.online
+amocoeastco.com
 amodrama.com
 amoniacorenovable.com
 amoresamigos.com
@@ -52250,6 +52253,7 @@ senesstreb.pro
 seninicinyapildi.com
 seniorcarecanada.com
 seniordiscountsavings.com
+seniului.v6.navy
 sensahome.fr
 sensenetworks.com
 senses-estetica.com
@@ -56159,6 +56163,7 @@ summitforgety.top
 summitline-ventures.com
 summitsview.org
 summmary.com
+sumo.ad
 sumo.com
 sumofus.fr
 sumome.com
@@ -66543,6 +66548,7 @@ www.biedronka-zamyka-sklepy.24.eu
 www.biedronkapl.sbs
 www.biedronkowe-karty.24.eu
 www.bifrost.pl
+www.bigantstore.com
 www.bigbangads.go2cloud.org
 www.bigbangempire.com
 www.bigbossfashions.com
@@ -73495,6 +73501,7 @@ www.ibrainer.net
 www.ibtenerjiholding.com
 www.ibtradinglda.com
 www.icacaonline.org
+www.icbc-ltd.com
 www.iccee.com
 www.ice-awards.com
 www.ice-casino-games.pl
