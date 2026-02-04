@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 88584
-# Updated: 2026-02-03 01:33:59 UTC
+# Entries: 88588
+# Updated: 2026-02-04 01:30:09 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29987,6 +29987,7 @@ address=/fuvugoddehi.mobi/0.0.0.0
 address=/fuwufiy.com/0.0.0.0
 address=/fuzeclick.offerstrack.net/0.0.0.0
 address=/fuzzoduhamoma.world/0.0.0.0
+address=/fuzzy-afternoon.surge.sh/0.0.0.0
 address=/fuzzybasketball.com/0.0.0.0
 address=/fuzzyterr.zumvio.com/0.0.0.0
 address=/fv7nsv.cyou/0.0.0.0
@@ -58303,6 +58304,7 @@ address=/tizanidine.1.p2l.info/0.0.0.0
 address=/tizer.adv.vz.ru/0.0.0.0
 address=/tizers.net/0.0.0.0
 address=/tj.ijinshan.com/0.0.0.0
+address=/tj6w5.flx10.com/0.0.0.0
 address=/tjhsfootball.com/0.0.0.0
 address=/tjme.io/0.0.0.0
 address=/tjspaintingllc.com/0.0.0.0
@@ -79911,6 +79913,7 @@ address=/www.propdfconverter.com/0.0.0.0
 address=/www.propelclarus.com/0.0.0.0
 address=/www.propelmark.com/0.0.0.0
 address=/www.propelzenith.com/0.0.0.0
+address=/www.properrayam.pro/0.0.0.0
 address=/www.propifygroup.com/0.0.0.0
 address=/www.proprinotes.com/0.0.0.0
 address=/www.propulse-za.com/0.0.0.0
@@ -84497,6 +84500,7 @@ address=/www.trueamericancentury.org/0.0.0.0
 address=/www.truecrypt.fr/0.0.0.0
 address=/www.truegoods-pl.org/0.0.0.0
 address=/www.truentertainment.net/0.0.0.0
+address=/www.trueshelterju.pro/0.0.0.0
 address=/www.truesightd.pro/0.0.0.0
 address=/www.truesuite.com/0.0.0.0
 address=/www.truevalen.com/0.0.0.0

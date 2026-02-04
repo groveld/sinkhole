@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 88586
-# Updated: 2026-02-03 02:23:25 UTC
+# Entries: 88590
+# Updated: 2026-02-04 02:19:32 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29987,6 +29987,7 @@
 0.0.0.0 fuwufiy.com
 0.0.0.0 fuzeclick.offerstrack.net
 0.0.0.0 fuzzoduhamoma.world
+0.0.0.0 fuzzy-afternoon.surge.sh
 0.0.0.0 fuzzybasketball.com
 0.0.0.0 fuzzyterr.zumvio.com
 0.0.0.0 fv7nsv.cyou
@@ -58304,6 +58305,7 @@
 0.0.0.0 tizer.adv.vz.ru
 0.0.0.0 tizers.net
 0.0.0.0 tj.ijinshan.com
+0.0.0.0 tj6w5.flx10.com
 0.0.0.0 tjhsfootball.com
 0.0.0.0 tjme.io
 0.0.0.0 tjspaintingllc.com
@@ -79913,6 +79915,7 @@
 0.0.0.0 www.propelclarus.com
 0.0.0.0 www.propelmark.com
 0.0.0.0 www.propelzenith.com
+0.0.0.0 www.properrayam.pro
 0.0.0.0 www.propifygroup.com
 0.0.0.0 www.proprinotes.com
 0.0.0.0 www.propulse-za.com
@@ -84499,6 +84502,7 @@
 0.0.0.0 www.truecrypt.fr
 0.0.0.0 www.truegoods-pl.org
 0.0.0.0 www.truentertainment.net
+0.0.0.0 www.trueshelterju.pro
 0.0.0.0 www.truesightd.pro
 0.0.0.0 www.truesuite.com
 0.0.0.0 www.truevalen.com

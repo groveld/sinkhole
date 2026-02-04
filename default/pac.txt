@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 88584
-// Updated: 2026-02-03 01:33:59 UTC
+// Entries: 88588
+// Updated: 2026-02-04 01:30:09 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29988,6 +29988,7 @@ var BLOCKLIST = {
 "fuwufiy.com":null,
 "fuzeclick.offerstrack.net":null,
 "fuzzoduhamoma.world":null,
+"fuzzy-afternoon.surge.sh":null,
 "fuzzybasketball.com":null,
 "fuzzyterr.zumvio.com":null,
 "fv7nsv.cyou":null,
@@ -58304,6 +58305,7 @@ var BLOCKLIST = {
 "tizer.adv.vz.ru":null,
 "tizers.net":null,
 "tj.ijinshan.com":null,
+"tj6w5.flx10.com":null,
 "tjhsfootball.com":null,
 "tjme.io":null,
 "tjspaintingllc.com":null,
@@ -79912,6 +79914,7 @@ var BLOCKLIST = {
 "www.propelclarus.com":null,
 "www.propelmark.com":null,
 "www.propelzenith.com":null,
+"www.properrayam.pro":null,
 "www.propifygroup.com":null,
 "www.proprinotes.com":null,
 "www.propulse-za.com":null,
@@ -84498,6 +84501,7 @@ var BLOCKLIST = {
 "www.truecrypt.fr":null,
 "www.truegoods-pl.org":null,
 "www.truentertainment.net":null,
+"www.trueshelterju.pro":null,
 "www.truesightd.pro":null,
 "www.truesuite.com":null,
 "www.truevalen.com":null,
