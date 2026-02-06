@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 91509
-# Updated: 2026-02-05 01:33:43 UTC
+# Entries: 91512
+# Updated: 2026-02-06 01:30:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23926,6 +23926,7 @@ address=/ctibrc.org/0.0.0.0
 address=/cticharts.com/0.0.0.0
 address=/ctix8.cheaptickets.com/0.0.0.0
 address=/ctmail.dns-dns.com/0.0.0.0
+address=/ctmsapp.com/0.0.0.0
 address=/ctnetwork.hu/0.0.0.0
 address=/ctnsnet.com/0.0.0.0
 address=/ctologger01.analytics.go.com/0.0.0.0
@@ -37431,6 +37432,7 @@ address=/kliks.nl/0.0.0.0
 address=/kliksaya.com/0.0.0.0
 address=/klikvip.com/0.0.0.0
 address=/klinennta.net/0.0.0.0
+address=/kliniksam.com/0.0.0.0
 address=/klinikvenedik.com/0.0.0.0
 address=/klipmart.forbes.com/0.0.0.0
 address=/klkstrm.kargo.com/0.0.0.0
@@ -43824,6 +43826,7 @@ address=/nstat.magazines.com/0.0.0.0
 address=/nstools.tsrv1.ws/0.0.0.0
 address=/nswalk.top/0.0.0.0
 address=/nt-es.imrworldwide.com/0.0.0.0
+address=/nt.new-cars.com.es/0.0.0.0
 address=/ntapa.cfd/0.0.0.0
 address=/ntaryan.com/0.0.0.0
 address=/ntcompatible.us.intellitxt.com/0.0.0.0

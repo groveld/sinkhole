@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 91509
-# Updated: 2026-02-05 01:33:43 UTC
+# Entries: 91512
+# Updated: 2026-02-06 01:30:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23926,6 +23926,7 @@ ctibrc.org
 cticharts.com
 ctix8.cheaptickets.com
 ctmail.dns-dns.com
+ctmsapp.com
 ctnetwork.hu
 ctnsnet.com
 ctologger01.analytics.go.com
@@ -37431,6 +37432,7 @@ kliks.nl
 kliksaya.com
 klikvip.com
 klinennta.net
+kliniksam.com
 klinikvenedik.com
 klipmart.forbes.com
 klkstrm.kargo.com
@@ -43824,6 +43826,7 @@ nstat.magazines.com
 nstools.tsrv1.ws
 nswalk.top
 nt-es.imrworldwide.com
+nt.new-cars.com.es
 ntapa.cfd
 ntaryan.com
 ntcompatible.us.intellitxt.com

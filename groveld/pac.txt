@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 91511
-// Updated: 2026-02-05 02:23:09 UTC
+// Entries: 91514
+// Updated: 2026-02-06 02:20:13 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23927,6 +23927,7 @@ var BLOCKLIST = {
 "cticharts.com":null,
 "ctix8.cheaptickets.com":null,
 "ctmail.dns-dns.com":null,
+"ctmsapp.com":null,
 "ctnetwork.hu":null,
 "ctnsnet.com":null,
 "ctologger01.analytics.go.com":null,
@@ -37433,6 +37434,7 @@ var BLOCKLIST = {
 "kliksaya.com":null,
 "klikvip.com":null,
 "klinennta.net":null,
+"kliniksam.com":null,
 "klinikvenedik.com":null,
 "klipmart.forbes.com":null,
 "klkstrm.kargo.com":null,
@@ -43826,6 +43828,7 @@ var BLOCKLIST = {
 "nstools.tsrv1.ws":null,
 "nswalk.top":null,
 "nt-es.imrworldwide.com":null,
+"nt.new-cars.com.es":null,
 "ntapa.cfd":null,
 "ntaryan.com":null,
 "ntcompatible.us.intellitxt.com":null,
