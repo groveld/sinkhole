@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 91514
-# Updated: 2026-02-06 02:20:13 UTC
+# Entries: 91525
+# Updated: 2026-02-07 02:19:53 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56715,6 +56715,7 @@
 0.0.0.0 statics-marketingsites-eus-ms-com.akamaized.net
 0.0.0.0 statics-marketingsites-neu-ms-com.akamaized.net
 0.0.0.0 statinsports.com
+0.0.0.0 stationpack.de
 0.0.0.0 statis.dsp.vn
 0.0.0.0 statischum.com
 0.0.0.0 statistic-blog-v2.sapoapps.vn
@@ -68752,6 +68753,7 @@
 0.0.0.0 www.brandonmgames.com
 0.0.0.0 www.brandonwebb.com
 0.0.0.0 www.brandrush.net
+0.0.0.0 www.brandsclothingco.com
 0.0.0.0 www.brandsguideh.info
 0.0.0.0 www.brandsurveypanel.com
 0.0.0.0 www.brasuhd.com
@@ -70521,6 +70523,7 @@
 0.0.0.0 www.cpmprofit.com
 0.0.0.0 www.cpmterra.com
 0.0.0.0 www.cprahaclub.digital
+0.0.0.0 www.cprcar.com
 0.0.0.0 www.cprpulsepoint.com
 0.0.0.0 www.cpx24.com
 0.0.0.0 www.cqcounter.com
@@ -75377,6 +75380,7 @@
 0.0.0.0 www.hieroglyph.freeuk.com
 0.0.0.0 www.hieroraddo.rest
 0.0.0.0 www.hiewa.com.my
+0.0.0.0 www.highleycoupons.com
 0.0.0.0 www.highmarkplumbingid.com
 0.0.0.0 www.highplainstechnologysolutions.com
 0.0.0.0 www.highschoolsincanada.net
@@ -77256,6 +77260,7 @@
 0.0.0.0 www.kitchentablegang.org
 0.0.0.0 www.kitdetasa.top
 0.0.0.0 www.kithoga.com
+0.0.0.0 www.kittayaroyalbeauty.com
 0.0.0.0 www.kiwialpha.com
 0.0.0.0 www.kiwiqpress.cfd
 0.0.0.0 www.kixer.com
@@ -77544,6 +77549,7 @@
 0.0.0.0 www.lagoslocal.com
 0.0.0.0 www.lagrange.capital
 0.0.0.0 www.lahmirqastrol.com
+0.0.0.0 www.lahoreautismcentre.com
 0.0.0.0 www.laiibbo.com
 0.0.0.0 www.lajkpanel.pl
 0.0.0.0 www.lakaripla.rest
@@ -78368,6 +78374,7 @@
 0.0.0.0 www.majewskabutik.com
 0.0.0.0 www.major.tunneberga.info
 0.0.0.0 www.makeandplay.pl
+0.0.0.0 www.makearestaurant.com
 0.0.0.0 www.makeuploversh.info
 0.0.0.0 www.malaytiger.pl
 0.0.0.0 www.malcoritar.rest
@@ -78878,6 +78885,7 @@
 0.0.0.0 www.monitorfx.pl
 0.0.0.0 www.monkeyball.osa.pl
 0.0.0.0 www.monkeysnuggle.com
+0.0.0.0 www.monkikitchen.com
 0.0.0.0 www.monliveshow.com
 0.0.0.0 www.monnaripl.com
 0.0.0.0 www.monocchias.rest
@@ -79848,6 +79856,7 @@
 0.0.0.0 www.nvryygstgvnzfnl.com
 0.0.0.0 www.nvuarqzmt.zaplac.quest
 0.0.0.0 www.nw3kja.hair
+0.0.0.0 www.nwbidrtb.com
 0.0.0.0 www.nwleisureltd.com
 0.0.0.0 www.nwonngtlqeugr.info
 0.0.0.0 www.nx1pol.bond
@@ -80584,6 +80593,7 @@
 0.0.0.0 www.outletauto.net
 0.0.0.0 www.outletskarllagerfeld.com
 0.0.0.0 www.outliunder.rest
+0.0.0.0 www.outonixan.com
 0.0.0.0 www.outplayed.com
 0.0.0.0 www.outropotab.rest
 0.0.0.0 www.outshautor.rest
@@ -81140,6 +81150,7 @@
 0.0.0.0 www.photoideal.info
 0.0.0.0 www.photoindig.rest
 0.0.0.0 www.photolea.best
+0.0.0.0 www.photomagicapp.com
 0.0.0.0 www.photopetl.info
 0.0.0.0 www.photostoryl.info
 0.0.0.0 www.phpedit.com

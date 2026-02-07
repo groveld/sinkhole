@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 91512
-// Updated: 2026-02-06 01:30:46 UTC
+// Entries: 91523
+// Updated: 2026-02-07 01:30:30 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56715,6 +56715,7 @@ var BLOCKLIST = {
 "statics-marketingsites-eus-ms-com.akamaized.net":null,
 "statics-marketingsites-neu-ms-com.akamaized.net":null,
 "statinsports.com":null,
+"stationpack.de":null,
 "statis.dsp.vn":null,
 "statischum.com":null,
 "statistic-blog-v2.sapoapps.vn":null,
@@ -68752,6 +68753,7 @@ var BLOCKLIST = {
 "www.brandonmgames.com":null,
 "www.brandonwebb.com":null,
 "www.brandrush.net":null,
+"www.brandsclothingco.com":null,
 "www.brandsguideh.info":null,
 "www.brandsurveypanel.com":null,
 "www.brasuhd.com":null,
@@ -70521,6 +70523,7 @@ var BLOCKLIST = {
 "www.cpmprofit.com":null,
 "www.cpmterra.com":null,
 "www.cprahaclub.digital":null,
+"www.cprcar.com":null,
 "www.cprpulsepoint.com":null,
 "www.cpx24.com":null,
 "www.cqcounter.com":null,
@@ -75376,6 +75379,7 @@ var BLOCKLIST = {
 "www.hieroglyph.freeuk.com":null,
 "www.hieroraddo.rest":null,
 "www.hiewa.com.my":null,
+"www.highleycoupons.com":null,
 "www.highmarkplumbingid.com":null,
 "www.highplainstechnologysolutions.com":null,
 "www.highschoolsincanada.net":null,
@@ -77255,6 +77259,7 @@ var BLOCKLIST = {
 "www.kitchentablegang.org":null,
 "www.kitdetasa.top":null,
 "www.kithoga.com":null,
+"www.kittayaroyalbeauty.com":null,
 "www.kiwialpha.com":null,
 "www.kiwiqpress.cfd":null,
 "www.kixer.com":null,
@@ -77543,6 +77548,7 @@ var BLOCKLIST = {
 "www.lagoslocal.com":null,
 "www.lagrange.capital":null,
 "www.lahmirqastrol.com":null,
+"www.lahoreautismcentre.com":null,
 "www.laiibbo.com":null,
 "www.lajkpanel.pl":null,
 "www.lakaripla.rest":null,
@@ -78367,6 +78373,7 @@ var BLOCKLIST = {
 "www.majewskabutik.com":null,
 "www.major.tunneberga.info":null,
 "www.makeandplay.pl":null,
+"www.makearestaurant.com":null,
 "www.makeuploversh.info":null,
 "www.malaytiger.pl":null,
 "www.malcoritar.rest":null,
@@ -78877,6 +78884,7 @@ var BLOCKLIST = {
 "www.monitorfx.pl":null,
 "www.monkeyball.osa.pl":null,
 "www.monkeysnuggle.com":null,
+"www.monkikitchen.com":null,
 "www.monliveshow.com":null,
 "www.monnaripl.com":null,
 "www.monocchias.rest":null,
@@ -79847,6 +79855,7 @@ var BLOCKLIST = {
 "www.nvryygstgvnzfnl.com":null,
 "www.nvuarqzmt.zaplac.quest":null,
 "www.nw3kja.hair":null,
+"www.nwbidrtb.com":null,
 "www.nwleisureltd.com":null,
 "www.nwonngtlqeugr.info":null,
 "www.nx1pol.bond":null,
@@ -80583,6 +80592,7 @@ var BLOCKLIST = {
 "www.outletauto.net":null,
 "www.outletskarllagerfeld.com":null,
 "www.outliunder.rest":null,
+"www.outonixan.com":null,
 "www.outplayed.com":null,
 "www.outropotab.rest":null,
 "www.outshautor.rest":null,
@@ -81139,6 +81149,7 @@ var BLOCKLIST = {
 "www.photoideal.info":null,
 "www.photoindig.rest":null,
 "www.photolea.best":null,
+"www.photomagicapp.com":null,
 "www.photopetl.info":null,
 "www.photostoryl.info":null,
 "www.phpedit.com":null,

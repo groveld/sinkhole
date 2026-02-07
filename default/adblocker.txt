@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 91512
-! Updated: 2026-02-06 01:30:46 UTC
+! Entries: 91523
+! Updated: 2026-02-07 01:30:30 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56714,6 +56714,7 @@
 ||statics-marketingsites-eus-ms-com.akamaized.net^
 ||statics-marketingsites-neu-ms-com.akamaized.net^
 ||statinsports.com^
+||stationpack.de^
 ||statis.dsp.vn^
 ||statischum.com^
 ||statistic-blog-v2.sapoapps.vn^
@@ -68751,6 +68752,7 @@
 ||www.brandonmgames.com^
 ||www.brandonwebb.com^
 ||www.brandrush.net^
+||www.brandsclothingco.com^
 ||www.brandsguideh.info^
 ||www.brandsurveypanel.com^
 ||www.brasuhd.com^
@@ -70520,6 +70522,7 @@
 ||www.cpmprofit.com^
 ||www.cpmterra.com^
 ||www.cprahaclub.digital^
+||www.cprcar.com^
 ||www.cprpulsepoint.com^
 ||www.cpx24.com^
 ||www.cqcounter.com^
@@ -75375,6 +75378,7 @@
 ||www.hieroglyph.freeuk.com^
 ||www.hieroraddo.rest^
 ||www.hiewa.com.my^
+||www.highleycoupons.com^
 ||www.highmarkplumbingid.com^
 ||www.highplainstechnologysolutions.com^
 ||www.highschoolsincanada.net^
@@ -77254,6 +77258,7 @@
 ||www.kitchentablegang.org^
 ||www.kitdetasa.top^
 ||www.kithoga.com^
+||www.kittayaroyalbeauty.com^
 ||www.kiwialpha.com^
 ||www.kiwiqpress.cfd^
 ||www.kixer.com^
@@ -77542,6 +77547,7 @@
 ||www.lagoslocal.com^
 ||www.lagrange.capital^
 ||www.lahmirqastrol.com^
+||www.lahoreautismcentre.com^
 ||www.laiibbo.com^
 ||www.lajkpanel.pl^
 ||www.lakaripla.rest^
@@ -78366,6 +78372,7 @@
 ||www.majewskabutik.com^
 ||www.major.tunneberga.info^
 ||www.makeandplay.pl^
+||www.makearestaurant.com^
 ||www.makeuploversh.info^
 ||www.malaytiger.pl^
 ||www.malcoritar.rest^
@@ -78876,6 +78883,7 @@
 ||www.monitorfx.pl^
 ||www.monkeyball.osa.pl^
 ||www.monkeysnuggle.com^
+||www.monkikitchen.com^
 ||www.monliveshow.com^
 ||www.monnaripl.com^
 ||www.monocchias.rest^
@@ -79846,6 +79854,7 @@
 ||www.nvryygstgvnzfnl.com^
 ||www.nvuarqzmt.zaplac.quest^
 ||www.nw3kja.hair^
+||www.nwbidrtb.com^
 ||www.nwleisureltd.com^
 ||www.nwonngtlqeugr.info^
 ||www.nx1pol.bond^
@@ -80582,6 +80591,7 @@
 ||www.outletauto.net^
 ||www.outletskarllagerfeld.com^
 ||www.outliunder.rest^
+||www.outonixan.com^
 ||www.outplayed.com^
 ||www.outropotab.rest^
 ||www.outshautor.rest^
@@ -81138,6 +81148,7 @@
 ||www.photoideal.info^
 ||www.photoindig.rest^
 ||www.photolea.best^
+||www.photomagicapp.com^
 ||www.photopetl.info^
 ||www.photostoryl.info^
 ||www.phpedit.com^
