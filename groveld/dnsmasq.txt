@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 91525
-# Updated: 2026-02-07 02:19:53 UTC
+# Entries: 91528
+# Updated: 2026-02-08 02:34:08 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19465,6 +19465,7 @@ address=/cafecoc.com/0.0.0.0
 address=/cafemom.d2.sc.omtrdc.net/0.0.0.0
 address=/cafemom.demdex.net/0.0.0.0
 address=/cafemom.us.intellitxt.com/0.0.0.0
+address=/cafhanoi.dorps.info/0.0.0.0
 address=/cafj.fr/0.0.0.0
 address=/cafoncarbu.rest/0.0.0.0
 address=/cafranchecomte.fr/0.0.0.0
@@ -50648,6 +50649,7 @@ address=/removearrest.com/0.0.0.0
 address=/removiov.com/0.0.0.0
 address=/remox.com/0.0.0.0
 address=/remvpol.top/0.0.0.0
+address=/renacious.nwwadq.cn/0.0.0.0
 address=/renaturalizacion.com/0.0.0.0
 address=/renazone.com/0.0.0.0
 address=/rencontreavenue.com/0.0.0.0
@@ -62033,6 +62035,7 @@ address=/usc.adserver.snapads.com/0.0.0.0
 address=/uscise-gov.com/0.0.0.0
 address=/uscivbobbi.rest/0.0.0.0
 address=/uscollector.tealeaf.ibmcloud.com/0.0.0.0
+address=/usdeeds.acemlna.com/0.0.0.0
 address=/usdm.122.2o7.net/0.0.0.0
 address=/use-tor.adsrvr.org/0.0.0.0
 address=/use.convertglobal.com/0.0.0.0

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 91525
-# Updated: 2026-02-07 02:19:53 UTC
+# Entries: 91528
+# Updated: 2026-02-08 02:34:08 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19465,6 +19465,7 @@
 0.0.0.0 cafemom.d2.sc.omtrdc.net
 0.0.0.0 cafemom.demdex.net
 0.0.0.0 cafemom.us.intellitxt.com
+0.0.0.0 cafhanoi.dorps.info
 0.0.0.0 cafj.fr
 0.0.0.0 cafoncarbu.rest
 0.0.0.0 cafranchecomte.fr
@@ -50648,6 +50649,7 @@
 0.0.0.0 removiov.com
 0.0.0.0 remox.com
 0.0.0.0 remvpol.top
+0.0.0.0 renacious.nwwadq.cn
 0.0.0.0 renaturalizacion.com
 0.0.0.0 renazone.com
 0.0.0.0 rencontreavenue.com
@@ -62033,6 +62035,7 @@
 0.0.0.0 uscise-gov.com
 0.0.0.0 uscivbobbi.rest
 0.0.0.0 uscollector.tealeaf.ibmcloud.com
+0.0.0.0 usdeeds.acemlna.com
 0.0.0.0 usdm.122.2o7.net
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use.convertglobal.com

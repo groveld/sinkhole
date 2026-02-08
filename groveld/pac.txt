@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 91525
-// Updated: 2026-02-07 02:19:53 UTC
+// Entries: 91528
+// Updated: 2026-02-08 02:34:08 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19466,6 +19466,7 @@ var BLOCKLIST = {
 "cafemom.d2.sc.omtrdc.net":null,
 "cafemom.demdex.net":null,
 "cafemom.us.intellitxt.com":null,
+"cafhanoi.dorps.info":null,
 "cafj.fr":null,
 "cafoncarbu.rest":null,
 "cafranchecomte.fr":null,
@@ -50649,6 +50650,7 @@ var BLOCKLIST = {
 "removiov.com":null,
 "remox.com":null,
 "remvpol.top":null,
+"renacious.nwwadq.cn":null,
 "renaturalizacion.com":null,
 "renazone.com":null,
 "rencontreavenue.com":null,
@@ -62034,6 +62036,7 @@ var BLOCKLIST = {
 "uscise-gov.com":null,
 "uscivbobbi.rest":null,
 "uscollector.tealeaf.ibmcloud.com":null,
+"usdeeds.acemlna.com":null,
 "usdm.122.2o7.net":null,
 "use-tor.adsrvr.org":null,
 "use.convertglobal.com":null,

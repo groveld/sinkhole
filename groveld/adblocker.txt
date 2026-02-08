@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 91525
-! Updated: 2026-02-07 02:19:53 UTC
+! Entries: 91528
+! Updated: 2026-02-08 02:34:08 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19465,6 +19465,7 @@
 ||cafemom.d2.sc.omtrdc.net^
 ||cafemom.demdex.net^
 ||cafemom.us.intellitxt.com^
+||cafhanoi.dorps.info^
 ||cafj.fr^
 ||cafoncarbu.rest^
 ||cafranchecomte.fr^
@@ -50648,6 +50649,7 @@
 ||removiov.com^
 ||remox.com^
 ||remvpol.top^
+||renacious.nwwadq.cn^
 ||renaturalizacion.com^
 ||renazone.com^
 ||rencontreavenue.com^
@@ -62033,6 +62035,7 @@
 ||uscise-gov.com^
 ||uscivbobbi.rest^
 ||uscollector.tealeaf.ibmcloud.com^
+||usdeeds.acemlna.com^
 ||usdm.122.2o7.net^
 ||use-tor.adsrvr.org^
 ||use.convertglobal.com^
