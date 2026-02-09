@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 91528
-# Updated: 2026-02-08 02:34:08 UTC
+# Entries: 91530
+# Updated: 2026-02-09 02:24:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80082,6 +80082,7 @@ address=/www.oldschoolflashcards.com/0.0.0.0
 address=/www.oldwod.net/0.0.0.0
 address=/www.oleksy.net.pl/0.0.0.0
 address=/www.olesnopulsefm.goryculture.digital/0.0.0.0
+address=/www.oletipmegroup.com/0.0.0.0
 address=/www.olijee.com/0.0.0.0
 address=/www.olioeroli.it/0.0.0.0
 address=/www.olisoftcr.net/0.0.0.0
@@ -86539,6 +86540,7 @@ address=/www.thecitywithnolimits.com/0.0.0.0
 address=/www.theclosot.shop/0.0.0.0
 address=/www.thecoffeebutton.com/0.0.0.0
 address=/www.thecoingrab.com/0.0.0.0
+address=/www.thecollectiverd.com/0.0.0.0
 address=/www.thecommonality.net/0.0.0.0
 address=/www.thecounter.com/0.0.0.0
 address=/www.thecreativepresentation.com/0.0.0.0

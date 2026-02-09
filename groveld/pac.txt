@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 91528
-// Updated: 2026-02-08 02:34:08 UTC
+// Entries: 91530
+// Updated: 2026-02-09 02:24:58 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80083,6 +80083,7 @@ var BLOCKLIST = {
 "www.oldwod.net":null,
 "www.oleksy.net.pl":null,
 "www.olesnopulsefm.goryculture.digital":null,
+"www.oletipmegroup.com":null,
 "www.olijee.com":null,
 "www.olioeroli.it":null,
 "www.olisoftcr.net":null,
@@ -86540,6 +86541,7 @@ var BLOCKLIST = {
 "www.theclosot.shop":null,
 "www.thecoffeebutton.com":null,
 "www.thecoingrab.com":null,
+"www.thecollectiverd.com":null,
 "www.thecommonality.net":null,
 "www.thecounter.com":null,
 "www.thecreativepresentation.com":null,

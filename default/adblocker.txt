@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 91526
-! Updated: 2026-02-08 01:44:45 UTC
+! Entries: 91528
+! Updated: 2026-02-09 01:35:32 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80080,6 +80080,7 @@
 ||www.oldwod.net^
 ||www.oleksy.net.pl^
 ||www.olesnopulsefm.goryculture.digital^
+||www.oletipmegroup.com^
 ||www.olijee.com^
 ||www.olioeroli.it^
 ||www.olisoftcr.net^
@@ -86537,6 +86538,7 @@
 ||www.theclosot.shop^
 ||www.thecoffeebutton.com^
 ||www.thecoingrab.com^
+||www.thecollectiverd.com^
 ||www.thecommonality.net^
 ||www.thecounter.com^
 ||www.thecreativepresentation.com^

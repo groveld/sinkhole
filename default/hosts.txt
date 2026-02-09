@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 91526
-# Updated: 2026-02-08 01:44:45 UTC
+# Entries: 91528
+# Updated: 2026-02-09 01:35:32 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80080,6 +80080,7 @@
 0.0.0.0 www.oldwod.net
 0.0.0.0 www.oleksy.net.pl
 0.0.0.0 www.olesnopulsefm.goryculture.digital
+0.0.0.0 www.oletipmegroup.com
 0.0.0.0 www.olijee.com
 0.0.0.0 www.olioeroli.it
 0.0.0.0 www.olisoftcr.net
@@ -86537,6 +86538,7 @@
 0.0.0.0 www.theclosot.shop
 0.0.0.0 www.thecoffeebutton.com
 0.0.0.0 www.thecoingrab.com
+0.0.0.0 www.thecollectiverd.com
 0.0.0.0 www.thecommonality.net
 0.0.0.0 www.thecounter.com
 0.0.0.0 www.thecreativepresentation.com
