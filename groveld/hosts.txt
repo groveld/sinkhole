@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 91530
-# Updated: 2026-02-09 02:24:58 UTC
+# Entries: 91539
+# Updated: 2026-02-10 02:29:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -37860,6 +37860,7 @@
 0.0.0.0 lakeeriemermaid.com
 0.0.0.0 lakeplacidlandconservancy.com
 0.0.0.0 lakequincy.com
+0.0.0.0 lakesecure.com
 0.0.0.0 lakeshastaaccess.com
 0.0.0.0 lakeshore.d1.sc.omtrdc.net
 0.0.0.0 lakestroider.org
@@ -38569,6 +38570,7 @@
 0.0.0.0 link-scan.net
 0.0.0.0 link.axios.com
 0.0.0.0 link.bannersystem.cz
+0.0.0.0 link.beelivery.com
 0.0.0.0 link.datatrics.com
 0.0.0.0 link.email.davidlloydclubs.co.uk
 0.0.0.0 link.email.usmagazine.com
@@ -61274,6 +61276,7 @@
 0.0.0.0 tweengirlsforum.pk
 0.0.0.0 tweetdeck.fr
 0.0.0.0 tweetsoup.us.intellitxt.com
+0.0.0.0 twelvedawn.com
 0.0.0.0 twilighthotelandbar.com
 0.0.0.0 twinby.sbs
 0.0.0.0 twinklenightstime.com
@@ -68050,6 +68053,7 @@
 0.0.0.0 www.bbs-life.com
 0.0.0.0 www.bbs-week.com
 0.0.0.0 www.bby6tetrack.info
+0.0.0.0 www.bbyjgkkdihiyxy.com
 0.0.0.0 www.bcbolton.com
 0.0.0.0 www.bcbvgeill.info
 0.0.0.0 www.bcdatasql.com
@@ -68783,6 +68787,7 @@
 0.0.0.0 www.brevardmusic.com
 0.0.0.0 www.brevio.pl
 0.0.0.0 www.brevlo.com
+0.0.0.0 www.brghterimagelab.com
 0.0.0.0 www.brianfa.org
 0.0.0.0 www.brianmarsolan.com
 0.0.0.0 www.brickofthings.com
@@ -68898,6 +68903,7 @@
 0.0.0.0 www.bubbiessweets.com
 0.0.0.0 www.bubframe.live
 0.0.0.0 www.bubolposit.rest
+0.0.0.0 www.bucahssana.com
 0.0.0.0 www.bucalaary.com
 0.0.0.0 www.buckscountybankruptcyattorney.com
 0.0.0.0 www.bucypay.pro
@@ -69717,6 +69723,7 @@
 0.0.0.0 www.cici-luna.com
 0.0.0.0 www.cicibans.club
 0.0.0.0 www.cidea.cyou
+0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
 0.0.0.0 www.ciekawe24.pl.ua
 0.0.0.0 www.ciemnastronafaktow.com
@@ -71150,6 +71157,7 @@
 0.0.0.0 www.deospdigru.rest
 0.0.0.0 www.depedantiquedts.net
 0.0.0.0 www.dependecah.rest
+0.0.0.0 www.deperiodista.com
 0.0.0.0 www.dephantomz.duckdns.org
 0.0.0.0 www.deploymentboard.com
 0.0.0.0 www.depofirsat.com
@@ -81027,6 +81035,7 @@
 0.0.0.0 www.pepco.cosibelladeal.top
 0.0.0.0 www.pepco.fritz-berger-de.sbs
 0.0.0.0 www.pepelenews.com
+0.0.0.0 www.pepernity.com
 0.0.0.0 www.pepipo.com
 0.0.0.0 www.peptydy24.pl
 0.0.0.0 www.percentageslead.shop

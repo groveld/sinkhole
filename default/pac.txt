@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 91528
-// Updated: 2026-02-09 01:35:32 UTC
+// Entries: 91536
+// Updated: 2026-02-10 01:40:02 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -37860,6 +37860,7 @@ var BLOCKLIST = {
 "lakeeriemermaid.com":null,
 "lakeplacidlandconservancy.com":null,
 "lakequincy.com":null,
+"lakesecure.com":null,
 "lakeshastaaccess.com":null,
 "lakeshore.d1.sc.omtrdc.net":null,
 "lakestroider.org":null,
@@ -38569,6 +38570,7 @@ var BLOCKLIST = {
 "link-scan.net":null,
 "link.axios.com":null,
 "link.bannersystem.cz":null,
+"link.beelivery.com":null,
 "link.datatrics.com":null,
 "link.email.davidlloydclubs.co.uk":null,
 "link.email.usmagazine.com":null,
@@ -61274,6 +61276,7 @@ var BLOCKLIST = {
 "tweengirlsforum.pk":null,
 "tweetdeck.fr":null,
 "tweetsoup.us.intellitxt.com":null,
+"twelvedawn.com":null,
 "twilighthotelandbar.com":null,
 "twinby.sbs":null,
 "twinklenightstime.com":null,
@@ -68050,6 +68053,7 @@ var BLOCKLIST = {
 "www.bbs-life.com":null,
 "www.bbs-week.com":null,
 "www.bby6tetrack.info":null,
+"www.bbyjgkkdihiyxy.com":null,
 "www.bcbolton.com":null,
 "www.bcbvgeill.info":null,
 "www.bcdatasql.com":null,
@@ -68783,6 +68787,7 @@ var BLOCKLIST = {
 "www.brevardmusic.com":null,
 "www.brevio.pl":null,
 "www.brevlo.com":null,
+"www.brghterimagelab.com":null,
 "www.brianfa.org":null,
 "www.brianmarsolan.com":null,
 "www.brickofthings.com":null,
@@ -68898,6 +68903,7 @@ var BLOCKLIST = {
 "www.bubbiessweets.com":null,
 "www.bubframe.live":null,
 "www.bubolposit.rest":null,
+"www.bucahssana.com":null,
 "www.bucalaary.com":null,
 "www.buckscountybankruptcyattorney.com":null,
 "www.bucypay.pro":null,
@@ -71150,6 +71156,7 @@ var BLOCKLIST = {
 "www.deospdigru.rest":null,
 "www.depedantiquedts.net":null,
 "www.dependecah.rest":null,
+"www.deperiodista.com":null,
 "www.dephantomz.duckdns.org":null,
 "www.deploymentboard.com":null,
 "www.depofirsat.com":null,
@@ -81026,6 +81033,7 @@ var BLOCKLIST = {
 "www.pepco.cosibelladeal.top":null,
 "www.pepco.fritz-berger-de.sbs":null,
 "www.pepelenews.com":null,
+"www.pepernity.com":null,
 "www.pepipo.com":null,
 "www.peptydy24.pl":null,
 "www.percentageslead.shop":null,

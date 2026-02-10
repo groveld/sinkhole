@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 91530
-# Updated: 2026-02-09 02:24:58 UTC
+# Entries: 91539
+# Updated: 2026-02-10 02:29:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -37860,6 +37860,7 @@ address=/lakaripla.rest/0.0.0.0
 address=/lakeeriemermaid.com/0.0.0.0
 address=/lakeplacidlandconservancy.com/0.0.0.0
 address=/lakequincy.com/0.0.0.0
+address=/lakesecure.com/0.0.0.0
 address=/lakeshastaaccess.com/0.0.0.0
 address=/lakeshore.d1.sc.omtrdc.net/0.0.0.0
 address=/lakestroider.org/0.0.0.0
@@ -38569,6 +38570,7 @@ address=/link-crawler.com/0.0.0.0
 address=/link-scan.net/0.0.0.0
 address=/link.axios.com/0.0.0.0
 address=/link.bannersystem.cz/0.0.0.0
+address=/link.beelivery.com/0.0.0.0
 address=/link.datatrics.com/0.0.0.0
 address=/link.email.davidlloydclubs.co.uk/0.0.0.0
 address=/link.email.usmagazine.com/0.0.0.0
@@ -61274,6 +61276,7 @@ address=/tween-media.com/0.0.0.0
 address=/tweengirlsforum.pk/0.0.0.0
 address=/tweetdeck.fr/0.0.0.0
 address=/tweetsoup.us.intellitxt.com/0.0.0.0
+address=/twelvedawn.com/0.0.0.0
 address=/twilighthotelandbar.com/0.0.0.0
 address=/twinby.sbs/0.0.0.0
 address=/twinklenightstime.com/0.0.0.0
@@ -68050,6 +68053,7 @@ address=/www.bbemma.it/0.0.0.0
 address=/www.bbs-life.com/0.0.0.0
 address=/www.bbs-week.com/0.0.0.0
 address=/www.bby6tetrack.info/0.0.0.0
+address=/www.bbyjgkkdihiyxy.com/0.0.0.0
 address=/www.bcbolton.com/0.0.0.0
 address=/www.bcbvgeill.info/0.0.0.0
 address=/www.bcdatasql.com/0.0.0.0
@@ -68783,6 +68787,7 @@ address=/www.bretonemea.com/0.0.0.0
 address=/www.brevardmusic.com/0.0.0.0
 address=/www.brevio.pl/0.0.0.0
 address=/www.brevlo.com/0.0.0.0
+address=/www.brghterimagelab.com/0.0.0.0
 address=/www.brianfa.org/0.0.0.0
 address=/www.brianmarsolan.com/0.0.0.0
 address=/www.brickofthings.com/0.0.0.0
@@ -68898,6 +68903,7 @@ address=/www.bubasite.com/0.0.0.0
 address=/www.bubbiessweets.com/0.0.0.0
 address=/www.bubframe.live/0.0.0.0
 address=/www.bubolposit.rest/0.0.0.0
+address=/www.bucahssana.com/0.0.0.0
 address=/www.bucalaary.com/0.0.0.0
 address=/www.buckscountybankruptcyattorney.com/0.0.0.0
 address=/www.bucypay.pro/0.0.0.0
@@ -69717,6 +69723,7 @@ address=/www.cichyromans.pl/0.0.0.0
 address=/www.cici-luna.com/0.0.0.0
 address=/www.cicibans.club/0.0.0.0
 address=/www.cidea.cyou/0.0.0.0
+address=/www.ciderbayoulg.pro/0.0.0.0
 address=/www.ciderglowcm.site/0.0.0.0
 address=/www.ciekawe24.pl.ua/0.0.0.0
 address=/www.ciemnastronafaktow.com/0.0.0.0
@@ -71150,6 +71157,7 @@ address=/www.deontincan.rest/0.0.0.0
 address=/www.deospdigru.rest/0.0.0.0
 address=/www.depedantiquedts.net/0.0.0.0
 address=/www.dependecah.rest/0.0.0.0
+address=/www.deperiodista.com/0.0.0.0
 address=/www.dephantomz.duckdns.org/0.0.0.0
 address=/www.deploymentboard.com/0.0.0.0
 address=/www.depofirsat.com/0.0.0.0
@@ -81027,6 +81035,7 @@ address=/www.peoplespubpartnership.org/0.0.0.0
 address=/www.pepco.cosibelladeal.top/0.0.0.0
 address=/www.pepco.fritz-berger-de.sbs/0.0.0.0
 address=/www.pepelenews.com/0.0.0.0
+address=/www.pepernity.com/0.0.0.0
 address=/www.pepipo.com/0.0.0.0
 address=/www.peptydy24.pl/0.0.0.0
 address=/www.percentageslead.shop/0.0.0.0
