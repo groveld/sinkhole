@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 91636
-# Updated: 2026-02-11 02:28:27 UTC
+# Entries: 91646
+# Updated: 2026-02-12 02:23:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2244,6 +2244,7 @@ address=/LUXpolice.com/0.0.0.0
 address=/LUXpolice.net/0.0.0.0
 address=/PAKpolice.com/0.0.0.0
 address=/USApolice.com/0.0.0.0
+address=/___id___.c.mystat-in.net/0.0.0.0
 address=/a-5.info/0.0.0.0
 address=/a-a-access.com/0.0.0.0
 address=/a-ads.com/0.0.0.0
@@ -15259,6 +15260,7 @@ address=/b1t-chidc2.zemanta.com/0.0.0.0
 address=/b1t-nydc1.zemanta.com/0.0.0.0
 address=/b1t0gw.lat/0.0.0.0
 address=/b2-data.ads.heytapmobi.com/0.0.0.0
+address=/b2b-update.appwrite.network/0.0.0.0
 address=/b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com/0.0.0.0
 address=/b2bg.com/0.0.0.0
 address=/b2bwithtinubu.org/0.0.0.0
@@ -43115,6 +43117,7 @@ address=/netflix-updateinfo.com/0.0.0.0
 address=/netflix.apple-green.net/0.0.0.0
 address=/netflix.apps.co.pl/0.0.0.0
 address=/netflixca-updateprofilehelp.com/0.0.0.0
+address=/netflixe.kundensupport-kundensupport.de/0.0.0.0
 address=/netgear.122.2o7.net/0.0.0.0
 address=/netgen.online/0.0.0.0
 address=/netgridv.info/0.0.0.0
@@ -61603,6 +61606,7 @@ address=/ugo.eu-adcenter.net/0.0.0.0
 address=/ugprq.irpa.com.pl/0.0.0.0
 address=/ugrida.casa/0.0.0.0
 address=/uguhajop.top/0.0.0.0
+address=/ui.chelepi.contractors/0.0.0.0
 address=/ui.clevernt.com/0.0.0.0
 address=/ui.ppjol.com/0.0.0.0
 address=/uib.ff.avast.com/0.0.0.0
@@ -69996,6 +70000,7 @@ address=/www.clickdensity.com/0.0.0.0
 address=/www.clickedyclick.com/0.0.0.0
 address=/www.clickfunnels.com/0.0.0.0
 address=/www.clickhelp.net/0.0.0.0
+address=/www.clickhouse.com/0.0.0.0
 address=/www.clickitbid.com/0.0.0.0
 address=/www.clickmailcampaignddns.com/0.0.0.0
 address=/www.clickmanage.com/0.0.0.0
@@ -81094,6 +81099,7 @@ address=/www.pearlheights.net/0.0.0.0
 address=/www.pearlholic.com/0.0.0.0
 address=/www.pearlonyxcakes.com/0.0.0.0
 address=/www.pearlrealmsg.info/0.0.0.0
+address=/www.pearlyappss.pro/0.0.0.0
 address=/www.pearopti.sbs/0.0.0.0
 address=/www.pectanaset.rest/0.0.0.0
 address=/www.peculinary.com/0.0.0.0
@@ -83920,6 +83926,7 @@ address=/www.salpaquiri.rest/0.0.0.0
 address=/www.salpiconge.rest/0.0.0.0
 address=/www.saltatesthetic.com/0.0.0.0
 address=/www.salticocco.rest/0.0.0.0
+address=/www.salttm.com/0.0.0.0
 address=/www.saludalmeria.com/0.0.0.0
 address=/www.salutnonpa.rest/0.0.0.0
 address=/www.samacharteam.com/0.0.0.0
@@ -85308,6 +85315,7 @@ address=/www.spectrafund-wealth.com/0.0.0.0
 address=/www.spectratokenify.com/0.0.0.0
 address=/www.spectromotive.com/0.0.0.0
 address=/www.spectrum.onulpazarlama.info/0.0.0.0
+address=/www.spectrumhomehealthinc.com/0.0.0.0
 address=/www.spectrumpulless.pro/0.0.0.0
 address=/www.speechseen.com/0.0.0.0
 address=/www.speed4cksa.ero-advertising.com/0.0.0.0
@@ -86503,6 +86511,7 @@ address=/www.tempashure.com/0.0.0.0
 address=/www.templateburger.com/0.0.0.0
 address=/www.temporary.nsx.pl/0.0.0.0
 address=/www.tempshure.com/0.0.0.0
+address=/www.tenantbackgronudsearch.com/0.0.0.0
 address=/www.tenantcollections.com/0.0.0.0
 address=/www.tencent.com/0.0.0.0
 address=/www.tencentcos.motorcycles/0.0.0.0
@@ -88530,6 +88539,7 @@ address=/www.vomozak.top/0.0.0.0
 address=/www.vonacai.com/0.0.0.0
 address=/www.vonnect.info/0.0.0.0
 address=/www.vonsters.com/0.0.0.0
+address=/www.voolat.com/0.0.0.0
 address=/www.vopanu.icu/0.0.0.0
 address=/www.vopupakedi.today/0.0.0.0
 address=/www.voraico-vexanex.top/0.0.0.0

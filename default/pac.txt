@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 91631
-// Updated: 2026-02-11 01:38:56 UTC
+// Entries: 91644
+// Updated: 2026-02-12 01:33:30 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2245,6 +2245,7 @@ var BLOCKLIST = {
 "LUXpolice.net":null,
 "PAKpolice.com":null,
 "USApolice.com":null,
+"___id___.c.mystat-in.net":null,
 "a-5.info":null,
 "a-a-access.com":null,
 "a-ads.com":null,
@@ -15260,6 +15261,7 @@ var BLOCKLIST = {
 "b1t-nydc1.zemanta.com":null,
 "b1t0gw.lat":null,
 "b2-data.ads.heytapmobi.com":null,
+"b2b-update.appwrite.network":null,
 "b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com":null,
 "b2bg.com":null,
 "b2bwithtinubu.org":null,
@@ -33531,6 +33533,7 @@ var BLOCKLIST = {
 "hlbet9my.com":null,
 "hlcc.ca":null,
 "hlenaplant.com":null,
+"hlhtylivs.shop":null,
 "hln-frinfos.metriweb.be":null,
 "hln7sur7.tnsinternet.be":null,
 "hlog.hiido.com":null,
@@ -43114,6 +43117,7 @@ var BLOCKLIST = {
 "netflix.apple-green.net":null,
 "netflix.apps.co.pl":null,
 "netflixca-updateprofilehelp.com":null,
+"netflixe.kundensupport-kundensupport.de":null,
 "netgear.122.2o7.net":null,
 "netgen.online":null,
 "netgridv.info":null,
@@ -61602,6 +61606,7 @@ var BLOCKLIST = {
 "ugprq.irpa.com.pl":null,
 "ugrida.casa":null,
 "uguhajop.top":null,
+"ui.chelepi.contractors":null,
 "ui.clevernt.com":null,
 "ui.ppjol.com":null,
 "uib.ff.avast.com":null,
@@ -69995,6 +70000,7 @@ var BLOCKLIST = {
 "www.clickedyclick.com":null,
 "www.clickfunnels.com":null,
 "www.clickhelp.net":null,
+"www.clickhouse.com":null,
 "www.clickitbid.com":null,
 "www.clickmailcampaignddns.com":null,
 "www.clickmanage.com":null,
@@ -75253,6 +75259,7 @@ var BLOCKLIST = {
 "www.happebefore.cyou":null,
 "www.happiness9passion.com":null,
 "www.happinessinspiteof.com":null,
+"www.happystonezk.pro":null,
 "www.happysuitesturkey.com":null,
 "www.happytofind.com":null,
 "www.happywithvegas.com":null,
@@ -80526,6 +80533,7 @@ var BLOCKLIST = {
 "www.oponyzone.shop":null,
 "www.oposicioneslibres.com":null,
 "www.opovincit.com":null,
+"www.oppery.com":null,
 "www.oppildisor.rest":null,
 "www.oprflaw.com":null,
 "www.opsectrack.com":null,
@@ -81090,6 +81098,7 @@ var BLOCKLIST = {
 "www.pearlholic.com":null,
 "www.pearlonyxcakes.com":null,
 "www.pearlrealmsg.info":null,
+"www.pearlyappss.pro":null,
 "www.pearopti.sbs":null,
 "www.pectanaset.rest":null,
 "www.peculinary.com":null,
@@ -83916,6 +83925,7 @@ var BLOCKLIST = {
 "www.salpiconge.rest":null,
 "www.saltatesthetic.com":null,
 "www.salticocco.rest":null,
+"www.salttm.com":null,
 "www.saludalmeria.com":null,
 "www.salutnonpa.rest":null,
 "www.samacharteam.com":null,
@@ -85304,6 +85314,7 @@ var BLOCKLIST = {
 "www.spectratokenify.com":null,
 "www.spectromotive.com":null,
 "www.spectrum.onulpazarlama.info":null,
+"www.spectrumhomehealthinc.com":null,
 "www.spectrumpulless.pro":null,
 "www.speechseen.com":null,
 "www.speed4cksa.ero-advertising.com":null,
@@ -86499,6 +86510,7 @@ var BLOCKLIST = {
 "www.templateburger.com":null,
 "www.temporary.nsx.pl":null,
 "www.tempshure.com":null,
+"www.tenantbackgronudsearch.com":null,
 "www.tenantcollections.com":null,
 "www.tencent.com":null,
 "www.tencentcos.motorcycles":null,
@@ -88526,6 +88538,7 @@ var BLOCKLIST = {
 "www.vonacai.com":null,
 "www.vonnect.info":null,
 "www.vonsters.com":null,
+"www.voolat.com":null,
 "www.vopanu.icu":null,
 "www.vopupakedi.today":null,
 "www.voraico-vexanex.top":null,

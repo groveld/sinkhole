@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 91631
-# Updated: 2026-02-11 01:38:56 UTC
+# Entries: 91644
+# Updated: 2026-02-12 01:33:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2244,6 +2244,7 @@
 0.0.0.0 LUXpolice.net
 0.0.0.0 PAKpolice.com
 0.0.0.0 USApolice.com
+0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 a-5.info
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -15259,6 +15260,7 @@
 0.0.0.0 b1t-nydc1.zemanta.com
 0.0.0.0 b1t0gw.lat
 0.0.0.0 b2-data.ads.heytapmobi.com
+0.0.0.0 b2b-update.appwrite.network
 0.0.0.0 b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
 0.0.0.0 b2bg.com
 0.0.0.0 b2bwithtinubu.org
@@ -33530,6 +33532,7 @@
 0.0.0.0 hlbet9my.com
 0.0.0.0 hlcc.ca
 0.0.0.0 hlenaplant.com
+0.0.0.0 hlhtylivs.shop
 0.0.0.0 hln-frinfos.metriweb.be
 0.0.0.0 hln7sur7.tnsinternet.be
 0.0.0.0 hlog.hiido.com
@@ -43113,6 +43116,7 @@
 0.0.0.0 netflix.apple-green.net
 0.0.0.0 netflix.apps.co.pl
 0.0.0.0 netflixca-updateprofilehelp.com
+0.0.0.0 netflixe.kundensupport-kundensupport.de
 0.0.0.0 netgear.122.2o7.net
 0.0.0.0 netgen.online
 0.0.0.0 netgridv.info
@@ -61601,6 +61605,7 @@
 0.0.0.0 ugprq.irpa.com.pl
 0.0.0.0 ugrida.casa
 0.0.0.0 uguhajop.top
+0.0.0.0 ui.chelepi.contractors
 0.0.0.0 ui.clevernt.com
 0.0.0.0 ui.ppjol.com
 0.0.0.0 uib.ff.avast.com
@@ -69994,6 +69999,7 @@
 0.0.0.0 www.clickedyclick.com
 0.0.0.0 www.clickfunnels.com
 0.0.0.0 www.clickhelp.net
+0.0.0.0 www.clickhouse.com
 0.0.0.0 www.clickitbid.com
 0.0.0.0 www.clickmailcampaignddns.com
 0.0.0.0 www.clickmanage.com
@@ -75252,6 +75258,7 @@
 0.0.0.0 www.happebefore.cyou
 0.0.0.0 www.happiness9passion.com
 0.0.0.0 www.happinessinspiteof.com
+0.0.0.0 www.happystonezk.pro
 0.0.0.0 www.happysuitesturkey.com
 0.0.0.0 www.happytofind.com
 0.0.0.0 www.happywithvegas.com
@@ -80525,6 +80532,7 @@
 0.0.0.0 www.oponyzone.shop
 0.0.0.0 www.oposicioneslibres.com
 0.0.0.0 www.opovincit.com
+0.0.0.0 www.oppery.com
 0.0.0.0 www.oppildisor.rest
 0.0.0.0 www.oprflaw.com
 0.0.0.0 www.opsectrack.com
@@ -81089,6 +81097,7 @@
 0.0.0.0 www.pearlholic.com
 0.0.0.0 www.pearlonyxcakes.com
 0.0.0.0 www.pearlrealmsg.info
+0.0.0.0 www.pearlyappss.pro
 0.0.0.0 www.pearopti.sbs
 0.0.0.0 www.pectanaset.rest
 0.0.0.0 www.peculinary.com
@@ -83915,6 +83924,7 @@
 0.0.0.0 www.salpiconge.rest
 0.0.0.0 www.saltatesthetic.com
 0.0.0.0 www.salticocco.rest
+0.0.0.0 www.salttm.com
 0.0.0.0 www.saludalmeria.com
 0.0.0.0 www.salutnonpa.rest
 0.0.0.0 www.samacharteam.com
@@ -85303,6 +85313,7 @@
 0.0.0.0 www.spectratokenify.com
 0.0.0.0 www.spectromotive.com
 0.0.0.0 www.spectrum.onulpazarlama.info
+0.0.0.0 www.spectrumhomehealthinc.com
 0.0.0.0 www.spectrumpulless.pro
 0.0.0.0 www.speechseen.com
 0.0.0.0 www.speed4cksa.ero-advertising.com
@@ -86498,6 +86509,7 @@
 0.0.0.0 www.templateburger.com
 0.0.0.0 www.temporary.nsx.pl
 0.0.0.0 www.tempshure.com
+0.0.0.0 www.tenantbackgronudsearch.com
 0.0.0.0 www.tenantcollections.com
 0.0.0.0 www.tencent.com
 0.0.0.0 www.tencentcos.motorcycles
@@ -88525,6 +88537,7 @@
 0.0.0.0 www.vonacai.com
 0.0.0.0 www.vonnect.info
 0.0.0.0 www.vonsters.com
+0.0.0.0 www.voolat.com
 0.0.0.0 www.vopanu.icu
 0.0.0.0 www.vopupakedi.today
 0.0.0.0 www.voraico-vexanex.top

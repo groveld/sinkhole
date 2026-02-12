@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 91636
-# Updated: 2026-02-11 02:28:27 UTC
+# Entries: 91646
+# Updated: 2026-02-12 02:23:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2244,6 +2244,7 @@ LUXpolice.com
 LUXpolice.net
 PAKpolice.com
 USApolice.com
+___id___.c.mystat-in.net
 a-5.info
 a-a-access.com
 a-ads.com
@@ -15259,6 +15260,7 @@ b1t-chidc2.zemanta.com
 b1t-nydc1.zemanta.com
 b1t0gw.lat
 b2-data.ads.heytapmobi.com
+b2b-update.appwrite.network
 b2b6d102cb7a4898bc54a3b73e31b759.safeframe.googlesyndication.com
 b2bg.com
 b2bwithtinubu.org
@@ -43115,6 +43117,7 @@ netflix-updateinfo.com
 netflix.apple-green.net
 netflix.apps.co.pl
 netflixca-updateprofilehelp.com
+netflixe.kundensupport-kundensupport.de
 netgear.122.2o7.net
 netgen.online
 netgridv.info
@@ -61603,6 +61606,7 @@ ugo.eu-adcenter.net
 ugprq.irpa.com.pl
 ugrida.casa
 uguhajop.top
+ui.chelepi.contractors
 ui.clevernt.com
 ui.ppjol.com
 uib.ff.avast.com
@@ -69996,6 +70000,7 @@ www.clickdensity.com
 www.clickedyclick.com
 www.clickfunnels.com
 www.clickhelp.net
+www.clickhouse.com
 www.clickitbid.com
 www.clickmailcampaignddns.com
 www.clickmanage.com
@@ -81094,6 +81099,7 @@ www.pearlheights.net
 www.pearlholic.com
 www.pearlonyxcakes.com
 www.pearlrealmsg.info
+www.pearlyappss.pro
 www.pearopti.sbs
 www.pectanaset.rest
 www.peculinary.com
@@ -83920,6 +83926,7 @@ www.salpaquiri.rest
 www.salpiconge.rest
 www.saltatesthetic.com
 www.salticocco.rest
+www.salttm.com
 www.saludalmeria.com
 www.salutnonpa.rest
 www.samacharteam.com
@@ -85308,6 +85315,7 @@ www.spectrafund-wealth.com
 www.spectratokenify.com
 www.spectromotive.com
 www.spectrum.onulpazarlama.info
+www.spectrumhomehealthinc.com
 www.spectrumpulless.pro
 www.speechseen.com
 www.speed4cksa.ero-advertising.com
@@ -86503,6 +86511,7 @@ www.tempashure.com
 www.templateburger.com
 www.temporary.nsx.pl
 www.tempshure.com
+www.tenantbackgronudsearch.com
 www.tenantcollections.com
 www.tencent.com
 www.tencentcos.motorcycles
@@ -88530,6 +88539,7 @@ www.vomozak.top
 www.vonacai.com
 www.vonnect.info
 www.vonsters.com
+www.voolat.com
 www.vopanu.icu
 www.vopupakedi.today
 www.voraico-vexanex.top
