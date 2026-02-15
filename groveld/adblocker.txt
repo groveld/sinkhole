@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 80527
-! Updated: 2026-02-14 02:21:26 UTC
+! Entries: 80531
+! Updated: 2026-02-15 02:26:30 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46264,6 +46264,7 @@
 ||specialsales.store^
 ||specialsections.siteseer.ca^
 ||specialtylabandresearch.com^
+||specialworld.com.au^
 ||specificfern.retrochambergames.com^
 ||specificmedia.co.uk^
 ||specificmedia.com^
@@ -67657,6 +67658,7 @@
 ||www.losmiau.com^
 ||www.lostartofbeingadame.com^
 ||www.lostbagtag.com^
+||www.lostbestsgames.com^
 ||www.losthongkong.com^
 ||www.losu-disn.com^
 ||www.lotina.pl^
@@ -77226,6 +77228,7 @@
 ||www.ventari.shop^
 ||www.venthyra-singulus.com^
 ||www.ventilacija.net^
+||www.ventilationdirec.com^
 ||www.ventrocore.com^
 ||www.ventureactive.com^
 ||www.venturead.com^
@@ -77621,6 +77624,7 @@
 ||www.vkabutik.pl^
 ||www.vkjadon.com^
 ||www.vkjitjivroe.site^
+||www.vkvmotion.com^
 ||www.vllerinde.rest^
 ||www.vlocitymind.com^
 ||www.vlotpaycorex-app.com^

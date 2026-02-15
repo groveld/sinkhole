@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 80527
-# Updated: 2026-02-14 02:21:26 UTC
+# Entries: 80531
+# Updated: 2026-02-15 02:26:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46264,6 +46264,7 @@ address=/specialoffers.aol.com/0.0.0.0
 address=/specialsales.store/0.0.0.0
 address=/specialsections.siteseer.ca/0.0.0.0
 address=/specialtylabandresearch.com/0.0.0.0
+address=/specialworld.com.au/0.0.0.0
 address=/specificfern.retrochambergames.com/0.0.0.0
 address=/specificmedia.co.uk/0.0.0.0
 address=/specificmedia.com/0.0.0.0
@@ -67657,6 +67658,7 @@ address=/www.lorrytyrefitters.com/0.0.0.0
 address=/www.losmiau.com/0.0.0.0
 address=/www.lostartofbeingadame.com/0.0.0.0
 address=/www.lostbagtag.com/0.0.0.0
+address=/www.lostbestsgames.com/0.0.0.0
 address=/www.losthongkong.com/0.0.0.0
 address=/www.losu-disn.com/0.0.0.0
 address=/www.lotina.pl/0.0.0.0
@@ -77226,6 +77228,7 @@ address=/www.ventanasyaluminios.com.mx/0.0.0.0
 address=/www.ventari.shop/0.0.0.0
 address=/www.venthyra-singulus.com/0.0.0.0
 address=/www.ventilacija.net/0.0.0.0
+address=/www.ventilationdirec.com/0.0.0.0
 address=/www.ventrocore.com/0.0.0.0
 address=/www.ventureactive.com/0.0.0.0
 address=/www.venturead.com/0.0.0.0
@@ -77621,6 +77624,7 @@ address=/www.vk2ca.com/0.0.0.0
 address=/www.vkabutik.pl/0.0.0.0
 address=/www.vkjadon.com/0.0.0.0
 address=/www.vkjitjivroe.site/0.0.0.0
+address=/www.vkvmotion.com/0.0.0.0
 address=/www.vllerinde.rest/0.0.0.0
 address=/www.vlocitymind.com/0.0.0.0
 address=/www.vlotpaycorex-app.com/0.0.0.0

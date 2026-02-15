@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 80525
-# Updated: 2026-02-14 01:32:03 UTC
+# Entries: 80528
+# Updated: 2026-02-15 01:37:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46263,6 +46263,7 @@
 0.0.0.0 specialsales.store
 0.0.0.0 specialsections.siteseer.ca
 0.0.0.0 specialtylabandresearch.com
+0.0.0.0 specialworld.com.au
 0.0.0.0 specificfern.retrochambergames.com
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificmedia.com
@@ -67655,6 +67656,7 @@
 0.0.0.0 www.losmiau.com
 0.0.0.0 www.lostartofbeingadame.com
 0.0.0.0 www.lostbagtag.com
+0.0.0.0 www.lostbestsgames.com
 0.0.0.0 www.losthongkong.com
 0.0.0.0 www.losu-disn.com
 0.0.0.0 www.lotina.pl
@@ -77224,6 +77226,7 @@
 0.0.0.0 www.ventari.shop
 0.0.0.0 www.venthyra-singulus.com
 0.0.0.0 www.ventilacija.net
+0.0.0.0 www.ventilationdirec.com
 0.0.0.0 www.ventrocore.com
 0.0.0.0 www.ventureactive.com
 0.0.0.0 www.venturead.com

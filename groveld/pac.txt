@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 80527
-// Updated: 2026-02-14 02:21:26 UTC
+// Entries: 80531
+// Updated: 2026-02-15 02:26:30 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -46265,6 +46265,7 @@ var BLOCKLIST = {
 "specialsales.store":null,
 "specialsections.siteseer.ca":null,
 "specialtylabandresearch.com":null,
+"specialworld.com.au":null,
 "specificfern.retrochambergames.com":null,
 "specificmedia.co.uk":null,
 "specificmedia.com":null,
@@ -67658,6 +67659,7 @@ var BLOCKLIST = {
 "www.losmiau.com":null,
 "www.lostartofbeingadame.com":null,
 "www.lostbagtag.com":null,
+"www.lostbestsgames.com":null,
 "www.losthongkong.com":null,
 "www.losu-disn.com":null,
 "www.lotina.pl":null,
@@ -77227,6 +77229,7 @@ var BLOCKLIST = {
 "www.ventari.shop":null,
 "www.venthyra-singulus.com":null,
 "www.ventilacija.net":null,
+"www.ventilationdirec.com":null,
 "www.ventrocore.com":null,
 "www.ventureactive.com":null,
 "www.venturead.com":null,
@@ -77622,6 +77625,7 @@ var BLOCKLIST = {
 "www.vkabutik.pl":null,
 "www.vkjadon.com":null,
 "www.vkjitjivroe.site":null,
+"www.vkvmotion.com":null,
 "www.vllerinde.rest":null,
 "www.vlocitymind.com":null,
 "www.vlotpaycorex-app.com":null,
