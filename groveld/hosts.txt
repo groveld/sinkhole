@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 80531
-# Updated: 2026-02-15 02:26:30 UTC
+# Entries: 80532
+# Updated: 2026-02-16 02:23:50 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56668,6 +56668,7 @@
 0.0.0.0 www.airgunbarn.com
 0.0.0.0 www.airgunusa.com
 0.0.0.0 www.airlineticketsdesk.com
+0.0.0.0 www.airmedcarennetwork.com
 0.0.0.0 www.airmore.co
 0.0.0.0 www.airnetinfotech.com
 0.0.0.0 www.airodolena.com

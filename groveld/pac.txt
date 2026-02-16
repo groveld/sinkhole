@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 80531
-// Updated: 2026-02-15 02:26:30 UTC
+// Entries: 80532
+// Updated: 2026-02-16 02:23:50 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56669,6 +56669,7 @@ var BLOCKLIST = {
 "www.airgunbarn.com":null,
 "www.airgunusa.com":null,
 "www.airlineticketsdesk.com":null,
+"www.airmedcarennetwork.com":null,
 "www.airmore.co":null,
 "www.airnetinfotech.com":null,
 "www.airodolena.com":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 80528
-# Updated: 2026-02-15 01:37:06 UTC
+# Entries: 80530
+# Updated: 2026-02-16 01:34:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56667,6 +56667,7 @@ address=/www.airgunattic.com/0.0.0.0
 address=/www.airgunbarn.com/0.0.0.0
 address=/www.airgunusa.com/0.0.0.0
 address=/www.airlineticketsdesk.com/0.0.0.0
+address=/www.airmedcarennetwork.com/0.0.0.0
 address=/www.airmore.co/0.0.0.0
 address=/www.airnetinfotech.com/0.0.0.0
 address=/www.airodolena.com/0.0.0.0
@@ -77622,6 +77623,7 @@ address=/www.vk2ca.com/0.0.0.0
 address=/www.vkabutik.pl/0.0.0.0
 address=/www.vkjadon.com/0.0.0.0
 address=/www.vkjitjivroe.site/0.0.0.0
+address=/www.vkvmotion.com/0.0.0.0
 address=/www.vllerinde.rest/0.0.0.0
 address=/www.vlocitymind.com/0.0.0.0
 address=/www.vlotpaycorex-app.com/0.0.0.0
