@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 80532
-// Updated: 2026-02-16 02:23:50 UTC
+// Entries: 80537
+// Updated: 2026-02-17 02:22:51 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56884,6 +56884,7 @@ var BLOCKLIST = {
 "www.allplayer.pl":null,
 "www.allprizesforme.com":null,
 "www.allshiny.golentra.com":null,
+"www.allstateproteectionplans.com":null,
 "www.allthingsfashion.top":null,
 "www.allthingslists.com":null,
 "www.alltube-tv.pl":null,
@@ -70452,6 +70453,7 @@ var BLOCKLIST = {
 "www.peachora.com":null,
 "www.peachqjoy.best":null,
 "www.peachy18.com":null,
+"www.peachysailwv.pro":null,
 "www.peakclick.com":null,
 "www.peakfrost.today":null,
 "www.peakobje.cyou":null,
@@ -70698,6 +70700,7 @@ var BLOCKLIST = {
 "www.pinozecijec.com":null,
 "www.pinpum.com":null,
 "www.pinup-kaz-2025.top":null,
+"www.pinupspinup.com":null,
 "www.pinzatrink.rest":null,
 "www.pioloc.top":null,
 "www.pionerosrosana.com":null,
@@ -71358,6 +71361,7 @@ var BLOCKLIST = {
 "www.portoftema.net":null,
 "www.portugalinsurance.net":null,
 "www.portuguese-guide.com":null,
+"www.portutopcas.com":null,
 "www.pos.aluroojtc.com.my":null,
 "www.pos.ditc.ae":null,
 "www.pos.stawi.ke":null,
@@ -78427,6 +78431,7 @@ var BLOCKLIST = {
 "www.wraithhacker.com":null,
 "www.wrappedupinnumbers.com":null,
 "www.wrestlevania.com":null,
+"www.wrestlewebnews.com":null,
 "www.wrig.pl":null,
 "www.wrightfamilyfoundation.org":null,
 "www.wrightlayla.shop":null,

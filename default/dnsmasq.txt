@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 80530
-# Updated: 2026-02-16 01:34:27 UTC
+# Entries: 80535
+# Updated: 2026-02-17 01:33:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56882,6 +56882,7 @@ address=/www.allpdfmags.net/0.0.0.0
 address=/www.allplayer.pl/0.0.0.0
 address=/www.allprizesforme.com/0.0.0.0
 address=/www.allshiny.golentra.com/0.0.0.0
+address=/www.allstateproteectionplans.com/0.0.0.0
 address=/www.allthingsfashion.top/0.0.0.0
 address=/www.allthingslists.com/0.0.0.0
 address=/www.alltube-tv.pl/0.0.0.0
@@ -70449,6 +70450,7 @@ address=/www.peachfuzzproductions.com/0.0.0.0
 address=/www.peachora.com/0.0.0.0
 address=/www.peachqjoy.best/0.0.0.0
 address=/www.peachy18.com/0.0.0.0
+address=/www.peachysailwv.pro/0.0.0.0
 address=/www.peakclick.com/0.0.0.0
 address=/www.peakfrost.today/0.0.0.0
 address=/www.peakobje.cyou/0.0.0.0
@@ -70695,6 +70697,7 @@ address=/www.pinnacleprodigium.com/0.0.0.0
 address=/www.pinozecijec.com/0.0.0.0
 address=/www.pinpum.com/0.0.0.0
 address=/www.pinup-kaz-2025.top/0.0.0.0
+address=/www.pinupspinup.com/0.0.0.0
 address=/www.pinzatrink.rest/0.0.0.0
 address=/www.pioloc.top/0.0.0.0
 address=/www.pionerosrosana.com/0.0.0.0
@@ -71355,6 +71358,7 @@ address=/www.portoftakoradi.net/0.0.0.0
 address=/www.portoftema.net/0.0.0.0
 address=/www.portugalinsurance.net/0.0.0.0
 address=/www.portuguese-guide.com/0.0.0.0
+address=/www.portutopcas.com/0.0.0.0
 address=/www.pos.aluroojtc.com.my/0.0.0.0
 address=/www.pos.ditc.ae/0.0.0.0
 address=/www.pos.stawi.ke/0.0.0.0
@@ -78424,6 +78428,7 @@ address=/www.wqqqebmailinder56868979797970.s3.eu-central-3.ionoscloud.com/0.0.0.
 address=/www.wraithhacker.com/0.0.0.0
 address=/www.wrappedupinnumbers.com/0.0.0.0
 address=/www.wrestlevania.com/0.0.0.0
+address=/www.wrestlewebnews.com/0.0.0.0
 address=/www.wrig.pl/0.0.0.0
 address=/www.wrightfamilyfoundation.org/0.0.0.0
 address=/www.wrightlayla.shop/0.0.0.0
