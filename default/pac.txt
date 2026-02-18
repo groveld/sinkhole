@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 80535
-// Updated: 2026-02-17 01:33:27 UTC
+// Entries: 80541
+// Updated: 2026-02-18 01:33:59 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21188,6 +21188,7 @@ var BLOCKLIST = {
 "factiva.122.2o7.net":null,
 "factopassive.biz":null,
 "factoriamagica.com":null,
+"factorship.wcyrkdd.cn":null,
 "factorytrax.com":null,
 "factsmoment.geracaoinvest.com":null,
 "factstream.today":null,
@@ -52703,6 +52704,7 @@ var BLOCKLIST = {
 "vena.native-ad.net":null,
 "vendercasaurgente.com":null,
 "vendhanshow.com":null,
+"vendhelpuous.pgvjmp.cn":null,
 "vendimob.pl":null,
 "vendorlist.consensu.org":null,
 "vendorweb.citibank.com":null,
@@ -58442,6 +58444,7 @@ var BLOCKLIST = {
 "www.bluza3d.pl":null,
 "www.bmacworks.net":null,
 "www.bmmetrix.com":null,
+"www.bmrneswk.com":null,
 "www.bmsholdingbhd.com":null,
 "www.bnbbutler.net":null,
 "www.bnewinkomanie.com":null,
@@ -68586,6 +68589,7 @@ var BLOCKLIST = {
 "www.mycleanpc.com":null,
 "www.mycleanpc.tk":null,
 "www.mycolonialpenm.com":null,
+"www.mycontentlocker.com":null,
 "www.mycpvlife.com":null,
 "www.mydates.com":null,
 "www.mydati.com":null,
@@ -75102,6 +75106,7 @@ var BLOCKLIST = {
 "www.stromam.cfd":null,
 "www.stromunreg.rest":null,
 "www.strong-biscuit-a67818.netlify.app":null,
+"www.strongarchzu.com":null,
 "www.strongfiction.net":null,
 "www.strongmencare.store":null,
 "www.strongvector.com":null,
@@ -78181,6 +78186,7 @@ var BLOCKLIST = {
 "www.whizstats.com":null,
 "www.whm.20-40-56-212.cprapid.com":null,
 "www.whois-talking.com":null,
+"www.wholesaleorganix.com":null,
 "www.wholesaleuplift.com":null,
 "www.wholisticphysicians.com":null,
 "www.whologunen.com":null,

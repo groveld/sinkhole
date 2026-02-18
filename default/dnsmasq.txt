@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 80535
-# Updated: 2026-02-17 01:33:27 UTC
+# Entries: 80541
+# Updated: 2026-02-18 01:33:59 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21187,6 +21187,7 @@ address=/factcoreln.info/0.0.0.0
 address=/factiva.122.2o7.net/0.0.0.0
 address=/factopassive.biz/0.0.0.0
 address=/factoriamagica.com/0.0.0.0
+address=/factorship.wcyrkdd.cn/0.0.0.0
 address=/factorytrax.com/0.0.0.0
 address=/factsmoment.geracaoinvest.com/0.0.0.0
 address=/factstream.today/0.0.0.0
@@ -52702,6 +52703,7 @@ address=/vemoraexpress-polska.shop/0.0.0.0
 address=/vena.native-ad.net/0.0.0.0
 address=/vendercasaurgente.com/0.0.0.0
 address=/vendhanshow.com/0.0.0.0
+address=/vendhelpuous.pgvjmp.cn/0.0.0.0
 address=/vendimob.pl/0.0.0.0
 address=/vendorlist.consensu.org/0.0.0.0
 address=/vendorweb.citibank.com/0.0.0.0
@@ -58441,6 +58443,7 @@ address=/www.bluewaffle.biz/0.0.0.0
 address=/www.bluza3d.pl/0.0.0.0
 address=/www.bmacworks.net/0.0.0.0
 address=/www.bmmetrix.com/0.0.0.0
+address=/www.bmrneswk.com/0.0.0.0
 address=/www.bmsholdingbhd.com/0.0.0.0
 address=/www.bnbbutler.net/0.0.0.0
 address=/www.bnewinkomanie.com/0.0.0.0
@@ -68585,6 +68588,7 @@ address=/www.myclasshive.com/0.0.0.0
 address=/www.mycleanpc.com/0.0.0.0
 address=/www.mycleanpc.tk/0.0.0.0
 address=/www.mycolonialpenm.com/0.0.0.0
+address=/www.mycontentlocker.com/0.0.0.0
 address=/www.mycpvlife.com/0.0.0.0
 address=/www.mydates.com/0.0.0.0
 address=/www.mydati.com/0.0.0.0
@@ -75101,6 +75105,7 @@ address=/www.strobinque.rest/0.0.0.0
 address=/www.stromam.cfd/0.0.0.0
 address=/www.stromunreg.rest/0.0.0.0
 address=/www.strong-biscuit-a67818.netlify.app/0.0.0.0
+address=/www.strongarchzu.com/0.0.0.0
 address=/www.strongfiction.net/0.0.0.0
 address=/www.strongmencare.store/0.0.0.0
 address=/www.strongvector.com/0.0.0.0
@@ -78180,6 +78185,7 @@ address=/www.whitewolfmarket.com/0.0.0.0
 address=/www.whizstats.com/0.0.0.0
 address=/www.whm.20-40-56-212.cprapid.com/0.0.0.0
 address=/www.whois-talking.com/0.0.0.0
+address=/www.wholesaleorganix.com/0.0.0.0
 address=/www.wholesaleuplift.com/0.0.0.0
 address=/www.wholisticphysicians.com/0.0.0.0
 address=/www.whologunen.com/0.0.0.0

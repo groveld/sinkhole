@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 80537
-! Updated: 2026-02-17 02:22:51 UTC
+! Entries: 80543
+! Updated: 2026-02-18 02:23:22 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21187,6 +21187,7 @@
 ||factiva.122.2o7.net^
 ||factopassive.biz^
 ||factoriamagica.com^
+||factorship.wcyrkdd.cn^
 ||factorytrax.com^
 ||factsmoment.geracaoinvest.com^
 ||factstream.today^
@@ -52703,6 +52704,7 @@
 ||vena.native-ad.net^
 ||vendercasaurgente.com^
 ||vendhanshow.com^
+||vendhelpuous.pgvjmp.cn^
 ||vendimob.pl^
 ||vendorlist.consensu.org^
 ||vendorweb.citibank.com^
@@ -58442,6 +58444,7 @@
 ||www.bluza3d.pl^
 ||www.bmacworks.net^
 ||www.bmmetrix.com^
+||www.bmrneswk.com^
 ||www.bmsholdingbhd.com^
 ||www.bnbbutler.net^
 ||www.bnewinkomanie.com^
@@ -68587,6 +68590,7 @@
 ||www.mycleanpc.com^
 ||www.mycleanpc.tk^
 ||www.mycolonialpenm.com^
+||www.mycontentlocker.com^
 ||www.mycpvlife.com^
 ||www.mydates.com^
 ||www.mydati.com^
@@ -75103,6 +75107,7 @@
 ||www.stromam.cfd^
 ||www.stromunreg.rest^
 ||www.strong-biscuit-a67818.netlify.app^
+||www.strongarchzu.com^
 ||www.strongfiction.net^
 ||www.strongmencare.store^
 ||www.strongvector.com^
@@ -78182,6 +78187,7 @@
 ||www.whizstats.com^
 ||www.whm.20-40-56-212.cprapid.com^
 ||www.whois-talking.com^
+||www.wholesaleorganix.com^
 ||www.wholesaleuplift.com^
 ||www.wholisticphysicians.com^
 ||www.whologunen.com^
