@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 93245
-! Updated: 2026-02-20 01:31:14 UTC
+! Entries: 93252
+! Updated: 2026-02-21 01:31:04 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -51875,6 +51875,7 @@
 ||rinfolaici.rest^
 ||ringalead.tm3ai.com^
 ||ringcentral.112.2o7.net^
+||ringcleas.sa.com^
 ||ringiasple.rest^
 ||ringieradro.hit.gemius.pl^
 ||ringieradrs.hit.gemius.pl^
@@ -52499,6 +52500,7 @@
 ||rubris.org^
 ||rubyfortune.com^
 ||rubyhub.cfd^
+||ruchika29access55824.acemlna.com^
 ||ruclicks.com^
 ||rudy.adsnative.com^
 ||ruegenfleisch.de^
@@ -59462,6 +59464,7 @@
 ||teads.tv^
 ||teads.tv.edgekey.net^
 ||teads245638586802.s.moatpixel.com^
+||teak.gen.tr^
 ||tealand.cmcm.com^
 ||tealeaf.com^
 ||tealeaf.ibmcloud.com^
@@ -68017,6 +68020,7 @@
 ||www.alexrc.plus.com^
 ||www.alexwebconsultant.com^
 ||www.alexxxxpages.info^
+||www.alexyastro.com^
 ||www.alf-img.com^
 ||www.alfa-img.com^
 ||www.alfa-medosmotr.ru^
@@ -68108,6 +68112,7 @@
 ||www.allpdfmags.net^
 ||www.allplayer.pl^
 ||www.allprizesforme.com^
+||www.allscrabble.com^
 ||www.allshiny.golentra.com^
 ||www.allstateproteectionplans.com^
 ||www.allthingsfashion.top^
@@ -68421,6 +68426,7 @@
 ||www.apartmentollie.com^
 ||www.apartments-katic.online^
 ||www.apchs.net^
+||www.apcort.com^
 ||www.apepix.com^
 ||www.aperitiki.com^
 ||www.apertureskylights.com^
@@ -70036,6 +70042,7 @@
 ||www.brightvisionlab.info^
 ||www.brightwayless.pro^
 ||www.brightwayy.com^
+||www.briidgeapp.com^
 ||www.brikee.com^
 ||www.brillantfinspirex-app.com^
 ||www.brilliantdigital.com^

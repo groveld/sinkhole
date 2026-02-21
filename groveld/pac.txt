@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 93247
-// Updated: 2026-02-20 02:20:37 UTC
+// Entries: 93254
+// Updated: 2026-02-21 02:20:30 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -51877,6 +51877,7 @@ var BLOCKLIST = {
 "rinfolaici.rest":null,
 "ringalead.tm3ai.com":null,
 "ringcentral.112.2o7.net":null,
+"ringcleas.sa.com":null,
 "ringiasple.rest":null,
 "ringieradro.hit.gemius.pl":null,
 "ringieradrs.hit.gemius.pl":null,
@@ -52501,6 +52502,7 @@ var BLOCKLIST = {
 "rubris.org":null,
 "rubyfortune.com":null,
 "rubyhub.cfd":null,
+"ruchika29access55824.acemlna.com":null,
 "ruclicks.com":null,
 "rudy.adsnative.com":null,
 "ruegenfleisch.de":null,
@@ -59464,6 +59466,7 @@ var BLOCKLIST = {
 "teads.tv":null,
 "teads.tv.edgekey.net":null,
 "teads245638586802.s.moatpixel.com":null,
+"teak.gen.tr":null,
 "tealand.cmcm.com":null,
 "tealeaf.com":null,
 "tealeaf.ibmcloud.com":null,
@@ -68019,6 +68022,7 @@ var BLOCKLIST = {
 "www.alexrc.plus.com":null,
 "www.alexwebconsultant.com":null,
 "www.alexxxxpages.info":null,
+"www.alexyastro.com":null,
 "www.alf-img.com":null,
 "www.alfa-img.com":null,
 "www.alfa-medosmotr.ru":null,
@@ -68110,6 +68114,7 @@ var BLOCKLIST = {
 "www.allpdfmags.net":null,
 "www.allplayer.pl":null,
 "www.allprizesforme.com":null,
+"www.allscrabble.com":null,
 "www.allshiny.golentra.com":null,
 "www.allstateproteectionplans.com":null,
 "www.allthingsfashion.top":null,
@@ -68423,6 +68428,7 @@ var BLOCKLIST = {
 "www.apartmentollie.com":null,
 "www.apartments-katic.online":null,
 "www.apchs.net":null,
+"www.apcort.com":null,
 "www.apepix.com":null,
 "www.aperitiki.com":null,
 "www.apertureskylights.com":null,
@@ -70038,6 +70044,7 @@ var BLOCKLIST = {
 "www.brightvisionlab.info":null,
 "www.brightwayless.pro":null,
 "www.brightwayy.com":null,
+"www.briidgeapp.com":null,
 "www.brikee.com":null,
 "www.brillantfinspirex-app.com":null,
 "www.brilliantdigital.com":null,

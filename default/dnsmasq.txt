@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 93245
-# Updated: 2026-02-20 01:31:14 UTC
+# Entries: 93252
+# Updated: 2026-02-21 01:31:04 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -51875,6 +51875,7 @@ address=/rinfavaieg.rest/0.0.0.0
 address=/rinfolaici.rest/0.0.0.0
 address=/ringalead.tm3ai.com/0.0.0.0
 address=/ringcentral.112.2o7.net/0.0.0.0
+address=/ringcleas.sa.com/0.0.0.0
 address=/ringiasple.rest/0.0.0.0
 address=/ringieradro.hit.gemius.pl/0.0.0.0
 address=/ringieradrs.hit.gemius.pl/0.0.0.0
@@ -52499,6 +52500,7 @@ address=/rubrikincproduction.112.2o7.net/0.0.0.0
 address=/rubris.org/0.0.0.0
 address=/rubyfortune.com/0.0.0.0
 address=/rubyhub.cfd/0.0.0.0
+address=/ruchika29access55824.acemlna.com/0.0.0.0
 address=/ruclicks.com/0.0.0.0
 address=/rudy.adsnative.com/0.0.0.0
 address=/ruegenfleisch.de/0.0.0.0
@@ -59462,6 +59464,7 @@ address=/teads-match.dotomi.com/0.0.0.0
 address=/teads.tv/0.0.0.0
 address=/teads.tv.edgekey.net/0.0.0.0
 address=/teads245638586802.s.moatpixel.com/0.0.0.0
+address=/teak.gen.tr/0.0.0.0
 address=/tealand.cmcm.com/0.0.0.0
 address=/tealeaf.com/0.0.0.0
 address=/tealeaf.ibmcloud.com/0.0.0.0
@@ -68017,6 +68020,7 @@ address=/www.alexine.net/0.0.0.0
 address=/www.alexrc.plus.com/0.0.0.0
 address=/www.alexwebconsultant.com/0.0.0.0
 address=/www.alexxxxpages.info/0.0.0.0
+address=/www.alexyastro.com/0.0.0.0
 address=/www.alf-img.com/0.0.0.0
 address=/www.alfa-img.com/0.0.0.0
 address=/www.alfa-medosmotr.ru/0.0.0.0
@@ -68108,6 +68112,7 @@ address=/www.alloysteel.ru/0.0.0.0
 address=/www.allpdfmags.net/0.0.0.0
 address=/www.allplayer.pl/0.0.0.0
 address=/www.allprizesforme.com/0.0.0.0
+address=/www.allscrabble.com/0.0.0.0
 address=/www.allshiny.golentra.com/0.0.0.0
 address=/www.allstateproteectionplans.com/0.0.0.0
 address=/www.allthingsfashion.top/0.0.0.0
@@ -68421,6 +68426,7 @@ address=/www.apartamentoscantaro.com/0.0.0.0
 address=/www.apartmentollie.com/0.0.0.0
 address=/www.apartments-katic.online/0.0.0.0
 address=/www.apchs.net/0.0.0.0
+address=/www.apcort.com/0.0.0.0
 address=/www.apepix.com/0.0.0.0
 address=/www.aperitiki.com/0.0.0.0
 address=/www.apertureskylights.com/0.0.0.0
@@ -70036,6 +70042,7 @@ address=/www.brighttea.top/0.0.0.0
 address=/www.brightvisionlab.info/0.0.0.0
 address=/www.brightwayless.pro/0.0.0.0
 address=/www.brightwayy.com/0.0.0.0
+address=/www.briidgeapp.com/0.0.0.0
 address=/www.brikee.com/0.0.0.0
 address=/www.brillantfinspirex-app.com/0.0.0.0
 address=/www.brilliantdigital.com/0.0.0.0
