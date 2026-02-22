@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 93252
-# Updated: 2026-02-21 01:31:04 UTC
+# Entries: 93254
+# Updated: 2026-02-22 01:34:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -33923,6 +33923,7 @@
 0.0.0.0 hondrofr.com
 0.0.0.0 hondrostrc.com
 0.0.0.0 honey-date4u.life
+0.0.0.0 honeyburn.za.com
 0.0.0.0 honeytraditions.com
 0.0.0.0 honfurniture.122.2o7.net
 0.0.0.0 honghsi.com
@@ -70741,6 +70742,7 @@
 0.0.0.0 www.cenhancer.cfd
 0.0.0.0 www.cenicoi.top
 0.0.0.0 www.centennialbulldogs.com
+0.0.0.0 www.centeralbidding.com
 0.0.0.0 www.centerfind.com
 0.0.0.0 www.centertrk.com
 0.0.0.0 www.centra-ev.com

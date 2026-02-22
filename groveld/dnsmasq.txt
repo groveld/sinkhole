@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 93254
-# Updated: 2026-02-21 02:20:30 UTC
+# Entries: 93256
+# Updated: 2026-02-22 02:23:48 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -33924,6 +33924,7 @@ address=/hondrodirect.com/0.0.0.0
 address=/hondrofr.com/0.0.0.0
 address=/hondrostrc.com/0.0.0.0
 address=/honey-date4u.life/0.0.0.0
+address=/honeyburn.za.com/0.0.0.0
 address=/honeytraditions.com/0.0.0.0
 address=/honfurniture.122.2o7.net/0.0.0.0
 address=/honghsi.com/0.0.0.0
@@ -70742,6 +70743,7 @@ address=/www.ceneo.sbs/0.0.0.0
 address=/www.cenhancer.cfd/0.0.0.0
 address=/www.cenicoi.top/0.0.0.0
 address=/www.centennialbulldogs.com/0.0.0.0
+address=/www.centeralbidding.com/0.0.0.0
 address=/www.centerfind.com/0.0.0.0
 address=/www.centertrk.com/0.0.0.0
 address=/www.centra-ev.com/0.0.0.0
