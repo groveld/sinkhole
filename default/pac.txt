@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 90432
-// Updated: 2026-02-23 01:34:23 UTC
+// Entries: 90442
+// Updated: 2026-02-24 01:30:24 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24200,6 +24200,7 @@ var BLOCKLIST = {
 "curatedstorefront.com":null,
 "curauk.com":null,
 "curbminers.com":null,
+"curejoint.sa.com":null,
 "curioloft.com":null,
 "curioprefi.rest":null,
 "curlutransfer.click":null,
@@ -32453,6 +32454,7 @@ var BLOCKLIST = {
 "gusion.space":null,
 "gustomagro.it":null,
 "gutando.com":null,
+"guthealth.sa.com":null,
 "guthyrenker.112.2o7.net":null,
 "guttersinsummerville.com":null,
 "gutturiurl.rest":null,
@@ -35766,6 +35768,7 @@ var BLOCKLIST = {
 "itoman.doorblog.jp":null,
 "itop.cz":null,
 "itpesthetique.pl":null,
+"itprfft.sa.com":null,
 "itpro.uk.intellitxt.com":null,
 "itrackerpro.com":null,
 "itransitionaz.com":null,
@@ -71024,6 +71027,7 @@ var BLOCKLIST = {
 "www.dietoll.com":null,
 "www.differentjmost.cfd":null,
 "www.diffscape.com":null,
+"www.diffuselec.com":null,
 "www.diffusionpub.com":null,
 "www.digertempe.rest":null,
 "www.digestpl.convertri.com":null,
@@ -72894,6 +72898,7 @@ var BLOCKLIST = {
 "www.finetorex-app.com":null,
 "www.finfocuspol.com":null,
 "www.fingercuffs.net":null,
+"www.fingertimer.com":null,
 "www.finhubio.com":null,
 "www.finishans.cyou":null,
 "www.finishsep.click":null,
@@ -73094,6 +73099,7 @@ var BLOCKLIST = {
 "www.fmcurling.org":null,
 "www.fmhcpbdswvdngbhn.top":null,
 "www.fmi-searching.info":null,
+"www.fmoviehd.com":null,
 "www.fnatfee.ero-advertising.com":null,
 "www.fncash.com":null,
 "www.fnh34faa.icu":null,
@@ -73395,6 +73401,7 @@ var BLOCKLIST = {
 "www.friendsforfortune.com":null,
 "www.friendslinks.com":null,
 "www.frimetalnox.com":null,
+"www.fripta.com":null,
 "www.friscco-pl.sbs":null,
 "www.frisco-pl.top":null,
 "www.frisco.bergfreunde.sbs":null,
@@ -73504,6 +73511,7 @@ var BLOCKLIST = {
 "www.fuqecuzikohi.com":null,
 "www.fur-and-feathers.com":null,
 "www.furanpereg.rest":null,
+"www.furcomics.com":null,
 "www.furlapolska.com":null,
 "www.furnaposte.rest":null,
 "www.furnideals.shop":null,
@@ -74543,6 +74551,7 @@ var BLOCKLIST = {
 "www.hasmiksphotography.com":null,
 "www.hastiincot.rest":null,
 "www.hata.ero-advertising.com":null,
+"www.hauloot.com":null,
 "www.havaninvestai.com":null,
 "www.hawasa.com":null,
 "www.hawberry.org":null,
@@ -89854,6 +89863,7 @@ var BLOCKLIST = {
 "yourgiftrewards.com":null,
 "yourgiftzone.com":null,
 "yourgodess.com":null,
+"yourhlth.ru.com":null,
 "youripad4free.com":null,
 "yourofficialsurveysplace.store":null,
 "youronlinesoft.com":null,

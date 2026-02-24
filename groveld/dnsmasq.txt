@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 90434
-# Updated: 2026-02-23 02:23:45 UTC
+# Entries: 90444
+# Updated: 2026-02-24 02:19:47 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24199,6 +24199,7 @@ address=/curantello.info/0.0.0.0
 address=/curatedstorefront.com/0.0.0.0
 address=/curauk.com/0.0.0.0
 address=/curbminers.com/0.0.0.0
+address=/curejoint.sa.com/0.0.0.0
 address=/curioloft.com/0.0.0.0
 address=/curioprefi.rest/0.0.0.0
 address=/curlutransfer.click/0.0.0.0
@@ -32453,6 +32454,7 @@ address=/gusabid.adview.com/0.0.0.0
 address=/gusion.space/0.0.0.0
 address=/gustomagro.it/0.0.0.0
 address=/gutando.com/0.0.0.0
+address=/guthealth.sa.com/0.0.0.0
 address=/guthyrenker.112.2o7.net/0.0.0.0
 address=/guttersinsummerville.com/0.0.0.0
 address=/gutturiurl.rest/0.0.0.0
@@ -35766,6 +35768,7 @@ address=/itofindia.com/0.0.0.0
 address=/itoman.doorblog.jp/0.0.0.0
 address=/itop.cz/0.0.0.0
 address=/itpesthetique.pl/0.0.0.0
+address=/itprfft.sa.com/0.0.0.0
 address=/itpro.uk.intellitxt.com/0.0.0.0
 address=/itrackerpro.com/0.0.0.0
 address=/itransitionaz.com/0.0.0.0
@@ -71024,6 +71027,7 @@ address=/www.dietch.net/0.0.0.0
 address=/www.dietoll.com/0.0.0.0
 address=/www.differentjmost.cfd/0.0.0.0
 address=/www.diffscape.com/0.0.0.0
+address=/www.diffuselec.com/0.0.0.0
 address=/www.diffusionpub.com/0.0.0.0
 address=/www.digertempe.rest/0.0.0.0
 address=/www.digestpl.convertri.com/0.0.0.0
@@ -72894,6 +72898,7 @@ address=/www.finethech.xyz/0.0.0.0
 address=/www.finetorex-app.com/0.0.0.0
 address=/www.finfocuspol.com/0.0.0.0
 address=/www.fingercuffs.net/0.0.0.0
+address=/www.fingertimer.com/0.0.0.0
 address=/www.finhubio.com/0.0.0.0
 address=/www.finishans.cyou/0.0.0.0
 address=/www.finishsep.click/0.0.0.0
@@ -73094,6 +73099,7 @@ address=/www.flywithgrr.com/0.0.0.0
 address=/www.fmcurling.org/0.0.0.0
 address=/www.fmhcpbdswvdngbhn.top/0.0.0.0
 address=/www.fmi-searching.info/0.0.0.0
+address=/www.fmoviehd.com/0.0.0.0
 address=/www.fnatfee.ero-advertising.com/0.0.0.0
 address=/www.fncash.com/0.0.0.0
 address=/www.fnh34faa.icu/0.0.0.0
@@ -73395,6 +73401,7 @@ address=/www.friendsearch.com/0.0.0.0
 address=/www.friendsforfortune.com/0.0.0.0
 address=/www.friendslinks.com/0.0.0.0
 address=/www.frimetalnox.com/0.0.0.0
+address=/www.fripta.com/0.0.0.0
 address=/www.friscco-pl.sbs/0.0.0.0
 address=/www.frisco-pl.top/0.0.0.0
 address=/www.frisco.bergfreunde.sbs/0.0.0.0
@@ -73504,6 +73511,7 @@ address=/www.funwithvegas.com/0.0.0.0
 address=/www.fuqecuzikohi.com/0.0.0.0
 address=/www.fur-and-feathers.com/0.0.0.0
 address=/www.furanpereg.rest/0.0.0.0
+address=/www.furcomics.com/0.0.0.0
 address=/www.furlapolska.com/0.0.0.0
 address=/www.furnaposte.rest/0.0.0.0
 address=/www.furnideals.shop/0.0.0.0
@@ -74544,6 +74552,7 @@ address=/www.hashing.win/0.0.0.0
 address=/www.hasmiksphotography.com/0.0.0.0
 address=/www.hastiincot.rest/0.0.0.0
 address=/www.hata.ero-advertising.com/0.0.0.0
+address=/www.hauloot.com/0.0.0.0
 address=/www.havaninvestai.com/0.0.0.0
 address=/www.hawasa.com/0.0.0.0
 address=/www.hawberry.org/0.0.0.0
@@ -89855,6 +89864,7 @@ address=/yourgascards.com/0.0.0.0
 address=/yourgiftrewards.com/0.0.0.0
 address=/yourgiftzone.com/0.0.0.0
 address=/yourgodess.com/0.0.0.0
+address=/yourhlth.ru.com/0.0.0.0
 address=/youripad4free.com/0.0.0.0
 address=/yourofficialsurveysplace.store/0.0.0.0
 address=/youronlinesoft.com/0.0.0.0

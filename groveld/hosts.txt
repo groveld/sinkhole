@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 90434
-# Updated: 2026-02-23 02:23:45 UTC
+# Entries: 90444
+# Updated: 2026-02-24 02:19:47 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24199,6 +24199,7 @@
 0.0.0.0 curatedstorefront.com
 0.0.0.0 curauk.com
 0.0.0.0 curbminers.com
+0.0.0.0 curejoint.sa.com
 0.0.0.0 curioloft.com
 0.0.0.0 curioprefi.rest
 0.0.0.0 curlutransfer.click
@@ -32453,6 +32454,7 @@
 0.0.0.0 gusion.space
 0.0.0.0 gustomagro.it
 0.0.0.0 gutando.com
+0.0.0.0 guthealth.sa.com
 0.0.0.0 guthyrenker.112.2o7.net
 0.0.0.0 guttersinsummerville.com
 0.0.0.0 gutturiurl.rest
@@ -35766,6 +35768,7 @@
 0.0.0.0 itoman.doorblog.jp
 0.0.0.0 itop.cz
 0.0.0.0 itpesthetique.pl
+0.0.0.0 itprfft.sa.com
 0.0.0.0 itpro.uk.intellitxt.com
 0.0.0.0 itrackerpro.com
 0.0.0.0 itransitionaz.com
@@ -71024,6 +71027,7 @@
 0.0.0.0 www.dietoll.com
 0.0.0.0 www.differentjmost.cfd
 0.0.0.0 www.diffscape.com
+0.0.0.0 www.diffuselec.com
 0.0.0.0 www.diffusionpub.com
 0.0.0.0 www.digertempe.rest
 0.0.0.0 www.digestpl.convertri.com
@@ -72894,6 +72898,7 @@
 0.0.0.0 www.finetorex-app.com
 0.0.0.0 www.finfocuspol.com
 0.0.0.0 www.fingercuffs.net
+0.0.0.0 www.fingertimer.com
 0.0.0.0 www.finhubio.com
 0.0.0.0 www.finishans.cyou
 0.0.0.0 www.finishsep.click
@@ -73094,6 +73099,7 @@
 0.0.0.0 www.fmcurling.org
 0.0.0.0 www.fmhcpbdswvdngbhn.top
 0.0.0.0 www.fmi-searching.info
+0.0.0.0 www.fmoviehd.com
 0.0.0.0 www.fnatfee.ero-advertising.com
 0.0.0.0 www.fncash.com
 0.0.0.0 www.fnh34faa.icu
@@ -73395,6 +73401,7 @@
 0.0.0.0 www.friendsforfortune.com
 0.0.0.0 www.friendslinks.com
 0.0.0.0 www.frimetalnox.com
+0.0.0.0 www.fripta.com
 0.0.0.0 www.friscco-pl.sbs
 0.0.0.0 www.frisco-pl.top
 0.0.0.0 www.frisco.bergfreunde.sbs
@@ -73504,6 +73511,7 @@
 0.0.0.0 www.fuqecuzikohi.com
 0.0.0.0 www.fur-and-feathers.com
 0.0.0.0 www.furanpereg.rest
+0.0.0.0 www.furcomics.com
 0.0.0.0 www.furlapolska.com
 0.0.0.0 www.furnaposte.rest
 0.0.0.0 www.furnideals.shop
@@ -74544,6 +74552,7 @@
 0.0.0.0 www.hasmiksphotography.com
 0.0.0.0 www.hastiincot.rest
 0.0.0.0 www.hata.ero-advertising.com
+0.0.0.0 www.hauloot.com
 0.0.0.0 www.havaninvestai.com
 0.0.0.0 www.hawasa.com
 0.0.0.0 www.hawberry.org
@@ -89855,6 +89864,7 @@
 0.0.0.0 yourgiftrewards.com
 0.0.0.0 yourgiftzone.com
 0.0.0.0 yourgodess.com
+0.0.0.0 yourhlth.ru.com
 0.0.0.0 youripad4free.com
 0.0.0.0 yourofficialsurveysplace.store
 0.0.0.0 youronlinesoft.com
