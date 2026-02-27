@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 91123
-// Updated: 2026-02-26 02:20:11 UTC
+// Entries: 91134
+// Updated: 2026-02-27 02:22:35 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47771,6 +47771,7 @@ var BLOCKLIST = {
 "playsataion.com":null,
 "playstar.co.pl":null,
 "playstatation.com":null,
+"playstogether.live":null,
 "playstream.co":null,
 "playteen.centralserver.net":null,
 "playtest-api.topaz-analytics.com":null,
@@ -54132,6 +54133,7 @@ var BLOCKLIST = {
 "signalfly.com":null,
 "signalhq.com":null,
 "signalsea.com":null,
+"signalszone.com":null,
 "signaturescubasales.com":null,
 "signemp.pl":null,
 "signipvbackupaddorgmarookame9qg.keybusinessconnection.com":null,
@@ -59148,6 +59150,7 @@ var BLOCKLIST = {
 "thevegandragon.net":null,
 "thevegandragon.org":null,
 "thevisaexperts.uk":null,
+"thewavebeats.com":null,
 "theweatherspace.com":null,
 "theweeklysun.com":null,
 "thewizardingworld.net":null,
@@ -70056,6 +70059,7 @@ var BLOCKLIST = {
 "www.cloudsoulv.info":null,
 "www.cloudtokenwallet.com":null,
 "www.cloudtracked.com":null,
+"www.cloudverge.uk":null,
 "www.cloudy-lab.com":null,
 "www.cloudzenv.info":null,
 "www.clovie.com":null,
@@ -78666,6 +78670,7 @@ var BLOCKLIST = {
 "www.mommybag.pl":null,
 "www.momoxxio.com":null,
 "www.mon-vaul-app.com":null,
+"www.moncasinoonline.com":null,
 "www.mondayblog.pl":null,
 "www.monetacore.website":null,
 "www.monetasecure.online":null,
@@ -81008,6 +81013,7 @@ var BLOCKLIST = {
 "www.pimpout.com":null,
 "www.pimrentcar.pl":null,
 "www.pinapple.pl":null,
+"www.pinbroksup.com":null,
 "www.pinetech.vn":null,
 "www.ping.ublock.org":null,
 "www.pingcloak.sbs":null,
@@ -81020,6 +81026,8 @@ var BLOCKLIST = {
 "www.pinkstar.pl":null,
 "www.pinnaclepolska.com":null,
 "www.pinpum.com":null,
+"www.pintransup.com":null,
+"www.pintravelup.com":null,
 "www.pinup-kaz-2025.top":null,
 "www.pinupspinup.com":null,
 "www.pioloc.top":null,
@@ -82307,6 +82315,7 @@ var BLOCKLIST = {
 "www.psychics-readings-for-free.com":null,
 "www.psychosandbox.com":null,
 "www.psycoded.net":null,
+"www.ptcasinoonline.com":null,
 "www.ptcpokerleague.com":null,
 "www.pteroalbum.rest":null,
 "www.ptp123.com":null,
@@ -85372,6 +85381,7 @@ var BLOCKLIST = {
 "www.stiffnetwork.com":null,
 "www.stiglnotri.rest":null,
 "www.stignriten.rest":null,
+"www.stihil.com":null,
 "www.stikkelvorst.top":null,
 "www.stillforestway.top":null,
 "www.stillholding.com":null,
@@ -85766,6 +85776,7 @@ var BLOCKLIST = {
 "www.swd-ramadan-gate.net":null,
 "www.sweatrinserepeat.com":null,
 "www.sweetcontrol.pro":null,
+"www.sweetdominique.com":null,
 "www.sweetenertraditions.com":null,
 "www.sweetgiftsensations.com":null,
 "www.sweetiesecrets.com":null,

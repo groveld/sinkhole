@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 91123
-# Updated: 2026-02-26 02:20:11 UTC
+# Entries: 91134
+# Updated: 2026-02-27 02:22:35 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47770,6 +47770,7 @@
 0.0.0.0 playsataion.com
 0.0.0.0 playstar.co.pl
 0.0.0.0 playstatation.com
+0.0.0.0 playstogether.live
 0.0.0.0 playstream.co
 0.0.0.0 playteen.centralserver.net
 0.0.0.0 playtest-api.topaz-analytics.com
@@ -54131,6 +54132,7 @@
 0.0.0.0 signalfly.com
 0.0.0.0 signalhq.com
 0.0.0.0 signalsea.com
+0.0.0.0 signalszone.com
 0.0.0.0 signaturescubasales.com
 0.0.0.0 signemp.pl
 0.0.0.0 signipvbackupaddorgmarookame9qg.keybusinessconnection.com
@@ -59147,6 +59149,7 @@
 0.0.0.0 thevegandragon.net
 0.0.0.0 thevegandragon.org
 0.0.0.0 thevisaexperts.uk
+0.0.0.0 thewavebeats.com
 0.0.0.0 theweatherspace.com
 0.0.0.0 theweeklysun.com
 0.0.0.0 thewizardingworld.net
@@ -70055,6 +70058,7 @@
 0.0.0.0 www.cloudsoulv.info
 0.0.0.0 www.cloudtokenwallet.com
 0.0.0.0 www.cloudtracked.com
+0.0.0.0 www.cloudverge.uk
 0.0.0.0 www.cloudy-lab.com
 0.0.0.0 www.cloudzenv.info
 0.0.0.0 www.clovie.com
@@ -78665,6 +78669,7 @@
 0.0.0.0 www.mommybag.pl
 0.0.0.0 www.momoxxio.com
 0.0.0.0 www.mon-vaul-app.com
+0.0.0.0 www.moncasinoonline.com
 0.0.0.0 www.mondayblog.pl
 0.0.0.0 www.monetacore.website
 0.0.0.0 www.monetasecure.online
@@ -81007,6 +81012,7 @@
 0.0.0.0 www.pimpout.com
 0.0.0.0 www.pimrentcar.pl
 0.0.0.0 www.pinapple.pl
+0.0.0.0 www.pinbroksup.com
 0.0.0.0 www.pinetech.vn
 0.0.0.0 www.ping.ublock.org
 0.0.0.0 www.pingcloak.sbs
@@ -81019,6 +81025,8 @@
 0.0.0.0 www.pinkstar.pl
 0.0.0.0 www.pinnaclepolska.com
 0.0.0.0 www.pinpum.com
+0.0.0.0 www.pintransup.com
+0.0.0.0 www.pintravelup.com
 0.0.0.0 www.pinup-kaz-2025.top
 0.0.0.0 www.pinupspinup.com
 0.0.0.0 www.pioloc.top
@@ -82306,6 +82314,7 @@
 0.0.0.0 www.psychics-readings-for-free.com
 0.0.0.0 www.psychosandbox.com
 0.0.0.0 www.psycoded.net
+0.0.0.0 www.ptcasinoonline.com
 0.0.0.0 www.ptcpokerleague.com
 0.0.0.0 www.pteroalbum.rest
 0.0.0.0 www.ptp123.com
@@ -85371,6 +85380,7 @@
 0.0.0.0 www.stiffnetwork.com
 0.0.0.0 www.stiglnotri.rest
 0.0.0.0 www.stignriten.rest
+0.0.0.0 www.stihil.com
 0.0.0.0 www.stikkelvorst.top
 0.0.0.0 www.stillforestway.top
 0.0.0.0 www.stillholding.com
@@ -85765,6 +85775,7 @@
 0.0.0.0 www.swd-ramadan-gate.net
 0.0.0.0 www.sweatrinserepeat.com
 0.0.0.0 www.sweetcontrol.pro
+0.0.0.0 www.sweetdominique.com
 0.0.0.0 www.sweetenertraditions.com
 0.0.0.0 www.sweetgiftsensations.com
 0.0.0.0 www.sweetiesecrets.com

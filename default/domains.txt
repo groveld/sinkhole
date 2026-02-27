@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 91120
-# Updated: 2026-02-26 01:30:49 UTC
+# Entries: 91132
+# Updated: 2026-02-27 01:33:12 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47769,6 +47769,7 @@ playrush.site
 playsataion.com
 playstar.co.pl
 playstatation.com
+playstogether.live
 playstream.co
 playteen.centralserver.net
 playtest-api.topaz-analytics.com
@@ -54130,6 +54131,7 @@ signalfield.org
 signalfly.com
 signalhq.com
 signalsea.com
+signalszone.com
 signaturescubasales.com
 signemp.pl
 signipvbackupaddorgmarookame9qg.keybusinessconnection.com
@@ -59146,6 +59148,7 @@ theuseful.net
 thevegandragon.net
 thevegandragon.org
 thevisaexperts.uk
+thewavebeats.com
 theweatherspace.com
 theweeklysun.com
 thewizardingworld.net
@@ -70054,6 +70057,7 @@ www.cloudsmagazine.com
 www.cloudsoulv.info
 www.cloudtokenwallet.com
 www.cloudtracked.com
+www.cloudverge.uk
 www.cloudy-lab.com
 www.cloudzenv.info
 www.clovie.com
@@ -78663,6 +78667,7 @@ www.mommaporn.com
 www.mommybag.pl
 www.momoxxio.com
 www.mon-vaul-app.com
+www.moncasinoonline.com
 www.mondayblog.pl
 www.monetacore.website
 www.monetasecure.online
@@ -81005,6 +81010,7 @@ www.pimelaidrigelic.com
 www.pimpout.com
 www.pimrentcar.pl
 www.pinapple.pl
+www.pinbroksup.com
 www.pinetech.vn
 www.ping.ublock.org
 www.pingcloak.sbs
@@ -81017,6 +81023,8 @@ www.pinkrminute.club
 www.pinkstar.pl
 www.pinnaclepolska.com
 www.pinpum.com
+www.pintransup.com
+www.pintravelup.com
 www.pinup-kaz-2025.top
 www.pinupspinup.com
 www.pioloc.top
@@ -82304,6 +82312,7 @@ www.pstats.com
 www.psychics-readings-for-free.com
 www.psychosandbox.com
 www.psycoded.net
+www.ptcasinoonline.com
 www.ptcpokerleague.com
 www.pteroalbum.rest
 www.ptp123.com
@@ -83087,6 +83096,7 @@ www.reqoitklass.berryanchor.com
 www.requatrott.rest
 www.rereddit.com
 www.rerevenue.pro
+www.rerminix.com
 www.res-x.com
 www.resarmondi.rest
 www.researcherskumquat.click
@@ -85368,6 +85378,7 @@ www.stickylogic.com
 www.stiffnetwork.com
 www.stiglnotri.rest
 www.stignriten.rest
+www.stihil.com
 www.stikkelvorst.top
 www.stillforestway.top
 www.stillholding.com
@@ -85762,6 +85773,7 @@ www.swarm-of-bees.net
 www.swd-ramadan-gate.net
 www.sweatrinserepeat.com
 www.sweetcontrol.pro
+www.sweetdominique.com
 www.sweetenertraditions.com
 www.sweetgiftsensations.com
 www.sweetiesecrets.com
