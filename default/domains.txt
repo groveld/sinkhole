@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 91132
-# Updated: 2026-02-27 01:33:12 UTC
+# Entries: 91139
+# Updated: 2026-02-28 01:27:56 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24289,6 +24289,7 @@ curbminers.com
 curejoint.sa.com
 curioloft.com
 curioprefi.rest
+curiousmetal.com
 curlutransfer.click
 currency.prebid.org
 currentaffairsjournal.com
@@ -38757,6 +38758,7 @@ lockmodi.cyou
 locksam.plastrocraft.com
 locksexternal.cfd
 locofey.com
+locolava.com
 locp-ir.viber.com
 lodeo-adnw.adtdp.com
 loessaledrouk.site
@@ -43096,6 +43098,7 @@ news6health.com
 newsadsppush.com
 newsagencyhub.com
 newsaroundtheglobe.com
+newsbotnet.com
 newsclic.ivwbox.de
 newscorp.grapeshot.co.uk
 newscurrent.info
@@ -60768,6 +60771,7 @@ trk.klclick1.com
 trk.na.patagonia.com
 trk.parrable.com
 trk.pinterest.com
+trk.sayerfinancial.com
 trk.securesmrt-dt.com
 trk.socialdemokrat.info
 trk.staging.123c.vn
@@ -64659,6 +64663,7 @@ worldnowboston.112.2o7.net
 worldpeopleforum.org
 worldprize.pl
 worldproperty21.com
+worldrealize.com
 worldsearchpro.com
 worldsite.ws
 worldsoftwaredownloads.com
@@ -89116,6 +89121,7 @@ www.xtoumuurbbstojoab.com
 www.xtrafic.ro
 www.xtran.cfd
 www.xtrazex.info
+www.xtremetechcr.com
 www.xtroglobal.com
 www.xtuneb.lat
 www.xuanwu.design
@@ -89305,6 +89311,7 @@ www.ypmadserver.com
 www.ypmate.com
 www.ypo54.you2.pl
 www.yrals.com
+www.yreta.com
 www.yrpgh.com
 www.ysbweb.com
 www.ysozef.com

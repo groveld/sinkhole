@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 91132
-# Updated: 2026-02-27 01:33:12 UTC
+# Entries: 91139
+# Updated: 2026-02-28 01:27:56 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24289,6 +24289,7 @@
 0.0.0.0 curejoint.sa.com
 0.0.0.0 curioloft.com
 0.0.0.0 curioprefi.rest
+0.0.0.0 curiousmetal.com
 0.0.0.0 curlutransfer.click
 0.0.0.0 currency.prebid.org
 0.0.0.0 currentaffairsjournal.com
@@ -38757,6 +38758,7 @@
 0.0.0.0 locksam.plastrocraft.com
 0.0.0.0 locksexternal.cfd
 0.0.0.0 locofey.com
+0.0.0.0 locolava.com
 0.0.0.0 locp-ir.viber.com
 0.0.0.0 lodeo-adnw.adtdp.com
 0.0.0.0 loessaledrouk.site
@@ -43096,6 +43098,7 @@
 0.0.0.0 newsadsppush.com
 0.0.0.0 newsagencyhub.com
 0.0.0.0 newsaroundtheglobe.com
+0.0.0.0 newsbotnet.com
 0.0.0.0 newsclic.ivwbox.de
 0.0.0.0 newscorp.grapeshot.co.uk
 0.0.0.0 newscurrent.info
@@ -60768,6 +60771,7 @@
 0.0.0.0 trk.na.patagonia.com
 0.0.0.0 trk.parrable.com
 0.0.0.0 trk.pinterest.com
+0.0.0.0 trk.sayerfinancial.com
 0.0.0.0 trk.securesmrt-dt.com
 0.0.0.0 trk.socialdemokrat.info
 0.0.0.0 trk.staging.123c.vn
@@ -64659,6 +64663,7 @@
 0.0.0.0 worldpeopleforum.org
 0.0.0.0 worldprize.pl
 0.0.0.0 worldproperty21.com
+0.0.0.0 worldrealize.com
 0.0.0.0 worldsearchpro.com
 0.0.0.0 worldsite.ws
 0.0.0.0 worldsoftwaredownloads.com
@@ -89116,6 +89121,7 @@
 0.0.0.0 www.xtrafic.ro
 0.0.0.0 www.xtran.cfd
 0.0.0.0 www.xtrazex.info
+0.0.0.0 www.xtremetechcr.com
 0.0.0.0 www.xtroglobal.com
 0.0.0.0 www.xtuneb.lat
 0.0.0.0 www.xuanwu.design
@@ -89305,6 +89311,7 @@
 0.0.0.0 www.ypmate.com
 0.0.0.0 www.ypo54.you2.pl
 0.0.0.0 www.yrals.com
+0.0.0.0 www.yreta.com
 0.0.0.0 www.yrpgh.com
 0.0.0.0 www.ysbweb.com
 0.0.0.0 www.ysozef.com

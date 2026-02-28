@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 91134
-// Updated: 2026-02-27 02:22:35 UTC
+// Entries: 91145
+// Updated: 2026-02-28 02:17:18 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24290,6 +24290,7 @@ var BLOCKLIST = {
 "curejoint.sa.com":null,
 "curioloft.com":null,
 "curioprefi.rest":null,
+"curiousmetal.com":null,
 "curlutransfer.click":null,
 "currency.prebid.org":null,
 "currentaffairsjournal.com":null,
@@ -38759,6 +38760,7 @@ var BLOCKLIST = {
 "locksam.plastrocraft.com":null,
 "locksexternal.cfd":null,
 "locofey.com":null,
+"locolava.com":null,
 "locp-ir.viber.com":null,
 "lodeo-adnw.adtdp.com":null,
 "loessaledrouk.site":null,
@@ -43098,6 +43100,7 @@ var BLOCKLIST = {
 "newsadsppush.com":null,
 "newsagencyhub.com":null,
 "newsaroundtheglobe.com":null,
+"newsbotnet.com":null,
 "newsclic.ivwbox.de":null,
 "newscorp.grapeshot.co.uk":null,
 "newscurrent.info":null,
@@ -60770,6 +60773,7 @@ var BLOCKLIST = {
 "trk.na.patagonia.com":null,
 "trk.parrable.com":null,
 "trk.pinterest.com":null,
+"trk.sayerfinancial.com":null,
 "trk.securesmrt-dt.com":null,
 "trk.socialdemokrat.info":null,
 "trk.staging.123c.vn":null,
@@ -64661,6 +64665,7 @@ var BLOCKLIST = {
 "worldpeopleforum.org":null,
 "worldprize.pl":null,
 "worldproperty21.com":null,
+"worldrealize.com":null,
 "worldsearchpro.com":null,
 "worldsite.ws":null,
 "worldsoftwaredownloads.com":null,
@@ -74364,6 +74369,7 @@ var BLOCKLIST = {
 "www.gigdnetwork.com":null,
 "www.gigimiss.com":null,
 "www.gikon.pl":null,
+"www.gildedrosens.name":null,
 "www.gillian-adams.com":null,
 "www.gilmarqueiroz.com":null,
 "www.gilvision.com":null,
@@ -75625,6 +75631,7 @@ var BLOCKLIST = {
 "www.ictstudents.help":null,
 "www.icu-lab.org":null,
 "www.icust.org":null,
+"www.icyhivemy.name":null,
 "www.icysoak.com":null,
 "www.id-mortgage.net":null,
 "www.id373-822.space":null,
@@ -78280,6 +78287,7 @@ var BLOCKLIST = {
 "www.mediaexpert.xinzhq.com":null,
 "www.mediafile.pl":null,
 "www.mediahighway.net":null,
+"www.mediamindpolska.com":null,
 "www.mediaplex.com":null,
 "www.mediareps.com":null,
 "www.mediaswitch.nl":null,
@@ -84664,6 +84672,7 @@ var BLOCKLIST = {
 "www.smmhema.store":null,
 "www.smocchvzo.rest":null,
 "www.smokersopinionpoll.com":null,
+"www.smokyshadecj.name":null,
 "www.smoothgesturesapp.com":null,
 "www.smoothiev.live":null,
 "www.smoothswi.digital":null,
@@ -89119,6 +89128,7 @@ var BLOCKLIST = {
 "www.xtrafic.ro":null,
 "www.xtran.cfd":null,
 "www.xtrazex.info":null,
+"www.xtremetechcr.com":null,
 "www.xtroglobal.com":null,
 "www.xtuneb.lat":null,
 "www.xuanwu.design":null,
@@ -89308,6 +89318,7 @@ var BLOCKLIST = {
 "www.ypmate.com":null,
 "www.ypo54.you2.pl":null,
 "www.yrals.com":null,
+"www.yreta.com":null,
 "www.yrpgh.com":null,
 "www.ysbweb.com":null,
 "www.ysozef.com":null,

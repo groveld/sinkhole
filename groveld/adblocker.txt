@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 91134
-! Updated: 2026-02-27 02:22:35 UTC
+! Entries: 91145
+! Updated: 2026-02-28 02:17:18 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24289,6 +24289,7 @@
 ||curejoint.sa.com^
 ||curioloft.com^
 ||curioprefi.rest^
+||curiousmetal.com^
 ||curlutransfer.click^
 ||currency.prebid.org^
 ||currentaffairsjournal.com^
@@ -38758,6 +38759,7 @@
 ||locksam.plastrocraft.com^
 ||locksexternal.cfd^
 ||locofey.com^
+||locolava.com^
 ||locp-ir.viber.com^
 ||lodeo-adnw.adtdp.com^
 ||loessaledrouk.site^
@@ -43097,6 +43099,7 @@
 ||newsadsppush.com^
 ||newsagencyhub.com^
 ||newsaroundtheglobe.com^
+||newsbotnet.com^
 ||newsclic.ivwbox.de^
 ||newscorp.grapeshot.co.uk^
 ||newscurrent.info^
@@ -60769,6 +60772,7 @@
 ||trk.na.patagonia.com^
 ||trk.parrable.com^
 ||trk.pinterest.com^
+||trk.sayerfinancial.com^
 ||trk.securesmrt-dt.com^
 ||trk.socialdemokrat.info^
 ||trk.staging.123c.vn^
@@ -64660,6 +64664,7 @@
 ||worldpeopleforum.org^
 ||worldprize.pl^
 ||worldproperty21.com^
+||worldrealize.com^
 ||worldsearchpro.com^
 ||worldsite.ws^
 ||worldsoftwaredownloads.com^
@@ -74363,6 +74368,7 @@
 ||www.gigdnetwork.com^
 ||www.gigimiss.com^
 ||www.gikon.pl^
+||www.gildedrosens.name^
 ||www.gillian-adams.com^
 ||www.gilmarqueiroz.com^
 ||www.gilvision.com^
@@ -75624,6 +75630,7 @@
 ||www.ictstudents.help^
 ||www.icu-lab.org^
 ||www.icust.org^
+||www.icyhivemy.name^
 ||www.icysoak.com^
 ||www.id-mortgage.net^
 ||www.id373-822.space^
@@ -78279,6 +78286,7 @@
 ||www.mediaexpert.xinzhq.com^
 ||www.mediafile.pl^
 ||www.mediahighway.net^
+||www.mediamindpolska.com^
 ||www.mediaplex.com^
 ||www.mediareps.com^
 ||www.mediaswitch.nl^
@@ -84663,6 +84671,7 @@
 ||www.smmhema.store^
 ||www.smocchvzo.rest^
 ||www.smokersopinionpoll.com^
+||www.smokyshadecj.name^
 ||www.smoothgesturesapp.com^
 ||www.smoothiev.live^
 ||www.smoothswi.digital^
@@ -89118,6 +89127,7 @@
 ||www.xtrafic.ro^
 ||www.xtran.cfd^
 ||www.xtrazex.info^
+||www.xtremetechcr.com^
 ||www.xtroglobal.com^
 ||www.xtuneb.lat^
 ||www.xuanwu.design^
@@ -89307,6 +89317,7 @@
 ||www.ypmate.com^
 ||www.ypo54.you2.pl^
 ||www.yrals.com^
+||www.yreta.com^
 ||www.yrpgh.com^
 ||www.ysbweb.com^
 ||www.ysozef.com^
