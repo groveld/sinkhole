@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 89855
-# Updated: 2026-03-01 02:29:03 UTC
+# Entries: 89856
+# Updated: 2026-03-02 02:22:49 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56661,6 +56661,7 @@
 0.0.0.0 strongfiction.net
 0.0.0.0 strongmencare.store
 0.0.0.0 stronseget.rest
+0.0.0.0 strrget.za.com
 0.0.0.0 strtrk.adacado.com
 0.0.0.0 stru0s.org
 0.0.0.0 strubcompe.rest
