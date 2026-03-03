@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 89854
-# Updated: 2026-03-02 01:33:26 UTC
+# Entries: 89879
+# Updated: 2026-03-03 01:33:47 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11385,6 +11385,7 @@
 0.0.0.0 affbuzzads.com
 0.0.0.0 affdir.top
 0.0.0.0 affec.tv
+0.0.0.0 affectionknit.com
 0.0.0.0 affelix.com
 0.0.0.0 affeurope.com
 0.0.0.0 affiarecut.rest
@@ -29052,6 +29053,7 @@
 0.0.0.0 fedex-rescheduel-delivery-date.com
 0.0.0.0 fedex.demdex.net
 0.0.0.0 fedgroceryrebate.com
+0.0.0.0 fedi.6751242.cc
 0.0.0.0 fedpest.net
 0.0.0.0 fedup.tv
 0.0.0.0 fee-hydrocodone.bebto.com
@@ -33051,6 +33053,7 @@
 0.0.0.0 homeandmarker.eu
 0.0.0.0 homeandsafe.net
 0.0.0.0 homearena.pl
+0.0.0.0 homecaremovers-com-wp-admin-img-wp-ico.appwrite.network
 0.0.0.0 homecaremovers.com
 0.0.0.0 homedepot.tt.omtrdc.net
 0.0.0.0 homedepoy.com
@@ -39328,6 +39331,7 @@
 0.0.0.0 maillots-ffoot-actu.fr
 0.0.0.0 mailmetromedia.amp.permutive.com
 0.0.0.0 mailofficeinc.info
+0.0.0.0 mailofficeonline.shop
 0.0.0.0 mailonline-d.openx.net
 0.0.0.0 mailpop.pickoftheweb.com
 0.0.0.0 mailserver.ccsnetwork.cn
@@ -41594,6 +41598,7 @@
 0.0.0.0 mswindowswolglobal.112.2o7.net
 0.0.0.0 mswlspcmktdev.112.2o7.net
 0.0.0.0 mswmwpapolloprod.122.2o7.net
+0.0.0.0 msx.lumena.cfd
 0.0.0.0 mszalive.pl
 0.0.0.0 mt.5.p2l.info
 0.0.0.0 mt.adquality.ch
@@ -42637,6 +42642,7 @@
 0.0.0.0 next-channel.xyz
 0.0.0.0 next-layers.com
 0.0.0.0 next.lenzmx.com
+0.0.0.0 nextbitcorp.com
 0.0.0.0 nextclick.pl
 0.0.0.0 nextdigitalapps.com
 0.0.0.0 nextel-ringtone.spb.su
@@ -43717,6 +43723,7 @@
 0.0.0.0 occupspulc.rest
 0.0.0.0 ocd.yodo1api.com
 0.0.0.0 ocdn.adsterra.com
+0.0.0.0 oceancloudhosts.com
 0.0.0.0 oceaninnmexico.com
 0.0.0.0 oceanup.us.intellitxt.com
 0.0.0.0 oceniam.to
@@ -47966,6 +47973,7 @@
 0.0.0.0 pricebandit.com
 0.0.0.0 priceypies.com
 0.0.0.0 pricklydebt.com
+0.0.0.0 prideproms.com
 0.0.0.0 pridesource.advertserve.com
 0.0.0.0 priestandprof.com
 0.0.0.0 priiceline.com
@@ -48898,6 +48906,7 @@
 0.0.0.0 pv4u.com
 0.0.0.0 pvcolorizedstories.com
 0.0.0.0 pvsa.gxfugy.cn
+0.0.0.0 pvt2202--deab86120ff311f1b0c142dde27851f2.web.val.run
 0.0.0.0 pw.analytics.console.aws.a2z.com
 0.0.0.0 pw.cnzz.com
 0.0.0.0 pwdplz.com
@@ -53566,6 +53575,7 @@
 0.0.0.0 sifomedia.citypaketet.se
 0.0.0.0 sifomedia.idg.se
 0.0.0.0 sift-campaign-creatives.sift.co
+0.0.0.0 sig.tecnologicosucre.edu.ec
 0.0.0.0 siggiewi.org
 0.0.0.0 sightsbreeze.ararobotique.com
 0.0.0.0 sigil.outwar.com
@@ -65969,6 +65979,7 @@
 0.0.0.0 www.aeptelcomsafety.com
 0.0.0.0 www.aeqs.com
 0.0.0.0 www.aero-source.net
+0.0.0.0 www.aerodriftcore.uk
 0.0.0.0 www.aerogear.info
 0.0.0.0 www.aeronautica.gob.pa
 0.0.0.0 www.aerreravasi.com
@@ -71567,6 +71578,7 @@
 0.0.0.0 www.energeticcorridor.cfd
 0.0.0.0 www.energia-invion.com
 0.0.0.0 www.energiainvion-pl.net
+0.0.0.0 www.energiazoque.com
 0.0.0.0 www.energy-victory.com
 0.0.0.0 www.energyfcrystal.cyou
 0.0.0.0 www.energyinfo.pro
@@ -77700,6 +77712,7 @@
 0.0.0.0 www.myeforsa.pl
 0.0.0.0 www.myexclusiverewards.com
 0.0.0.0 www.myexotel.com
+0.0.0.0 www.myfavcouponstore.com
 0.0.0.0 www.myflightprediction.com
 0.0.0.0 www.myfreedinner.com
 0.0.0.0 www.myfreegifts.co.uk
@@ -79382,6 +79395,7 @@
 0.0.0.0 www.painhexsdomain.com
 0.0.0.0 www.painolympics.info
 0.0.0.0 www.painolympics.org
+0.0.0.0 www.paintballpins.com
 0.0.0.0 www.paintersvault.com
 0.0.0.0 www.paintfxg.com
 0.0.0.0 www.paintnet.es
@@ -79849,6 +79863,7 @@
 0.0.0.0 www.pintransup.com
 0.0.0.0 www.pintravelup.com
 0.0.0.0 www.pinup-kaz-2025.top
+0.0.0.0 www.pinuperblog.com
 0.0.0.0 www.pinupspinup.com
 0.0.0.0 www.pioloc.top
 0.0.0.0 www.piosenkanaszkle.pl
@@ -80375,6 +80390,7 @@
 0.0.0.0 www.play.leadzu.com
 0.0.0.0 www.playamo.com
 0.0.0.0 www.playamo30.com
+0.0.0.0 www.playbestnet.com
 0.0.0.0 www.playboy-pl.com
 0.0.0.0 www.player-cda.pl
 0.0.0.0 www.playerassist.com
@@ -80394,6 +80410,7 @@
 0.0.0.0 www.playproz.com
 0.0.0.0 www.playqwe.com
 0.0.0.0 www.playroomquest.com
+0.0.0.0 www.playroyaluk.com
 0.0.0.0 www.playsataion.com
 0.0.0.0 www.playstar.co.pl
 0.0.0.0 www.playstatation.com
@@ -82151,6 +82168,7 @@
 0.0.0.0 www.rmwbmgejufobfvg.com
 0.0.0.0 www.rmwtepymtgwdpqn.com
 0.0.0.0 www.rncig.doctortrf.com
+0.0.0.0 www.rnodernssolution.com
 0.0.0.0 www.rnzimebexzjmzsiwco.top
 0.0.0.0 www.roadgomer.com
 0.0.0.0 www.roadhpassage.best
@@ -83570,6 +83588,7 @@
 0.0.0.0 www.snowdepth.us
 0.0.0.0 www.snowengi.best
 0.0.0.0 www.sntdwphnbtrvzfxz.top
+0.0.0.0 www.snurrlyspin.com
 0.0.0.0 www.soaklabs.net
 0.0.0.0 www.soaries.com
 0.0.0.0 www.soberportal.com
@@ -84246,6 +84265,7 @@
 0.0.0.0 www.stormdneon.click
 0.0.0.0 www.stormfel.pro
 0.0.0.0 www.stormgain.com
+0.0.0.0 www.stormhelix.uk
 0.0.0.0 www.stormiptv.org
 0.0.0.0 www.stortpsychotherapy.com
 0.0.0.0 www.storygize.net
@@ -85221,6 +85241,7 @@
 0.0.0.0 www.thinvent.casa
 0.0.0.0 www.thirdcoastreef.com
 0.0.0.0 www.thisisclicksecured.page.link
+0.0.0.0 www.thisplanet.net
 0.0.0.0 www.thistlehurstty.top
 0.0.0.0 www.thoeretica.net
 0.0.0.0 www.thomandestore.com
@@ -85351,6 +85372,7 @@
 0.0.0.0 www.tndevelopers.net
 0.0.0.0 www.tngidnspuxi.today
 0.0.0.0 www.tns-counter.ru
+0.0.0.0 www.tntadfacts.com
 0.0.0.0 www.tntskyview.us
 0.0.0.0 www.tocchvolpe.rest
 0.0.0.0 www.todayspennystocks.com
@@ -85519,6 +85541,7 @@
 0.0.0.0 www.towarzyskizamosc.pl
 0.0.0.0 www.towing.cloud
 0.0.0.0 www.townhousefilms.com
+0.0.0.0 www.toysmetaverse.com
 0.0.0.0 www.tpc.hu
 0.0.0.0 www.tpectrafear.info
 0.0.0.0 www.tpectrawerq.info
@@ -87057,6 +87080,7 @@
 0.0.0.0 www.warjammer.com
 0.0.0.0 www.warmhost.com
 0.0.0.0 www.warosprawdzic.is-best.net
+0.0.0.0 www.warrenmovers.net
 0.0.0.0 www.warsawsneakers.pl
 0.0.0.0 www.wartomiec.pl
 0.0.0.0 www.wasalpay.com
@@ -89073,6 +89097,7 @@
 0.0.0.0 yairnaveh.com
 0.0.0.0 yakuntessa.top
 0.0.0.0 yallpod.com
+0.0.0.0 yama.myfixhub.cfd
 0.0.0.0 yamaha.122.2o7.net
 0.0.0.0 yandexadexchange.net
 0.0.0.0 yandexmetrica.com
