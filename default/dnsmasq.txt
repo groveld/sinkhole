@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 89879
-# Updated: 2026-03-03 01:33:47 UTC
+# Entries: 89888
+# Updated: 2026-03-04 01:31:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -52730,6 +52730,7 @@ address=/security-lastpass.digital/0.0.0.0
 address=/security-update.ddns.info/0.0.0.0
 address=/security-update.ocry.com/0.0.0.0
 address=/security-update.qhigh.com/0.0.0.0
+address=/security.schwab-5.click/0.0.0.0
 address=/security60-e.com/0.0.0.0
 address=/securitybrief.us/0.0.0.0
 address=/securityfinds.com/0.0.0.0
@@ -67395,6 +67396,7 @@ address=/www.bcoraglufaw.pro/0.0.0.0
 address=/www.bcrea.sbs/0.0.0.0
 address=/www.bcsefubizis.pro/0.0.0.0
 address=/www.bcservice.it/0.0.0.0
+address=/www.bcwars.net/0.0.0.0
 address=/www.bd20aef4.flyjasper.ca/0.0.0.0
 address=/www.bde3d.com/0.0.0.0
 address=/www.bdjfehusi.shop/0.0.0.0
@@ -69645,6 +69647,7 @@ address=/www.corexopty.top/0.0.0.0
 address=/www.corextupor.pro/0.0.0.0
 address=/www.corezone.pl/0.0.0.0
 address=/www.corgui.com/0.0.0.0
+address=/www.corlythra.uk/0.0.0.0
 address=/www.cornerchopped.bond/0.0.0.0
 address=/www.cornermedia.net/0.0.0.0
 address=/www.corneroftruth.com/0.0.0.0
@@ -71437,6 +71440,7 @@ address=/www.el-mundonews.live/0.0.0.0
 address=/www.el23xd.webwave.dev/0.0.0.0
 address=/www.ela-warszawa.com/0.0.0.0
 address=/www.elaanat.com/0.0.0.0
+address=/www.elanactivewear.com/0.0.0.0
 address=/www.elararhea.com/0.0.0.0
 address=/www.elaststanz.rest/0.0.0.0
 address=/www.elc.tomsk.ru/0.0.0.0
@@ -75841,6 +75845,7 @@ address=/www.kittayaroyalbeauty.com/0.0.0.0
 address=/www.kivaruo.com/0.0.0.0
 address=/www.kiwanis.xyz/0.0.0.0
 address=/www.kiwialpha.com/0.0.0.0
+address=/www.kiwicares.com/0.0.0.0
 address=/www.kixer.com/0.0.0.0
 address=/www.kizukoxusoxvs.pro/0.0.0.0
 address=/www.kjbbc.net/0.0.0.0
@@ -76128,6 +76133,7 @@ address=/www.lambdaninja.com/0.0.0.0
 address=/www.lamejorserie.com/0.0.0.0
 address=/www.lamorita.mx/0.0.0.0
 address=/www.lamuralla.mx/0.0.0.0
+address=/www.lanaita.com/0.0.0.0
 address=/www.lanceimovel.com/0.0.0.0
 address=/www.lanck.info/0.0.0.0
 address=/www.landaoyq.com/0.0.0.0
@@ -76641,6 +76647,7 @@ address=/www.lockfoto.com/0.0.0.0
 address=/www.lockmodi.cyou/0.0.0.0
 address=/www.locksam.plastrocraft.com/0.0.0.0
 address=/www.locksexternal.cfd/0.0.0.0
+address=/www.lockupouseburn.com/0.0.0.0
 address=/www.locofey.com/0.0.0.0
 address=/www.lodgepoleless.top/0.0.0.0
 address=/www.loessaledrouk.site/0.0.0.0
@@ -78771,6 +78778,7 @@ address=/www.oleksy.net.pl/0.0.0.0
 address=/www.olesnopulsefm.goryculture.digital/0.0.0.0
 address=/www.oletipmegroup.com/0.0.0.0
 address=/www.oletravelhub.com/0.0.0.0
+address=/www.olimpgokart.com/0.0.0.0
 address=/www.olioeroli.it/0.0.0.0
 address=/www.olisoftcr.net/0.0.0.0
 address=/www.olivatrium.info/0.0.0.0
@@ -86350,6 +86358,7 @@ address=/www.vd5a0.com/0.0.0.0
 address=/www.vdh-leerdam.com/0.0.0.0
 address=/www.vdhu.com/0.0.0.0
 address=/www.vdreamscapes.com/0.0.0.0
+address=/www.vebprostopinup.com/0.0.0.0
 address=/www.vecchrefic.rest/0.0.0.0
 address=/www.vechnoplast.info/0.0.0.0
 address=/www.veclaim.com/0.0.0.0

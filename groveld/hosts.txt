@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 89881
-# Updated: 2026-03-03 02:23:10 UTC
+# Entries: 89890
+# Updated: 2026-03-04 02:20:55 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -52731,6 +52731,7 @@
 0.0.0.0 security-update.ddns.info
 0.0.0.0 security-update.ocry.com
 0.0.0.0 security-update.qhigh.com
+0.0.0.0 security.schwab-5.click
 0.0.0.0 security60-e.com
 0.0.0.0 securitybrief.us
 0.0.0.0 securityfinds.com
@@ -67396,6 +67397,7 @@
 0.0.0.0 www.bcrea.sbs
 0.0.0.0 www.bcsefubizis.pro
 0.0.0.0 www.bcservice.it
+0.0.0.0 www.bcwars.net
 0.0.0.0 www.bd20aef4.flyjasper.ca
 0.0.0.0 www.bde3d.com
 0.0.0.0 www.bdjfehusi.shop
@@ -69646,6 +69648,7 @@
 0.0.0.0 www.corextupor.pro
 0.0.0.0 www.corezone.pl
 0.0.0.0 www.corgui.com
+0.0.0.0 www.corlythra.uk
 0.0.0.0 www.cornerchopped.bond
 0.0.0.0 www.cornermedia.net
 0.0.0.0 www.corneroftruth.com
@@ -71438,6 +71441,7 @@
 0.0.0.0 www.el23xd.webwave.dev
 0.0.0.0 www.ela-warszawa.com
 0.0.0.0 www.elaanat.com
+0.0.0.0 www.elanactivewear.com
 0.0.0.0 www.elararhea.com
 0.0.0.0 www.elaststanz.rest
 0.0.0.0 www.elc.tomsk.ru
@@ -75843,6 +75847,7 @@
 0.0.0.0 www.kivaruo.com
 0.0.0.0 www.kiwanis.xyz
 0.0.0.0 www.kiwialpha.com
+0.0.0.0 www.kiwicares.com
 0.0.0.0 www.kixer.com
 0.0.0.0 www.kizukoxusoxvs.pro
 0.0.0.0 www.kjbbc.net
@@ -76130,6 +76135,7 @@
 0.0.0.0 www.lamejorserie.com
 0.0.0.0 www.lamorita.mx
 0.0.0.0 www.lamuralla.mx
+0.0.0.0 www.lanaita.com
 0.0.0.0 www.lanceimovel.com
 0.0.0.0 www.lanck.info
 0.0.0.0 www.landaoyq.com
@@ -76643,6 +76649,7 @@
 0.0.0.0 www.lockmodi.cyou
 0.0.0.0 www.locksam.plastrocraft.com
 0.0.0.0 www.locksexternal.cfd
+0.0.0.0 www.lockupouseburn.com
 0.0.0.0 www.locofey.com
 0.0.0.0 www.lodgepoleless.top
 0.0.0.0 www.loessaledrouk.site
@@ -78773,6 +78780,7 @@
 0.0.0.0 www.olesnopulsefm.goryculture.digital
 0.0.0.0 www.oletipmegroup.com
 0.0.0.0 www.oletravelhub.com
+0.0.0.0 www.olimpgokart.com
 0.0.0.0 www.olioeroli.it
 0.0.0.0 www.olisoftcr.net
 0.0.0.0 www.olivatrium.info
@@ -86352,6 +86360,7 @@
 0.0.0.0 www.vdh-leerdam.com
 0.0.0.0 www.vdhu.com
 0.0.0.0 www.vdreamscapes.com
+0.0.0.0 www.vebprostopinup.com
 0.0.0.0 www.vecchrefic.rest
 0.0.0.0 www.vechnoplast.info
 0.0.0.0 www.veclaim.com
