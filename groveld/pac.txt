@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 89890
-// Updated: 2026-03-04 02:20:55 UTC
+// Entries: 89898
+// Updated: 2026-03-05 02:22:59 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19872,6 +19872,7 @@ var BLOCKLIST = {
 "carrotiiatm.com":null,
 "cars-to-buy.com":null,
 "cars.ign.us.intellitxt.com":null,
+"carsarace.com":null,
 "carsfreaks.pl":null,
 "carteradam.shop":null,
 "cartereaston.shop":null,
@@ -40846,6 +40847,7 @@ var BLOCKLIST = {
 "minr.pw":null,
 "mint-star.pl":null,
 "mintegral.com":null,
+"mintfunnel.co":null,
 "mintj.com":null,
 "mintjacobs.net":null,
 "mintrace.com":null,
@@ -74056,6 +74058,7 @@ var BLOCKLIST = {
 "www.helptwu.odspecs.com":null,
 "www.helrantaholm.net":null,
 "www.helvax.cfd":null,
+"www.helvora.help":null,
 "www.hemandezjaxon.shop":null,
 "www.hematinsed.rest":null,
 "www.hemopovipa.rest":null,
@@ -75361,6 +75364,7 @@ var BLOCKLIST = {
 "www.jettyworks.online":null,
 "www.jeunesseglobal.com":null,
 "www.jeuxfortuna.com":null,
+"www.jeuxjackpotcasino.com":null,
 "www.jewelryappraisalguide.com":null,
 "www.jewelryprince.com":null,
 "www.jewmore.today":null,
@@ -76034,6 +76038,7 @@ var BLOCKLIST = {
 "www.kryptokram.com":null,
 "www.kryptono.exchange":null,
 "www.kryptoportal.pl":null,
+"www.kryzantor.uk":null,
 "www.kshootingsports.com":null,
 "www.ksiazka-telefoniczna-online.pl":null,
 "www.ksiazkatunele.pl":null,
@@ -77595,6 +77600,7 @@ var BLOCKLIST = {
 "www.morsidecer.rest":null,
 "www.morsinhostig.com":null,
 "www.mortonvale.org":null,
+"www.morvalent.uk":null,
 "www.morxa.xyz":null,
 "www.moscovium.aaaplusgifts.top":null,
 "www.mossview.rubyonrock.com":null,
@@ -84872,6 +84878,7 @@ var BLOCKLIST = {
 "www.tastyyfx.com":null,
 "www.taswaroionftz.pro":null,
 "www.tatromaniak.com.pl":null,
+"www.tattnexa.tattoo":null,
 "www.tattooshaha.info":null,
 "www.tauripoohe.rest":null,
 "www.tavelscape.com":null,
@@ -87347,6 +87354,7 @@ var BLOCKLIST = {
 "www.whirlsedit.sbs":null,
 "www.whiskeywealthclub.com":null,
 "www.whisperchannel-demo.com":null,
+"www.white-dock.net":null,
 "www.whiteaccess.skylandobservatory.de":null,
 "www.whitefeatherenterprises.us":null,
 "www.whitefeednewstophub.com":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 89888
-# Updated: 2026-03-04 01:31:28 UTC
+# Entries: 89896
+# Updated: 2026-03-05 01:33:33 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19871,6 +19871,7 @@
 0.0.0.0 carrotiiatm.com
 0.0.0.0 cars-to-buy.com
 0.0.0.0 cars.ign.us.intellitxt.com
+0.0.0.0 carsarace.com
 0.0.0.0 carsfreaks.pl
 0.0.0.0 carteradam.shop
 0.0.0.0 cartereaston.shop
@@ -40844,6 +40845,7 @@
 0.0.0.0 minr.pw
 0.0.0.0 mint-star.pl
 0.0.0.0 mintegral.com
+0.0.0.0 mintfunnel.co
 0.0.0.0 mintj.com
 0.0.0.0 mintjacobs.net
 0.0.0.0 mintrace.com
@@ -74053,6 +74055,7 @@
 0.0.0.0 www.helptwu.odspecs.com
 0.0.0.0 www.helrantaholm.net
 0.0.0.0 www.helvax.cfd
+0.0.0.0 www.helvora.help
 0.0.0.0 www.hemandezjaxon.shop
 0.0.0.0 www.hematinsed.rest
 0.0.0.0 www.hemopovipa.rest
@@ -75358,6 +75361,7 @@
 0.0.0.0 www.jettyworks.online
 0.0.0.0 www.jeunesseglobal.com
 0.0.0.0 www.jeuxfortuna.com
+0.0.0.0 www.jeuxjackpotcasino.com
 0.0.0.0 www.jewelryappraisalguide.com
 0.0.0.0 www.jewelryprince.com
 0.0.0.0 www.jewmore.today
@@ -76031,6 +76035,7 @@
 0.0.0.0 www.kryptokram.com
 0.0.0.0 www.kryptono.exchange
 0.0.0.0 www.kryptoportal.pl
+0.0.0.0 www.kryzantor.uk
 0.0.0.0 www.kshootingsports.com
 0.0.0.0 www.ksiazka-telefoniczna-online.pl
 0.0.0.0 www.ksiazkatunele.pl
@@ -77592,6 +77597,7 @@
 0.0.0.0 www.morsidecer.rest
 0.0.0.0 www.morsinhostig.com
 0.0.0.0 www.mortonvale.org
+0.0.0.0 www.morvalent.uk
 0.0.0.0 www.morxa.xyz
 0.0.0.0 www.moscovium.aaaplusgifts.top
 0.0.0.0 www.mossview.rubyonrock.com
@@ -84869,6 +84875,7 @@
 0.0.0.0 www.tastyyfx.com
 0.0.0.0 www.taswaroionftz.pro
 0.0.0.0 www.tatromaniak.com.pl
+0.0.0.0 www.tattnexa.tattoo
 0.0.0.0 www.tattooshaha.info
 0.0.0.0 www.tauripoohe.rest
 0.0.0.0 www.tavelscape.com
@@ -87344,6 +87351,7 @@
 0.0.0.0 www.whirlsedit.sbs
 0.0.0.0 www.whiskeywealthclub.com
 0.0.0.0 www.whisperchannel-demo.com
+0.0.0.0 www.white-dock.net
 0.0.0.0 www.whiteaccess.skylandobservatory.de
 0.0.0.0 www.whitefeatherenterprises.us
 0.0.0.0 www.whitefeednewstophub.com

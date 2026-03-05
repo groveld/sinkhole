@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 89890
-! Updated: 2026-03-04 02:20:55 UTC
+! Entries: 89898
+! Updated: 2026-03-05 02:22:59 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19871,6 +19871,7 @@
 ||carrotiiatm.com^
 ||cars-to-buy.com^
 ||cars.ign.us.intellitxt.com^
+||carsarace.com^
 ||carsfreaks.pl^
 ||carteradam.shop^
 ||cartereaston.shop^
@@ -40845,6 +40846,7 @@
 ||minr.pw^
 ||mint-star.pl^
 ||mintegral.com^
+||mintfunnel.co^
 ||mintj.com^
 ||mintjacobs.net^
 ||mintrace.com^
@@ -74055,6 +74057,7 @@
 ||www.helptwu.odspecs.com^
 ||www.helrantaholm.net^
 ||www.helvax.cfd^
+||www.helvora.help^
 ||www.hemandezjaxon.shop^
 ||www.hematinsed.rest^
 ||www.hemopovipa.rest^
@@ -75360,6 +75363,7 @@
 ||www.jettyworks.online^
 ||www.jeunesseglobal.com^
 ||www.jeuxfortuna.com^
+||www.jeuxjackpotcasino.com^
 ||www.jewelryappraisalguide.com^
 ||www.jewelryprince.com^
 ||www.jewmore.today^
@@ -76033,6 +76037,7 @@
 ||www.kryptokram.com^
 ||www.kryptono.exchange^
 ||www.kryptoportal.pl^
+||www.kryzantor.uk^
 ||www.kshootingsports.com^
 ||www.ksiazka-telefoniczna-online.pl^
 ||www.ksiazkatunele.pl^
@@ -77594,6 +77599,7 @@
 ||www.morsidecer.rest^
 ||www.morsinhostig.com^
 ||www.mortonvale.org^
+||www.morvalent.uk^
 ||www.morxa.xyz^
 ||www.moscovium.aaaplusgifts.top^
 ||www.mossview.rubyonrock.com^
@@ -84871,6 +84877,7 @@
 ||www.tastyyfx.com^
 ||www.taswaroionftz.pro^
 ||www.tatromaniak.com.pl^
+||www.tattnexa.tattoo^
 ||www.tattooshaha.info^
 ||www.tauripoohe.rest^
 ||www.tavelscape.com^
@@ -87346,6 +87353,7 @@
 ||www.whirlsedit.sbs^
 ||www.whiskeywealthclub.com^
 ||www.whisperchannel-demo.com^
+||www.white-dock.net^
 ||www.whiteaccess.skylandobservatory.de^
 ||www.whitefeatherenterprises.us^
 ||www.whitefeednewstophub.com^
