@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 89898
-# Updated: 2026-03-05 02:22:59 UTC
+# Entries: 89899
+# Updated: 2026-03-06 02:25:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -75352,6 +75352,7 @@ www.jerusalemshul.org
 www.jerzyskleps.com
 www.jessebayker.com
 www.jessefuentes.com
+www.jessicalonda.com
 www.jessikanelson.com
 www.jesterclub.com
 www.jestiastri.rest

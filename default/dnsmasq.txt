@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 89896
-# Updated: 2026-03-05 01:33:33 UTC
+# Entries: 89897
+# Updated: 2026-03-06 01:36:03 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -75350,6 +75350,7 @@ address=/www.jerusalemshul.org/0.0.0.0
 address=/www.jerzyskleps.com/0.0.0.0
 address=/www.jessebayker.com/0.0.0.0
 address=/www.jessefuentes.com/0.0.0.0
+address=/www.jessicalonda.com/0.0.0.0
 address=/www.jessikanelson.com/0.0.0.0
 address=/www.jesterclub.com/0.0.0.0
 address=/www.jestiastri.rest/0.0.0.0
