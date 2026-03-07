@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 89897
-! Updated: 2026-03-06 01:36:03 UTC
+! Entries: 89916
+! Updated: 2026-03-07 01:30:43 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22568,6 +22568,7 @@
 ||comicstest.com^
 ||comicvisionz.com^
 ||comilar-efferiff.icu^
+||comineeis.vu^
 ||comingsoon.us.intellitxt.com^
 ||comixbliss.com^
 ||comixsoul.com^
@@ -43233,6 +43234,7 @@
 ||nu9k.adj.st^
 ||nub9r.maisonx.com^
 ||nubemio.net^
+||nuclandary.qnfbfs.cn^
 ||nucleolus980.site^
 ||nucleusapexd.pro^
 ||nuda.space^
@@ -44402,6 +44404,7 @@
 ||online-poker.shengen.ru^
 ||online-prod.zenmxapps.com^
 ||online-psy.ch^
+||online.analytiks.click^
 ||online.intelligents.courses^
 ||online.introductions.vu^
 ||online.miarroba.com^
@@ -58289,6 +58292,7 @@
 ||textbrokr.fr^
 ||textfri.cyou^
 ||textile4family.pl^
+||textion.g9y18u.cn^
 ||textlinks.com^
 ||textmykids.com^
 ||textsrv.com^
@@ -63363,6 +63367,7 @@
 ||webwise.org^
 ||webxcdn.com^
 ||wecanbuildtoo.org^
+||weddinglovers.pl^
 ||weddique.com^
 ||wedleaunocomp.work^
 ||wedrowki-gorskie.pl^
@@ -65474,6 +65479,7 @@
 ||www.abiraf.com^
 ||www.abkanstore.com^
 ||www.ablefull.com^
+||www.abnehmenkabofit.de^
 ||www.abogadodejacksonville.com^
 ||www.abomisvend.rest^
 ||www.aborrtappe.rest^
@@ -66154,6 +66160,7 @@
 ||www.aktualnosci.pl.ua^
 ||www.aktywec.net^
 ||www.akuhni.by^
+||www.akundu.com^
 ||www.akusherok.ru^
 ||www.alabamabackpage.com^
 ||www.alaksaair.com^
@@ -67012,6 +67019,7 @@
 ||www.autismcentral.online^
 ||www.autisticbricksreview.com^
 ||www.auto-overview.com^
+||www.auto-runmz.com^
 ||www.autoacalci.rest^
 ||www.autoads.asia^
 ||www.autocarsandtrucks.net^
@@ -70576,6 +70584,7 @@
 ||www.digisubmission.com^
 ||www.digitaiz.net^
 ||www.digital-techs.org^
+||www.digitalcoachpro.name^
 ||www.digitalforensicscasemanagement.com^
 ||www.digitalhumanitiescollective.org^
 ||www.digitallocalleads.com^
@@ -72791,6 +72800,7 @@
 ||www.frameworkfield.org^
 ||www.framixbitnova.com^
 ||www.francele.com^
+||www.francesportisas-fr.com^
 ||www.franginepay.com^
 ||www.frankvalenza.com^
 ||www.fraserd.pro^
@@ -73151,6 +73161,7 @@
 ||www.gammasites.com^
 ||www.gammassp.com^
 ||www.gamyun.net^
+||www.gandiatv.com^
 ||www.ganglplast.rest^
 ||www.gangnam-rabbit.com^
 ||www.gantry-framework.com^
@@ -73781,6 +73792,7 @@
 ||www.growmayur.com^
 ||www.grownupplus.com^
 ||www.growpathz.com^
+||www.growthbuilder.name^
 ||www.growthseek.info^
 ||www.growthstepper.com^
 ||www.grpalooza.com^
@@ -77061,6 +77073,7 @@
 ||www.markbruinink.nl^
 ||www.market-buster.com^
 ||www.marketbill.com^
+||www.markethelper.name^
 ||www.markethotsale.com^
 ||www.marketingforpros.com^
 ||www.marketmakers.cc^
@@ -78257,6 +78270,7 @@
 ||www.noahjones.shop^
 ||www.noahpomerantz.com^
 ||www.nobadlogos.com^
+||www.nobetsjustfun.com^
 ||www.nobla.net^
 ||www.nobled.pro^
 ||www.nobledoberman.com^
@@ -79597,6 +79611,7 @@
 ||www.pccleaner.com^
 ||www.pccleanerpro.com^
 ||www.pcdb.online^
+||www.pcfixguide.help^
 ||www.pcforce.pl^
 ||www.pchuwisiful.icu^
 ||www.pclymarket.com^
@@ -79917,6 +79932,7 @@
 ||www.pixelpeak.team^
 ||www.pixelpmm.info^
 ||www.pixeltrack66.com^
+||www.pixquestion.com^
 ||www.piyega.site^
 ||www.pizza-buffalos.ch^
 ||www.pizzarewal.pl^
@@ -83492,6 +83508,7 @@
 ||www.smartredirect.de^
 ||www.smartshopper.com^
 ||www.smarttopchain.nl^
+||www.smashchampionsat.com^
 ||www.smashd3v.com^
 ||www.smashuenn.click^
 ||www.smellathl.today^
@@ -84926,6 +84943,7 @@
 ||www.tecemuu.xyz^
 ||www.tech-journey.info^
 ||www.tech4u.icu^
+||www.techadvisorpro.name^
 ||www.techbargins.com^
 ||www.techbqv.com^
 ||www.techcrud.com^
@@ -87057,6 +87075,7 @@
 ||www.walioasz-pl.shop^
 ||www.walkcen.phatscreentv.com^
 ||www.walkcore.grcalign.com^
+||www.walkhelp.net^
 ||www.walkthedinosaur.com^
 ||www.wallacefisher.com^
 ||www.walletballet.com^
