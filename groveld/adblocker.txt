@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 88792
-! Updated: 2026-03-08 02:23:56 UTC
+! Entries: 88798
+! Updated: 2026-03-09 02:23:26 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18600,6 +18600,7 @@
 ||bridgeforfreshstarts.com^
 ||bridgeforhorizon.com^
 ||bridgeland.boats^
+||bridgemanstt.com^
 ||bridgeowise.thecheapvegetarian.com^
 ||bridgeportisd.instructure.com^
 ||bridgeroad.maverickpreviews.com^
@@ -28765,6 +28766,7 @@
 ||femaleviagra.findmenow.info^
 ||femboyrental.com^
 ||femeedia.com^
+||femidignity.org^
 ||feministbibliography.net^
 ||feminplus.pl^
 ||fenazraxoriht.pro^
@@ -28783,6 +28785,7 @@
 ||fernroomes.com^
 ||feronixprime-7-4-ai.net^
 ||ferrago.uk.intellitxt.com^
+||ferreirateixeira.adv.br^
 ||fersanimoveis.com.br^
 ||ferser.it^
 ||fertaluccio.pro^
@@ -48175,6 +48178,7 @@
 ||protection.topolice.com^
 ||protection.vapolice.com^
 ||protection.vipolice.com^
+||protectpool.com^
 ||protectsubrev.com^
 ||protein.offers-pl.top^
 ||protestcopy.com^
@@ -80376,6 +80380,7 @@
 ||www.puppykibble.com^
 ||www.puppytoast.com^
 ||www.puramonetivo-app.com^
+||www.purchaseproof.com^
 ||www.pureadexchange.com^
 ||www.pureice.bond^
 ||www.purelifaith.com^
@@ -80549,6 +80554,7 @@
 ||www.quartolima.pro^
 ||www.quartzbadger.com^
 ||www.quartztool.thennagam.com^
+||www.quarvions.com^
 ||www.qubble.com^
 ||www.queaoo.com^
 ||www.quebtech.net^

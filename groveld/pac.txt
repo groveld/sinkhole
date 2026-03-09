@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 88792
-// Updated: 2026-03-08 02:23:56 UTC
+// Entries: 88798
+// Updated: 2026-03-09 02:23:26 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18601,6 +18601,7 @@ var BLOCKLIST = {
 "bridgeforfreshstarts.com":null,
 "bridgeforhorizon.com":null,
 "bridgeland.boats":null,
+"bridgemanstt.com":null,
 "bridgeowise.thecheapvegetarian.com":null,
 "bridgeportisd.instructure.com":null,
 "bridgeroad.maverickpreviews.com":null,
@@ -28766,6 +28767,7 @@ var BLOCKLIST = {
 "femaleviagra.findmenow.info":null,
 "femboyrental.com":null,
 "femeedia.com":null,
+"femidignity.org":null,
 "feministbibliography.net":null,
 "feminplus.pl":null,
 "fenazraxoriht.pro":null,
@@ -28784,6 +28786,7 @@ var BLOCKLIST = {
 "fernroomes.com":null,
 "feronixprime-7-4-ai.net":null,
 "ferrago.uk.intellitxt.com":null,
+"ferreirateixeira.adv.br":null,
 "fersanimoveis.com.br":null,
 "ferser.it":null,
 "fertaluccio.pro":null,
@@ -48176,6 +48179,7 @@ var BLOCKLIST = {
 "protection.topolice.com":null,
 "protection.vapolice.com":null,
 "protection.vipolice.com":null,
+"protectpool.com":null,
 "protectsubrev.com":null,
 "protein.offers-pl.top":null,
 "protestcopy.com":null,
@@ -80377,6 +80381,7 @@ var BLOCKLIST = {
 "www.puppykibble.com":null,
 "www.puppytoast.com":null,
 "www.puramonetivo-app.com":null,
+"www.purchaseproof.com":null,
 "www.pureadexchange.com":null,
 "www.pureice.bond":null,
 "www.purelifaith.com":null,
@@ -80550,6 +80555,7 @@ var BLOCKLIST = {
 "www.quartolima.pro":null,
 "www.quartzbadger.com":null,
 "www.quartztool.thennagam.com":null,
+"www.quarvions.com":null,
 "www.qubble.com":null,
 "www.queaoo.com":null,
 "www.quebtech.net":null,

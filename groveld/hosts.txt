@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 88792
-# Updated: 2026-03-08 02:23:56 UTC
+# Entries: 88798
+# Updated: 2026-03-09 02:23:26 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18600,6 +18600,7 @@
 0.0.0.0 bridgeforfreshstarts.com
 0.0.0.0 bridgeforhorizon.com
 0.0.0.0 bridgeland.boats
+0.0.0.0 bridgemanstt.com
 0.0.0.0 bridgeowise.thecheapvegetarian.com
 0.0.0.0 bridgeportisd.instructure.com
 0.0.0.0 bridgeroad.maverickpreviews.com
@@ -28765,6 +28766,7 @@
 0.0.0.0 femaleviagra.findmenow.info
 0.0.0.0 femboyrental.com
 0.0.0.0 femeedia.com
+0.0.0.0 femidignity.org
 0.0.0.0 feministbibliography.net
 0.0.0.0 feminplus.pl
 0.0.0.0 fenazraxoriht.pro
@@ -28783,6 +28785,7 @@
 0.0.0.0 fernroomes.com
 0.0.0.0 feronixprime-7-4-ai.net
 0.0.0.0 ferrago.uk.intellitxt.com
+0.0.0.0 ferreirateixeira.adv.br
 0.0.0.0 fersanimoveis.com.br
 0.0.0.0 ferser.it
 0.0.0.0 fertaluccio.pro
@@ -48175,6 +48178,7 @@
 0.0.0.0 protection.topolice.com
 0.0.0.0 protection.vapolice.com
 0.0.0.0 protection.vipolice.com
+0.0.0.0 protectpool.com
 0.0.0.0 protectsubrev.com
 0.0.0.0 protein.offers-pl.top
 0.0.0.0 protestcopy.com
@@ -80376,6 +80380,7 @@
 0.0.0.0 www.puppykibble.com
 0.0.0.0 www.puppytoast.com
 0.0.0.0 www.puramonetivo-app.com
+0.0.0.0 www.purchaseproof.com
 0.0.0.0 www.pureadexchange.com
 0.0.0.0 www.pureice.bond
 0.0.0.0 www.purelifaith.com
@@ -80549,6 +80554,7 @@
 0.0.0.0 www.quartolima.pro
 0.0.0.0 www.quartzbadger.com
 0.0.0.0 www.quartztool.thennagam.com
+0.0.0.0 www.quarvions.com
 0.0.0.0 www.qubble.com
 0.0.0.0 www.queaoo.com
 0.0.0.0 www.quebtech.net

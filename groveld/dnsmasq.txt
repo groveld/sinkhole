@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 88792
-# Updated: 2026-03-08 02:23:56 UTC
+# Entries: 88798
+# Updated: 2026-03-09 02:23:26 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18600,6 +18600,7 @@ address=/bridgebase.fr/0.0.0.0
 address=/bridgeforfreshstarts.com/0.0.0.0
 address=/bridgeforhorizon.com/0.0.0.0
 address=/bridgeland.boats/0.0.0.0
+address=/bridgemanstt.com/0.0.0.0
 address=/bridgeowise.thecheapvegetarian.com/0.0.0.0
 address=/bridgeportisd.instructure.com/0.0.0.0
 address=/bridgeroad.maverickpreviews.com/0.0.0.0
@@ -28765,6 +28766,7 @@ address=/femalefirst.uk.intellitxt.com/0.0.0.0
 address=/femaleviagra.findmenow.info/0.0.0.0
 address=/femboyrental.com/0.0.0.0
 address=/femeedia.com/0.0.0.0
+address=/femidignity.org/0.0.0.0
 address=/feministbibliography.net/0.0.0.0
 address=/feminplus.pl/0.0.0.0
 address=/fenazraxoriht.pro/0.0.0.0
@@ -28783,6 +28785,7 @@ address=/ferningtons.com/0.0.0.0
 address=/fernroomes.com/0.0.0.0
 address=/feronixprime-7-4-ai.net/0.0.0.0
 address=/ferrago.uk.intellitxt.com/0.0.0.0
+address=/ferreirateixeira.adv.br/0.0.0.0
 address=/fersanimoveis.com.br/0.0.0.0
 address=/ferser.it/0.0.0.0
 address=/fertaluccio.pro/0.0.0.0
@@ -48175,6 +48178,7 @@ address=/protection.tnpolice.com/0.0.0.0
 address=/protection.topolice.com/0.0.0.0
 address=/protection.vapolice.com/0.0.0.0
 address=/protection.vipolice.com/0.0.0.0
+address=/protectpool.com/0.0.0.0
 address=/protectsubrev.com/0.0.0.0
 address=/protein.offers-pl.top/0.0.0.0
 address=/protestcopy.com/0.0.0.0
@@ -80376,6 +80380,7 @@ address=/www.puppseas.com/0.0.0.0
 address=/www.puppykibble.com/0.0.0.0
 address=/www.puppytoast.com/0.0.0.0
 address=/www.puramonetivo-app.com/0.0.0.0
+address=/www.purchaseproof.com/0.0.0.0
 address=/www.pureadexchange.com/0.0.0.0
 address=/www.pureice.bond/0.0.0.0
 address=/www.purelifaith.com/0.0.0.0
@@ -80549,6 +80554,7 @@ address=/www.quartexindustries.com/0.0.0.0
 address=/www.quartolima.pro/0.0.0.0
 address=/www.quartzbadger.com/0.0.0.0
 address=/www.quartztool.thennagam.com/0.0.0.0
+address=/www.quarvions.com/0.0.0.0
 address=/www.qubble.com/0.0.0.0
 address=/www.queaoo.com/0.0.0.0
 address=/www.quebtech.net/0.0.0.0
