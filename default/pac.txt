@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 88794
-// Updated: 2026-03-09 01:34:00 UTC
+// Entries: 88799
+// Updated: 2026-03-10 01:29:43 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18601,6 +18601,7 @@ var BLOCKLIST = {
 "bridgeforfreshstarts.com":null,
 "bridgeforhorizon.com":null,
 "bridgeland.boats":null,
+"bridgemanstt.com":null,
 "bridgeowise.thecheapvegetarian.com":null,
 "bridgeportisd.instructure.com":null,
 "bridgeroad.maverickpreviews.com":null,
@@ -20025,6 +20026,7 @@ var BLOCKLIST = {
 "cbsspln.112.2o7.net":null,
 "cbstelevisiondistribution.112.2o7.net":null,
 "cbstv.us.intellitxt.com":null,
+"cbt5.sdalfurqanjember.sch.id":null,
 "cbtopsites.com":null,
 "cbx.net":null,
 "cc-dt.com":null,
@@ -48177,6 +48179,7 @@ var BLOCKLIST = {
 "protection.topolice.com":null,
 "protection.vapolice.com":null,
 "protection.vipolice.com":null,
+"protectpool.com":null,
 "protectsubrev.com":null,
 "protein.offers-pl.top":null,
 "protestcopy.com":null,
@@ -66486,6 +66489,7 @@ var BLOCKLIST = {
 "www.autocarsandtrucks.net":null,
 "www.autoforum-businessday.pl":null,
 "www.autohipnose.com":null,
+"www.autoinkoopbedrijf.com":null,
 "www.automatkredytowy.pl":null,
 "www.automobile-bk.de":null,
 "www.automoneygenerator.com":null,
@@ -75995,6 +75999,7 @@ var BLOCKLIST = {
 "www.mastiperig.rest":null,
 "www.mastiraffa.rest":null,
 "www.mata.ero-advertising.com":null,
+"www.match3quests.com":null,
 "www.matchmyip.com":null,
 "www.matematycznekupony.pl":null,
 "www.matesportoutletpl.com":null,

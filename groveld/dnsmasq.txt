@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 88798
-# Updated: 2026-03-09 02:23:26 UTC
+# Entries: 88801
+# Updated: 2026-03-10 02:19:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -20025,6 +20025,7 @@ address=/cbspgatour.112.2o7.net/0.0.0.0
 address=/cbsspln.112.2o7.net/0.0.0.0
 address=/cbstelevisiondistribution.112.2o7.net/0.0.0.0
 address=/cbstv.us.intellitxt.com/0.0.0.0
+address=/cbt5.sdalfurqanjember.sch.id/0.0.0.0
 address=/cbtopsites.com/0.0.0.0
 address=/cbx.net/0.0.0.0
 address=/cc-dt.com/0.0.0.0
@@ -66488,6 +66489,7 @@ address=/www.autoads.asia/0.0.0.0
 address=/www.autocarsandtrucks.net/0.0.0.0
 address=/www.autoforum-businessday.pl/0.0.0.0
 address=/www.autohipnose.com/0.0.0.0
+address=/www.autoinkoopbedrijf.com/0.0.0.0
 address=/www.automatkredytowy.pl/0.0.0.0
 address=/www.automobile-bk.de/0.0.0.0
 address=/www.automoneygenerator.com/0.0.0.0
@@ -75998,6 +76000,7 @@ address=/www.masterusa.live/0.0.0.0
 address=/www.mastiperig.rest/0.0.0.0
 address=/www.mastiraffa.rest/0.0.0.0
 address=/www.mata.ero-advertising.com/0.0.0.0
+address=/www.match3quests.com/0.0.0.0
 address=/www.matchmyip.com/0.0.0.0
 address=/www.matematycznekupony.pl/0.0.0.0
 address=/www.matesportoutletpl.com/0.0.0.0

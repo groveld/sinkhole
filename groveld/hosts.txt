@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 88798
-# Updated: 2026-03-09 02:23:26 UTC
+# Entries: 88801
+# Updated: 2026-03-10 02:19:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -20025,6 +20025,7 @@
 0.0.0.0 cbsspln.112.2o7.net
 0.0.0.0 cbstelevisiondistribution.112.2o7.net
 0.0.0.0 cbstv.us.intellitxt.com
+0.0.0.0 cbt5.sdalfurqanjember.sch.id
 0.0.0.0 cbtopsites.com
 0.0.0.0 cbx.net
 0.0.0.0 cc-dt.com
@@ -66488,6 +66489,7 @@
 0.0.0.0 www.autocarsandtrucks.net
 0.0.0.0 www.autoforum-businessday.pl
 0.0.0.0 www.autohipnose.com
+0.0.0.0 www.autoinkoopbedrijf.com
 0.0.0.0 www.automatkredytowy.pl
 0.0.0.0 www.automobile-bk.de
 0.0.0.0 www.automoneygenerator.com
@@ -75998,6 +76000,7 @@
 0.0.0.0 www.mastiperig.rest
 0.0.0.0 www.mastiraffa.rest
 0.0.0.0 www.mata.ero-advertising.com
+0.0.0.0 www.match3quests.com
 0.0.0.0 www.matchmyip.com
 0.0.0.0 www.matematycznekupony.pl
 0.0.0.0 www.matesportoutletpl.com

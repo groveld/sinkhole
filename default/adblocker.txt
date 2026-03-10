@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 88794
-! Updated: 2026-03-09 01:34:00 UTC
+! Entries: 88799
+! Updated: 2026-03-10 01:29:43 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18600,6 +18600,7 @@
 ||bridgeforfreshstarts.com^
 ||bridgeforhorizon.com^
 ||bridgeland.boats^
+||bridgemanstt.com^
 ||bridgeowise.thecheapvegetarian.com^
 ||bridgeportisd.instructure.com^
 ||bridgeroad.maverickpreviews.com^
@@ -20024,6 +20025,7 @@
 ||cbsspln.112.2o7.net^
 ||cbstelevisiondistribution.112.2o7.net^
 ||cbstv.us.intellitxt.com^
+||cbt5.sdalfurqanjember.sch.id^
 ||cbtopsites.com^
 ||cbx.net^
 ||cc-dt.com^
@@ -48176,6 +48178,7 @@
 ||protection.topolice.com^
 ||protection.vapolice.com^
 ||protection.vipolice.com^
+||protectpool.com^
 ||protectsubrev.com^
 ||protein.offers-pl.top^
 ||protestcopy.com^
@@ -66485,6 +66488,7 @@
 ||www.autocarsandtrucks.net^
 ||www.autoforum-businessday.pl^
 ||www.autohipnose.com^
+||www.autoinkoopbedrijf.com^
 ||www.automatkredytowy.pl^
 ||www.automobile-bk.de^
 ||www.automoneygenerator.com^
@@ -75994,6 +75998,7 @@
 ||www.mastiperig.rest^
 ||www.mastiraffa.rest^
 ||www.mata.ero-advertising.com^
+||www.match3quests.com^
 ||www.matchmyip.com^
 ||www.matematycznekupony.pl^
 ||www.matesportoutletpl.com^

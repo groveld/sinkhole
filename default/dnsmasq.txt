@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 88794
-# Updated: 2026-03-09 01:34:00 UTC
+# Entries: 88799
+# Updated: 2026-03-10 01:29:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18600,6 +18600,7 @@ address=/bridgebase.fr/0.0.0.0
 address=/bridgeforfreshstarts.com/0.0.0.0
 address=/bridgeforhorizon.com/0.0.0.0
 address=/bridgeland.boats/0.0.0.0
+address=/bridgemanstt.com/0.0.0.0
 address=/bridgeowise.thecheapvegetarian.com/0.0.0.0
 address=/bridgeportisd.instructure.com/0.0.0.0
 address=/bridgeroad.maverickpreviews.com/0.0.0.0
@@ -20024,6 +20025,7 @@ address=/cbspgatour.112.2o7.net/0.0.0.0
 address=/cbsspln.112.2o7.net/0.0.0.0
 address=/cbstelevisiondistribution.112.2o7.net/0.0.0.0
 address=/cbstv.us.intellitxt.com/0.0.0.0
+address=/cbt5.sdalfurqanjember.sch.id/0.0.0.0
 address=/cbtopsites.com/0.0.0.0
 address=/cbx.net/0.0.0.0
 address=/cc-dt.com/0.0.0.0
@@ -48176,6 +48178,7 @@ address=/protection.tnpolice.com/0.0.0.0
 address=/protection.topolice.com/0.0.0.0
 address=/protection.vapolice.com/0.0.0.0
 address=/protection.vipolice.com/0.0.0.0
+address=/protectpool.com/0.0.0.0
 address=/protectsubrev.com/0.0.0.0
 address=/protein.offers-pl.top/0.0.0.0
 address=/protestcopy.com/0.0.0.0
@@ -66485,6 +66488,7 @@ address=/www.autoads.asia/0.0.0.0
 address=/www.autocarsandtrucks.net/0.0.0.0
 address=/www.autoforum-businessday.pl/0.0.0.0
 address=/www.autohipnose.com/0.0.0.0
+address=/www.autoinkoopbedrijf.com/0.0.0.0
 address=/www.automatkredytowy.pl/0.0.0.0
 address=/www.automobile-bk.de/0.0.0.0
 address=/www.automoneygenerator.com/0.0.0.0
@@ -75994,6 +75998,7 @@ address=/www.masterusa.live/0.0.0.0
 address=/www.mastiperig.rest/0.0.0.0
 address=/www.mastiraffa.rest/0.0.0.0
 address=/www.mata.ero-advertising.com/0.0.0.0
+address=/www.match3quests.com/0.0.0.0
 address=/www.matchmyip.com/0.0.0.0
 address=/www.matematycznekupony.pl/0.0.0.0
 address=/www.matesportoutletpl.com/0.0.0.0

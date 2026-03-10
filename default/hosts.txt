@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 88794
-# Updated: 2026-03-09 01:34:00 UTC
+# Entries: 88799
+# Updated: 2026-03-10 01:29:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18600,6 +18600,7 @@
 0.0.0.0 bridgeforfreshstarts.com
 0.0.0.0 bridgeforhorizon.com
 0.0.0.0 bridgeland.boats
+0.0.0.0 bridgemanstt.com
 0.0.0.0 bridgeowise.thecheapvegetarian.com
 0.0.0.0 bridgeportisd.instructure.com
 0.0.0.0 bridgeroad.maverickpreviews.com
@@ -20024,6 +20025,7 @@
 0.0.0.0 cbsspln.112.2o7.net
 0.0.0.0 cbstelevisiondistribution.112.2o7.net
 0.0.0.0 cbstv.us.intellitxt.com
+0.0.0.0 cbt5.sdalfurqanjember.sch.id
 0.0.0.0 cbtopsites.com
 0.0.0.0 cbx.net
 0.0.0.0 cc-dt.com
@@ -48176,6 +48178,7 @@
 0.0.0.0 protection.topolice.com
 0.0.0.0 protection.vapolice.com
 0.0.0.0 protection.vipolice.com
+0.0.0.0 protectpool.com
 0.0.0.0 protectsubrev.com
 0.0.0.0 protein.offers-pl.top
 0.0.0.0 protestcopy.com
@@ -66485,6 +66488,7 @@
 0.0.0.0 www.autocarsandtrucks.net
 0.0.0.0 www.autoforum-businessday.pl
 0.0.0.0 www.autohipnose.com
+0.0.0.0 www.autoinkoopbedrijf.com
 0.0.0.0 www.automatkredytowy.pl
 0.0.0.0 www.automobile-bk.de
 0.0.0.0 www.automoneygenerator.com
@@ -75994,6 +75998,7 @@
 0.0.0.0 www.mastiperig.rest
 0.0.0.0 www.mastiraffa.rest
 0.0.0.0 www.mata.ero-advertising.com
+0.0.0.0 www.match3quests.com
 0.0.0.0 www.matchmyip.com
 0.0.0.0 www.matematycznekupony.pl
 0.0.0.0 www.matesportoutletpl.com
