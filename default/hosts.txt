@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 88799
-# Updated: 2026-03-10 01:29:43 UTC
+# Entries: 88810
+# Updated: 2026-03-11 01:29:51 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23429,6 +23429,7 @@
 0.0.0.0 cozyhillside.com
 0.0.0.0 cozyspins.com
 0.0.0.0 cp.forest-host.cc
+0.0.0.0 cp.liferan.pro
 0.0.0.0 cp.novanet.vn
 0.0.0.0 cp.oupeng.com
 0.0.0.0 cp.polyad.net
@@ -32243,6 +32244,7 @@
 0.0.0.0 hertzsales.com
 0.0.0.0 herweekend.net
 0.0.0.0 herweekend.org
+0.0.0.0 heshun.com.tw
 0.0.0.0 hesugu.sbs
 0.0.0.0 heti-naplo.com
 0.0.0.0 heuither.sbs
@@ -34677,6 +34679,7 @@
 0.0.0.0 inv-nets-eu.admixer.net
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 invairesid.rest
+0.0.0.0 invelaconstructora.com
 0.0.0.0 inventariofacil.net
 0.0.0.0 inventmove.com
 0.0.0.0 inventory.vidazoo.com
@@ -66979,6 +66982,7 @@
 0.0.0.0 www.berkeleycpr.org
 0.0.0.0 www.bermisola.top
 0.0.0.0 www.bernardjeanetienne.wixsite.com
+0.0.0.0 www.bernoussiphone.com
 0.0.0.0 www.berokue.pro
 0.0.0.0 www.berorae.pro
 0.0.0.0 www.berriescool.com
@@ -67370,6 +67374,7 @@
 0.0.0.0 www.bnmlkj.com
 0.0.0.0 www.bnmq.com
 0.0.0.0 www.bnnr.nl
+0.0.0.0 www.board-ly.com
 0.0.0.0 www.boattraider.com
 0.0.0.0 www.bobaomall.shop
 0.0.0.0 www.bobbiejeanwyrealtor.com
@@ -72404,6 +72409,7 @@
 0.0.0.0 www.ggbetpromo.com
 0.0.0.0 www.ggbets.pl
 0.0.0.0 www.ggbetss.com
+0.0.0.0 www.ggdark.net
 0.0.0.0 www.ggecenter.org
 0.0.0.0 www.ggljjk.cc
 0.0.0.0 www.ghana-sugar.net
@@ -74240,6 +74246,7 @@
 0.0.0.0 www.jaceha.pro
 0.0.0.0 www.jackassdomains.com
 0.0.0.0 www.jackofalltradeswebdesign.com
+0.0.0.0 www.jackpotcasinojeux.com
 0.0.0.0 www.jacksoncamila.shop
 0.0.0.0 www.jacksoncarter.shop
 0.0.0.0 www.jacksonchloe.shop
@@ -79590,6 +79597,7 @@
 0.0.0.0 www.platnosc.lat
 0.0.0.0 www.plattenwurk.pro
 0.0.0.0 www.plavion.cyou
+0.0.0.0 www.play-fever.com
 0.0.0.0 www.play-vulkan-vegas.online
 0.0.0.0 www.play.leadzu.com
 0.0.0.0 www.playamo.com
@@ -79614,6 +79622,7 @@
 0.0.0.0 www.playsataion.com
 0.0.0.0 www.playstar.co.pl
 0.0.0.0 www.playstatation.com
+0.0.0.0 www.playtactics-hub.com
 0.0.0.0 www.playvod.pl
 0.0.0.0 www.playweez.pl
 0.0.0.0 www.playy-google.com
@@ -80382,6 +80391,7 @@
 0.0.0.0 www.puppytoast.com
 0.0.0.0 www.puramonetivo-app.com
 0.0.0.0 www.purchaseproof.com
+0.0.0.0 www.pure-glance.com
 0.0.0.0 www.pureadexchange.com
 0.0.0.0 www.pureice.bond
 0.0.0.0 www.purelifaith.com
@@ -81277,6 +81287,7 @@
 0.0.0.0 www.rmelvin.org
 0.0.0.0 www.rmwbmgejufobfvg.com
 0.0.0.0 www.rncig.doctortrf.com
+0.0.0.0 www.rnleonard.com
 0.0.0.0 www.rnodernssolution.com
 0.0.0.0 www.rnzimebexzjmzsiwco.top
 0.0.0.0 www.roadforcalmwaters.com

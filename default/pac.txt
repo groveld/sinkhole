@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 88799
-// Updated: 2026-03-10 01:29:43 UTC
+// Entries: 88810
+// Updated: 2026-03-11 01:29:51 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23430,6 +23430,7 @@ var BLOCKLIST = {
 "cozyhillside.com":null,
 "cozyspins.com":null,
 "cp.forest-host.cc":null,
+"cp.liferan.pro":null,
 "cp.novanet.vn":null,
 "cp.oupeng.com":null,
 "cp.polyad.net":null,
@@ -32244,6 +32245,7 @@ var BLOCKLIST = {
 "hertzsales.com":null,
 "herweekend.net":null,
 "herweekend.org":null,
+"heshun.com.tw":null,
 "hesugu.sbs":null,
 "heti-naplo.com":null,
 "heuither.sbs":null,
@@ -34678,6 +34680,7 @@ var BLOCKLIST = {
 "inv-nets-eu.admixer.net":null,
 "inv-nets.admixer.net":null,
 "invairesid.rest":null,
+"invelaconstructora.com":null,
 "inventariofacil.net":null,
 "inventmove.com":null,
 "inventory.vidazoo.com":null,
@@ -66980,6 +66983,7 @@ var BLOCKLIST = {
 "www.berkeleycpr.org":null,
 "www.bermisola.top":null,
 "www.bernardjeanetienne.wixsite.com":null,
+"www.bernoussiphone.com":null,
 "www.berokue.pro":null,
 "www.berorae.pro":null,
 "www.berriescool.com":null,
@@ -67371,6 +67375,7 @@ var BLOCKLIST = {
 "www.bnmlkj.com":null,
 "www.bnmq.com":null,
 "www.bnnr.nl":null,
+"www.board-ly.com":null,
 "www.boattraider.com":null,
 "www.bobaomall.shop":null,
 "www.bobbiejeanwyrealtor.com":null,
@@ -72405,6 +72410,7 @@ var BLOCKLIST = {
 "www.ggbetpromo.com":null,
 "www.ggbets.pl":null,
 "www.ggbetss.com":null,
+"www.ggdark.net":null,
 "www.ggecenter.org":null,
 "www.ggljjk.cc":null,
 "www.ghana-sugar.net":null,
@@ -74241,6 +74247,7 @@ var BLOCKLIST = {
 "www.jaceha.pro":null,
 "www.jackassdomains.com":null,
 "www.jackofalltradeswebdesign.com":null,
+"www.jackpotcasinojeux.com":null,
 "www.jacksoncamila.shop":null,
 "www.jacksoncarter.shop":null,
 "www.jacksonchloe.shop":null,
@@ -79591,6 +79598,7 @@ var BLOCKLIST = {
 "www.platnosc.lat":null,
 "www.plattenwurk.pro":null,
 "www.plavion.cyou":null,
+"www.play-fever.com":null,
 "www.play-vulkan-vegas.online":null,
 "www.play.leadzu.com":null,
 "www.playamo.com":null,
@@ -79615,6 +79623,7 @@ var BLOCKLIST = {
 "www.playsataion.com":null,
 "www.playstar.co.pl":null,
 "www.playstatation.com":null,
+"www.playtactics-hub.com":null,
 "www.playvod.pl":null,
 "www.playweez.pl":null,
 "www.playy-google.com":null,
@@ -80383,6 +80392,7 @@ var BLOCKLIST = {
 "www.puppytoast.com":null,
 "www.puramonetivo-app.com":null,
 "www.purchaseproof.com":null,
+"www.pure-glance.com":null,
 "www.pureadexchange.com":null,
 "www.pureice.bond":null,
 "www.purelifaith.com":null,
@@ -81278,6 +81288,7 @@ var BLOCKLIST = {
 "www.rmelvin.org":null,
 "www.rmwbmgejufobfvg.com":null,
 "www.rncig.doctortrf.com":null,
+"www.rnleonard.com":null,
 "www.rnodernssolution.com":null,
 "www.rnzimebexzjmzsiwco.top":null,
 "www.roadforcalmwaters.com":null,

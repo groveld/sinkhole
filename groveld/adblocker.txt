@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 88801
-! Updated: 2026-03-10 02:19:06 UTC
+! Entries: 88812
+! Updated: 2026-03-11 02:19:17 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23429,6 +23429,7 @@
 ||cozyhillside.com^
 ||cozyspins.com^
 ||cp.forest-host.cc^
+||cp.liferan.pro^
 ||cp.novanet.vn^
 ||cp.oupeng.com^
 ||cp.polyad.net^
@@ -32244,6 +32245,7 @@
 ||hertzsales.com^
 ||herweekend.net^
 ||herweekend.org^
+||heshun.com.tw^
 ||hesugu.sbs^
 ||heti-naplo.com^
 ||heuither.sbs^
@@ -34678,6 +34680,7 @@
 ||inv-nets-eu.admixer.net^
 ||inv-nets.admixer.net^
 ||invairesid.rest^
+||invelaconstructora.com^
 ||inventariofacil.net^
 ||inventmove.com^
 ||inventory.vidazoo.com^
@@ -66980,6 +66983,7 @@
 ||www.berkeleycpr.org^
 ||www.bermisola.top^
 ||www.bernardjeanetienne.wixsite.com^
+||www.bernoussiphone.com^
 ||www.berokue.pro^
 ||www.berorae.pro^
 ||www.berriescool.com^
@@ -67371,6 +67375,7 @@
 ||www.bnmlkj.com^
 ||www.bnmq.com^
 ||www.bnnr.nl^
+||www.board-ly.com^
 ||www.boattraider.com^
 ||www.bobaomall.shop^
 ||www.bobbiejeanwyrealtor.com^
@@ -72405,6 +72410,7 @@
 ||www.ggbetpromo.com^
 ||www.ggbets.pl^
 ||www.ggbetss.com^
+||www.ggdark.net^
 ||www.ggecenter.org^
 ||www.ggljjk.cc^
 ||www.ghana-sugar.net^
@@ -74242,6 +74248,7 @@
 ||www.jaceha.pro^
 ||www.jackassdomains.com^
 ||www.jackofalltradeswebdesign.com^
+||www.jackpotcasinojeux.com^
 ||www.jacksoncamila.shop^
 ||www.jacksoncarter.shop^
 ||www.jacksonchloe.shop^
@@ -79592,6 +79599,7 @@
 ||www.platnosc.lat^
 ||www.plattenwurk.pro^
 ||www.plavion.cyou^
+||www.play-fever.com^
 ||www.play-vulkan-vegas.online^
 ||www.play.leadzu.com^
 ||www.playamo.com^
@@ -79616,6 +79624,7 @@
 ||www.playsataion.com^
 ||www.playstar.co.pl^
 ||www.playstatation.com^
+||www.playtactics-hub.com^
 ||www.playvod.pl^
 ||www.playweez.pl^
 ||www.playy-google.com^
@@ -80384,6 +80393,7 @@
 ||www.puppytoast.com^
 ||www.puramonetivo-app.com^
 ||www.purchaseproof.com^
+||www.pure-glance.com^
 ||www.pureadexchange.com^
 ||www.pureice.bond^
 ||www.purelifaith.com^
@@ -81279,6 +81289,7 @@
 ||www.rmelvin.org^
 ||www.rmwbmgejufobfvg.com^
 ||www.rncig.doctortrf.com^
+||www.rnleonard.com^
 ||www.rnodernssolution.com^
 ||www.rnzimebexzjmzsiwco.top^
 ||www.roadforcalmwaters.com^

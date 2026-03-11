@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 88801
-# Updated: 2026-03-10 02:19:06 UTC
+# Entries: 88812
+# Updated: 2026-03-11 02:19:17 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -23429,6 +23429,7 @@ address=/cozydni.com/0.0.0.0
 address=/cozyhillside.com/0.0.0.0
 address=/cozyspins.com/0.0.0.0
 address=/cp.forest-host.cc/0.0.0.0
+address=/cp.liferan.pro/0.0.0.0
 address=/cp.novanet.vn/0.0.0.0
 address=/cp.oupeng.com/0.0.0.0
 address=/cp.polyad.net/0.0.0.0
@@ -32244,6 +32245,7 @@ address=/hertz.122.2o7.net/0.0.0.0
 address=/hertzsales.com/0.0.0.0
 address=/herweekend.net/0.0.0.0
 address=/herweekend.org/0.0.0.0
+address=/heshun.com.tw/0.0.0.0
 address=/hesugu.sbs/0.0.0.0
 address=/heti-naplo.com/0.0.0.0
 address=/heuither.sbs/0.0.0.0
@@ -34678,6 +34680,7 @@ address=/inuvi.com/0.0.0.0
 address=/inv-nets-eu.admixer.net/0.0.0.0
 address=/inv-nets.admixer.net/0.0.0.0
 address=/invairesid.rest/0.0.0.0
+address=/invelaconstructora.com/0.0.0.0
 address=/inventariofacil.net/0.0.0.0
 address=/inventmove.com/0.0.0.0
 address=/inventory.vidazoo.com/0.0.0.0
@@ -66980,6 +66983,7 @@ address=/www.beringersolutions.com/0.0.0.0
 address=/www.berkeleycpr.org/0.0.0.0
 address=/www.bermisola.top/0.0.0.0
 address=/www.bernardjeanetienne.wixsite.com/0.0.0.0
+address=/www.bernoussiphone.com/0.0.0.0
 address=/www.berokue.pro/0.0.0.0
 address=/www.berorae.pro/0.0.0.0
 address=/www.berriescool.com/0.0.0.0
@@ -67371,6 +67375,7 @@ address=/www.bnmcvx.com/0.0.0.0
 address=/www.bnmlkj.com/0.0.0.0
 address=/www.bnmq.com/0.0.0.0
 address=/www.bnnr.nl/0.0.0.0
+address=/www.board-ly.com/0.0.0.0
 address=/www.boattraider.com/0.0.0.0
 address=/www.bobaomall.shop/0.0.0.0
 address=/www.bobbiejeanwyrealtor.com/0.0.0.0
@@ -72405,6 +72410,7 @@ address=/www.ggbet.world/0.0.0.0
 address=/www.ggbetpromo.com/0.0.0.0
 address=/www.ggbets.pl/0.0.0.0
 address=/www.ggbetss.com/0.0.0.0
+address=/www.ggdark.net/0.0.0.0
 address=/www.ggecenter.org/0.0.0.0
 address=/www.ggljjk.cc/0.0.0.0
 address=/www.ghana-sugar.net/0.0.0.0
@@ -74242,6 +74248,7 @@ address=/www.jaacen.com/0.0.0.0
 address=/www.jaceha.pro/0.0.0.0
 address=/www.jackassdomains.com/0.0.0.0
 address=/www.jackofalltradeswebdesign.com/0.0.0.0
+address=/www.jackpotcasinojeux.com/0.0.0.0
 address=/www.jacksoncamila.shop/0.0.0.0
 address=/www.jacksoncarter.shop/0.0.0.0
 address=/www.jacksonchloe.shop/0.0.0.0
@@ -79592,6 +79599,7 @@ address=/www.platnosc-nieudana.com/0.0.0.0
 address=/www.platnosc.lat/0.0.0.0
 address=/www.plattenwurk.pro/0.0.0.0
 address=/www.plavion.cyou/0.0.0.0
+address=/www.play-fever.com/0.0.0.0
 address=/www.play-vulkan-vegas.online/0.0.0.0
 address=/www.play.leadzu.com/0.0.0.0
 address=/www.playamo.com/0.0.0.0
@@ -79616,6 +79624,7 @@ address=/www.playroyaluk.com/0.0.0.0
 address=/www.playsataion.com/0.0.0.0
 address=/www.playstar.co.pl/0.0.0.0
 address=/www.playstatation.com/0.0.0.0
+address=/www.playtactics-hub.com/0.0.0.0
 address=/www.playvod.pl/0.0.0.0
 address=/www.playweez.pl/0.0.0.0
 address=/www.playy-google.com/0.0.0.0
@@ -80384,6 +80393,7 @@ address=/www.puppykibble.com/0.0.0.0
 address=/www.puppytoast.com/0.0.0.0
 address=/www.puramonetivo-app.com/0.0.0.0
 address=/www.purchaseproof.com/0.0.0.0
+address=/www.pure-glance.com/0.0.0.0
 address=/www.pureadexchange.com/0.0.0.0
 address=/www.pureice.bond/0.0.0.0
 address=/www.purelifaith.com/0.0.0.0
@@ -81279,6 +81289,7 @@ address=/www.rmbt.network/0.0.0.0
 address=/www.rmelvin.org/0.0.0.0
 address=/www.rmwbmgejufobfvg.com/0.0.0.0
 address=/www.rncig.doctortrf.com/0.0.0.0
+address=/www.rnleonard.com/0.0.0.0
 address=/www.rnodernssolution.com/0.0.0.0
 address=/www.rnzimebexzjmzsiwco.top/0.0.0.0
 address=/www.roadforcalmwaters.com/0.0.0.0
