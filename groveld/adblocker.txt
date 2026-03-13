@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 91836
-! Updated: 2026-03-12 02:16:23 UTC
+! Entries: 91839
+! Updated: 2026-03-13 02:21:59 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35737,6 +35737,7 @@
 ||jasnariquez-fr.com^
 ||jasnariquez-hr.com^
 ||jasonpowers.org^
+||jasperrcorporation.com^
 ||jasso.casa^
 ||jaster.pl^
 ||jatxt.com^
@@ -58119,6 +58120,7 @@
 ||t0c8p7.lat^
 ||t1.adserver.com^
 ||t1.extreme-dm.com^
+||t1.rorytravelclub-news.co.uk^
 ||t1.stormiq.com^
 ||t1.tentaculos.net^
 ||t1.trackalyzer.com^
@@ -91214,6 +91216,7 @@
 ||yourgodess.com^
 ||yourhlth.ru.com^
 ||youripad4free.com^
+||yourmailservice.com^
 ||yourofficialsurveysplace.store^
 ||youronlinebank.com^
 ||youronlinesoft.com^

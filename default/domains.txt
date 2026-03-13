@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 91834
-# Updated: 2026-03-12 01:27:00 UTC
+# Entries: 91837
+# Updated: 2026-03-13 01:32:32 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35736,6 +35736,7 @@ jasnariquez-cz.com
 jasnariquez-fr.com
 jasnariquez-hr.com
 jasonpowers.org
+jasperrcorporation.com
 jasso.casa
 jaster.pl
 jatxt.com
@@ -58118,6 +58119,7 @@ t01.proximic.com
 t0c8p7.lat
 t1.adserver.com
 t1.extreme-dm.com
+t1.rorytravelclub-news.co.uk
 t1.stormiq.com
 t1.tentaculos.net
 t1.trackalyzer.com
@@ -91212,6 +91214,7 @@ yourgiftzone.com
 yourgodess.com
 yourhlth.ru.com
 youripad4free.com
+yourmailservice.com
 yourofficialsurveysplace.store
 youronlinebank.com
 youronlinesoft.com

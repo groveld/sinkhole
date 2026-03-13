@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 91834
-// Updated: 2026-03-12 01:27:00 UTC
+// Entries: 91837
+// Updated: 2026-03-13 01:32:32 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35737,6 +35737,7 @@ var BLOCKLIST = {
 "jasnariquez-fr.com":null,
 "jasnariquez-hr.com":null,
 "jasonpowers.org":null,
+"jasperrcorporation.com":null,
 "jasso.casa":null,
 "jaster.pl":null,
 "jatxt.com":null,
@@ -58119,6 +58120,7 @@ var BLOCKLIST = {
 "t0c8p7.lat":null,
 "t1.adserver.com":null,
 "t1.extreme-dm.com":null,
+"t1.rorytravelclub-news.co.uk":null,
 "t1.stormiq.com":null,
 "t1.tentaculos.net":null,
 "t1.trackalyzer.com":null,
@@ -91213,6 +91215,7 @@ var BLOCKLIST = {
 "yourgodess.com":null,
 "yourhlth.ru.com":null,
 "youripad4free.com":null,
+"yourmailservice.com":null,
 "yourofficialsurveysplace.store":null,
 "youronlinebank.com":null,
 "youronlinesoft.com":null,

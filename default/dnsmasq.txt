@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 91834
-# Updated: 2026-03-12 01:27:00 UTC
+# Entries: 91837
+# Updated: 2026-03-13 01:32:32 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35736,6 +35736,7 @@ address=/jasnariquez-cz.com/0.0.0.0
 address=/jasnariquez-fr.com/0.0.0.0
 address=/jasnariquez-hr.com/0.0.0.0
 address=/jasonpowers.org/0.0.0.0
+address=/jasperrcorporation.com/0.0.0.0
 address=/jasso.casa/0.0.0.0
 address=/jaster.pl/0.0.0.0
 address=/jatxt.com/0.0.0.0
@@ -58118,6 +58119,7 @@ address=/t01.proximic.com/0.0.0.0
 address=/t0c8p7.lat/0.0.0.0
 address=/t1.adserver.com/0.0.0.0
 address=/t1.extreme-dm.com/0.0.0.0
+address=/t1.rorytravelclub-news.co.uk/0.0.0.0
 address=/t1.stormiq.com/0.0.0.0
 address=/t1.tentaculos.net/0.0.0.0
 address=/t1.trackalyzer.com/0.0.0.0
@@ -91212,6 +91214,7 @@ address=/yourgiftzone.com/0.0.0.0
 address=/yourgodess.com/0.0.0.0
 address=/yourhlth.ru.com/0.0.0.0
 address=/youripad4free.com/0.0.0.0
+address=/yourmailservice.com/0.0.0.0
 address=/yourofficialsurveysplace.store/0.0.0.0
 address=/youronlinebank.com/0.0.0.0
 address=/youronlinesoft.com/0.0.0.0
