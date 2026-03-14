@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 91839
-# Updated: 2026-03-13 02:21:59 UTC
+# Entries: 91860
+# Updated: 2026-03-14 02:18:04 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -29128,6 +29128,7 @@
 0.0.0.0 fem-staffservice.ssl-lolipop.jp
 0.0.0.0 femadiike.autos
 0.0.0.0 female-v.1.p2l.info
+0.0.0.0 femalecook.com
 0.0.0.0 femalefirst.uk.intellitxt.com
 0.0.0.0 femaleviagra.findmenow.info
 0.0.0.0 femboyrental.com
@@ -29370,6 +29371,7 @@
 0.0.0.0 filter.onwardclick.com
 0.0.0.0 filteradkernel.adsimilate.com
 0.0.0.0 filtergrapefruit.nuitari.com
+0.0.0.0 filthycricket.com
 0.0.0.0 fim.122.2o7.net
 0.0.0.0 fimc.net
 0.0.0.0 fimserve.askmen.com
@@ -41877,6 +41879,7 @@
 0.0.0.0 muscleandfitnesshers.us.intellitxt.com
 0.0.0.0 musculaation.fr
 0.0.0.0 musculahq.appspot.com
+0.0.0.0 mushroomgods.com
 0.0.0.0 music.getyesappz1.com
 0.0.0.0 music.ign.us.intellitxt.com
 0.0.0.0 music.myappzcenter.com
@@ -60804,6 +60807,7 @@
 0.0.0.0 trk.vidible.tv
 0.0.0.0 trk.wdacashtrk.com
 0.0.0.0 trk.wizzdeal.trade
+0.0.0.0 trk1.avdlink.net
 0.0.0.0 trk14.logger.co.kr
 0.0.0.0 trk365.com
 0.0.0.0 trk4.com
@@ -69643,6 +69647,7 @@
 0.0.0.0 www.care-sale.com
 0.0.0.0 www.careergame.click
 0.0.0.0 www.careerswiththehartford.com
+0.0.0.0 www.careertake.com
 0.0.0.0 www.carehigher.com
 0.0.0.0 www.carenfiz.com
 0.0.0.0 www.carinamot.com
@@ -72880,6 +72885,7 @@
 0.0.0.0 www.exacto-creditant-es.com
 0.0.0.0 www.exactocreditant.net
 0.0.0.0 www.exacttrai.info
+0.0.0.0 www.exambased.com
 0.0.0.0 www.excellencearab.org
 0.0.0.0 www.excellent-message-051897.framer.app
 0.0.0.0 www.excelz.com
@@ -73466,6 +73472,7 @@
 0.0.0.0 www.fix-registry-here.com
 0.0.0.0 www.fixcleaner.com
 0.0.0.0 www.fixedincometips.com
+0.0.0.0 www.fixedshine.com
 0.0.0.0 www.fixeskey.readingspeedgrader.com
 0.0.0.0 www.fiyocefijok.org
 0.0.0.0 www.fizjoterapia.5v.pl
@@ -73663,6 +73670,7 @@
 0.0.0.0 www.forgetowerless.info
 0.0.0.0 www.forkforc.callcenterbigdata.com
 0.0.0.0 www.formacionprofesional.webuda.com
+0.0.0.0 www.formalcenter.com
 0.0.0.0 www.formalyzer.com
 0.0.0.0 www.formatsserver.cfd
 0.0.0.0 www.formessengers.com
@@ -74099,6 +74107,7 @@
 0.0.0.0 www.gameractive.click
 0.0.0.0 www.gamergrowth.click
 0.0.0.0 www.gamersbanner.com
+0.0.0.0 www.gamersigns.com
 0.0.0.0 www.gamertraffic.com
 0.0.0.0 www.gamerwin.store
 0.0.0.0 www.games4u.ws
@@ -74522,6 +74531,7 @@
 0.0.0.0 www.goldenriverlane.com
 0.0.0.0 www.goldenshoregate.com
 0.0.0.0 www.goldenstonepath.com
+0.0.0.0 www.goldentopics.com
 0.0.0.0 www.goldenwillowpath.com
 0.0.0.0 www.goldflame.com
 0.0.0.0 www.goldtriapp.rest
@@ -76572,6 +76582,7 @@
 0.0.0.0 www.junkremovalservices.site
 0.0.0.0 www.jupiterperm.devappweb.com
 0.0.0.0 www.jupiterrsdroen.com
+0.0.0.0 www.justdebug.com
 0.0.0.0 www.justdish.it
 0.0.0.0 www.justedevisoire-ai-fr.com
 0.0.0.0 www.justedevisoire-app.com
@@ -78395,6 +78406,7 @@
 0.0.0.0 www.miklju.com
 0.0.0.0 www.mikras.nl
 0.0.0.0 www.mildescargas.com
+0.0.0.0 www.mildpost.com
 0.0.0.0 www.milesdebanners.com
 0.0.0.0 www.milf-finder.pl
 0.0.0.0 www.milffinder.com
@@ -78726,6 +78738,7 @@
 0.0.0.0 www.movieads.ero-advertising.com
 0.0.0.0 www.moviecpot.com
 0.0.0.0 www.moviedollars.com
+0.0.0.0 www.movielocks.com
 0.0.0.0 www.moviesearchcenter.com
 0.0.0.0 www.moviestarplanethacks.pl
 0.0.0.0 www.movinie.jp
@@ -79470,6 +79483,7 @@
 0.0.0.0 www.nowokesleepgummies.com
 0.0.0.0 www.noworia.com
 0.0.0.0 www.nowqgold.crickzonede.com
+0.0.0.0 www.nowreact.com
 0.0.0.0 www.nowstat.com
 0.0.0.0 www.nowydzien.site
 0.0.0.0 www.nowygeveleg.rest
@@ -82690,6 +82704,7 @@
 0.0.0.0 www.promocjaeuro.pl
 0.0.0.0 www.promocjagsm.pl
 0.0.0.0 www.promocjezkauflandu.24.eu
+0.0.0.0 www.promoskills.com
 0.0.0.0 www.promotionalmallpl.shop
 0.0.0.0 www.promotioncenter-24.com
 0.0.0.0 www.prompt-herplex-2u.com
@@ -84088,6 +84103,7 @@
 0.0.0.0 www.sagradafamilia-tickets.org
 0.0.0.0 www.sailbaddob.rest
 0.0.0.0 www.sailoffaith.com
+0.0.0.0 www.sailpirate.com
 0.0.0.0 www.saint-lumo.com
 0.0.0.0 www.saintlumo.com
 0.0.0.0 www.saintlumo.net
@@ -84468,6 +84484,8 @@
 0.0.0.0 www.selldiscount.shop
 0.0.0.0 www.selllikecrazybook.com
 0.0.0.0 www.sellmeyourtraffic.com
+0.0.0.0 www.sellpetrol.com
+0.0.0.0 www.sellrubber.com
 0.0.0.0 www.semasvitto.rest
 0.0.0.0 www.semaxin.pl
 0.0.0.0 www.semifierce.us
@@ -84869,6 +84887,7 @@
 0.0.0.0 www.simpli.fi
 0.0.0.0 www.simplifiedgpo.com
 0.0.0.0 www.simplifymultiply.com
+0.0.0.0 www.simplyartful.com
 0.0.0.0 www.simplyhelper.com
 0.0.0.0 www.simplytech.pl
 0.0.0.0 www.simppesibappp25.site
@@ -85520,6 +85539,7 @@
 0.0.0.0 www.sportsforce.pl
 0.0.0.0 www.sportsinteraction.com
 0.0.0.0 www.sportsoccer.icu
+0.0.0.0 www.sporttile.com
 0.0.0.0 www.sportyspot.shop
 0.0.0.0 www.spot-avagexr.com
 0.0.0.0 www.spot-flomax-pip-es.com
@@ -89276,6 +89296,7 @@
 0.0.0.0 www.wildorchardlane.com
 0.0.0.0 www.wildproof.org
 0.0.0.0 www.wildriderfuns.com
+0.0.0.0 www.wildroostli.com
 0.0.0.0 www.wildsurvive.com
 0.0.0.0 www.wilkersonfinley.shop
 0.0.0.0 www.wilkiewicz.pl
