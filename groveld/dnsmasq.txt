@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 94280
-# Updated: 2026-03-18 02:24:36 UTC
+# Entries: 94285
+# Updated: 2026-03-19 02:24:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -71741,6 +71741,7 @@ address=/www.communityclips.site/0.0.0.0
 address=/www.communityfuneral.site/0.0.0.0
 address=/www.communitypetclinicmanteca.com/0.0.0.0
 address=/www.communitysafe.xyz/0.0.0.0
+address=/www.commuteinfo.com/0.0.0.0
 address=/www.compaddy.com/0.0.0.0
 address=/www.companies-catalog.com/0.0.0.0
 address=/www.company.com.ph/0.0.0.0
@@ -74932,6 +74933,7 @@ address=/www.fluffmatic3hub.info/0.0.0.0
 address=/www.fluffy3tail.pro/0.0.0.0
 address=/www.fluffycircus.online/0.0.0.0
 address=/www.flugelitte.rest/0.0.0.0
+address=/www.fluidfiber.com/0.0.0.0
 address=/www.flumeclipse.live/0.0.0.0
 address=/www.fluorperma.rest/0.0.0.0
 address=/www.flurrra3mint.info/0.0.0.0
@@ -75014,6 +75016,7 @@ address=/www.forex-advice.net/0.0.0.0
 address=/www.forex-instruments.info/0.0.0.0
 address=/www.forexanalyticslabpe.pro/0.0.0.0
 address=/www.forexopinia.pl/0.0.0.0
+address=/www.forexwood.com/0.0.0.0
 address=/www.forexyestrader.pl/0.0.0.0
 address=/www.forgeflinty.info/0.0.0.0
 address=/www.forgemonholm-it.com/0.0.0.0
@@ -79722,6 +79725,7 @@ address=/www.makeoversuni.ipegas.com/0.0.0.0
 address=/www.makeprofit60.net/0.0.0.0
 address=/www.makeprofit80.net/0.0.0.0
 address=/www.makereadywash.com/0.0.0.0
+address=/www.makeupglobal.com/0.0.0.0
 address=/www.making-money.net/0.0.0.0
 address=/www.malaytiger.pl/0.0.0.0
 address=/www.malfaduele.rest/0.0.0.0
@@ -82399,6 +82403,7 @@ address=/www.pagibigfundservicers.com/0.0.0.0
 address=/www.pagorekfinora.net/0.0.0.0
 address=/www.pagvoraai-de.com/0.0.0.0
 address=/www.paidsecure.com/0.0.0.0
+address=/www.paidtheme.com/0.0.0.0
 address=/www.paidtosendemail.com/0.0.0.0
 address=/www.paiementhome-pl-5b4f060c.rpm-technik.at/0.0.0.0
 address=/www.paifi.net/0.0.0.0

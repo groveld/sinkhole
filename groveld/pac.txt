@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 94280
-// Updated: 2026-03-18 02:24:36 UTC
+// Entries: 94285
+// Updated: 2026-03-19 02:24:58 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -71742,6 +71742,7 @@ var BLOCKLIST = {
 "www.communityfuneral.site":null,
 "www.communitypetclinicmanteca.com":null,
 "www.communitysafe.xyz":null,
+"www.commuteinfo.com":null,
 "www.compaddy.com":null,
 "www.companies-catalog.com":null,
 "www.company.com.ph":null,
@@ -74933,6 +74934,7 @@ var BLOCKLIST = {
 "www.fluffy3tail.pro":null,
 "www.fluffycircus.online":null,
 "www.flugelitte.rest":null,
+"www.fluidfiber.com":null,
 "www.flumeclipse.live":null,
 "www.fluorperma.rest":null,
 "www.flurrra3mint.info":null,
@@ -75015,6 +75017,7 @@ var BLOCKLIST = {
 "www.forex-instruments.info":null,
 "www.forexanalyticslabpe.pro":null,
 "www.forexopinia.pl":null,
+"www.forexwood.com":null,
 "www.forexyestrader.pl":null,
 "www.forgeflinty.info":null,
 "www.forgemonholm-it.com":null,
@@ -79723,6 +79726,7 @@ var BLOCKLIST = {
 "www.makeprofit60.net":null,
 "www.makeprofit80.net":null,
 "www.makereadywash.com":null,
+"www.makeupglobal.com":null,
 "www.making-money.net":null,
 "www.malaytiger.pl":null,
 "www.malfaduele.rest":null,
@@ -82400,6 +82404,7 @@ var BLOCKLIST = {
 "www.pagorekfinora.net":null,
 "www.pagvoraai-de.com":null,
 "www.paidsecure.com":null,
+"www.paidtheme.com":null,
 "www.paidtosendemail.com":null,
 "www.paiementhome-pl-5b4f060c.rpm-technik.at":null,
 "www.paifi.net":null,
