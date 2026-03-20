@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 94285
-# Updated: 2026-03-19 02:24:58 UTC
+# Entries: 94302
+# Updated: 2026-03-20 02:22:35 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -31460,6 +31460,7 @@
 0.0.0.0 gifazaiil.autos
 0.0.0.0 gifii.fr
 0.0.0.0 gifoverload.com
+0.0.0.0 giftcard.cx
 0.0.0.0 giftcardchallenge.com
 0.0.0.0 giftcardsurveys.us.com
 0.0.0.0 giftprizewinner.com
@@ -70371,6 +70372,7 @@
 0.0.0.0 www.brioportfinex.com
 0.0.0.0 www.brioportfinex.net
 0.0.0.0 www.brisaq.cyou
+0.0.0.0 www.briskappmu.name
 0.0.0.0 www.bristleconety.pro
 0.0.0.0 www.britannia-edge-ai.com
 0.0.0.0 www.britanniaedge121ai.com
@@ -73304,6 +73306,7 @@
 0.0.0.0 www.drive-gen.blog
 0.0.0.0 www.driveavatar.grastarainvestments.com
 0.0.0.0 www.drivefor.sbs
+0.0.0.0 www.drivegoals.com
 0.0.0.0 www.driveloc.com.br
 0.0.0.0 www.drivotracker.com
 0.0.0.0 www.drizzle22drop.pro
@@ -73431,6 +73434,7 @@
 0.0.0.0 www.dynamicdiet.com
 0.0.0.0 www.dynamictoolbar.com
 0.0.0.0 www.dynamictrevion.pl
+0.0.0.0 www.dynamictyres.com
 0.0.0.0 www.dynaris-ai.com
 0.0.0.0 www.dynrecord.live
 0.0.0.0 www.dyqozyi.pro
@@ -73782,6 +73786,7 @@
 0.0.0.0 www.emadesign.net
 0.0.0.0 www.emaill.health
 0.0.0.0 www.emailnow.click
+0.0.0.0 www.emailspend.com
 0.0.0.0 www.emanasuperfoods.com
 0.0.0.0 www.emancoscil.rest
 0.0.0.0 www.emapoultryfarm.xyz
@@ -74085,6 +74090,7 @@
 0.0.0.0 www.ethenti.city
 0.0.0.0 www.etherovantium.org
 0.0.0.0 www.ethicalmarketinggroupdp.pro
+0.0.0.0 www.ethicsstore.com
 0.0.0.0 www.ethnicafrique.com
 0.0.0.0 www.ethnosonicphytoharmo.com
 0.0.0.0 www.ethyltaluk.rest
@@ -74280,6 +74286,7 @@
 0.0.0.0 www.explorehousebuyer.com
 0.0.0.0 www.explorehousebuyers.com
 0.0.0.0 www.explorhythm.hoveylife.com
+0.0.0.0 www.expolearn.com
 0.0.0.0 www.exposeliberia.com
 0.0.0.0 www.exposingwendy.com
 0.0.0.0 www.expoteam.net
@@ -74463,6 +74470,7 @@
 0.0.0.0 www.fashionbagsshop.shop
 0.0.0.0 www.fashioncaoutlet.top
 0.0.0.0 www.fashionfinds.top
+0.0.0.0 www.fashiongown.com
 0.0.0.0 www.fashiongrid.top
 0.0.0.0 www.fashionlift.top
 0.0.0.0 www.fast-adv.it
@@ -75153,6 +75161,7 @@
 0.0.0.0 www.free.propdfconverter.com
 0.0.0.0 www.freeadguru.com
 0.0.0.0 www.freeadult.games
+0.0.0.0 www.freeaquarium.com
 0.0.0.0 www.freebiegb.co.uk
 0.0.0.0 www.freebiesms.co.uk
 0.0.0.0 www.freebitmoney.com
@@ -76078,6 +76087,7 @@
 0.0.0.0 www.greatcas.partyeezy.com
 0.0.0.0 www.greatcle.cfd
 0.0.0.0 www.greatcomeback.org
+0.0.0.0 www.greatdeposit.com
 0.0.0.0 www.greatdexchange.com
 0.0.0.0 www.greaterbustletoncivicleague.org
 0.0.0.0 www.greatfireoflondon.org.uk
@@ -78970,6 +78980,7 @@
 0.0.0.0 www.leanysphere.trl-ai.com
 0.0.0.0 www.learn-german-via-skype.com
 0.0.0.0 www.learningcenter.icu
+0.0.0.0 www.learntechno.com
 0.0.0.0 www.leasely.top
 0.0.0.0 www.leaseunpro.rest
 0.0.0.0 www.leatherapparelshop.com
@@ -79018,6 +79029,7 @@
 0.0.0.0 www.lemmostoun.rest
 0.0.0.0 www.lemnys.com
 0.0.0.0 www.lemon5.de
+0.0.0.0 www.lemoncascadexq.name
 0.0.0.0 www.lemonmov.com
 0.0.0.0 www.lemonparty.biz
 0.0.0.0 www.lemonparty.org
@@ -84385,6 +84397,7 @@
 0.0.0.0 www.primeaurora-it.com
 0.0.0.0 www.primebit.com
 0.0.0.0 www.primecapital-pl.net
+0.0.0.0 www.primecrestnq.name
 0.0.0.0 www.primedigitalagency.site
 0.0.0.0 www.primedk.pl
 0.0.0.0 www.primeevents.site
@@ -85196,6 +85209,7 @@
 0.0.0.0 www.rebrandsoftware.com
 0.0.0.0 www.rebystion.org
 0.0.0.0 www.recall.live
+0.0.0.0 www.recallblog.com
 0.0.0.0 www.recasset.site
 0.0.0.0 www.recatcan.com
 0.0.0.0 www.receive-online.xyz
@@ -85318,6 +85332,7 @@
 0.0.0.0 www.relaxedetap.bond
 0.0.0.0 www.relaxedlibr.snowbirdgetaways.com
 0.0.0.0 www.relaxedthin.casa
+0.0.0.0 www.relaxingcafe.com
 0.0.0.0 www.relayimmo.com
 0.0.0.0 www.releaseiris.sheetsandstuff.com
 0.0.0.0 www.relevantknowledge.com
@@ -85549,6 +85564,7 @@
 0.0.0.0 www.riftfinance.xyz
 0.0.0.0 www.riftnote.site
 0.0.0.0 www.rifulspalc.rest
+0.0.0.0 www.rightchanges.com
 0.0.0.0 www.rightmedia.com
 0.0.0.0 www.rightmedia.net
 0.0.0.0 www.rightsforhomebirth.com
@@ -91781,6 +91797,7 @@
 0.0.0.0 www.woodistaeg.com
 0.0.0.0 www.woodnessty.pro
 0.0.0.0 www.woodssame.cyou
+0.0.0.0 www.woodycrystaljo.name
 0.0.0.0 www.woolwood.shop
 0.0.0.0 www.woolyboys.com
 0.0.0.0 www.woplut.com
