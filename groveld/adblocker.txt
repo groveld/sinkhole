@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 94302
-! Updated: 2026-03-20 02:22:35 UTC
+! Entries: 94307
+! Updated: 2026-03-21 02:20:20 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -20257,6 +20257,7 @@
 ||cbx.net^
 ||cbyczsdsb.com^
 ||cbzdxhavo.com^
+||cbzxy.com^
 ||cc-dt.com^
 ||cc.adingo.jp^
 ||cc.bridgetrack.com^
@@ -29770,6 +29771,7 @@
 ||fjordkrenvista.info^
 ||fjordmantikka.info^
 ||fjordmundhella.info^
+||fjordsand.com^
 ||fjordtsvenkallhevd.info^
 ||fjrfjrsitenchdnfjr.org^
 ||fjrikj.nl^
@@ -71715,6 +71717,7 @@
 ||www.colosseoai.net^
 ||www.columbahouse.com^
 ||www.combalestri.pro^
+||www.combinebasic.com^
 ||www.combiscric.rest^
 ||www.combshell.store^
 ||www.comclick.com^
@@ -79412,6 +79415,7 @@
 ||www.logoaspects.com^
 ||www.logohues.com^
 ||www.logomighty.com^
+||www.logoradar.com^
 ||www.logowanie-prime.com^
 ||www.logowaniepl.pl^
 ||www.lokalnawsparcie.convertri.com^
@@ -84216,6 +84220,7 @@
 ||www.postmediamontrealgazette2.files.wordpress.com^
 ||www.postnewsads.com^
 ||www.postponementsgrateful.impresionentijuana.com^
+||www.postsavings.com^
 ||www.posttbepai.rest^
 ||www.potamricom.rest^
 ||www.potasvecci.rest^

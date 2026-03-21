@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 94300
-# Updated: 2026-03-20 01:33:12 UTC
+# Entries: 94305
+# Updated: 2026-03-21 01:30:54 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -20257,6 +20257,7 @@
 0.0.0.0 cbx.net
 0.0.0.0 cbyczsdsb.com
 0.0.0.0 cbzdxhavo.com
+0.0.0.0 cbzxy.com
 0.0.0.0 cc-dt.com
 0.0.0.0 cc.adingo.jp
 0.0.0.0 cc.bridgetrack.com
@@ -29770,6 +29771,7 @@
 0.0.0.0 fjordkrenvista.info
 0.0.0.0 fjordmantikka.info
 0.0.0.0 fjordmundhella.info
+0.0.0.0 fjordsand.com
 0.0.0.0 fjordtsvenkallhevd.info
 0.0.0.0 fjrfjrsitenchdnfjr.org
 0.0.0.0 fjrikj.nl
@@ -71714,6 +71716,7 @@
 0.0.0.0 www.colosseoai.net
 0.0.0.0 www.columbahouse.com
 0.0.0.0 www.combalestri.pro
+0.0.0.0 www.combinebasic.com
 0.0.0.0 www.combiscric.rest
 0.0.0.0 www.combshell.store
 0.0.0.0 www.comclick.com
@@ -79410,6 +79413,7 @@
 0.0.0.0 www.logoaspects.com
 0.0.0.0 www.logohues.com
 0.0.0.0 www.logomighty.com
+0.0.0.0 www.logoradar.com
 0.0.0.0 www.logowanie-prime.com
 0.0.0.0 www.logowaniepl.pl
 0.0.0.0 www.lokalnawsparcie.convertri.com
@@ -84214,6 +84218,7 @@
 0.0.0.0 www.postmediamontrealgazette2.files.wordpress.com
 0.0.0.0 www.postnewsads.com
 0.0.0.0 www.postponementsgrateful.impresionentijuana.com
+0.0.0.0 www.postsavings.com
 0.0.0.0 www.posttbepai.rest
 0.0.0.0 www.potamricom.rest
 0.0.0.0 www.potasvecci.rest

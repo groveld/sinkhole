@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 94300
-# Updated: 2026-03-20 01:33:12 UTC
+# Entries: 94305
+# Updated: 2026-03-21 01:30:54 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -20257,6 +20257,7 @@ address=/cbtopsites.com/0.0.0.0
 address=/cbx.net/0.0.0.0
 address=/cbyczsdsb.com/0.0.0.0
 address=/cbzdxhavo.com/0.0.0.0
+address=/cbzxy.com/0.0.0.0
 address=/cc-dt.com/0.0.0.0
 address=/cc.adingo.jp/0.0.0.0
 address=/cc.bridgetrack.com/0.0.0.0
@@ -29770,6 +29771,7 @@ address=/fjelvortgrundtsvalkbrenhildamukka.info/0.0.0.0
 address=/fjordkrenvista.info/0.0.0.0
 address=/fjordmantikka.info/0.0.0.0
 address=/fjordmundhella.info/0.0.0.0
+address=/fjordsand.com/0.0.0.0
 address=/fjordtsvenkallhevd.info/0.0.0.0
 address=/fjrfjrsitenchdnfjr.org/0.0.0.0
 address=/fjrikj.nl/0.0.0.0
@@ -71714,6 +71716,7 @@ address=/www.colorking.es/0.0.0.0
 address=/www.colosseoai.net/0.0.0.0
 address=/www.columbahouse.com/0.0.0.0
 address=/www.combalestri.pro/0.0.0.0
+address=/www.combinebasic.com/0.0.0.0
 address=/www.combiscric.rest/0.0.0.0
 address=/www.combshell.store/0.0.0.0
 address=/www.comclick.com/0.0.0.0
@@ -79410,6 +79413,7 @@ address=/www.logitechsolution.com/0.0.0.0
 address=/www.logoaspects.com/0.0.0.0
 address=/www.logohues.com/0.0.0.0
 address=/www.logomighty.com/0.0.0.0
+address=/www.logoradar.com/0.0.0.0
 address=/www.logowanie-prime.com/0.0.0.0
 address=/www.logowaniepl.pl/0.0.0.0
 address=/www.lokalnawsparcie.convertri.com/0.0.0.0
@@ -84214,6 +84218,7 @@ address=/www.postmasterdirect.com/0.0.0.0
 address=/www.postmediamontrealgazette2.files.wordpress.com/0.0.0.0
 address=/www.postnewsads.com/0.0.0.0
 address=/www.postponementsgrateful.impresionentijuana.com/0.0.0.0
+address=/www.postsavings.com/0.0.0.0
 address=/www.posttbepai.rest/0.0.0.0
 address=/www.potamricom.rest/0.0.0.0
 address=/www.potasvecci.rest/0.0.0.0
