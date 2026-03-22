@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 94307
-// Updated: 2026-03-21 02:20:20 UTC
+// Entries: 94312
+// Updated: 2026-03-22 02:26:15 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27075,6 +27075,7 @@ var BLOCKLIST = {
 "eas5.emediate.eu":null,
 "eas8.emediate.eu":null,
 "easerenity.com":null,
+"easewave.digital":null,
 "east.05tz2e9.com":null,
 "east.ads.simpli.fi":null,
 "east.srv.stackadapt.com":null,
@@ -69515,6 +69516,7 @@ var BLOCKLIST = {
 "www.based.care":null,
 "www.based.codes":null,
 "www.based.software":null,
+"www.baseequip.com":null,
 "www.baseinfo.biz":null,
 "www.basenhelp.com":null,
 "www.basenhelp.online":null,
@@ -74307,6 +74309,7 @@ var BLOCKLIST = {
 "www.extra-promotion.cfd":null,
 "www.extra-promotion.cyou":null,
 "www.extra.lanck.info":null,
+"www.extrabrick.com":null,
 "www.extraspluscast.com":null,
 "www.extreme-dm.com":null,
 "www.extremefree.sbs":null,
@@ -89348,6 +89351,7 @@ var BLOCKLIST = {
 "www.traderrapideia-fr.com":null,
 "www.tradersbrokers.com":null,
 "www.traderschain.com":null,
+"www.tradewinning.com":null,
 "www.tradeyieldgrove-ai.fyi":null,
 "www.trading.com":null,
 "www.tradingcapital.ltd":null,
@@ -89826,6 +89830,7 @@ var BLOCKLIST = {
 "www.ultrabritish.com":null,
 "www.ultradeepcrystalview.pro":null,
 "www.ultraprotect.tel":null,
+"www.ultratemps.com":null,
 "www.ultratrade-ai.fyi":null,
 "www.ultratrck.com":null,
 "www.ulubiony-sklep.top":null,

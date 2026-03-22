@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 94307
-# Updated: 2026-03-21 02:20:20 UTC
+# Entries: 94312
+# Updated: 2026-03-22 02:26:15 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27074,6 +27074,7 @@ address=/eas4.emediate.eu/0.0.0.0
 address=/eas5.emediate.eu/0.0.0.0
 address=/eas8.emediate.eu/0.0.0.0
 address=/easerenity.com/0.0.0.0
+address=/easewave.digital/0.0.0.0
 address=/east.05tz2e9.com/0.0.0.0
 address=/east.ads.simpli.fi/0.0.0.0
 address=/east.srv.stackadapt.com/0.0.0.0
@@ -69514,6 +69515,7 @@ address=/www.baseacorn.sbs/0.0.0.0
 address=/www.based.care/0.0.0.0
 address=/www.based.codes/0.0.0.0
 address=/www.based.software/0.0.0.0
+address=/www.baseequip.com/0.0.0.0
 address=/www.baseinfo.biz/0.0.0.0
 address=/www.basenhelp.com/0.0.0.0
 address=/www.basenhelp.online/0.0.0.0
@@ -74306,6 +74308,7 @@ address=/www.extra-gift.icu/0.0.0.0
 address=/www.extra-promotion.cfd/0.0.0.0
 address=/www.extra-promotion.cyou/0.0.0.0
 address=/www.extra.lanck.info/0.0.0.0
+address=/www.extrabrick.com/0.0.0.0
 address=/www.extraspluscast.com/0.0.0.0
 address=/www.extreme-dm.com/0.0.0.0
 address=/www.extremefree.sbs/0.0.0.0
@@ -89347,6 +89350,7 @@ address=/www.traderprof.today/0.0.0.0
 address=/www.traderrapideia-fr.com/0.0.0.0
 address=/www.tradersbrokers.com/0.0.0.0
 address=/www.traderschain.com/0.0.0.0
+address=/www.tradewinning.com/0.0.0.0
 address=/www.tradeyieldgrove-ai.fyi/0.0.0.0
 address=/www.trading.com/0.0.0.0
 address=/www.tradingcapital.ltd/0.0.0.0
@@ -89825,6 +89829,7 @@ address=/www.ultra-cda.pl/0.0.0.0
 address=/www.ultrabritish.com/0.0.0.0
 address=/www.ultradeepcrystalview.pro/0.0.0.0
 address=/www.ultraprotect.tel/0.0.0.0
+address=/www.ultratemps.com/0.0.0.0
 address=/www.ultratrade-ai.fyi/0.0.0.0
 address=/www.ultratrck.com/0.0.0.0
 address=/www.ulubiony-sklep.top/0.0.0.0

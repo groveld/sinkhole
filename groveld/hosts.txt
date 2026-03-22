@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 94307
-# Updated: 2026-03-21 02:20:20 UTC
+# Entries: 94312
+# Updated: 2026-03-22 02:26:15 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27074,6 +27074,7 @@
 0.0.0.0 eas5.emediate.eu
 0.0.0.0 eas8.emediate.eu
 0.0.0.0 easerenity.com
+0.0.0.0 easewave.digital
 0.0.0.0 east.05tz2e9.com
 0.0.0.0 east.ads.simpli.fi
 0.0.0.0 east.srv.stackadapt.com
@@ -69514,6 +69515,7 @@
 0.0.0.0 www.based.care
 0.0.0.0 www.based.codes
 0.0.0.0 www.based.software
+0.0.0.0 www.baseequip.com
 0.0.0.0 www.baseinfo.biz
 0.0.0.0 www.basenhelp.com
 0.0.0.0 www.basenhelp.online
@@ -74306,6 +74308,7 @@
 0.0.0.0 www.extra-promotion.cfd
 0.0.0.0 www.extra-promotion.cyou
 0.0.0.0 www.extra.lanck.info
+0.0.0.0 www.extrabrick.com
 0.0.0.0 www.extraspluscast.com
 0.0.0.0 www.extreme-dm.com
 0.0.0.0 www.extremefree.sbs
@@ -89347,6 +89350,7 @@
 0.0.0.0 www.traderrapideia-fr.com
 0.0.0.0 www.tradersbrokers.com
 0.0.0.0 www.traderschain.com
+0.0.0.0 www.tradewinning.com
 0.0.0.0 www.tradeyieldgrove-ai.fyi
 0.0.0.0 www.trading.com
 0.0.0.0 www.tradingcapital.ltd
@@ -89825,6 +89829,7 @@
 0.0.0.0 www.ultrabritish.com
 0.0.0.0 www.ultradeepcrystalview.pro
 0.0.0.0 www.ultraprotect.tel
+0.0.0.0 www.ultratemps.com
 0.0.0.0 www.ultratrade-ai.fyi
 0.0.0.0 www.ultratrck.com
 0.0.0.0 www.ulubiony-sklep.top

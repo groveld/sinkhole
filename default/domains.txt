@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 94305
-# Updated: 2026-03-21 01:30:54 UTC
+# Entries: 94310
+# Updated: 2026-03-22 01:36:52 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27074,6 +27074,7 @@ eas4.emediate.eu
 eas5.emediate.eu
 eas8.emediate.eu
 easerenity.com
+easewave.digital
 east.05tz2e9.com
 east.ads.simpli.fi
 east.srv.stackadapt.com
@@ -69513,6 +69514,7 @@ www.baseacorn.sbs
 www.based.care
 www.based.codes
 www.based.software
+www.baseequip.com
 www.baseinfo.biz
 www.basenhelp.com
 www.basenhelp.online
@@ -74305,6 +74307,7 @@ www.extra-gift.icu
 www.extra-promotion.cfd
 www.extra-promotion.cyou
 www.extra.lanck.info
+www.extrabrick.com
 www.extraspluscast.com
 www.extreme-dm.com
 www.extremefree.sbs
@@ -89345,6 +89348,7 @@ www.traderprof.today
 www.traderrapideia-fr.com
 www.tradersbrokers.com
 www.traderschain.com
+www.tradewinning.com
 www.tradeyieldgrove-ai.fyi
 www.trading.com
 www.tradingcapital.ltd
@@ -89823,6 +89827,7 @@ www.ultra-cda.pl
 www.ultrabritish.com
 www.ultradeepcrystalview.pro
 www.ultraprotect.tel
+www.ultratemps.com
 www.ultratrade-ai.fyi
 www.ultratrck.com
 www.ulubiony-sklep.top
