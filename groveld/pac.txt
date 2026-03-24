@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 98410
-// Updated: 2026-03-23 02:26:47 UTC
+// Entries: 98414
+// Updated: 2026-03-24 02:18:50 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74983,6 +74983,7 @@ var BLOCKLIST = {
 "www.dentalsearchsolutions.com":null,
 "www.dentaltex.digital":null,
 "www.denti.airdroneazon.com":null,
+"www.dentistkids.com":null,
 "www.dentistwebboosters.com":null,
 "www.dentolan.pl":null,
 "www.denunukozoprd.pro":null,
@@ -79278,6 +79279,7 @@ var BLOCKLIST = {
 "www.highcashmonthchallenge.com":null,
 "www.highclosed.cfd":null,
 "www.higherlevellabs.com":null,
+"www.higherteam.com":null,
 "www.highestcashmonths.com":null,
 "www.highfivedog.com":null,
 "www.highimpactwebsitesov.pro":null,
@@ -90713,6 +90715,7 @@ var BLOCKLIST = {
 "www.snowdepth.us":null,
 "www.snowgear-clearance.shop":null,
 "www.snowgearride.shop":null,
+"www.snowhandball.com":null,
 "www.snowhow.co":null,
 "www.sntdwphnbtrvzfxz.top":null,
 "www.snu.aacarm.info":null,
@@ -92181,6 +92184,7 @@ var BLOCKLIST = {
 "www.tdejb.com":null,
 "www.tdepl.proximatechat.com":null,
 "www.tdstats.com":null,
+"www.teafortune.com":null,
 "www.teakasset-th.com":null,
 "www.teakasset-th.fyi":null,
 "www.tealwirecreations.com":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 98408
-# Updated: 2026-03-23 01:37:24 UTC
+# Entries: 98412
+# Updated: 2026-03-24 01:29:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74981,6 +74981,7 @@
 0.0.0.0 www.dentalsearchsolutions.com
 0.0.0.0 www.dentaltex.digital
 0.0.0.0 www.denti.airdroneazon.com
+0.0.0.0 www.dentistkids.com
 0.0.0.0 www.dentistwebboosters.com
 0.0.0.0 www.dentolan.pl
 0.0.0.0 www.denunukozoprd.pro
@@ -79275,6 +79276,7 @@
 0.0.0.0 www.highcashmonthchallenge.com
 0.0.0.0 www.highclosed.cfd
 0.0.0.0 www.higherlevellabs.com
+0.0.0.0 www.higherteam.com
 0.0.0.0 www.highestcashmonths.com
 0.0.0.0 www.highfivedog.com
 0.0.0.0 www.highimpactwebsitesov.pro
@@ -90710,6 +90712,7 @@
 0.0.0.0 www.snowdepth.us
 0.0.0.0 www.snowgear-clearance.shop
 0.0.0.0 www.snowgearride.shop
+0.0.0.0 www.snowhandball.com
 0.0.0.0 www.snowhow.co
 0.0.0.0 www.sntdwphnbtrvzfxz.top
 0.0.0.0 www.snu.aacarm.info
@@ -92178,6 +92181,7 @@
 0.0.0.0 www.tdejb.com
 0.0.0.0 www.tdepl.proximatechat.com
 0.0.0.0 www.tdstats.com
+0.0.0.0 www.teafortune.com
 0.0.0.0 www.teakasset-th.com
 0.0.0.0 www.teakasset-th.fyi
 0.0.0.0 www.tealwirecreations.com
