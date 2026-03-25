@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 98412
-! Updated: 2026-03-24 01:29:27 UTC
+! Entries: 98429
+! Updated: 2026-03-25 01:35:17 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -71439,6 +71439,7 @@
 ||www.bananarepubic.com^
 ||www.bancareshe.rest^
 ||www.banchdispu.rest^
+||www.bandexperts.com^
 ||www.bandiscacc.rest^
 ||www.bandpromoting.com^
 ||www.bandsdec.bond^
@@ -72596,6 +72597,7 @@
 ||www.buildwealth.click^
 ||www.buildyourwealth.click^
 ||www.built2030.com^
+||www.builtinfo.com^
 ||www.builtwith.site^
 ||www.buiten-bergen.eu^
 ||www.bukavi.pl^
@@ -73463,6 +73465,7 @@
 ||www.ciclodiasp.rest^
 ||www.ciderbayoulg.pro^
 ||www.ciderglowcm.site^
+||www.cidersunjt.com^
 ||www.cidiotgonecountry.com^
 ||www.ciekawe24.pl.ua^
 ||www.cienum.fr^
@@ -73826,6 +73829,7 @@
 ||www.coconutcare.com^
 ||www.coconuthedge.cyou^
 ||www.coconutrush.secretistanbul.com^
+||www.coconutsport.com^
 ||www.cocoopt.com^
 ||www.codeads.com^
 ||www.codeandwork.pl^
@@ -77267,6 +77271,7 @@
 ||www.fixedincometips.com^
 ||www.fixedshine.com^
 ||www.fixeskey.readingspeedgrader.com^
+||www.fixingfast.com^
 ||www.fizjoterapia.5v.pl^
 ||www.fizuhaoob.autos^
 ||www.fizz6ypop.pro^
@@ -77401,6 +77406,7 @@
 ||www.flufffy7tail.pro^
 ||www.fluffmatic3hub.info^
 ||www.fluffy3tail.pro^
+||www.fluffyappyp.com^
 ||www.fluffycircus.online^
 ||www.flugelitte.rest^
 ||www.fluidfiber.com^
@@ -79783,6 +79789,7 @@
 ||www.icracks.net^
 ||www.icsid-fund.com^
 ||www.ictserviceunit.weebly.com^
+||www.icygrovejn.com^
 ||www.icyhivemy.name^
 ||www.icysmp.store^
 ||www.id-893822.com^
@@ -82040,6 +82047,7 @@
 ||www.lightmeadowinfo.site^
 ||www.lightovervalley.com^
 ||www.lightsroeeast.info^
+||www.lightstylist.com^
 ||www.lighttaskpf.pro^
 ||www.lightthroughgrove.com^
 ||www.lightthroughharbor.com^
@@ -82490,6 +82498,7 @@
 ||www.luminesta.top^
 ||www.luminousarborhaven.pro^
 ||www.lumispill.com^
+||www.lunargrovefx.com^
 ||www.lunarivera.shop^
 ||www.lundarbekki.info^
 ||www.lunefinwex-fr.fyi^
@@ -85104,6 +85113,7 @@
 ||www.openatouch.seattlesportbetting.com^
 ||www.opencanyonview.com^
 ||www.opencatal.com^
+||www.opencharms.com^
 ||www.opendownload.de^
 ||www.opendownloadmanager.com^
 ||www.openeliminate.com^
@@ -90374,6 +90384,7 @@
 ||www.sitononraggiungibile.it^
 ||www.sitradraetamj.pro^
 ||www.sixsigmatraffic.com^
+||www.sizecart.com^
 ||www.sizeer.obelink-nl.top^
 ||www.sizeeroutlet.com^
 ||www.sizeersale-pl.sbs^
@@ -90751,6 +90762,7 @@
 ||www.soft4click.com^
 ||www.softaffilsystems.com^
 ||www.softcamisole.shop^
+||www.softcarp.com^
 ||www.softcha.com^
 ||www.softixalp.top^
 ||www.softmania.pl^
@@ -91383,6 +91395,7 @@
 ||www.stoborsvoll.net^
 ||www.stock-monkey.com^
 ||www.stocksons.com^
+||www.stocksrate.com^
 ||www.stockway.net^
 ||www.stockwiz.org^
 ||www.stokermerton.shop^
@@ -91566,6 +91579,7 @@
 ||www.styleramp.xyz^
 ||www.styliricon.rest^
 ||www.stylishshoe.shop^
+||www.stylistnet.com^
 ||www.stylovemeble.pl^
 ||www.stylowoimodnie.pl^
 ||www.stzlk.com^
@@ -91593,6 +91607,7 @@
 ||www.subskrypcje.online^
 ||www.subt64exxrranean.info^
 ||www.subvooersion.info^
+||www.subwayfast.com^
 ||www.succesdirecticiu-de.com^
 ||www.successfulpurple.click^
 ||www.successrise.info^
@@ -91882,6 +91897,7 @@
 ||www.sweeetspot.info^
 ||www.sweerrenco.rest^
 ||www.sweetdominique.com^
+||www.sweetdreamiu.com^
 ||www.sweetgreenmenu.com^
 ||www.sweetiesecrets.com^
 ||www.sweetsforfree.com^
@@ -95138,6 +95154,7 @@
 ||www.watchspe.ipegas.com^
 ||www.watchspi.best^
 ||www.watchvideo.pl^
+||www.waterchalk.com^
 ||www.waterchamber.com^
 ||www.waterfallinst.ididedit.com^
 ||www.waterstroom.pro^

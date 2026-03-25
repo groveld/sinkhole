@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 98414
-# Updated: 2026-03-24 02:18:50 UTC
+# Entries: 98431
+# Updated: 2026-03-25 02:24:39 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -71440,6 +71440,7 @@
 0.0.0.0 www.bananarepubic.com
 0.0.0.0 www.bancareshe.rest
 0.0.0.0 www.banchdispu.rest
+0.0.0.0 www.bandexperts.com
 0.0.0.0 www.bandiscacc.rest
 0.0.0.0 www.bandpromoting.com
 0.0.0.0 www.bandsdec.bond
@@ -72597,6 +72598,7 @@
 0.0.0.0 www.buildwealth.click
 0.0.0.0 www.buildyourwealth.click
 0.0.0.0 www.built2030.com
+0.0.0.0 www.builtinfo.com
 0.0.0.0 www.builtwith.site
 0.0.0.0 www.buiten-bergen.eu
 0.0.0.0 www.bukavi.pl
@@ -73464,6 +73466,7 @@
 0.0.0.0 www.ciclodiasp.rest
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
+0.0.0.0 www.cidersunjt.com
 0.0.0.0 www.cidiotgonecountry.com
 0.0.0.0 www.ciekawe24.pl.ua
 0.0.0.0 www.cienum.fr
@@ -73827,6 +73830,7 @@
 0.0.0.0 www.coconutcare.com
 0.0.0.0 www.coconuthedge.cyou
 0.0.0.0 www.coconutrush.secretistanbul.com
+0.0.0.0 www.coconutsport.com
 0.0.0.0 www.cocoopt.com
 0.0.0.0 www.codeads.com
 0.0.0.0 www.codeandwork.pl
@@ -77268,6 +77272,7 @@
 0.0.0.0 www.fixedincometips.com
 0.0.0.0 www.fixedshine.com
 0.0.0.0 www.fixeskey.readingspeedgrader.com
+0.0.0.0 www.fixingfast.com
 0.0.0.0 www.fizjoterapia.5v.pl
 0.0.0.0 www.fizuhaoob.autos
 0.0.0.0 www.fizz6ypop.pro
@@ -77402,6 +77407,7 @@
 0.0.0.0 www.flufffy7tail.pro
 0.0.0.0 www.fluffmatic3hub.info
 0.0.0.0 www.fluffy3tail.pro
+0.0.0.0 www.fluffyappyp.com
 0.0.0.0 www.fluffycircus.online
 0.0.0.0 www.flugelitte.rest
 0.0.0.0 www.fluidfiber.com
@@ -79785,6 +79791,7 @@
 0.0.0.0 www.icracks.net
 0.0.0.0 www.icsid-fund.com
 0.0.0.0 www.ictserviceunit.weebly.com
+0.0.0.0 www.icygrovejn.com
 0.0.0.0 www.icyhivemy.name
 0.0.0.0 www.icysmp.store
 0.0.0.0 www.id-893822.com
@@ -82042,6 +82049,7 @@
 0.0.0.0 www.lightmeadowinfo.site
 0.0.0.0 www.lightovervalley.com
 0.0.0.0 www.lightsroeeast.info
+0.0.0.0 www.lightstylist.com
 0.0.0.0 www.lighttaskpf.pro
 0.0.0.0 www.lightthroughgrove.com
 0.0.0.0 www.lightthroughharbor.com
@@ -82492,6 +82500,7 @@
 0.0.0.0 www.luminesta.top
 0.0.0.0 www.luminousarborhaven.pro
 0.0.0.0 www.lumispill.com
+0.0.0.0 www.lunargrovefx.com
 0.0.0.0 www.lunarivera.shop
 0.0.0.0 www.lundarbekki.info
 0.0.0.0 www.lunefinwex-fr.fyi
@@ -85106,6 +85115,7 @@
 0.0.0.0 www.openatouch.seattlesportbetting.com
 0.0.0.0 www.opencanyonview.com
 0.0.0.0 www.opencatal.com
+0.0.0.0 www.opencharms.com
 0.0.0.0 www.opendownload.de
 0.0.0.0 www.opendownloadmanager.com
 0.0.0.0 www.openeliminate.com
@@ -90376,6 +90386,7 @@
 0.0.0.0 www.sitononraggiungibile.it
 0.0.0.0 www.sitradraetamj.pro
 0.0.0.0 www.sixsigmatraffic.com
+0.0.0.0 www.sizecart.com
 0.0.0.0 www.sizeer.obelink-nl.top
 0.0.0.0 www.sizeeroutlet.com
 0.0.0.0 www.sizeersale-pl.sbs
@@ -90753,6 +90764,7 @@
 0.0.0.0 www.soft4click.com
 0.0.0.0 www.softaffilsystems.com
 0.0.0.0 www.softcamisole.shop
+0.0.0.0 www.softcarp.com
 0.0.0.0 www.softcha.com
 0.0.0.0 www.softixalp.top
 0.0.0.0 www.softmania.pl
@@ -91385,6 +91397,7 @@
 0.0.0.0 www.stoborsvoll.net
 0.0.0.0 www.stock-monkey.com
 0.0.0.0 www.stocksons.com
+0.0.0.0 www.stocksrate.com
 0.0.0.0 www.stockway.net
 0.0.0.0 www.stockwiz.org
 0.0.0.0 www.stokermerton.shop
@@ -91568,6 +91581,7 @@
 0.0.0.0 www.styleramp.xyz
 0.0.0.0 www.styliricon.rest
 0.0.0.0 www.stylishshoe.shop
+0.0.0.0 www.stylistnet.com
 0.0.0.0 www.stylovemeble.pl
 0.0.0.0 www.stylowoimodnie.pl
 0.0.0.0 www.stzlk.com
@@ -91595,6 +91609,7 @@
 0.0.0.0 www.subskrypcje.online
 0.0.0.0 www.subt64exxrranean.info
 0.0.0.0 www.subvooersion.info
+0.0.0.0 www.subwayfast.com
 0.0.0.0 www.succesdirecticiu-de.com
 0.0.0.0 www.successfulpurple.click
 0.0.0.0 www.successrise.info
@@ -91884,6 +91899,7 @@
 0.0.0.0 www.sweeetspot.info
 0.0.0.0 www.sweerrenco.rest
 0.0.0.0 www.sweetdominique.com
+0.0.0.0 www.sweetdreamiu.com
 0.0.0.0 www.sweetgreenmenu.com
 0.0.0.0 www.sweetiesecrets.com
 0.0.0.0 www.sweetsforfree.com
@@ -95140,6 +95156,7 @@
 0.0.0.0 www.watchspe.ipegas.com
 0.0.0.0 www.watchspi.best
 0.0.0.0 www.watchvideo.pl
+0.0.0.0 www.waterchalk.com
 0.0.0.0 www.waterchamber.com
 0.0.0.0 www.waterfallinst.ididedit.com
 0.0.0.0 www.waterstroom.pro
