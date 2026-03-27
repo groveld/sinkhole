@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 99763
-// Updated: 2026-03-26 01:38:22 UTC
+// Entries: 99774
+// Updated: 2026-03-27 01:38:40 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40071,6 +40071,7 @@ var BLOCKLIST = {
 "livivida.com":null,
 "livreral.fr":null,
 "livrval.fr":null,
+"livsffer.sa.com":null,
 "livtyler.sexybabesx.com":null,
 "liwoscia.com":null,
 "lizarcapti.rest":null,
@@ -71027,6 +71028,7 @@ var BLOCKLIST = {
 "www.alisatilsner.com":null,
 "www.alise.pl":null,
 "www.alisfortes.com":null,
+"www.alittlelewd.com":null,
 "www.alive-ua.com":null,
 "www.alivedays.emdrbeat.com":null,
 "www.alivegirls.com":null,
@@ -71089,6 +71091,7 @@ var BLOCKLIST = {
 "www.alltrm.com.pl":null,
 "www.alltube-tv.pl":null,
 "www.allusbostr.rest":null,
+"www.allusermanual.com":null,
 "www.alluvscamp.rest":null,
 "www.allyoursearch.com":null,
 "www.almaha-food.com":null,
@@ -72885,6 +72888,7 @@ var BLOCKLIST = {
 "www.bookmarketafrica.com":null,
 "www.booknookninja.com":null,
 "www.bookprestigeproperties.com":null,
+"www.bookstadium.com":null,
 "www.bookstoneleafuj.info":null,
 "www.boominde.cfd":null,
 "www.boomix.pl":null,
@@ -74015,6 +74019,7 @@ var BLOCKLIST = {
 "www.checkguestsstay1099.com":null,
 "www.checkin-gueststay1499.com":null,
 "www.checkminiguststay.com":null,
+"www.checkpics.com":null,
 "www.checkpoint507-booking.com":null,
 "www.checksguest399123.info":null,
 "www.checkstat.nl":null,
@@ -77929,6 +77934,7 @@ var BLOCKLIST = {
 "www.fincert.it":null,
 "www.fincodec.online":null,
 "www.findalgorithm.com":null,
+"www.findalign.com":null,
 "www.findarigger.com":null,
 "www.findconnectop.info":null,
 "www.finddealxgge.info":null,
@@ -78735,6 +78741,7 @@ var BLOCKLIST = {
 "www.futureiron.click":null,
 "www.futuremintview.pro":null,
 "www.futurenet.club":null,
+"www.futureowned.com":null,
 "www.futurepay.globway.eu":null,
 "www.futurereadyca.com":null,
 "www.futuretechagencydf.pro":null,
@@ -80616,6 +80623,7 @@ var BLOCKLIST = {
 "www.hypertechz.com":null,
 "www.hypertracker.com":null,
 "www.hypervampi.rest":null,
+"www.hypetrust.com":null,
 "www.hypnoseterapi.com":null,
 "www.hypnotone.com":null,
 "www.hypothex.flyinsideflightsim.com":null,
@@ -83865,6 +83873,7 @@ var BLOCKLIST = {
 "www.megadown.us":null,
 "www.megagiftcity.com":null,
 "www.megapornbucks.com":null,
+"www.megapurchase.com":null,
 "www.megastats.com":null,
 "www.megawealthbiz.com":null,
 "www.meireis.de":null,
@@ -84271,6 +84280,7 @@ var BLOCKLIST = {
 "www.mosonudrouqj.pro":null,
 "www.mosscrea.customiseyourbooks.com":null,
 "www.mostatewidemusicandministry.org":null,
+"www.mostexchange.com":null,
 "www.motezirefoc.rest":null,
 "www.motifiles.com":null,
 "www.motionlink.jp":null,
@@ -84697,6 +84707,7 @@ var BLOCKLIST = {
 "www.neonflamepilot.pro":null,
 "www.neonforgeworks.com":null,
 "www.neonnnight.info":null,
+"www.neonpack.com":null,
 "www.neonpulsesss.site":null,
 "www.neonracketpro.com":null,
 "www.neonsoakedfeverdream.com":null,

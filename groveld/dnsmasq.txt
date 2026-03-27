@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 99765
-# Updated: 2026-03-26 02:27:43 UTC
+# Entries: 99776
+# Updated: 2026-03-27 02:28:03 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -40071,6 +40071,7 @@ address=/livingwatersbiblecamp.org/0.0.0.0
 address=/livivida.com/0.0.0.0
 address=/livreral.fr/0.0.0.0
 address=/livrval.fr/0.0.0.0
+address=/livsffer.sa.com/0.0.0.0
 address=/livtyler.sexybabesx.com/0.0.0.0
 address=/liwoscia.com/0.0.0.0
 address=/lizarcapti.rest/0.0.0.0
@@ -71027,6 +71028,7 @@ address=/www.alirey.com/0.0.0.0
 address=/www.alisatilsner.com/0.0.0.0
 address=/www.alise.pl/0.0.0.0
 address=/www.alisfortes.com/0.0.0.0
+address=/www.alittlelewd.com/0.0.0.0
 address=/www.alive-ua.com/0.0.0.0
 address=/www.alivedays.emdrbeat.com/0.0.0.0
 address=/www.alivegirls.com/0.0.0.0
@@ -71089,6 +71091,7 @@ address=/www.alltagski.info/0.0.0.0
 address=/www.alltrm.com.pl/0.0.0.0
 address=/www.alltube-tv.pl/0.0.0.0
 address=/www.allusbostr.rest/0.0.0.0
+address=/www.allusermanual.com/0.0.0.0
 address=/www.alluvscamp.rest/0.0.0.0
 address=/www.allyoursearch.com/0.0.0.0
 address=/www.almaha-food.com/0.0.0.0
@@ -72885,6 +72888,7 @@ address=/www.bookkeepersway.com/0.0.0.0
 address=/www.bookmarketafrica.com/0.0.0.0
 address=/www.booknookninja.com/0.0.0.0
 address=/www.bookprestigeproperties.com/0.0.0.0
+address=/www.bookstadium.com/0.0.0.0
 address=/www.bookstoneleafuj.info/0.0.0.0
 address=/www.boominde.cfd/0.0.0.0
 address=/www.boomix.pl/0.0.0.0
@@ -74015,6 +74019,7 @@ address=/www.checkguard306-booking.com/0.0.0.0
 address=/www.checkguestsstay1099.com/0.0.0.0
 address=/www.checkin-gueststay1499.com/0.0.0.0
 address=/www.checkminiguststay.com/0.0.0.0
+address=/www.checkpics.com/0.0.0.0
 address=/www.checkpoint507-booking.com/0.0.0.0
 address=/www.checksguest399123.info/0.0.0.0
 address=/www.checkstat.nl/0.0.0.0
@@ -77929,6 +77934,7 @@ address=/www.fincadonandres.com/0.0.0.0
 address=/www.fincert.it/0.0.0.0
 address=/www.fincodec.online/0.0.0.0
 address=/www.findalgorithm.com/0.0.0.0
+address=/www.findalign.com/0.0.0.0
 address=/www.findarigger.com/0.0.0.0
 address=/www.findconnectop.info/0.0.0.0
 address=/www.finddealxgge.info/0.0.0.0
@@ -78735,6 +78741,7 @@ address=/www.futuregrow.info/0.0.0.0
 address=/www.futureiron.click/0.0.0.0
 address=/www.futuremintview.pro/0.0.0.0
 address=/www.futurenet.club/0.0.0.0
+address=/www.futureowned.com/0.0.0.0
 address=/www.futurepay.globway.eu/0.0.0.0
 address=/www.futurereadyca.com/0.0.0.0
 address=/www.futuretechagencydf.pro/0.0.0.0
@@ -80617,6 +80624,7 @@ address=/www.hyperstech.com/0.0.0.0
 address=/www.hypertechz.com/0.0.0.0
 address=/www.hypertracker.com/0.0.0.0
 address=/www.hypervampi.rest/0.0.0.0
+address=/www.hypetrust.com/0.0.0.0
 address=/www.hypnoseterapi.com/0.0.0.0
 address=/www.hypnotone.com/0.0.0.0
 address=/www.hypothex.flyinsideflightsim.com/0.0.0.0
@@ -83866,6 +83874,7 @@ address=/www.megacounter.de/0.0.0.0
 address=/www.megadown.us/0.0.0.0
 address=/www.megagiftcity.com/0.0.0.0
 address=/www.megapornbucks.com/0.0.0.0
+address=/www.megapurchase.com/0.0.0.0
 address=/www.megastats.com/0.0.0.0
 address=/www.megawealthbiz.com/0.0.0.0
 address=/www.meireis.de/0.0.0.0
@@ -84272,6 +84281,7 @@ address=/www.moscovium.aaaplusgifts.top/0.0.0.0
 address=/www.mosonudrouqj.pro/0.0.0.0
 address=/www.mosscrea.customiseyourbooks.com/0.0.0.0
 address=/www.mostatewidemusicandministry.org/0.0.0.0
+address=/www.mostexchange.com/0.0.0.0
 address=/www.motezirefoc.rest/0.0.0.0
 address=/www.motifiles.com/0.0.0.0
 address=/www.motionlink.jp/0.0.0.0
@@ -84698,6 +84708,7 @@ address=/www.neobrutalism.site/0.0.0.0
 address=/www.neonflamepilot.pro/0.0.0.0
 address=/www.neonforgeworks.com/0.0.0.0
 address=/www.neonnnight.info/0.0.0.0
+address=/www.neonpack.com/0.0.0.0
 address=/www.neonpulsesss.site/0.0.0.0
 address=/www.neonracketpro.com/0.0.0.0
 address=/www.neonsoakedfeverdream.com/0.0.0.0
