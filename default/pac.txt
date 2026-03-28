@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 99774
-// Updated: 2026-03-27 01:38:40 UTC
+// Entries: 99783
+// Updated: 2026-03-28 01:34:20 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -8205,6 +8205,7 @@ var BLOCKLIST = {
 "ads.revenue.net":null,
 "ads.revjet.com":null,
 "ads.revsci.net":null,
+"ads.reward-hunt.com":null,
 "ads.right-ads.com":null,
 "ads.rim.co.uk":null,
 "ads.ripoffreport.com":null,
@@ -10430,6 +10431,7 @@ var BLOCKLIST = {
 "adstracking.apps.zing.vn":null,
 "adstract.adk2x.com":null,
 "adstream.cardboardfish.com":null,
+"adstub.net":null,
 "adstune.com":null,
 "adsuite.adsparc.net":null,
 "adsunflower.com":null,
@@ -70336,6 +70338,7 @@ var BLOCKLIST = {
 "www.activemeter.com":null,
 "www.activepr.ru":null,
 "www.activestin-pl.great-beauty.org":null,
+"www.activetrap.com":null,
 "www.activewatch.ro":null,
 "www.activexlettuce.club":null,
 "www.activget.hoveylife.com":null,
@@ -70568,6 +70571,7 @@ var BLOCKLIST = {
 "www.adscampaign.net":null,
 "www.adscience.nl":null,
 "www.adsedo.com":null,
+"www.adselector.com":null,
 "www.adsensecustomsearchads.com":null,
 "www.adsentra.com":null,
 "www.adservd.com":null,
@@ -72158,6 +72162,7 @@ var BLOCKLIST = {
 "www.bartek2026.com":null,
 "www.bartekzukiewicz.pl":null,
 "www.base-vod.pl":null,
+"www.basealloys.com":null,
 "www.baseequip.com":null,
 "www.basegpinecone.mgsaraburi.com":null,
 "www.baseinfo.biz":null,
@@ -75380,6 +75385,7 @@ var BLOCKLIST = {
 "www.daily-planner.site":null,
 "www.daily.boonovel.com":null,
 "www.dailyanswers.pro":null,
+"www.dailyazure.com":null,
 "www.dailybestoffers.com":null,
 "www.dailyblueciu.pro":null,
 "www.dailycentral.pro":null,
@@ -81206,6 +81212,7 @@ var BLOCKLIST = {
 "www.instantakpro2x-ai.fyi":null,
 "www.instantakpro2x.fyi":null,
 "www.instantbuzz.com":null,
+"www.instantcross.com":null,
 "www.instanteuraxhub-it.com":null,
 "www.instantevexai-it.com":null,
 "www.instantevexai-it.fyi":null,
@@ -84812,6 +84819,7 @@ var BLOCKLIST = {
 "www.newsbreak.com":null,
 "www.newsgazet.site":null,
 "www.newsgovpro.site":null,
+"www.newshello.com":null,
 "www.newsincognito.site":null,
 "www.newsinfohub.com":null,
 "www.newsmemorial.site":null,
@@ -92422,6 +92430,7 @@ var BLOCKLIST = {
 "www.steamrub.com":null,
 "www.steamtraffic.com":null,
 "www.stedorix-ai-hr.com":null,
+"www.steelbucks.com":null,
 "www.steelcraftersco.store":null,
 "www.steelphoenixlab.online":null,
 "www.steeltriu.comprarcriptomoedas.com":null,

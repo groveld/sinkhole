@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 99774
-! Updated: 2026-03-27 01:38:40 UTC
+! Entries: 99783
+! Updated: 2026-03-28 01:34:20 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -8204,6 +8204,7 @@
 ||ads.revenue.net^
 ||ads.revjet.com^
 ||ads.revsci.net^
+||ads.reward-hunt.com^
 ||ads.right-ads.com^
 ||ads.rim.co.uk^
 ||ads.ripoffreport.com^
@@ -10429,6 +10430,7 @@
 ||adstracking.apps.zing.vn^
 ||adstract.adk2x.com^
 ||adstream.cardboardfish.com^
+||adstub.net^
 ||adstune.com^
 ||adsuite.adsparc.net^
 ||adsunflower.com^
@@ -70335,6 +70337,7 @@
 ||www.activemeter.com^
 ||www.activepr.ru^
 ||www.activestin-pl.great-beauty.org^
+||www.activetrap.com^
 ||www.activewatch.ro^
 ||www.activexlettuce.club^
 ||www.activget.hoveylife.com^
@@ -70567,6 +70570,7 @@
 ||www.adscampaign.net^
 ||www.adscience.nl^
 ||www.adsedo.com^
+||www.adselector.com^
 ||www.adsensecustomsearchads.com^
 ||www.adsentra.com^
 ||www.adservd.com^
@@ -72157,6 +72161,7 @@
 ||www.bartek2026.com^
 ||www.bartekzukiewicz.pl^
 ||www.base-vod.pl^
+||www.basealloys.com^
 ||www.baseequip.com^
 ||www.basegpinecone.mgsaraburi.com^
 ||www.baseinfo.biz^
@@ -75379,6 +75384,7 @@
 ||www.daily-planner.site^
 ||www.daily.boonovel.com^
 ||www.dailyanswers.pro^
+||www.dailyazure.com^
 ||www.dailybestoffers.com^
 ||www.dailyblueciu.pro^
 ||www.dailycentral.pro^
@@ -81205,6 +81211,7 @@
 ||www.instantakpro2x-ai.fyi^
 ||www.instantakpro2x.fyi^
 ||www.instantbuzz.com^
+||www.instantcross.com^
 ||www.instanteuraxhub-it.com^
 ||www.instantevexai-it.com^
 ||www.instantevexai-it.fyi^
@@ -84811,6 +84818,7 @@
 ||www.newsbreak.com^
 ||www.newsgazet.site^
 ||www.newsgovpro.site^
+||www.newshello.com^
 ||www.newsincognito.site^
 ||www.newsinfohub.com^
 ||www.newsmemorial.site^
@@ -92421,6 +92429,7 @@
 ||www.steamrub.com^
 ||www.steamtraffic.com^
 ||www.stedorix-ai-hr.com^
+||www.steelbucks.com^
 ||www.steelcraftersco.store^
 ||www.steelphoenixlab.online^
 ||www.steeltriu.comprarcriptomoedas.com^

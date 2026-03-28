@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 99774
-# Updated: 2026-03-27 01:38:40 UTC
+# Entries: 99783
+# Updated: 2026-03-28 01:34:20 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -8204,6 +8204,7 @@
 0.0.0.0 ads.revenue.net
 0.0.0.0 ads.revjet.com
 0.0.0.0 ads.revsci.net
+0.0.0.0 ads.reward-hunt.com
 0.0.0.0 ads.right-ads.com
 0.0.0.0 ads.rim.co.uk
 0.0.0.0 ads.ripoffreport.com
@@ -10429,6 +10430,7 @@
 0.0.0.0 adstracking.apps.zing.vn
 0.0.0.0 adstract.adk2x.com
 0.0.0.0 adstream.cardboardfish.com
+0.0.0.0 adstub.net
 0.0.0.0 adstune.com
 0.0.0.0 adsuite.adsparc.net
 0.0.0.0 adsunflower.com
@@ -70335,6 +70337,7 @@
 0.0.0.0 www.activemeter.com
 0.0.0.0 www.activepr.ru
 0.0.0.0 www.activestin-pl.great-beauty.org
+0.0.0.0 www.activetrap.com
 0.0.0.0 www.activewatch.ro
 0.0.0.0 www.activexlettuce.club
 0.0.0.0 www.activget.hoveylife.com
@@ -70567,6 +70570,7 @@
 0.0.0.0 www.adscampaign.net
 0.0.0.0 www.adscience.nl
 0.0.0.0 www.adsedo.com
+0.0.0.0 www.adselector.com
 0.0.0.0 www.adsensecustomsearchads.com
 0.0.0.0 www.adsentra.com
 0.0.0.0 www.adservd.com
@@ -72157,6 +72161,7 @@
 0.0.0.0 www.bartek2026.com
 0.0.0.0 www.bartekzukiewicz.pl
 0.0.0.0 www.base-vod.pl
+0.0.0.0 www.basealloys.com
 0.0.0.0 www.baseequip.com
 0.0.0.0 www.basegpinecone.mgsaraburi.com
 0.0.0.0 www.baseinfo.biz
@@ -75379,6 +75384,7 @@
 0.0.0.0 www.daily-planner.site
 0.0.0.0 www.daily.boonovel.com
 0.0.0.0 www.dailyanswers.pro
+0.0.0.0 www.dailyazure.com
 0.0.0.0 www.dailybestoffers.com
 0.0.0.0 www.dailyblueciu.pro
 0.0.0.0 www.dailycentral.pro
@@ -81205,6 +81211,7 @@
 0.0.0.0 www.instantakpro2x-ai.fyi
 0.0.0.0 www.instantakpro2x.fyi
 0.0.0.0 www.instantbuzz.com
+0.0.0.0 www.instantcross.com
 0.0.0.0 www.instanteuraxhub-it.com
 0.0.0.0 www.instantevexai-it.com
 0.0.0.0 www.instantevexai-it.fyi
@@ -84811,6 +84818,7 @@
 0.0.0.0 www.newsbreak.com
 0.0.0.0 www.newsgazet.site
 0.0.0.0 www.newsgovpro.site
+0.0.0.0 www.newshello.com
 0.0.0.0 www.newsincognito.site
 0.0.0.0 www.newsinfohub.com
 0.0.0.0 www.newsmemorial.site
@@ -92421,6 +92429,7 @@
 0.0.0.0 www.steamrub.com
 0.0.0.0 www.steamtraffic.com
 0.0.0.0 www.stedorix-ai-hr.com
+0.0.0.0 www.steelbucks.com
 0.0.0.0 www.steelcraftersco.store
 0.0.0.0 www.steelphoenixlab.online
 0.0.0.0 www.steeltriu.comprarcriptomoedas.com
