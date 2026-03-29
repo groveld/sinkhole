@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 99785
-! Updated: 2026-03-28 02:23:47 UTC
+! Entries: 99793
+! Updated: 2026-03-29 02:31:02 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -72709,6 +72709,7 @@
 ||www.blogaugust.com^
 ||www.blogcatalog.com^
 ||www.blogcounter.de^
+||www.blogmaking.com^
 ||www.blogrankers.com^
 ||www.blogtoplist.com^
 ||www.blogtopsites.com^
@@ -74019,6 +74020,7 @@
 ||www.check-gueststay3499.com^
 ||www.check.mail-service.digital^
 ||www.checkandroid.richorice.com^
+||www.checkdrivers.com^
 ||www.checken.egger.com.kz^
 ||www.checkguard306-booking.com^
 ||www.checkguestsstay1099.com^
@@ -74269,6 +74271,7 @@
 ||www.cl1quant.com^
 ||www.cl2quant.com^
 ||www.cl4quant.com^
+||www.claimedmoney.com^
 ||www.claimfreerewards.com^
 ||www.claims-polymarket.com^
 ||www.claimsburo.icu^
@@ -77443,6 +77446,7 @@
 ||www.express.jnews5.com^
 ||www.expresscash.pl^
 ||www.expressen.azontree.com^
+||www.expressmails.com^
 ||www.expressmobilemechanicdallas.com^
 ||www.expressomatogrosso.com.br^
 ||www.ext.privacyassistant.net^
@@ -79022,6 +79026,7 @@
 ||www.gendernarr.digital^
 ||www.genderrolebook.click^
 ||www.gendertheories.digital^
+||www.generaldocs.com^
 ||www.generatorkodow.hpu.pl^
 ||www.genesricom.rest^
 ||www.genforumgenealogy.com^
@@ -80361,6 +80366,7 @@
 ||www.homewares.org^
 ||www.homezoneguide.com^
 ||www.homihyy.com^
+||www.homininfossil.cfd^
 ||www.homla-store.club^
 ||www.homlacloths.shop^
 ||www.homladom.club^
@@ -82270,6 +82276,7 @@
 ||www.kimyulli.shop^
 ||www.kinaheapy.autos^
 ||www.kindmapvision.pro^
+||www.kindnations.com^
 ||www.kindnetcodecube.com^
 ||www.kindredsoul.top^
 ||www.kindwebdg.site^
@@ -93364,6 +93371,7 @@
 ||www.techliteracy.us^
 ||www.techlov.cloud^
 ||www.techniquesdrop.ezzydesk.com^
+||www.technocost.com^
 ||www.technojuna.com^
 ||www.technology-unfolding.com^
 ||www.technologycurriculum.com^

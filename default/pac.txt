@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 99783
-// Updated: 2026-03-28 01:34:20 UTC
+// Entries: 99791
+// Updated: 2026-03-29 01:41:36 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -72709,6 +72709,7 @@ var BLOCKLIST = {
 "www.blogaugust.com":null,
 "www.blogcatalog.com":null,
 "www.blogcounter.de":null,
+"www.blogmaking.com":null,
 "www.blogrankers.com":null,
 "www.blogtoplist.com":null,
 "www.blogtopsites.com":null,
@@ -74019,6 +74020,7 @@ var BLOCKLIST = {
 "www.check-gueststay3499.com":null,
 "www.check.mail-service.digital":null,
 "www.checkandroid.richorice.com":null,
+"www.checkdrivers.com":null,
 "www.checken.egger.com.kz":null,
 "www.checkguard306-booking.com":null,
 "www.checkguestsstay1099.com":null,
@@ -74269,6 +74271,7 @@ var BLOCKLIST = {
 "www.cl1quant.com":null,
 "www.cl2quant.com":null,
 "www.cl4quant.com":null,
+"www.claimedmoney.com":null,
 "www.claimfreerewards.com":null,
 "www.claims-polymarket.com":null,
 "www.claimsburo.icu":null,
@@ -77443,6 +77446,7 @@ var BLOCKLIST = {
 "www.express.jnews5.com":null,
 "www.expresscash.pl":null,
 "www.expressen.azontree.com":null,
+"www.expressmails.com":null,
 "www.expressmobilemechanicdallas.com":null,
 "www.expressomatogrosso.com.br":null,
 "www.ext.privacyassistant.net":null,
@@ -79022,6 +79026,7 @@ var BLOCKLIST = {
 "www.gendernarr.digital":null,
 "www.genderrolebook.click":null,
 "www.gendertheories.digital":null,
+"www.generaldocs.com":null,
 "www.generatorkodow.hpu.pl":null,
 "www.genesricom.rest":null,
 "www.genforumgenealogy.com":null,
@@ -80360,6 +80365,7 @@ var BLOCKLIST = {
 "www.homewares.org":null,
 "www.homezoneguide.com":null,
 "www.homihyy.com":null,
+"www.homininfossil.cfd":null,
 "www.homla-store.club":null,
 "www.homlacloths.shop":null,
 "www.homladom.club":null,
@@ -82269,6 +82275,7 @@ var BLOCKLIST = {
 "www.kimyulli.shop":null,
 "www.kinaheapy.autos":null,
 "www.kindmapvision.pro":null,
+"www.kindnations.com":null,
 "www.kindnetcodecube.com":null,
 "www.kindredsoul.top":null,
 "www.kindwebdg.site":null,
@@ -93363,6 +93370,7 @@ var BLOCKLIST = {
 "www.techliteracy.us":null,
 "www.techlov.cloud":null,
 "www.techniquesdrop.ezzydesk.com":null,
+"www.technocost.com":null,
 "www.technojuna.com":null,
 "www.technology-unfolding.com":null,
 "www.technologycurriculum.com":null,

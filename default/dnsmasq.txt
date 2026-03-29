@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 99783
-# Updated: 2026-03-28 01:34:20 UTC
+# Entries: 99791
+# Updated: 2026-03-29 01:41:36 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -72708,6 +72708,7 @@ address=/www.blogandmoney.com/0.0.0.0
 address=/www.blogaugust.com/0.0.0.0
 address=/www.blogcatalog.com/0.0.0.0
 address=/www.blogcounter.de/0.0.0.0
+address=/www.blogmaking.com/0.0.0.0
 address=/www.blogrankers.com/0.0.0.0
 address=/www.blogtoplist.com/0.0.0.0
 address=/www.blogtopsites.com/0.0.0.0
@@ -74018,6 +74019,7 @@ address=/www.cheapsell.online/0.0.0.0
 address=/www.check-gueststay3499.com/0.0.0.0
 address=/www.check.mail-service.digital/0.0.0.0
 address=/www.checkandroid.richorice.com/0.0.0.0
+address=/www.checkdrivers.com/0.0.0.0
 address=/www.checken.egger.com.kz/0.0.0.0
 address=/www.checkguard306-booking.com/0.0.0.0
 address=/www.checkguestsstay1099.com/0.0.0.0
@@ -74268,6 +74270,7 @@ address=/www.cjwlm.com/0.0.0.0
 address=/www.cl1quant.com/0.0.0.0
 address=/www.cl2quant.com/0.0.0.0
 address=/www.cl4quant.com/0.0.0.0
+address=/www.claimedmoney.com/0.0.0.0
 address=/www.claimfreerewards.com/0.0.0.0
 address=/www.claims-polymarket.com/0.0.0.0
 address=/www.claimsburo.icu/0.0.0.0
@@ -77442,6 +77445,7 @@ address=/www.expremetas.rest/0.0.0.0
 address=/www.express.jnews5.com/0.0.0.0
 address=/www.expresscash.pl/0.0.0.0
 address=/www.expressen.azontree.com/0.0.0.0
+address=/www.expressmails.com/0.0.0.0
 address=/www.expressmobilemechanicdallas.com/0.0.0.0
 address=/www.expressomatogrosso.com.br/0.0.0.0
 address=/www.ext.privacyassistant.net/0.0.0.0
@@ -79021,6 +79025,7 @@ address=/www.genderexpress.digital/0.0.0.0
 address=/www.gendernarr.digital/0.0.0.0
 address=/www.genderrolebook.click/0.0.0.0
 address=/www.gendertheories.digital/0.0.0.0
+address=/www.generaldocs.com/0.0.0.0
 address=/www.generatorkodow.hpu.pl/0.0.0.0
 address=/www.genesricom.rest/0.0.0.0
 address=/www.genforumgenealogy.com/0.0.0.0
@@ -80359,6 +80364,7 @@ address=/www.homespacesale.shop/0.0.0.0
 address=/www.homewares.org/0.0.0.0
 address=/www.homezoneguide.com/0.0.0.0
 address=/www.homihyy.com/0.0.0.0
+address=/www.homininfossil.cfd/0.0.0.0
 address=/www.homla-store.club/0.0.0.0
 address=/www.homlacloths.shop/0.0.0.0
 address=/www.homladom.club/0.0.0.0
@@ -82268,6 +82274,7 @@ address=/www.kimkardashianskincare.net/0.0.0.0
 address=/www.kimyulli.shop/0.0.0.0
 address=/www.kinaheapy.autos/0.0.0.0
 address=/www.kindmapvision.pro/0.0.0.0
+address=/www.kindnations.com/0.0.0.0
 address=/www.kindnetcodecube.com/0.0.0.0
 address=/www.kindredsoul.top/0.0.0.0
 address=/www.kindwebdg.site/0.0.0.0
@@ -93362,6 +93369,7 @@ address=/www.techiwant.com/0.0.0.0
 address=/www.techliteracy.us/0.0.0.0
 address=/www.techlov.cloud/0.0.0.0
 address=/www.techniquesdrop.ezzydesk.com/0.0.0.0
+address=/www.technocost.com/0.0.0.0
 address=/www.technojuna.com/0.0.0.0
 address=/www.technology-unfolding.com/0.0.0.0
 address=/www.technologycurriculum.com/0.0.0.0
