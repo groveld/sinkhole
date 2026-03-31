@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 101113
-# Updated: 2026-03-30 01:43:15 UTC
+# Entries: 101128
+# Updated: 2026-03-31 01:38:10 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19115,6 +19115,7 @@
 0.0.0.0 bricolage-avec-robert.fr
 0.0.0.0 bricolo-blogger.fr
 0.0.0.0 bride1.com
+0.0.0.0 brides4you.sa.com
 0.0.0.0 bridge.lga1.admarketplace.net
 0.0.0.0 bridge.sfo1.admarketplace.net
 0.0.0.0 bridge1.admarketplace.net
@@ -25550,6 +25551,7 @@
 0.0.0.0 datamavric.site
 0.0.0.0 dataone.dsdamatfirsatcadiri.com
 0.0.0.0 dataparallaxhub.digital
+0.0.0.0 datapickles.com
 0.0.0.0 dataplaygames.com
 0.0.0.0 datarouter.ol.epicgames.com
 0.0.0.0 datasciencelabcx.pro
@@ -68903,6 +68905,7 @@
 0.0.0.0 wikia-ads.wikia.com
 0.0.0.0 wikidevs.com
 0.0.0.0 wikiforosh.ir
+0.0.0.0 wikiquotations.com
 0.0.0.0 wikopole-local.pl
 0.0.0.0 wild-assetfort-ai.com
 0.0.0.0 wild-zambia.com
@@ -72502,6 +72505,7 @@
 0.0.0.0 www.audio-book.net.pl
 0.0.0.0 www.audiofix1.com
 0.0.0.0 www.audiopro.dudeitsmichael.com
+0.0.0.0 www.auditprint.com
 0.0.0.0 www.audmax.pl
 0.0.0.0 www.aufstieggaintra-de.fyi
 0.0.0.0 www.augemonvera.com
@@ -73194,6 +73198,7 @@
 0.0.0.0 www.bibleversustheday.com
 0.0.0.0 www.bibydao.com
 0.0.0.0 www.bicoinsprofit.com
+0.0.0.0 www.bicyclefan.com
 0.0.0.0 www.bid.axiatraders.com
 0.0.0.0 www.bidaqeo.com
 0.0.0.0 www.bidclix.com
@@ -73234,6 +73239,7 @@
 0.0.0.0 www.bigosext1.com
 0.0.0.0 www.bigpenisguide.com
 0.0.0.0 www.bigpixelpulse.com
+0.0.0.0 www.bigpremiere.com
 0.0.0.0 www.bigshuk.com
 0.0.0.0 www.bigsimplefo.info
 0.0.0.0 www.bigsister-puff.cxa.de
@@ -73813,6 +73819,7 @@
 0.0.0.0 www.breakingfateradio.com
 0.0.0.0 www.breakingfatetv.com
 0.0.0.0 www.breakingfatewrestling.com
+0.0.0.0 www.breakslavery.com
 0.0.0.0 www.breakthroughflip.wtcexplorer.com
 0.0.0.0 www.breakthroughivory.erp-alkhaila.com
 0.0.0.0 www.breckfromreality.com
@@ -78163,6 +78170,7 @@
 0.0.0.0 www.europe-service.top
 0.0.0.0 www.europe.dopcesnow.shop
 0.0.0.0 www.europejskaedukacja.pl
+0.0.0.0 www.europelinen.com
 0.0.0.0 www.europerank.com
 0.0.0.0 www.europoint.site
 0.0.0.0 www.europolhelp.live
@@ -78237,6 +78245,7 @@
 0.0.0.0 www.exacto-creditant-es.com
 0.0.0.0 www.exactocreditant-es.com
 0.0.0.0 www.exactocreditant-es.fyi
+0.0.0.0 www.exactpharm.com
 0.0.0.0 www.exacttrai.info
 0.0.0.0 www.exambased.com
 0.0.0.0 www.examinationsmars.sueca4ios.com
@@ -84924,6 +84933,7 @@
 0.0.0.0 www.memberxxl.pl
 0.0.0.0 www.mememakers.mobi
 0.0.0.0 www.memorialoflove.site
+0.0.0.0 www.memorieson.com
 0.0.0.0 www.mendivagar.rest
 0.0.0.0 www.mennicepolska.pl
 0.0.0.0 www.mentidistr.rest
@@ -89203,6 +89213,7 @@
 0.0.0.0 www.plunkstep.com
 0.0.0.0 www.plus.disneyupdate.online
 0.0.0.0 www.plusai.space
+0.0.0.0 www.pluseconomy.com
 0.0.0.0 www.plushcarslu.com
 0.0.0.0 www.plushflow.online
 0.0.0.0 www.plusininvest.it.com
@@ -90652,6 +90663,7 @@
 0.0.0.0 www.readingencyclopedias.com
 0.0.0.0 www.readnotify.com
 0.0.0.0 www.readysetsourdough.com
+0.0.0.0 www.readyviews.com
 0.0.0.0 www.realcastmedia.com
 0.0.0.0 www.realclick.vn
 0.0.0.0 www.realcooldeal.pl
@@ -94981,6 +94993,7 @@
 0.0.0.0 www.timelessfarewell.site
 0.0.0.0 www.timelessmemorial.site
 0.0.0.0 www.timelesstwill.shop
+0.0.0.0 www.timelyworks.com
 0.0.0.0 www.timemon.islamnesia.com
 0.0.0.0 www.timeoffarewell.site
 0.0.0.0 www.timesily.com
@@ -97681,6 +97694,7 @@
 0.0.0.0 www.watch-pltv.com
 0.0.0.0 www.watch24.com
 0.0.0.0 www.watchcssasescolorimetric.info
+0.0.0.0 www.watchesnew.com
 0.0.0.0 www.watchforyou.pl
 0.0.0.0 www.watchspe.ipegas.com
 0.0.0.0 www.watchspi.best
@@ -98176,6 +98190,7 @@
 0.0.0.0 www.workfromanywherehqon.info
 0.0.0.0 www.worklightstudio.com
 0.0.0.0 www.workoutwi.live
+0.0.0.0 www.workschat.com
 0.0.0.0 www.workshops-trainings.com
 0.0.0.0 www.workslink.best
 0.0.0.0 www.workssphere.best
