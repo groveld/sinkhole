@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 101131
-# Updated: 2026-03-31 02:27:33 UTC
+# Entries: 101144
+# Updated: 2026-04-01 02:33:47 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14400,6 +14400,7 @@
 0.0.0.0 approvedtop.prmnd.com
 0.0.0.0 apprucadmi.rest
 0.0.0.0 apprusever.rest
+0.0.0.0 apps-500star.com
 0.0.0.0 apps-blue.com
 0.0.0.0 apps-cloud.xyz
 0.0.0.0 apps-profil-help-center.com
@@ -15526,6 +15527,7 @@
 0.0.0.0 ayerbo.xhost.ro
 0.0.0.0 aylarl.com
 0.0.0.0 aylusgana.rest
+0.0.0.0 aymxv.com
 0.0.0.0 ayoubluka.com
 0.0.0.0 az.5.p2l.info
 0.0.0.0 az361816.vo.msecnd.net
@@ -24411,6 +24413,7 @@
 0.0.0.0 crazyy2cat.info
 0.0.0.0 crb.kargo.com
 0.0.0.0 crca.pl
+0.0.0.0 crcdn.org
 0.0.0.0 crcdn01.adnxs.com
 0.0.0.0 crcdn09.adnxs.com
 0.0.0.0 crcom.livejasmin.com
@@ -32946,6 +32949,7 @@
 0.0.0.0 go.bb007.bbelements.com
 0.0.0.0 go.bebi.com
 0.0.0.0 go.biz
+0.0.0.0 go.clickwww.com
 0.0.0.0 go.cz.bbelements.com
 0.0.0.0 go.data1rtb.com
 0.0.0.0 go.deliverymodo.com
@@ -33135,6 +33139,7 @@
 0.0.0.0 goodattack.duckdns.org
 0.0.0.0 goodblock.gladly.io
 0.0.0.0 goodbookbook.com
+0.0.0.0 goodcontentservice.top
 0.0.0.0 gooddayconnect.net
 0.0.0.0 goodearthgreens.com
 0.0.0.0 goodearthgreens.net
@@ -44952,6 +44957,7 @@
 0.0.0.0 nevicpachi.rest
 0.0.0.0 new-adon-keemx-update.vercel.app
 0.0.0.0 new-csopcx4p6l-note.pages.dev
+0.0.0.0 new-ramboplay.com
 0.0.0.0 new-vid-zone-1.blogspot.com.au
 0.0.0.0 new.915yzt.cn
 0.0.0.0 new.cetrk.com
@@ -76455,6 +76461,7 @@
 0.0.0.0 www.dealor.live
 0.0.0.0 www.dealresponse.com
 0.0.0.0 www.dealsaleqe.info
+0.0.0.0 www.dealsrate.com
 0.0.0.0 www.dealworldsunnyidxo.pro
 0.0.0.0 www.deansstovespa.online
 0.0.0.0 www.dearbritthageout.com
@@ -81439,6 +81446,7 @@
 0.0.0.0 www.houde-exped.com
 0.0.0.0 www.houncguinz.rest
 0.0.0.0 www.hournroute.phoneparloans.com
+0.0.0.0 www.hoursales.com
 0.0.0.0 www.house-tips.com
 0.0.0.0 www.housebuyermemphis.com
 0.0.0.0 www.housematessl.com
@@ -85902,6 +85910,7 @@
 0.0.0.0 www.nexoriumvectorlab.com
 0.0.0.0 www.nexorixarc.info
 0.0.0.0 www.nexoscout.site
+0.0.0.0 www.nextfeatures.com
 0.0.0.0 www.nextgenaiplatformkj.pro
 0.0.0.0 www.nextgenalgo-es.fyi
 0.0.0.0 www.nextgenbiotechnewsra.info
@@ -86653,6 +86662,7 @@
 0.0.0.0 www.ohublx.com
 0.0.0.0 www.oichnikfashionpl.shop
 0.0.0.0 www.oidwlparab.rest
+0.0.0.0 www.oilbasics.com
 0.0.0.0 www.oilkmj.com
 0.0.0.0 www.oiltraderai.com
 0.0.0.0 www.oimktb.info
@@ -93046,6 +93056,7 @@
 0.0.0.0 www.softixalp.top
 0.0.0.0 www.softmania.pl
 0.0.0.0 www.softmillon.com
+0.0.0.0 www.softpebble.com
 0.0.0.0 www.softsmart.mobi
 0.0.0.0 www.softspr.redmarkable.com
 0.0.0.0 www.softtouchty.info
@@ -94714,6 +94725,7 @@
 0.0.0.0 www.textads.biz
 0.0.0.0 www.textadvertising.com
 0.0.0.0 www.textbanners.net
+0.0.0.0 www.textdynamics.com
 0.0.0.0 www.textile4family.pl
 0.0.0.0 www.textiletrends.shop
 0.0.0.0 www.textlink.cz
@@ -94825,6 +94837,7 @@
 0.0.0.0 www.thementalgoalie.org
 0.0.0.0 www.thementalgoalieschool.net
 0.0.0.0 www.themenu.store
+0.0.0.0 www.themesets.com
 0.0.0.0 www.themexp.org
 0.0.0.0 www.themillionaireinpjs.net
 0.0.0.0 www.themisstomrs.com

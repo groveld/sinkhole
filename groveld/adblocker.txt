@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 101131
-! Updated: 2026-03-31 02:27:33 UTC
+! Entries: 101144
+! Updated: 2026-04-01 02:33:47 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14400,6 +14400,7 @@
 ||approvedtop.prmnd.com^
 ||apprucadmi.rest^
 ||apprusever.rest^
+||apps-500star.com^
 ||apps-blue.com^
 ||apps-cloud.xyz^
 ||apps-profil-help-center.com^
@@ -15526,6 +15527,7 @@
 ||ayerbo.xhost.ro^
 ||aylarl.com^
 ||aylusgana.rest^
+||aymxv.com^
 ||ayoubluka.com^
 ||az.5.p2l.info^
 ||az361816.vo.msecnd.net^
@@ -24411,6 +24413,7 @@
 ||crazyy2cat.info^
 ||crb.kargo.com^
 ||crca.pl^
+||crcdn.org^
 ||crcdn01.adnxs.com^
 ||crcdn09.adnxs.com^
 ||crcom.livejasmin.com^
@@ -32946,6 +32949,7 @@
 ||go.bb007.bbelements.com^
 ||go.bebi.com^
 ||go.biz^
+||go.clickwww.com^
 ||go.cz.bbelements.com^
 ||go.data1rtb.com^
 ||go.deliverymodo.com^
@@ -33135,6 +33139,7 @@
 ||goodattack.duckdns.org^
 ||goodblock.gladly.io^
 ||goodbookbook.com^
+||goodcontentservice.top^
 ||gooddayconnect.net^
 ||goodearthgreens.com^
 ||goodearthgreens.net^
@@ -44952,6 +44957,7 @@
 ||nevicpachi.rest^
 ||new-adon-keemx-update.vercel.app^
 ||new-csopcx4p6l-note.pages.dev^
+||new-ramboplay.com^
 ||new-vid-zone-1.blogspot.com.au^
 ||new.915yzt.cn^
 ||new.cetrk.com^
@@ -76455,6 +76461,7 @@
 ||www.dealor.live^
 ||www.dealresponse.com^
 ||www.dealsaleqe.info^
+||www.dealsrate.com^
 ||www.dealworldsunnyidxo.pro^
 ||www.deansstovespa.online^
 ||www.dearbritthageout.com^
@@ -81439,6 +81446,7 @@
 ||www.houde-exped.com^
 ||www.houncguinz.rest^
 ||www.hournroute.phoneparloans.com^
+||www.hoursales.com^
 ||www.house-tips.com^
 ||www.housebuyermemphis.com^
 ||www.housematessl.com^
@@ -85902,6 +85910,7 @@
 ||www.nexoriumvectorlab.com^
 ||www.nexorixarc.info^
 ||www.nexoscout.site^
+||www.nextfeatures.com^
 ||www.nextgenaiplatformkj.pro^
 ||www.nextgenalgo-es.fyi^
 ||www.nextgenbiotechnewsra.info^
@@ -86653,6 +86662,7 @@
 ||www.ohublx.com^
 ||www.oichnikfashionpl.shop^
 ||www.oidwlparab.rest^
+||www.oilbasics.com^
 ||www.oilkmj.com^
 ||www.oiltraderai.com^
 ||www.oimktb.info^
@@ -93046,6 +93056,7 @@
 ||www.softixalp.top^
 ||www.softmania.pl^
 ||www.softmillon.com^
+||www.softpebble.com^
 ||www.softsmart.mobi^
 ||www.softspr.redmarkable.com^
 ||www.softtouchty.info^
@@ -94714,6 +94725,7 @@
 ||www.textads.biz^
 ||www.textadvertising.com^
 ||www.textbanners.net^
+||www.textdynamics.com^
 ||www.textile4family.pl^
 ||www.textiletrends.shop^
 ||www.textlink.cz^
@@ -94825,6 +94837,7 @@
 ||www.thementalgoalie.org^
 ||www.thementalgoalieschool.net^
 ||www.themenu.store^
+||www.themesets.com^
 ||www.themexp.org^
 ||www.themillionaireinpjs.net^
 ||www.themisstomrs.com^
