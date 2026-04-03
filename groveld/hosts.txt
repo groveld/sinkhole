@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 104348
-# Updated: 2026-04-02 02:25:09 UTC
+# Entries: 104362
+# Updated: 2026-04-03 02:27:47 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11601,6 +11601,7 @@
 0.0.0.0 aeryon-luminaire-app.com
 0.0.0.0 aeryonluminaire-ai.com
 0.0.0.0 aesp.adatom.com
+0.0.0.0 aesthetist.org
 0.0.0.0 aestivum.ipromiseproject.info
 0.0.0.0 aeternalis.pro
 0.0.0.0 aetherialharvestway.pro
@@ -13751,6 +13752,7 @@
 0.0.0.0 aoredi.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 aos-creative.prf.hn
+0.0.0.0 aosldz.com
 0.0.0.0 aosluz.com
 0.0.0.0 aotracker.com
 0.0.0.0 aoupesale-bd.com
@@ -57258,6 +57260,7 @@
 0.0.0.0 scout24.wemfbox.ch
 0.0.0.0 scoutarist.rest
 0.0.0.0 scqwce.com
+0.0.0.0 scr-jiebaoscore.com
 0.0.0.0 scr.kliksaya.com
 0.0.0.0 scragffgliest.info
 0.0.0.0 scrappper8road.info
@@ -58680,6 +58683,7 @@
 0.0.0.0 shrillspoon.com
 0.0.0.0 shrimpsqueezed.com
 0.0.0.0 shriyaandigitalsolutions.com
+0.0.0.0 shrsgame.com
 0.0.0.0 shshshb889.wixsite.com
 0.0.0.0 shtozazalupa2.xorg.pl
 0.0.0.0 shuasj.com
@@ -64479,6 +64483,7 @@
 0.0.0.0 tinyfiles.uploadbox.world
 0.0.0.0 tinytendency.com
 0.0.0.0 tiomarkets.com
+0.0.0.0 tip-leisusports.com
 0.0.0.0 tipanddonation.com
 0.0.0.0 tiplanet.fr
 0.0.0.0 tiponu.com
@@ -66320,6 +66325,7 @@
 0.0.0.0 tuzrasmitodga.pro
 0.0.0.0 tuzwerik.com
 0.0.0.0 tuzwerik.onl
+0.0.0.0 tv-jiangnantiyu.com
 0.0.0.0 tv-maniak.pl
 0.0.0.0 tv-now.us.intellitxt.com
 0.0.0.0 tv-rightcelebrity.us.intellitxt.com
@@ -67001,6 +67007,7 @@
 0.0.0.0 upcurlbackbouune.info
 0.0.0.0 upd.dns-look-up.com
 0.0.0.0 updata.sptofy.servernux.com
+0.0.0.0 update-expiry-notification-report.appwrite.network
 0.0.0.0 update-information.zzux.com
 0.0.0.0 update-java.kit.net
 0.0.0.0 update-security.ddns.info
@@ -69294,6 +69301,7 @@
 0.0.0.0 vruchthebbore-nl.com
 0.0.0.0 vruchthebbore.com
 0.0.0.0 vs-api.voodoo-tech.io
+0.0.0.0 vs-wending.com
 0.0.0.0 vs.asianave.com
 0.0.0.0 vs.blackplanet.com
 0.0.0.0 vs.dmtracker.com
@@ -73117,6 +73125,7 @@
 0.0.0.0 www.agoldenlegacy.info
 0.0.0.0 www.agonalija.shop
 0.0.0.0 www.agracefulmemorial.site
+0.0.0.0 www.agreementnow.com
 0.0.0.0 www.agreeonb.online
 0.0.0.0 www.agribiztv.com
 0.0.0.0 www.agricultural2026.store
@@ -73606,6 +73615,7 @@
 0.0.0.0 www.amicapitolex-ai.fyi
 0.0.0.0 www.amidischid.rest
 0.0.0.0 www.amiekofficial.com
+0.0.0.0 www.amintart.com
 0.0.0.0 www.amirhorton.shop
 0.0.0.0 www.amishabatra.com
 0.0.0.0 www.ammaedereg.rest
@@ -74491,6 +74501,7 @@
 0.0.0.0 www.bagslap.com
 0.0.0.0 www.bagsonsale.online
 0.0.0.0 www.bagspro.store
+0.0.0.0 www.bahartonu.com
 0.0.0.0 www.bahegoiib.autos
 0.0.0.0 www.baiakstyle.com
 0.0.0.0 www.bail24vrecdssghtr.com
@@ -88064,6 +88075,7 @@
 0.0.0.0 www.ndtvtracker.com
 0.0.0.0 www.ndtvwatch.com
 0.0.0.0 www.nearbyad.com
+0.0.0.0 www.nearestsalon.com
 0.0.0.0 www.neat-binder.com
 0.0.0.0 www.neatlyfe.com
 0.0.0.0 www.neattale.homessup.com
@@ -95140,6 +95152,7 @@
 0.0.0.0 www.shopplk83.convertri.com
 0.0.0.0 www.shopreesarebel.com
 0.0.0.0 www.shops.com
+0.0.0.0 www.shopvisitors.com
 0.0.0.0 www.shore-view.com
 0.0.0.0 www.short-acc.165-245-182-1.cpanel.site
 0.0.0.0 www.short-account.165-245-182-1.cpanel.site
@@ -104098,6 +104111,7 @@
 0.0.0.0 zj.zeroredirect1.com
 0.0.0.0 zj1.zeroredirect1.com
 0.0.0.0 zjaof.com
+0.0.0.0 zjchao.com
 0.0.0.0 zjkclm.com
 0.0.0.0 zjtzxf.com
 0.0.0.0 zk.zeroredirect1.com

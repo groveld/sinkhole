@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 104346
-// Updated: 2026-04-02 01:35:43 UTC
+// Entries: 104359
+// Updated: 2026-04-03 01:38:24 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -13752,6 +13752,7 @@ var BLOCKLIST = {
 "aoredi.com":null,
 "aorta.clickagy.com":null,
 "aos-creative.prf.hn":null,
+"aosldz.com":null,
 "aosluz.com":null,
 "aotracker.com":null,
 "aoupesale-bd.com":null,
@@ -57258,6 +57259,7 @@ var BLOCKLIST = {
 "scout24.wemfbox.ch":null,
 "scoutarist.rest":null,
 "scqwce.com":null,
+"scr-jiebaoscore.com":null,
 "scr.kliksaya.com":null,
 "scragffgliest.info":null,
 "scrappper8road.info":null,
@@ -58680,6 +58682,7 @@ var BLOCKLIST = {
 "shrillspoon.com":null,
 "shrimpsqueezed.com":null,
 "shriyaandigitalsolutions.com":null,
+"shrsgame.com":null,
 "shshshb889.wixsite.com":null,
 "shtozazalupa2.xorg.pl":null,
 "shuasj.com":null,
@@ -64479,6 +64482,7 @@ var BLOCKLIST = {
 "tinyfiles.uploadbox.world":null,
 "tinytendency.com":null,
 "tiomarkets.com":null,
+"tip-leisusports.com":null,
 "tipanddonation.com":null,
 "tiplanet.fr":null,
 "tiponu.com":null,
@@ -66320,6 +66324,7 @@ var BLOCKLIST = {
 "tuzrasmitodga.pro":null,
 "tuzwerik.com":null,
 "tuzwerik.onl":null,
+"tv-jiangnantiyu.com":null,
 "tv-maniak.pl":null,
 "tv-now.us.intellitxt.com":null,
 "tv-rightcelebrity.us.intellitxt.com":null,
@@ -67001,6 +67006,7 @@ var BLOCKLIST = {
 "upcurlbackbouune.info":null,
 "upd.dns-look-up.com":null,
 "updata.sptofy.servernux.com":null,
+"update-expiry-notification-report.appwrite.network":null,
 "update-information.zzux.com":null,
 "update-java.kit.net":null,
 "update-security.ddns.info":null,
@@ -69294,6 +69300,7 @@ var BLOCKLIST = {
 "vruchthebbore-nl.com":null,
 "vruchthebbore.com":null,
 "vs-api.voodoo-tech.io":null,
+"vs-wending.com":null,
 "vs.asianave.com":null,
 "vs.blackplanet.com":null,
 "vs.dmtracker.com":null,
@@ -73117,6 +73124,7 @@ var BLOCKLIST = {
 "www.agoldenlegacy.info":null,
 "www.agonalija.shop":null,
 "www.agracefulmemorial.site":null,
+"www.agreementnow.com":null,
 "www.agreeonb.online":null,
 "www.agribiztv.com":null,
 "www.agricultural2026.store":null,
@@ -73606,6 +73614,7 @@ var BLOCKLIST = {
 "www.amicapitolex-ai.fyi":null,
 "www.amidischid.rest":null,
 "www.amiekofficial.com":null,
+"www.amintart.com":null,
 "www.amirhorton.shop":null,
 "www.amishabatra.com":null,
 "www.ammaedereg.rest":null,
@@ -74491,6 +74500,7 @@ var BLOCKLIST = {
 "www.bagslap.com":null,
 "www.bagsonsale.online":null,
 "www.bagspro.store":null,
+"www.bahartonu.com":null,
 "www.bahegoiib.autos":null,
 "www.baiakstyle.com":null,
 "www.bail24vrecdssghtr.com":null,
@@ -88063,6 +88073,7 @@ var BLOCKLIST = {
 "www.ndtvtracker.com":null,
 "www.ndtvwatch.com":null,
 "www.nearbyad.com":null,
+"www.nearestsalon.com":null,
 "www.neat-binder.com":null,
 "www.neatlyfe.com":null,
 "www.neattale.homessup.com":null,
@@ -95139,6 +95150,7 @@ var BLOCKLIST = {
 "www.shopplk83.convertri.com":null,
 "www.shopreesarebel.com":null,
 "www.shops.com":null,
+"www.shopvisitors.com":null,
 "www.shore-view.com":null,
 "www.short-acc.165-245-182-1.cpanel.site":null,
 "www.short-account.165-245-182-1.cpanel.site":null,
@@ -104097,6 +104109,7 @@ var BLOCKLIST = {
 "zj.zeroredirect1.com":null,
 "zj1.zeroredirect1.com":null,
 "zjaof.com":null,
+"zjchao.com":null,
 "zjkclm.com":null,
 "zjtzxf.com":null,
 "zk.zeroredirect1.com":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 104346
-# Updated: 2026-04-02 01:35:43 UTC
+# Entries: 104359
+# Updated: 2026-04-03 01:38:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -13751,6 +13751,7 @@ aoncomprod.122.2o7.net
 aoredi.com
 aorta.clickagy.com
 aos-creative.prf.hn
+aosldz.com
 aosluz.com
 aotracker.com
 aoupesale-bd.com
@@ -57257,6 +57258,7 @@ scout.scoutanalytics.net
 scout24.wemfbox.ch
 scoutarist.rest
 scqwce.com
+scr-jiebaoscore.com
 scr.kliksaya.com
 scragffgliest.info
 scrappper8road.info
@@ -58679,6 +58681,7 @@ shrievvvalty.info
 shrillspoon.com
 shrimpsqueezed.com
 shriyaandigitalsolutions.com
+shrsgame.com
 shshshb889.wixsite.com
 shtozazalupa2.xorg.pl
 shuasj.com
@@ -64478,6 +64481,7 @@ tinyfiles.nocoshop.ru
 tinyfiles.uploadbox.world
 tinytendency.com
 tiomarkets.com
+tip-leisusports.com
 tipanddonation.com
 tiplanet.fr
 tiponu.com
@@ -66319,6 +66323,7 @@ tuyendung.mediaz.vn
 tuzrasmitodga.pro
 tuzwerik.com
 tuzwerik.onl
+tv-jiangnantiyu.com
 tv-maniak.pl
 tv-now.us.intellitxt.com
 tv-rightcelebrity.us.intellitxt.com
@@ -67000,6 +67005,7 @@ upchemicals.co.in
 upcurlbackbouune.info
 upd.dns-look-up.com
 updata.sptofy.servernux.com
+update-expiry-notification-report.appwrite.network
 update-information.zzux.com
 update-java.kit.net
 update-security.ddns.info
@@ -69293,6 +69299,7 @@ vrucht-hebbore.fyi
 vruchthebbore-nl.com
 vruchthebbore.com
 vs-api.voodoo-tech.io
+vs-wending.com
 vs.asianave.com
 vs.blackplanet.com
 vs.dmtracker.com
@@ -73116,6 +73123,7 @@ www.agoda.org.uk
 www.agoldenlegacy.info
 www.agonalija.shop
 www.agracefulmemorial.site
+www.agreementnow.com
 www.agreeonb.online
 www.agribiztv.com
 www.agricultural2026.store
@@ -73605,6 +73613,7 @@ www.amicapitolex-ai.com
 www.amicapitolex-ai.fyi
 www.amidischid.rest
 www.amiekofficial.com
+www.amintart.com
 www.amirhorton.shop
 www.amishabatra.com
 www.ammaedereg.rest
@@ -74490,6 +74499,7 @@ www.bags-sale.top
 www.bagslap.com
 www.bagsonsale.online
 www.bagspro.store
+www.bahartonu.com
 www.bahegoiib.autos
 www.baiakstyle.com
 www.bail24vrecdssghtr.com
@@ -88062,6 +88072,7 @@ www.ndtvobserver.com
 www.ndtvtracker.com
 www.ndtvwatch.com
 www.nearbyad.com
+www.nearestsalon.com
 www.neat-binder.com
 www.neatlyfe.com
 www.neattale.homessup.com
@@ -95138,6 +95149,7 @@ www.shopplk80.convertri.com
 www.shopplk83.convertri.com
 www.shopreesarebel.com
 www.shops.com
+www.shopvisitors.com
 www.shore-view.com
 www.short-acc.165-245-182-1.cpanel.site
 www.short-account.165-245-182-1.cpanel.site
@@ -104096,6 +104108,7 @@ zj.dcys.ijinshan.com
 zj.zeroredirect1.com
 zj1.zeroredirect1.com
 zjaof.com
+zjchao.com
 zjkclm.com
 zjtzxf.com
 zk.zeroredirect1.com
