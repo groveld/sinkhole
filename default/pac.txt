@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 104359
-// Updated: 2026-04-03 01:38:24 UTC
+// Entries: 104364
+// Updated: 2026-04-04 01:34:38 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11602,6 +11602,7 @@ var BLOCKLIST = {
 "aeryon-luminaire-app.com":null,
 "aeryonluminaire-ai.com":null,
 "aesp.adatom.com":null,
+"aesthetist.org":null,
 "aestivum.ipromiseproject.info":null,
 "aeternalis.pro":null,
 "aetherialharvestway.pro":null,
@@ -42897,6 +42898,7 @@ var BLOCKLIST = {
 "mawett.com":null,
 "max-files.oupeng.com":null,
 "max-l.mediav.com":null,
+"max-wangcai28.com":null,
 "max.bannermanager.gr":null,
 "max.i12.de":null,
 "maxads.ruralpress.com":null,
@@ -75625,6 +75627,7 @@ var BLOCKLIST = {
 "www.brightportvionex-ai.fyi":null,
 "www.brightportvionex.eu":null,
 "www.brightpulseinfo.pro":null,
+"www.brightqz.com":null,
 "www.brightravi.casa":null,
 "www.brightsecurebigbr.pro":null,
 "www.brightsideastro.info":null,
@@ -76336,6 +76339,7 @@ var BLOCKLIST = {
 "www.cat18pperpillar.info":null,
 "www.cata.ero-advertising.com":null,
 "www.cataaastrophe.info":null,
+"www.catabcde.com":null,
 "www.catabozzlizes.info":null,
 "www.catafpigno.rest":null,
 "www.catalina-milagros-on-live.com":null,
@@ -104051,6 +104055,7 @@ var BLOCKLIST = {
 "zhirok.com":null,
 "zhiziyun.com":null,
 "zhsybj.net":null,
+"zhunhesh.com":null,
 "zhurifit.com":null,
 "ziccardia.com":null,
 "zidumiglukrelexts.pro":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 104359
-# Updated: 2026-04-03 01:38:24 UTC
+# Entries: 104364
+# Updated: 2026-04-04 01:34:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11601,6 +11601,7 @@ aeryon-luminaire-ai.fyi
 aeryon-luminaire-app.com
 aeryonluminaire-ai.com
 aesp.adatom.com
+aesthetist.org
 aestivum.ipromiseproject.info
 aeternalis.pro
 aetherialharvestway.pro
@@ -42896,6 +42897,7 @@ mawercapital.com
 mawett.com
 max-files.oupeng.com
 max-l.mediav.com
+max-wangcai28.com
 max.bannermanager.gr
 max.i12.de
 maxads.ruralpress.com
@@ -75624,6 +75626,7 @@ www.brightpayplus-ai.fyi
 www.brightportvionex-ai.fyi
 www.brightportvionex.eu
 www.brightpulseinfo.pro
+www.brightqz.com
 www.brightravi.casa
 www.brightsecurebigbr.pro
 www.brightsideastro.info
@@ -76335,6 +76338,7 @@ www.casualkicks.click
 www.cat18pperpillar.info
 www.cata.ero-advertising.com
 www.cataaastrophe.info
+www.catabcde.com
 www.catabozzlizes.info
 www.catafpigno.rest
 www.catalina-milagros-on-live.com
@@ -104050,6 +104054,7 @@ zhimi88.com
 zhirok.com
 zhiziyun.com
 zhsybj.net
+zhunhesh.com
 zhurifit.com
 ziccardia.com
 zidumiglukrelexts.pro

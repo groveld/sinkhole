@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 104362
-# Updated: 2026-04-03 02:27:47 UTC
+# Entries: 104366
+# Updated: 2026-04-04 02:24:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42898,6 +42898,7 @@
 0.0.0.0 mawett.com
 0.0.0.0 max-files.oupeng.com
 0.0.0.0 max-l.mediav.com
+0.0.0.0 max-wangcai28.com
 0.0.0.0 max.bannermanager.gr
 0.0.0.0 max.i12.de
 0.0.0.0 maxads.ruralpress.com
@@ -75626,6 +75627,7 @@
 0.0.0.0 www.brightportvionex-ai.fyi
 0.0.0.0 www.brightportvionex.eu
 0.0.0.0 www.brightpulseinfo.pro
+0.0.0.0 www.brightqz.com
 0.0.0.0 www.brightravi.casa
 0.0.0.0 www.brightsecurebigbr.pro
 0.0.0.0 www.brightsideastro.info
@@ -76337,6 +76339,7 @@
 0.0.0.0 www.cat18pperpillar.info
 0.0.0.0 www.cata.ero-advertising.com
 0.0.0.0 www.cataaastrophe.info
+0.0.0.0 www.catabcde.com
 0.0.0.0 www.catabozzlizes.info
 0.0.0.0 www.catafpigno.rest
 0.0.0.0 www.catalina-milagros-on-live.com
@@ -104053,6 +104056,7 @@
 0.0.0.0 zhirok.com
 0.0.0.0 zhiziyun.com
 0.0.0.0 zhsybj.net
+0.0.0.0 zhunhesh.com
 0.0.0.0 zhurifit.com
 0.0.0.0 ziccardia.com
 0.0.0.0 zidumiglukrelexts.pro

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 104362
-# Updated: 2026-04-03 02:27:47 UTC
+# Entries: 104366
+# Updated: 2026-04-04 02:24:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42898,6 +42898,7 @@ address=/mawercapital.com/0.0.0.0
 address=/mawett.com/0.0.0.0
 address=/max-files.oupeng.com/0.0.0.0
 address=/max-l.mediav.com/0.0.0.0
+address=/max-wangcai28.com/0.0.0.0
 address=/max.bannermanager.gr/0.0.0.0
 address=/max.i12.de/0.0.0.0
 address=/maxads.ruralpress.com/0.0.0.0
@@ -75626,6 +75627,7 @@ address=/www.brightpayplus-ai.fyi/0.0.0.0
 address=/www.brightportvionex-ai.fyi/0.0.0.0
 address=/www.brightportvionex.eu/0.0.0.0
 address=/www.brightpulseinfo.pro/0.0.0.0
+address=/www.brightqz.com/0.0.0.0
 address=/www.brightravi.casa/0.0.0.0
 address=/www.brightsecurebigbr.pro/0.0.0.0
 address=/www.brightsideastro.info/0.0.0.0
@@ -76337,6 +76339,7 @@ address=/www.casualkicks.click/0.0.0.0
 address=/www.cat18pperpillar.info/0.0.0.0
 address=/www.cata.ero-advertising.com/0.0.0.0
 address=/www.cataaastrophe.info/0.0.0.0
+address=/www.catabcde.com/0.0.0.0
 address=/www.catabozzlizes.info/0.0.0.0
 address=/www.catafpigno.rest/0.0.0.0
 address=/www.catalina-milagros-on-live.com/0.0.0.0
@@ -104053,6 +104056,7 @@ address=/zhimi88.com/0.0.0.0
 address=/zhirok.com/0.0.0.0
 address=/zhiziyun.com/0.0.0.0
 address=/zhsybj.net/0.0.0.0
+address=/zhunhesh.com/0.0.0.0
 address=/zhurifit.com/0.0.0.0
 address=/ziccardia.com/0.0.0.0
 address=/zidumiglukrelexts.pro/0.0.0.0
