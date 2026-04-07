@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 104634
-# Updated: 2026-04-06 02:30:44 UTC
+# Entries: 104641
+# Updated: 2026-04-07 02:29:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -77108,6 +77108,7 @@ address=/www.cleansofts.com/0.0.0.0
 address=/www.cleanspiritline.pro/0.0.0.0
 address=/www.cleanuninstall.com/0.0.0.0
 address=/www.cleanup-your-computer.com/0.0.0.0
+address=/www.cleanvvmagic.com/0.0.0.0
 address=/www.clear-build-guide.pro/0.0.0.0
 address=/www.clear-funds.site/0.0.0.0
 address=/www.clear-point.pro/0.0.0.0
@@ -79723,6 +79724,7 @@ address=/www.ekino-tv.online/0.0.0.0
 address=/www.ekino-tv.tv/0.0.0.0
 address=/www.ekipaforex.pl/0.0.0.0
 address=/www.ekjrf.com/0.0.0.0
+address=/www.ekkekkocapital.com/0.0.0.0
 address=/www.ekler-ewwe.com/0.0.0.0
 address=/www.ekmudenfeksiyonacilleri.org/0.0.0.0
 address=/www.ekodix.pro/0.0.0.0
@@ -81360,6 +81362,7 @@ address=/www.flw.ero-advertising.com/0.0.0.0
 address=/www.fly-done.info/0.0.0.0
 address=/www.fly-group.info/0.0.0.0
 address=/www.flybirdexpbd.com/0.0.0.0
+address=/www.flydrivenest.com/0.0.0.0
 address=/www.flyingcroc.com/0.0.0.0
 address=/www.flyingwings.xyz/0.0.0.0
 address=/www.flyinsidefs.com/0.0.0.0
@@ -82030,6 +82033,8 @@ address=/www.gamegrowth.click/0.0.0.0
 address=/www.gamehalcyon.com/0.0.0.0
 address=/www.gameinstallfiles.com/0.0.0.0
 address=/www.gameitlive.com/0.0.0.0
+address=/www.gamelthae.com/0.0.0.0
+address=/www.gamemeltbe.com/0.0.0.0
 address=/www.gamemine.com/0.0.0.0
 address=/www.gameplaylabs.com/0.0.0.0
 address=/www.gamepor.com/0.0.0.0
@@ -88766,6 +88771,7 @@ address=/www.nmarblet.cfd/0.0.0.0
 address=/www.nmidnightx.tabcpermitservice.com/0.0.0.0
 address=/www.nmmonoperating.info/0.0.0.0
 address=/www.nners.ero-advertising.com/0.0.0.0
+address=/www.nnews.net/0.0.0.0
 address=/www.nnoernvcoiervervew.com/0.0.0.0
 address=/www.noadnetwork.com/0.0.0.0
 address=/www.nobego.pro/0.0.0.0
@@ -94358,6 +94364,7 @@ address=/www.rtgnehayvz.com/0.0.0.0
 address=/www.rtiaworldwide.org/0.0.0.0
 address=/www.rtk.io/0.0.0.0
 address=/www.rtkmyz.cfd/0.0.0.0
+address=/www.rtpbolaslotjago.com/0.0.0.0
 address=/www.rtpterbarusila.site/0.0.0.0
 address=/www.rtve-meridalis.com/0.0.0.0
 address=/www.rtvmax.pl/0.0.0.0

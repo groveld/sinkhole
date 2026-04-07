@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 104634
-// Updated: 2026-04-06 02:30:44 UTC
+// Entries: 104641
+// Updated: 2026-04-07 02:29:06 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -77109,6 +77109,7 @@ var BLOCKLIST = {
 "www.cleanspiritline.pro":null,
 "www.cleanuninstall.com":null,
 "www.cleanup-your-computer.com":null,
+"www.cleanvvmagic.com":null,
 "www.clear-build-guide.pro":null,
 "www.clear-funds.site":null,
 "www.clear-point.pro":null,
@@ -79724,6 +79725,7 @@ var BLOCKLIST = {
 "www.ekino-tv.tv":null,
 "www.ekipaforex.pl":null,
 "www.ekjrf.com":null,
+"www.ekkekkocapital.com":null,
 "www.ekler-ewwe.com":null,
 "www.ekmudenfeksiyonacilleri.org":null,
 "www.ekodix.pro":null,
@@ -81361,6 +81363,7 @@ var BLOCKLIST = {
 "www.fly-done.info":null,
 "www.fly-group.info":null,
 "www.flybirdexpbd.com":null,
+"www.flydrivenest.com":null,
 "www.flyingcroc.com":null,
 "www.flyingwings.xyz":null,
 "www.flyinsidefs.com":null,
@@ -82031,6 +82034,8 @@ var BLOCKLIST = {
 "www.gamehalcyon.com":null,
 "www.gameinstallfiles.com":null,
 "www.gameitlive.com":null,
+"www.gamelthae.com":null,
+"www.gamemeltbe.com":null,
 "www.gamemine.com":null,
 "www.gameplaylabs.com":null,
 "www.gamepor.com":null,
@@ -88767,6 +88772,7 @@ var BLOCKLIST = {
 "www.nmidnightx.tabcpermitservice.com":null,
 "www.nmmonoperating.info":null,
 "www.nners.ero-advertising.com":null,
+"www.nnews.net":null,
 "www.nnoernvcoiervervew.com":null,
 "www.noadnetwork.com":null,
 "www.nobego.pro":null,
@@ -94359,6 +94365,7 @@ var BLOCKLIST = {
 "www.rtiaworldwide.org":null,
 "www.rtk.io":null,
 "www.rtkmyz.cfd":null,
+"www.rtpbolaslotjago.com":null,
 "www.rtpterbarusila.site":null,
 "www.rtve-meridalis.com":null,
 "www.rtvmax.pl":null,

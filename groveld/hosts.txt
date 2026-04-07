@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 104634
-# Updated: 2026-04-06 02:30:44 UTC
+# Entries: 104641
+# Updated: 2026-04-07 02:29:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -77108,6 +77108,7 @@
 0.0.0.0 www.cleanspiritline.pro
 0.0.0.0 www.cleanuninstall.com
 0.0.0.0 www.cleanup-your-computer.com
+0.0.0.0 www.cleanvvmagic.com
 0.0.0.0 www.clear-build-guide.pro
 0.0.0.0 www.clear-funds.site
 0.0.0.0 www.clear-point.pro
@@ -79723,6 +79724,7 @@
 0.0.0.0 www.ekino-tv.tv
 0.0.0.0 www.ekipaforex.pl
 0.0.0.0 www.ekjrf.com
+0.0.0.0 www.ekkekkocapital.com
 0.0.0.0 www.ekler-ewwe.com
 0.0.0.0 www.ekmudenfeksiyonacilleri.org
 0.0.0.0 www.ekodix.pro
@@ -81360,6 +81362,7 @@
 0.0.0.0 www.fly-done.info
 0.0.0.0 www.fly-group.info
 0.0.0.0 www.flybirdexpbd.com
+0.0.0.0 www.flydrivenest.com
 0.0.0.0 www.flyingcroc.com
 0.0.0.0 www.flyingwings.xyz
 0.0.0.0 www.flyinsidefs.com
@@ -82030,6 +82033,8 @@
 0.0.0.0 www.gamehalcyon.com
 0.0.0.0 www.gameinstallfiles.com
 0.0.0.0 www.gameitlive.com
+0.0.0.0 www.gamelthae.com
+0.0.0.0 www.gamemeltbe.com
 0.0.0.0 www.gamemine.com
 0.0.0.0 www.gameplaylabs.com
 0.0.0.0 www.gamepor.com
@@ -88766,6 +88771,7 @@
 0.0.0.0 www.nmidnightx.tabcpermitservice.com
 0.0.0.0 www.nmmonoperating.info
 0.0.0.0 www.nners.ero-advertising.com
+0.0.0.0 www.nnews.net
 0.0.0.0 www.nnoernvcoiervervew.com
 0.0.0.0 www.noadnetwork.com
 0.0.0.0 www.nobego.pro
@@ -94358,6 +94364,7 @@
 0.0.0.0 www.rtiaworldwide.org
 0.0.0.0 www.rtk.io
 0.0.0.0 www.rtkmyz.cfd
+0.0.0.0 www.rtpbolaslotjago.com
 0.0.0.0 www.rtpterbarusila.site
 0.0.0.0 www.rtve-meridalis.com
 0.0.0.0 www.rtvmax.pl

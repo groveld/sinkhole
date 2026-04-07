@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 104632
-! Updated: 2026-04-06 01:41:22 UTC
+! Entries: 104639
+! Updated: 2026-04-07 01:39:44 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -77107,6 +77107,7 @@
 ||www.cleanspiritline.pro^
 ||www.cleanuninstall.com^
 ||www.cleanup-your-computer.com^
+||www.cleanvvmagic.com^
 ||www.clear-build-guide.pro^
 ||www.clear-funds.site^
 ||www.clear-point.pro^
@@ -79722,6 +79723,7 @@
 ||www.ekino-tv.tv^
 ||www.ekipaforex.pl^
 ||www.ekjrf.com^
+||www.ekkekkocapital.com^
 ||www.ekler-ewwe.com^
 ||www.ekmudenfeksiyonacilleri.org^
 ||www.ekodix.pro^
@@ -81359,6 +81361,7 @@
 ||www.fly-done.info^
 ||www.fly-group.info^
 ||www.flybirdexpbd.com^
+||www.flydrivenest.com^
 ||www.flyingcroc.com^
 ||www.flyingwings.xyz^
 ||www.flyinsidefs.com^
@@ -82029,6 +82032,8 @@
 ||www.gamehalcyon.com^
 ||www.gameinstallfiles.com^
 ||www.gameitlive.com^
+||www.gamelthae.com^
+||www.gamemeltbe.com^
 ||www.gamemine.com^
 ||www.gameplaylabs.com^
 ||www.gamepor.com^
@@ -88764,6 +88769,7 @@
 ||www.nmidnightx.tabcpermitservice.com^
 ||www.nmmonoperating.info^
 ||www.nners.ero-advertising.com^
+||www.nnews.net^
 ||www.nnoernvcoiervervew.com^
 ||www.noadnetwork.com^
 ||www.nobego.pro^
@@ -94356,6 +94362,7 @@
 ||www.rtiaworldwide.org^
 ||www.rtk.io^
 ||www.rtkmyz.cfd^
+||www.rtpbolaslotjago.com^
 ||www.rtpterbarusila.site^
 ||www.rtve-meridalis.com^
 ||www.rtvmax.pl^
