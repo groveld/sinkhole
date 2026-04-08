@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 104639
-! Updated: 2026-04-07 01:39:44 UTC
+! Entries: 104654
+! Updated: 2026-04-08 01:40:01 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27349,6 +27349,7 @@
 ||doogi.eu^
 ||doollli.erotic-place.org^
 ||doorgen.com^
+||dooror.com^
 ||doors.co.kr^
 ||dooweb.us^
 ||dop-re.fit^
@@ -34436,6 +34437,7 @@
 ||guadagnentis-app.com^
 ||guadenexpro-fr.fyi^
 ||guaircrioc.rest^
+||guangjiemiao.com^
 ||guannan.3322.net^
 ||guaranty.com.cn^
 ||guard.mob.com^
@@ -40688,6 +40690,7 @@
 ||lcs.livedoor.net^
 ||lcsdk.3g.qq.com^
 ||lct.salesforce.com^
+||lcwkj.com^
 ||ld2.criteo.com^
 ||lddfw.com^
 ||ldewartue.com^
@@ -41906,6 +41909,7 @@
 ||login-ds.dotomi.com^
 ||login-microsoftonline.pl^
 ||login.adoptim.com^
+||login.belladermaco.com^
 ||login.creditals-email.space^
 ||login.dotomi.com^
 ||login.gammaplatform.com^
@@ -50506,6 +50510,7 @@
 ||piffeadott.rest^
 ||pigiceyji.autos^
 ||pigredoben12.sytes.net^
+||pigu.accbacknow.cfd^
 ||piiicornavirus.info^
 ||pikestead-ai.fyi^
 ||pikevaultwick-fr.fyi^
@@ -56042,6 +56047,7 @@
 ||rrmoto.pro^
 ||rrpartners.122.2o7.net^
 ||rrsnw.com^
+||rrtougao.com^
 ||rrttcdcrsggrtbgrb.com^
 ||rs.adledge.com^
 ||rs.adocean.pl^
@@ -62889,6 +62895,7 @@
 ||sxsdcx.com^
 ||sxsjz.com^
 ||sxskjc.com^
+||sxthxf.com^
 ||sxtracking.com^
 ||sxvdd.com^
 ||sxvde.com^
@@ -63522,6 +63529,7 @@
 ||tantispl.club^
 ||tantisstore.club^
 ||taobaoafp.allyes.cn^
+||taotaolm.com^
 ||taouxis.gr^
 ||tap-cdn.rubiconproject.com^
 ||tap-nexus.appspot.com^
@@ -70402,6 +70410,7 @@
 ||whos.amung.us^
 ||whosread.com^
 ||whqhb.com^
+||whqxzx.com^
 ||whreceiverrrrrrrrr.ru^
 ||whxxb.com^
 ||whyfame.us.intellitxt.com^
@@ -70812,6 +70821,7 @@
 ||woodezekiel.shop^
 ||woodistaeg.com^
 ||woodpecker.uc.cn^
+||woodplans.sa.com^
 ||woolwood.shop^
 ||woolyboys.com^
 ||woopra.com^
@@ -83812,6 +83822,7 @@
 ||www.hotellerocroy.com^
 ||www.hotelreserv-conflrm.com^
 ||www.hotels-glo.world^
+||www.hotelsdetermine.bond^
 ||www.hotflix-32.org^
 ||www.hotgiftzone.com^
 ||www.hotimop.com^
@@ -103733,11 +103744,13 @@
 ||yj.p.adnxs.com^
 ||yjbzzj.com^
 ||yk-sz.com^
+||ykjure.com^
 ||yknct.us^
 ||ykocr.comfortykive.xyz^
 ||yldbt.com^
 ||yllix.com^
 ||yllld.com^
+||yllvye.com^
 ||yllyg.com^
 ||ylog.hiido.com^
 ||ylrga.com^
@@ -104351,6 +104364,7 @@
 ||zigzag.vn^
 ||zihiqo.pro^
 ||ziloger-karmet-ai.com^
+||zimmernroofingservices.com^
 ||zinaley.com^
 ||zinamax.pl^
 ||zincirkonveyor.com^
@@ -104390,6 +104404,7 @@
 ||zj1.zeroredirect1.com^
 ||zjaof.com^
 ||zjchao.com^
+||zjgaoergao.com^
 ||zjkclm.com^
 ||zjtzxf.com^
 ||zk.zeroredirect1.com^

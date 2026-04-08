@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 104639
-# Updated: 2026-04-07 01:39:44 UTC
+# Entries: 104654
+# Updated: 2026-04-08 01:40:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27349,6 +27349,7 @@
 0.0.0.0 doogi.eu
 0.0.0.0 doollli.erotic-place.org
 0.0.0.0 doorgen.com
+0.0.0.0 dooror.com
 0.0.0.0 doors.co.kr
 0.0.0.0 dooweb.us
 0.0.0.0 dop-re.fit
@@ -34436,6 +34437,7 @@
 0.0.0.0 guadagnentis-app.com
 0.0.0.0 guadenexpro-fr.fyi
 0.0.0.0 guaircrioc.rest
+0.0.0.0 guangjiemiao.com
 0.0.0.0 guannan.3322.net
 0.0.0.0 guaranty.com.cn
 0.0.0.0 guard.mob.com
@@ -40688,6 +40690,7 @@
 0.0.0.0 lcs.livedoor.net
 0.0.0.0 lcsdk.3g.qq.com
 0.0.0.0 lct.salesforce.com
+0.0.0.0 lcwkj.com
 0.0.0.0 ld2.criteo.com
 0.0.0.0 lddfw.com
 0.0.0.0 ldewartue.com
@@ -41906,6 +41909,7 @@
 0.0.0.0 login-ds.dotomi.com
 0.0.0.0 login-microsoftonline.pl
 0.0.0.0 login.adoptim.com
+0.0.0.0 login.belladermaco.com
 0.0.0.0 login.creditals-email.space
 0.0.0.0 login.dotomi.com
 0.0.0.0 login.gammaplatform.com
@@ -50506,6 +50510,7 @@
 0.0.0.0 piffeadott.rest
 0.0.0.0 pigiceyji.autos
 0.0.0.0 pigredoben12.sytes.net
+0.0.0.0 pigu.accbacknow.cfd
 0.0.0.0 piiicornavirus.info
 0.0.0.0 pikestead-ai.fyi
 0.0.0.0 pikevaultwick-fr.fyi
@@ -56042,6 +56047,7 @@
 0.0.0.0 rrmoto.pro
 0.0.0.0 rrpartners.122.2o7.net
 0.0.0.0 rrsnw.com
+0.0.0.0 rrtougao.com
 0.0.0.0 rrttcdcrsggrtbgrb.com
 0.0.0.0 rs.adledge.com
 0.0.0.0 rs.adocean.pl
@@ -62889,6 +62895,7 @@
 0.0.0.0 sxsdcx.com
 0.0.0.0 sxsjz.com
 0.0.0.0 sxskjc.com
+0.0.0.0 sxthxf.com
 0.0.0.0 sxtracking.com
 0.0.0.0 sxvdd.com
 0.0.0.0 sxvde.com
@@ -63522,6 +63529,7 @@
 0.0.0.0 tantispl.club
 0.0.0.0 tantisstore.club
 0.0.0.0 taobaoafp.allyes.cn
+0.0.0.0 taotaolm.com
 0.0.0.0 taouxis.gr
 0.0.0.0 tap-cdn.rubiconproject.com
 0.0.0.0 tap-nexus.appspot.com
@@ -70402,6 +70410,7 @@
 0.0.0.0 whos.amung.us
 0.0.0.0 whosread.com
 0.0.0.0 whqhb.com
+0.0.0.0 whqxzx.com
 0.0.0.0 whreceiverrrrrrrrr.ru
 0.0.0.0 whxxb.com
 0.0.0.0 whyfame.us.intellitxt.com
@@ -70812,6 +70821,7 @@
 0.0.0.0 woodezekiel.shop
 0.0.0.0 woodistaeg.com
 0.0.0.0 woodpecker.uc.cn
+0.0.0.0 woodplans.sa.com
 0.0.0.0 woolwood.shop
 0.0.0.0 woolyboys.com
 0.0.0.0 woopra.com
@@ -83812,6 +83822,7 @@
 0.0.0.0 www.hotellerocroy.com
 0.0.0.0 www.hotelreserv-conflrm.com
 0.0.0.0 www.hotels-glo.world
+0.0.0.0 www.hotelsdetermine.bond
 0.0.0.0 www.hotflix-32.org
 0.0.0.0 www.hotgiftzone.com
 0.0.0.0 www.hotimop.com
@@ -103733,11 +103744,13 @@
 0.0.0.0 yj.p.adnxs.com
 0.0.0.0 yjbzzj.com
 0.0.0.0 yk-sz.com
+0.0.0.0 ykjure.com
 0.0.0.0 yknct.us
 0.0.0.0 ykocr.comfortykive.xyz
 0.0.0.0 yldbt.com
 0.0.0.0 yllix.com
 0.0.0.0 yllld.com
+0.0.0.0 yllvye.com
 0.0.0.0 yllyg.com
 0.0.0.0 ylog.hiido.com
 0.0.0.0 ylrga.com
@@ -104351,6 +104364,7 @@
 0.0.0.0 zigzag.vn
 0.0.0.0 zihiqo.pro
 0.0.0.0 ziloger-karmet-ai.com
+0.0.0.0 zimmernroofingservices.com
 0.0.0.0 zinaley.com
 0.0.0.0 zinamax.pl
 0.0.0.0 zincirkonveyor.com
@@ -104390,6 +104404,7 @@
 0.0.0.0 zj1.zeroredirect1.com
 0.0.0.0 zjaof.com
 0.0.0.0 zjchao.com
+0.0.0.0 zjgaoergao.com
 0.0.0.0 zjkclm.com
 0.0.0.0 zjtzxf.com
 0.0.0.0 zk.zeroredirect1.com
