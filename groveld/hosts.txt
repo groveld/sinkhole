@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 104656
-# Updated: 2026-04-08 02:29:26 UTC
+# Entries: 104672
+# Updated: 2026-04-09 02:20:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -4236,6 +4236,7 @@
 0.0.0.0 ad.mg
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.mirror.co.uk
+0.0.0.0 ad.missena.io
 0.0.0.0 ad.mo.doubleclick.net
 0.0.0.0 ad.mobadme.jp
 0.0.0.0 ad.mobiuspace.net
@@ -12871,6 +12872,7 @@
 0.0.0.0 amicapitolex-ai.com
 0.0.0.0 amicapitolex-ai.fyi
 0.0.0.0 amidischid.rest
+0.0.0.0 amidsttruly.com
 0.0.0.0 amiekofficial.com
 0.0.0.0 amigeek.com
 0.0.0.0 amigos.com
@@ -33868,6 +33870,7 @@
 0.0.0.0 goplayz.com
 0.0.0.0 gopogle.com
 0.0.0.0 gopopup.com
+0.0.0.0 goqon.com
 0.0.0.0 gorange.fr
 0.0.0.0 goreal.at
 0.0.0.0 gorneyhome.site
@@ -34412,6 +34415,7 @@
 0.0.0.0 gtb5.acecounter.com
 0.0.0.0 gtbyxx.com
 0.0.0.0 gtcc1.acecounter.com
+0.0.0.0 gtiruto.shop
 0.0.0.0 gtlt.hit.gemius.pl
 0.0.0.0 gtlv.hit.gemius.pl
 0.0.0.0 gtm.saostar.vn
@@ -39902,6 +39906,7 @@
 0.0.0.0 klubradosc.waw.pl
 0.0.0.0 klubwinarzeczpospolitej.pl
 0.0.0.0 klucze.shop
+0.0.0.0 kluspro.com
 0.0.0.0 km.tradeforexcopier.com
 0.0.0.0 kmbzzs.com
 0.0.0.0 kmjlio.com
@@ -41004,6 +41009,7 @@
 0.0.0.0 lhnzeyzh.usw-1.sealos.app
 0.0.0.0 lhoaqlco.mickaelbook.com
 0.0.0.0 lhrpn.com
+0.0.0.0 lhycc.com
 0.0.0.0 lhysyn.com
 0.0.0.0 lhzvkxkf.radarsaw.com
 0.0.0.0 li.alibris.com
@@ -55372,6 +55378,7 @@
 0.0.0.0 rev-cvnada-dep.com
 0.0.0.0 rev.adip.ly
 0.0.0.0 rev.avsforum.com
+0.0.0.0 rev.iq
 0.0.0.0 rev.lanistaads.com
 0.0.0.0 rev2pub.com
 0.0.0.0 revamcontr.rest
@@ -57045,6 +57052,7 @@
 0.0.0.0 sanalytics.verizon.com
 0.0.0.0 sanalytics.verizonenterprise.com
 0.0.0.0 sanalytics.verizonwireless.com
+0.0.0.0 sanbuzs.com
 0.0.0.0 sancaktardernegi.com
 0.0.0.0 sanchezryan.shop
 0.0.0.0 sanchezsadie.shop
@@ -66675,6 +66683,7 @@
 0.0.0.0 tzgxs.com
 0.0.0.0 tzkxx.com
 0.0.0.0 tzlzu.com
+0.0.0.0 tzmqyj.com
 0.0.0.0 tzqxf.com
 0.0.0.0 tzw.com
 0.0.0.0 tzwjy.com
@@ -77118,6 +77127,7 @@
 0.0.0.0 www.cleanspiritline.pro
 0.0.0.0 www.cleanuninstall.com
 0.0.0.0 www.cleanup-your-computer.com
+0.0.0.0 www.cleanvvlife.com
 0.0.0.0 www.cleanvvmagic.com
 0.0.0.0 www.clear-build-guide.pro
 0.0.0.0 www.clear-funds.site
@@ -82044,6 +82054,7 @@
 0.0.0.0 www.gameinstallfiles.com
 0.0.0.0 www.gameitlive.com
 0.0.0.0 www.gamelthae.com
+0.0.0.0 www.gameltjae.com
 0.0.0.0 www.gamemeltbe.com
 0.0.0.0 www.gamemine.com
 0.0.0.0 www.gameplaylabs.com
@@ -96961,6 +96972,7 @@
 0.0.0.0 www.stylomaker.com
 0.0.0.0 www.stylovemeble.pl
 0.0.0.0 www.stylowoimodnie.pl
+0.0.0.0 www.styxwise.com
 0.0.0.0 www.stzlk.com
 0.0.0.0 www.sub-odnowic.pages.dev
 0.0.0.0 www.subacospit.rest
@@ -101080,6 +101092,7 @@
 0.0.0.0 www.webspacemania.com
 0.0.0.0 www.webspectator.com
 0.0.0.0 www.websponsors.com
+0.0.0.0 www.websrruss.com
 0.0.0.0 www.webstat.com
 0.0.0.0 www.webstat.se
 0.0.0.0 www.webstats4u.com
@@ -102108,6 +102121,7 @@
 0.0.0.0 www.yntwj.com
 0.0.0.0 www.ynysf.com
 0.0.0.0 www.yoads.net
+0.0.0.0 www.yodobashi.com
 0.0.0.0 www.yoffo.click
 0.0.0.0 www.yolegedo.com
 0.0.0.0 www.yolktenewyo.rest
@@ -103352,6 +103366,7 @@
 0.0.0.0 xmlpitstop.us.intellitxt.com
 0.0.0.0 xmlserving.mobagent.com
 0.0.0.0 xmodi.phillytoday.com
+0.0.0.0 xmssxx.com
 0.0.0.0 xmstgm.com
 0.0.0.0 xmtxmt.com
 0.0.0.0 xmwcu.com
@@ -103966,6 +103981,7 @@
 0.0.0.0 yxkfb.com
 0.0.0.0 yxlcj.com
 0.0.0.0 yxpcq.com
+0.0.0.0 yyanluo.com
 0.0.0.0 yyrmst.com
 0.0.0.0 yysyqk.com
 0.0.0.0 yytwkn.com

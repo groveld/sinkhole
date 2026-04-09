@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 104654
-! Updated: 2026-04-08 01:40:01 UTC
+! Entries: 104670
+! Updated: 2026-04-09 01:30:57 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -4236,6 +4236,7 @@
 ||ad.mg^
 ||ad.mgd.de^
 ||ad.mirror.co.uk^
+||ad.missena.io^
 ||ad.mo.doubleclick.net^
 ||ad.mobadme.jp^
 ||ad.mobiuspace.net^
@@ -12871,6 +12872,7 @@
 ||amicapitolex-ai.com^
 ||amicapitolex-ai.fyi^
 ||amidischid.rest^
+||amidsttruly.com^
 ||amiekofficial.com^
 ||amigeek.com^
 ||amigos.com^
@@ -33867,6 +33869,7 @@
 ||goplayz.com^
 ||gopogle.com^
 ||gopopup.com^
+||goqon.com^
 ||gorange.fr^
 ||goreal.at^
 ||gorneyhome.site^
@@ -34411,6 +34414,7 @@
 ||gtb5.acecounter.com^
 ||gtbyxx.com^
 ||gtcc1.acecounter.com^
+||gtiruto.shop^
 ||gtlt.hit.gemius.pl^
 ||gtlv.hit.gemius.pl^
 ||gtm.saostar.vn^
@@ -39901,6 +39905,7 @@
 ||klubradosc.waw.pl^
 ||klubwinarzeczpospolitej.pl^
 ||klucze.shop^
+||kluspro.com^
 ||km.tradeforexcopier.com^
 ||kmbzzs.com^
 ||kmjlio.com^
@@ -41003,6 +41008,7 @@
 ||lhnzeyzh.usw-1.sealos.app^
 ||lhoaqlco.mickaelbook.com^
 ||lhrpn.com^
+||lhycc.com^
 ||lhysyn.com^
 ||lhzvkxkf.radarsaw.com^
 ||li.alibris.com^
@@ -55371,6 +55377,7 @@
 ||rev-cvnada-dep.com^
 ||rev.adip.ly^
 ||rev.avsforum.com^
+||rev.iq^
 ||rev.lanistaads.com^
 ||rev2pub.com^
 ||revamcontr.rest^
@@ -57044,6 +57051,7 @@
 ||sanalytics.verizon.com^
 ||sanalytics.verizonenterprise.com^
 ||sanalytics.verizonwireless.com^
+||sanbuzs.com^
 ||sancaktardernegi.com^
 ||sanchezryan.shop^
 ||sanchezsadie.shop^
@@ -66674,6 +66682,7 @@
 ||tzgxs.com^
 ||tzkxx.com^
 ||tzlzu.com^
+||tzmqyj.com^
 ||tzqxf.com^
 ||tzw.com^
 ||tzwjy.com^
@@ -77117,6 +77126,7 @@
 ||www.cleanspiritline.pro^
 ||www.cleanuninstall.com^
 ||www.cleanup-your-computer.com^
+||www.cleanvvlife.com^
 ||www.cleanvvmagic.com^
 ||www.clear-build-guide.pro^
 ||www.clear-funds.site^
@@ -82043,6 +82053,7 @@
 ||www.gameinstallfiles.com^
 ||www.gameitlive.com^
 ||www.gamelthae.com^
+||www.gameltjae.com^
 ||www.gamemeltbe.com^
 ||www.gamemine.com^
 ||www.gameplaylabs.com^
@@ -96959,6 +96970,7 @@
 ||www.stylomaker.com^
 ||www.stylovemeble.pl^
 ||www.stylowoimodnie.pl^
+||www.styxwise.com^
 ||www.stzlk.com^
 ||www.sub-odnowic.pages.dev^
 ||www.subacospit.rest^
@@ -101078,6 +101090,7 @@
 ||www.webspacemania.com^
 ||www.webspectator.com^
 ||www.websponsors.com^
+||www.websrruss.com^
 ||www.webstat.com^
 ||www.webstat.se^
 ||www.webstats4u.com^
@@ -102106,6 +102119,7 @@
 ||www.yntwj.com^
 ||www.ynysf.com^
 ||www.yoads.net^
+||www.yodobashi.com^
 ||www.yoffo.click^
 ||www.yolegedo.com^
 ||www.yolktenewyo.rest^
@@ -103350,6 +103364,7 @@
 ||xmlpitstop.us.intellitxt.com^
 ||xmlserving.mobagent.com^
 ||xmodi.phillytoday.com^
+||xmssxx.com^
 ||xmstgm.com^
 ||xmtxmt.com^
 ||xmwcu.com^
@@ -103964,6 +103979,7 @@
 ||yxkfb.com^
 ||yxlcj.com^
 ||yxpcq.com^
+||yyanluo.com^
 ||yyrmst.com^
 ||yysyqk.com^
 ||yytwkn.com^
