@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 104670
-# Updated: 2026-04-09 01:30:57 UTC
+# Entries: 104688
+# Updated: 2026-04-10 01:39:36 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -3757,6 +3757,7 @@
 0.0.0.0 acuityplatform.com
 0.0.0.0 aculo.fr
 0.0.0.0 acustat.com
+0.0.0.0 acustomizedgift.com
 0.0.0.0 acutephotos.com
 0.0.0.0 acuteteac.digital
 0.0.0.0 acutsprod.112.2o7.net
@@ -37596,6 +37597,7 @@
 0.0.0.0 inibil.top
 0.0.0.0 inicjatywaspoleczna.convertri.com
 0.0.0.0 inimage.carambo.la
+0.0.0.0 init-kqt.com
 0.0.0.0 init.sh
 0.0.0.0 init.sms.mob.com
 0.0.0.0 init.startappexchange.com
@@ -45598,6 +45600,7 @@
 0.0.0.0 najusu.pro
 0.0.0.0 nakakooraetalurixz.info
 0.0.0.0 nakanohito.jp
+0.0.0.0 nakedly.ai
 0.0.0.0 nakilotukreijh.pro
 0.0.0.0 nakladatelstvi-brazda.wz.cz
 0.0.0.0 nakshatra.northeastrail.info
@@ -56072,6 +56075,7 @@
 0.0.0.0 rs6.net
 0.0.0.0 rsa.pub
 0.0.0.0 rsc-ads.vidaahub.com
+0.0.0.0 rsc-mntz.vidaahub.com
 0.0.0.0 rsc.scmspain.com
 0.0.0.0 rscdn.cxense.com
 0.0.0.0 rschanger.com
@@ -73960,6 +73964,7 @@
 0.0.0.0 www.api.myeforsa.pl
 0.0.0.0 www.api.taboola.com
 0.0.0.0 www.apifin.danbusiness.com.br
+0.0.0.0 www.apkfuuny.com
 0.0.0.0 www.apl-apps.belastennrechnaplabon.help
 0.0.0.0 www.aple.rta-aeu.my.id
 0.0.0.0 www.aplexbode.com
@@ -74061,6 +74066,7 @@
 0.0.0.0 www.arethceler.rest
 0.0.0.0 www.areyouabot.net
 0.0.0.0 www.areyouahuman.co
+0.0.0.0 www.arfrepuestos.com
 0.0.0.0 www.argenemlak.com
 0.0.0.0 www.argentfluxor.com
 0.0.0.0 www.argentiflow-gpt.net
@@ -75586,6 +75592,7 @@
 0.0.0.0 www.borghpearl.rest
 0.0.0.0 www.borgimetal.rest
 0.0.0.0 www.borieunass.rest
+0.0.0.0 www.borocade.com
 0.0.0.0 www.borricarna.rest
 0.0.0.0 www.borsaattivoria-ai-it.com
 0.0.0.0 www.borsaattivoria-app.com
@@ -75848,6 +75855,7 @@
 0.0.0.0 www.brooklandevergreens.pro
 0.0.0.0 www.brooklandmeadowcrest.pro
 0.0.0.0 www.brooksbutydobiegania.com
+0.0.0.0 www.brooksrunningdeals.com
 0.0.0.0 www.brooksrunningpl.com
 0.0.0.0 www.broskatel.info
 0.0.0.0 www.brovinkaste.top
@@ -76268,6 +76276,7 @@
 0.0.0.0 www.campriello.info
 0.0.0.0 www.camsoda.com
 0.0.0.0 www.camsoda1.com
+0.0.0.0 www.camtory.com
 0.0.0.0 www.camvnb.site
 0.0.0.0 www.canadasmedicine.com
 0.0.0.0 www.canadastara.com
@@ -77867,6 +77876,7 @@
 0.0.0.0 www.credancia-fr.fyi
 0.0.0.0 www.credaroex.cfd
 0.0.0.0 www.credeatryp.rest
+0.0.0.0 www.crediainternational.com
 0.0.0.0 www.credimove.com
 0.0.0.0 www.credit-dreams.com
 0.0.0.0 www.creditron.org
@@ -78007,6 +78017,7 @@
 0.0.0.0 www.ctbdev.net
 0.0.0.0 www.ctbike.pl
 0.0.0.0 www.ctikz.com
+0.0.0.0 www.ctlcai.com
 0.0.0.0 www.ctmkenya.org
 0.0.0.0 www.ctrck.com
 0.0.0.0 www.ctyck.com
@@ -78530,6 +78541,7 @@
 0.0.0.0 www.deepyield.icu
 0.0.0.0 www.def-gh.site
 0.0.0.0 www.defacersddkedgy.info
+0.0.0.0 www.defailermu.com
 0.0.0.0 www.defaultinternet.com
 0.0.0.0 www.defcrosamericas.com
 0.0.0.0 www.defcrosnews.com
@@ -78641,6 +78653,7 @@
 0.0.0.0 www.designwithpulse.com
 0.0.0.0 www.designyourkitchenusa.com
 0.0.0.0 www.desiltappe.rest
+0.0.0.0 www.desirymart.com
 0.0.0.0 www.deskwizz.com
 0.0.0.0 www.desolpseud.rest
 0.0.0.0 www.despotrasd.rest
@@ -84188,6 +84201,7 @@
 0.0.0.0 www.iejonline.com
 0.0.0.0 www.iekirenh.com
 0.0.0.0 www.ieladit.com
+0.0.0.0 www.iepelnazareno.com
 0.0.0.0 www.iergasdew.com
 0.0.0.0 www.ierglotjik.com
 0.0.0.0 www.ierjibled.com
@@ -84665,6 +84679,7 @@
 0.0.0.0 www.inoppalkal.rest
 0.0.0.0 www.inorgdeneg.rest
 0.0.0.0 www.inovabrandss.com
+0.0.0.0 www.inpicklenaton.com
 0.0.0.0 www.inpro4trade.site
 0.0.0.0 www.inrevik.com
 0.0.0.0 www.inrwf.com
@@ -88578,6 +88593,7 @@
 0.0.0.0 www.new-folder-virus.com
 0.0.0.0 www.new.livejasmin.com
 0.0.0.0 www.new.wiadomowpl.com
+0.0.0.0 www.new2crypto.com
 0.0.0.0 www.newafricaacademy.com
 0.0.0.0 www.newbrush.digital
 0.0.0.0 www.newcastleobits.site
@@ -88966,6 +88982,7 @@
 0.0.0.0 www.novera-hub.click
 0.0.0.0 www.novilax.pro
 0.0.0.0 www.novioo.casa
+0.0.0.0 www.novosantiago.com
 0.0.0.0 www.novykapitstav-cz.fyi
 0.0.0.0 www.now.xinloc.com
 0.0.0.0 www.nowahie.com
@@ -96127,6 +96144,7 @@
 0.0.0.0 www.softwave88studio.com
 0.0.0.0 www.soggismarg.rest
 0.0.0.0 www.sogguvapor.rest
+0.0.0.0 www.sohailpc.com
 0.0.0.0 www.soharel.com
 0.0.0.0 www.sohavia.rest
 0.0.0.0 www.soiela.shop
