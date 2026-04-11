@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 104688
-# Updated: 2026-04-10 01:39:36 UTC
+# Entries: 104699
+# Updated: 2026-04-11 01:37:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21998,6 +21998,7 @@ cgirm.greatfallstribune.com
 cgmt.co.id
 cgradeh.leasnaillab.com
 cgsorh.com
+cguardai.com
 cguke-9h64o.ads.tremorhub.com
 ch-gmtdmp.mookie1.com
 ch-grontfeldenvika.info
@@ -25274,6 +25275,7 @@ cuuoionl.com
 cv.apprupt.com
 cv.athenshardscaping.com
 cv.bsvideos.com
+cvbnff.s3.eu-central-003.backblazeb2.com
 cvbnmq.site
 cvent.axiatraders.com
 cvetcscan.com
@@ -30234,6 +30236,7 @@ f.qstatic.com
 f.screensavers.com
 f.thanksearch.com
 f.zeroredirect2.com
+f003.backblazeb2.com
 f05098.privacy4browsers.com
 f1.p0y.com
 f11098.privacy4browsers.com
@@ -62303,6 +62306,7 @@ studisfibr.rest
 studsandspikes.click
 study.snapads.com
 studycooking.com
+studywithab.com
 stunningbillion.cam
 stunnning.info
 stuntedjewemmllery.info
@@ -74309,6 +74313,7 @@ www.audia6.com
 www.audienceexposure.com
 www.audio-book.net.pl
 www.audiofix1.com
+www.audionoisereducer.com
 www.audiopro.dudeitsmichael.com
 www.auditprint.com
 www.audmax.pl
@@ -78295,6 +78300,7 @@ www.danair.es
 www.dance-alarm.de
 www.dancingsnakegames.com
 www.dancingwithbipolar.com
+www.dangdangflow.com
 www.dangerousex.pro
 www.daniellahue.shop
 www.danielmyers.shop
@@ -79387,6 +79393,7 @@ www.dtransportv.urbandigitized.com
 www.dtta.ero-advertising.com
 www.dttnzx.com
 www.dtxexchange.com
+www.dualeotruyenno.com
 www.dubaipropertyyield.com
 www.dublinhypnosisclinic.com
 www.ducesfarra.rest
@@ -80877,6 +80884,7 @@ www.fermil.shop
 www.ferninvestbury-ai.fyi
 www.ferninvestbury-appai.com
 www.feronixprime-7-4-ai.net
+www.ferreteriamaracopa.com
 www.fersanimoveis.com.br
 www.ferser.it
 www.fest-fondstein.net
@@ -88212,6 +88220,7 @@ www.myglobalsearch.com
 www.mygreatrewards.com
 www.myhank.pl
 www.myhealthabout.com
+www.myhucadvantage.com
 www.myishop.co.uk
 www.myjollyrudder.com
 www.myjournalists.org
@@ -95532,6 +95541,7 @@ www.sila-finoblia.com
 www.silavo.site
 www.silberstatic.com
 www.silcom.com
+www.silebah.com
 www.silent-barrage.com
 www.silentbattlez.site
 www.silentgateck.site
@@ -100938,6 +100948,7 @@ www.waqowya.com
 www.waquge.pro
 www.warco.pl
 www.wardelena.shop
+www.wardhotels.com
 www.wardpeter.shop
 www.wardrobeconsultantlondon.com
 www.warecho.site

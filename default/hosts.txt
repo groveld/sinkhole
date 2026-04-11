@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 104688
-# Updated: 2026-04-10 01:39:36 UTC
+# Entries: 104699
+# Updated: 2026-04-11 01:37:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21998,6 +21998,7 @@
 0.0.0.0 cgmt.co.id
 0.0.0.0 cgradeh.leasnaillab.com
 0.0.0.0 cgsorh.com
+0.0.0.0 cguardai.com
 0.0.0.0 cguke-9h64o.ads.tremorhub.com
 0.0.0.0 ch-gmtdmp.mookie1.com
 0.0.0.0 ch-grontfeldenvika.info
@@ -25274,6 +25275,7 @@
 0.0.0.0 cv.apprupt.com
 0.0.0.0 cv.athenshardscaping.com
 0.0.0.0 cv.bsvideos.com
+0.0.0.0 cvbnff.s3.eu-central-003.backblazeb2.com
 0.0.0.0 cvbnmq.site
 0.0.0.0 cvent.axiatraders.com
 0.0.0.0 cvetcscan.com
@@ -30234,6 +30236,7 @@
 0.0.0.0 f.screensavers.com
 0.0.0.0 f.thanksearch.com
 0.0.0.0 f.zeroredirect2.com
+0.0.0.0 f003.backblazeb2.com
 0.0.0.0 f05098.privacy4browsers.com
 0.0.0.0 f1.p0y.com
 0.0.0.0 f11098.privacy4browsers.com
@@ -62303,6 +62306,7 @@
 0.0.0.0 studsandspikes.click
 0.0.0.0 study.snapads.com
 0.0.0.0 studycooking.com
+0.0.0.0 studywithab.com
 0.0.0.0 stunningbillion.cam
 0.0.0.0 stunnning.info
 0.0.0.0 stuntedjewemmllery.info
@@ -74309,6 +74313,7 @@
 0.0.0.0 www.audienceexposure.com
 0.0.0.0 www.audio-book.net.pl
 0.0.0.0 www.audiofix1.com
+0.0.0.0 www.audionoisereducer.com
 0.0.0.0 www.audiopro.dudeitsmichael.com
 0.0.0.0 www.auditprint.com
 0.0.0.0 www.audmax.pl
@@ -78295,6 +78300,7 @@
 0.0.0.0 www.dance-alarm.de
 0.0.0.0 www.dancingsnakegames.com
 0.0.0.0 www.dancingwithbipolar.com
+0.0.0.0 www.dangdangflow.com
 0.0.0.0 www.dangerousex.pro
 0.0.0.0 www.daniellahue.shop
 0.0.0.0 www.danielmyers.shop
@@ -79387,6 +79393,7 @@
 0.0.0.0 www.dtta.ero-advertising.com
 0.0.0.0 www.dttnzx.com
 0.0.0.0 www.dtxexchange.com
+0.0.0.0 www.dualeotruyenno.com
 0.0.0.0 www.dubaipropertyyield.com
 0.0.0.0 www.dublinhypnosisclinic.com
 0.0.0.0 www.ducesfarra.rest
@@ -80877,6 +80884,7 @@
 0.0.0.0 www.ferninvestbury-ai.fyi
 0.0.0.0 www.ferninvestbury-appai.com
 0.0.0.0 www.feronixprime-7-4-ai.net
+0.0.0.0 www.ferreteriamaracopa.com
 0.0.0.0 www.fersanimoveis.com.br
 0.0.0.0 www.ferser.it
 0.0.0.0 www.fest-fondstein.net
@@ -88212,6 +88220,7 @@
 0.0.0.0 www.mygreatrewards.com
 0.0.0.0 www.myhank.pl
 0.0.0.0 www.myhealthabout.com
+0.0.0.0 www.myhucadvantage.com
 0.0.0.0 www.myishop.co.uk
 0.0.0.0 www.myjollyrudder.com
 0.0.0.0 www.myjournalists.org
@@ -95532,6 +95541,7 @@
 0.0.0.0 www.silavo.site
 0.0.0.0 www.silberstatic.com
 0.0.0.0 www.silcom.com
+0.0.0.0 www.silebah.com
 0.0.0.0 www.silent-barrage.com
 0.0.0.0 www.silentbattlez.site
 0.0.0.0 www.silentgateck.site
@@ -100938,6 +100948,7 @@
 0.0.0.0 www.waquge.pro
 0.0.0.0 www.warco.pl
 0.0.0.0 www.wardelena.shop
+0.0.0.0 www.wardhotels.com
 0.0.0.0 www.wardpeter.shop
 0.0.0.0 www.wardrobeconsultantlondon.com
 0.0.0.0 www.warecho.site

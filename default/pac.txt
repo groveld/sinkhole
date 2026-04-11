@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 104688
-// Updated: 2026-04-10 01:39:36 UTC
+// Entries: 104699
+// Updated: 2026-04-11 01:37:16 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21999,6 +21999,7 @@ var BLOCKLIST = {
 "cgmt.co.id":null,
 "cgradeh.leasnaillab.com":null,
 "cgsorh.com":null,
+"cguardai.com":null,
 "cguke-9h64o.ads.tremorhub.com":null,
 "ch-gmtdmp.mookie1.com":null,
 "ch-grontfeldenvika.info":null,
@@ -25275,6 +25276,7 @@ var BLOCKLIST = {
 "cv.apprupt.com":null,
 "cv.athenshardscaping.com":null,
 "cv.bsvideos.com":null,
+"cvbnff.s3.eu-central-003.backblazeb2.com":null,
 "cvbnmq.site":null,
 "cvent.axiatraders.com":null,
 "cvetcscan.com":null,
@@ -30235,6 +30237,7 @@ var BLOCKLIST = {
 "f.screensavers.com":null,
 "f.thanksearch.com":null,
 "f.zeroredirect2.com":null,
+"f003.backblazeb2.com":null,
 "f05098.privacy4browsers.com":null,
 "f1.p0y.com":null,
 "f11098.privacy4browsers.com":null,
@@ -62304,6 +62307,7 @@ var BLOCKLIST = {
 "studsandspikes.click":null,
 "study.snapads.com":null,
 "studycooking.com":null,
+"studywithab.com":null,
 "stunningbillion.cam":null,
 "stunnning.info":null,
 "stuntedjewemmllery.info":null,
@@ -74310,6 +74314,7 @@ var BLOCKLIST = {
 "www.audienceexposure.com":null,
 "www.audio-book.net.pl":null,
 "www.audiofix1.com":null,
+"www.audionoisereducer.com":null,
 "www.audiopro.dudeitsmichael.com":null,
 "www.auditprint.com":null,
 "www.audmax.pl":null,
@@ -78296,6 +78301,7 @@ var BLOCKLIST = {
 "www.dance-alarm.de":null,
 "www.dancingsnakegames.com":null,
 "www.dancingwithbipolar.com":null,
+"www.dangdangflow.com":null,
 "www.dangerousex.pro":null,
 "www.daniellahue.shop":null,
 "www.danielmyers.shop":null,
@@ -79388,6 +79394,7 @@ var BLOCKLIST = {
 "www.dtta.ero-advertising.com":null,
 "www.dttnzx.com":null,
 "www.dtxexchange.com":null,
+"www.dualeotruyenno.com":null,
 "www.dubaipropertyyield.com":null,
 "www.dublinhypnosisclinic.com":null,
 "www.ducesfarra.rest":null,
@@ -80878,6 +80885,7 @@ var BLOCKLIST = {
 "www.ferninvestbury-ai.fyi":null,
 "www.ferninvestbury-appai.com":null,
 "www.feronixprime-7-4-ai.net":null,
+"www.ferreteriamaracopa.com":null,
 "www.fersanimoveis.com.br":null,
 "www.ferser.it":null,
 "www.fest-fondstein.net":null,
@@ -88213,6 +88221,7 @@ var BLOCKLIST = {
 "www.mygreatrewards.com":null,
 "www.myhank.pl":null,
 "www.myhealthabout.com":null,
+"www.myhucadvantage.com":null,
 "www.myishop.co.uk":null,
 "www.myjollyrudder.com":null,
 "www.myjournalists.org":null,
@@ -95533,6 +95542,7 @@ var BLOCKLIST = {
 "www.silavo.site":null,
 "www.silberstatic.com":null,
 "www.silcom.com":null,
+"www.silebah.com":null,
 "www.silent-barrage.com":null,
 "www.silentbattlez.site":null,
 "www.silentgateck.site":null,
@@ -100939,6 +100949,7 @@ var BLOCKLIST = {
 "www.waquge.pro":null,
 "www.warco.pl":null,
 "www.wardelena.shop":null,
+"www.wardhotels.com":null,
 "www.wardpeter.shop":null,
 "www.wardrobeconsultantlondon.com":null,
 "www.warecho.site":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 104690
-# Updated: 2026-04-10 02:28:58 UTC
+# Entries: 104701
+# Updated: 2026-04-11 02:26:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21998,6 +21998,7 @@ address=/cgirm.greatfallstribune.com/0.0.0.0
 address=/cgmt.co.id/0.0.0.0
 address=/cgradeh.leasnaillab.com/0.0.0.0
 address=/cgsorh.com/0.0.0.0
+address=/cguardai.com/0.0.0.0
 address=/cguke-9h64o.ads.tremorhub.com/0.0.0.0
 address=/ch-gmtdmp.mookie1.com/0.0.0.0
 address=/ch-grontfeldenvika.info/0.0.0.0
@@ -25274,6 +25275,7 @@ address=/cuuoionl.com/0.0.0.0
 address=/cv.apprupt.com/0.0.0.0
 address=/cv.athenshardscaping.com/0.0.0.0
 address=/cv.bsvideos.com/0.0.0.0
+address=/cvbnff.s3.eu-central-003.backblazeb2.com/0.0.0.0
 address=/cvbnmq.site/0.0.0.0
 address=/cvent.axiatraders.com/0.0.0.0
 address=/cvetcscan.com/0.0.0.0
@@ -30234,6 +30236,7 @@ address=/f.qstatic.com/0.0.0.0
 address=/f.screensavers.com/0.0.0.0
 address=/f.thanksearch.com/0.0.0.0
 address=/f.zeroredirect2.com/0.0.0.0
+address=/f003.backblazeb2.com/0.0.0.0
 address=/f05098.privacy4browsers.com/0.0.0.0
 address=/f1.p0y.com/0.0.0.0
 address=/f11098.privacy4browsers.com/0.0.0.0
@@ -62304,6 +62307,7 @@ address=/studisfibr.rest/0.0.0.0
 address=/studsandspikes.click/0.0.0.0
 address=/study.snapads.com/0.0.0.0
 address=/studycooking.com/0.0.0.0
+address=/studywithab.com/0.0.0.0
 address=/stunningbillion.cam/0.0.0.0
 address=/stunnning.info/0.0.0.0
 address=/stuntedjewemmllery.info/0.0.0.0
@@ -74310,6 +74314,7 @@ address=/www.audia6.com/0.0.0.0
 address=/www.audienceexposure.com/0.0.0.0
 address=/www.audio-book.net.pl/0.0.0.0
 address=/www.audiofix1.com/0.0.0.0
+address=/www.audionoisereducer.com/0.0.0.0
 address=/www.audiopro.dudeitsmichael.com/0.0.0.0
 address=/www.auditprint.com/0.0.0.0
 address=/www.audmax.pl/0.0.0.0
@@ -78296,6 +78301,7 @@ address=/www.danair.es/0.0.0.0
 address=/www.dance-alarm.de/0.0.0.0
 address=/www.dancingsnakegames.com/0.0.0.0
 address=/www.dancingwithbipolar.com/0.0.0.0
+address=/www.dangdangflow.com/0.0.0.0
 address=/www.dangerousex.pro/0.0.0.0
 address=/www.daniellahue.shop/0.0.0.0
 address=/www.danielmyers.shop/0.0.0.0
@@ -79388,6 +79394,7 @@ address=/www.dtransportv.urbandigitized.com/0.0.0.0
 address=/www.dtta.ero-advertising.com/0.0.0.0
 address=/www.dttnzx.com/0.0.0.0
 address=/www.dtxexchange.com/0.0.0.0
+address=/www.dualeotruyenno.com/0.0.0.0
 address=/www.dubaipropertyyield.com/0.0.0.0
 address=/www.dublinhypnosisclinic.com/0.0.0.0
 address=/www.ducesfarra.rest/0.0.0.0
@@ -80878,6 +80885,7 @@ address=/www.fermil.shop/0.0.0.0
 address=/www.ferninvestbury-ai.fyi/0.0.0.0
 address=/www.ferninvestbury-appai.com/0.0.0.0
 address=/www.feronixprime-7-4-ai.net/0.0.0.0
+address=/www.ferreteriamaracopa.com/0.0.0.0
 address=/www.fersanimoveis.com.br/0.0.0.0
 address=/www.ferser.it/0.0.0.0
 address=/www.fest-fondstein.net/0.0.0.0
@@ -88214,6 +88222,7 @@ address=/www.myglobalsearch.com/0.0.0.0
 address=/www.mygreatrewards.com/0.0.0.0
 address=/www.myhank.pl/0.0.0.0
 address=/www.myhealthabout.com/0.0.0.0
+address=/www.myhucadvantage.com/0.0.0.0
 address=/www.myishop.co.uk/0.0.0.0
 address=/www.myjollyrudder.com/0.0.0.0
 address=/www.myjournalists.org/0.0.0.0
@@ -95534,6 +95543,7 @@ address=/www.sila-finoblia.com/0.0.0.0
 address=/www.silavo.site/0.0.0.0
 address=/www.silberstatic.com/0.0.0.0
 address=/www.silcom.com/0.0.0.0
+address=/www.silebah.com/0.0.0.0
 address=/www.silent-barrage.com/0.0.0.0
 address=/www.silentbattlez.site/0.0.0.0
 address=/www.silentgateck.site/0.0.0.0
@@ -100940,6 +100950,7 @@ address=/www.waqowya.com/0.0.0.0
 address=/www.waquge.pro/0.0.0.0
 address=/www.warco.pl/0.0.0.0
 address=/www.wardelena.shop/0.0.0.0
+address=/www.wardhotels.com/0.0.0.0
 address=/www.wardpeter.shop/0.0.0.0
 address=/www.wardrobeconsultantlondon.com/0.0.0.0
 address=/www.warecho.site/0.0.0.0
