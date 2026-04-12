@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 104699
-# Updated: 2026-04-11 01:37:16 UTC
+# Entries: 104700
+# Updated: 2026-04-12 01:44:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -103753,6 +103753,7 @@ address=/yfoodpolska.pl/0.0.0.0
 address=/yfq3yg.skin/0.0.0.0
 address=/yfunc.sbs/0.0.0.0
 address=/yfzbh.com/0.0.0.0
+address=/yg5sjx5kzy.com/0.0.0.0
 address=/yggdrasilvision.org/0.0.0.0
 address=/yhdncj.biz/0.0.0.0
 address=/yhdnrjncdndswnrj.nl/0.0.0.0

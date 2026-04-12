@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 104699
-# Updated: 2026-04-11 01:37:16 UTC
+# Entries: 104700
+# Updated: 2026-04-12 01:44:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -103753,6 +103753,7 @@ yfoodpolska.pl
 yfq3yg.skin
 yfunc.sbs
 yfzbh.com
+yg5sjx5kzy.com
 yggdrasilvision.org
 yhdncj.biz
 yhdnrjncdndswnrj.nl
