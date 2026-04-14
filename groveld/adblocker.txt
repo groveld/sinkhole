@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 100134
-! Updated: 2026-04-13 02:34:08 UTC
+! Entries: 100141
+! Updated: 2026-04-14 02:33:38 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12464,6 +12464,7 @@
 ||alreadynude.com^
 ||als-svc.nytimes.com^
 ||alset.com^
+||alt-mk-sports.com^
 ||alt.impresionesweb.com^
 ||alt.net^
 ||alt.webtraxs.com^
@@ -26006,6 +26007,7 @@
 ||desercctificationtinned.info^
 ||deseretnews.112.2o7.net^
 ||deserphyll.cyou^
+||desertdreamtour.com^
 ||desertgates.com^
 ||desertifijjcation.info^
 ||desertorganix.com^
@@ -39364,6 +39366,7 @@
 ||l1.qsstats.com^
 ||l1.zedo.com^
 ||l1k8c4.lat^
+||l2.cuyouthmusic.com^
 ||l2.l.qq.com^
 ||l2.zedo.com^
 ||l2cavx.site^
@@ -72253,6 +72256,7 @@
 ||www.bawerko.com^
 ||www.bawerko.onl^
 ||www.baworyu.com^
+||www.bayareafyuerzk.com^
 ||www.bayassetholm-ai.fyi^
 ||www.baycoders.com^
 ||www.bayhdole.com^
@@ -72878,6 +72882,7 @@
 ||www.bluecarrot.tucanti.com^
 ||www.bluecarrot.turismoruraltenerife.com^
 ||www.bluecoasthampstead.com^
+||www.bluecollarparanormal.com^
 ||www.blueconfirmcenter.vercel.app^
 ||www.bluecrabhosting.co.uk^
 ||www.bluecrest-journey.com^
@@ -72975,6 +72980,7 @@
 ||www.bonomraffi.rest^
 ||www.bonswiateczny.24.eu^
 ||www.bonutea.pro^
+||www.bonuxsarrive.com^
 ||www.boobi.biz^
 ||www.boodlsbata.rest^
 ||www.booking-hotelreserv.info^
@@ -76251,6 +76257,7 @@
 ||www.dla-ciala.pl^
 ||www.dlactywnepolskie.convertri.com^
 ||www.dleaka.cyou^
+||www.dlinktour.com^
 ||www.dljkyq.com^
 ||www.dlkjxf.com^
 ||www.dlkvs.com^

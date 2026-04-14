@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 100134
-# Updated: 2026-04-13 02:34:08 UTC
+# Entries: 100141
+# Updated: 2026-04-14 02:33:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12464,6 +12464,7 @@ address=/alpventures.bravejournal.com/0.0.0.0
 address=/alreadynude.com/0.0.0.0
 address=/als-svc.nytimes.com/0.0.0.0
 address=/alset.com/0.0.0.0
+address=/alt-mk-sports.com/0.0.0.0
 address=/alt.impresionesweb.com/0.0.0.0
 address=/alt.net/0.0.0.0
 address=/alt.webtraxs.com/0.0.0.0
@@ -26006,6 +26007,7 @@ address=/descontohoje.sbs/0.0.0.0
 address=/desercctificationtinned.info/0.0.0.0
 address=/deseretnews.112.2o7.net/0.0.0.0
 address=/deserphyll.cyou/0.0.0.0
+address=/desertdreamtour.com/0.0.0.0
 address=/desertgates.com/0.0.0.0
 address=/desertifijjcation.info/0.0.0.0
 address=/desertorganix.com/0.0.0.0
@@ -39364,6 +39366,7 @@ address=/l1.cdn.qnsr.com/0.0.0.0
 address=/l1.qsstats.com/0.0.0.0
 address=/l1.zedo.com/0.0.0.0
 address=/l1k8c4.lat/0.0.0.0
+address=/l2.cuyouthmusic.com/0.0.0.0
 address=/l2.l.qq.com/0.0.0.0
 address=/l2.zedo.com/0.0.0.0
 address=/l2cavx.site/0.0.0.0
@@ -72253,6 +72256,7 @@ address=/www.bawaslu.thm.my.id/0.0.0.0
 address=/www.bawerko.com/0.0.0.0
 address=/www.bawerko.onl/0.0.0.0
 address=/www.baworyu.com/0.0.0.0
+address=/www.bayareafyuerzk.com/0.0.0.0
 address=/www.bayassetholm-ai.fyi/0.0.0.0
 address=/www.baycoders.com/0.0.0.0
 address=/www.bayhdole.com/0.0.0.0
@@ -72878,6 +72882,7 @@ address=/www.bluecarrot.trustedpostgres.com/0.0.0.0
 address=/www.bluecarrot.tucanti.com/0.0.0.0
 address=/www.bluecarrot.turismoruraltenerife.com/0.0.0.0
 address=/www.bluecoasthampstead.com/0.0.0.0
+address=/www.bluecollarparanormal.com/0.0.0.0
 address=/www.blueconfirmcenter.vercel.app/0.0.0.0
 address=/www.bluecrabhosting.co.uk/0.0.0.0
 address=/www.bluecrest-journey.com/0.0.0.0
@@ -72975,6 +72980,7 @@ address=/www.bonnes.shop/0.0.0.0
 address=/www.bonomraffi.rest/0.0.0.0
 address=/www.bonswiateczny.24.eu/0.0.0.0
 address=/www.bonutea.pro/0.0.0.0
+address=/www.bonuxsarrive.com/0.0.0.0
 address=/www.boobi.biz/0.0.0.0
 address=/www.boodlsbata.rest/0.0.0.0
 address=/www.booking-hotelreserv.info/0.0.0.0
@@ -76251,6 +76257,7 @@ address=/www.dl-dda.com/0.0.0.0
 address=/www.dla-ciala.pl/0.0.0.0
 address=/www.dlactywnepolskie.convertri.com/0.0.0.0
 address=/www.dleaka.cyou/0.0.0.0
+address=/www.dlinktour.com/0.0.0.0
 address=/www.dljkyq.com/0.0.0.0
 address=/www.dlkjxf.com/0.0.0.0
 address=/www.dlkvs.com/0.0.0.0

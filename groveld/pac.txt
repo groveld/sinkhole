@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 100134
-// Updated: 2026-04-13 02:34:08 UTC
+// Entries: 100141
+// Updated: 2026-04-14 02:33:38 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12465,6 +12465,7 @@ var BLOCKLIST = {
 "alreadynude.com":null,
 "als-svc.nytimes.com":null,
 "alset.com":null,
+"alt-mk-sports.com":null,
 "alt.impresionesweb.com":null,
 "alt.net":null,
 "alt.webtraxs.com":null,
@@ -26007,6 +26008,7 @@ var BLOCKLIST = {
 "desercctificationtinned.info":null,
 "deseretnews.112.2o7.net":null,
 "deserphyll.cyou":null,
+"desertdreamtour.com":null,
 "desertgates.com":null,
 "desertifijjcation.info":null,
 "desertorganix.com":null,
@@ -39365,6 +39367,7 @@ var BLOCKLIST = {
 "l1.qsstats.com":null,
 "l1.zedo.com":null,
 "l1k8c4.lat":null,
+"l2.cuyouthmusic.com":null,
 "l2.l.qq.com":null,
 "l2.zedo.com":null,
 "l2cavx.site":null,
@@ -72254,6 +72257,7 @@ var BLOCKLIST = {
 "www.bawerko.com":null,
 "www.bawerko.onl":null,
 "www.baworyu.com":null,
+"www.bayareafyuerzk.com":null,
 "www.bayassetholm-ai.fyi":null,
 "www.baycoders.com":null,
 "www.bayhdole.com":null,
@@ -72879,6 +72883,7 @@ var BLOCKLIST = {
 "www.bluecarrot.tucanti.com":null,
 "www.bluecarrot.turismoruraltenerife.com":null,
 "www.bluecoasthampstead.com":null,
+"www.bluecollarparanormal.com":null,
 "www.blueconfirmcenter.vercel.app":null,
 "www.bluecrabhosting.co.uk":null,
 "www.bluecrest-journey.com":null,
@@ -72976,6 +72981,7 @@ var BLOCKLIST = {
 "www.bonomraffi.rest":null,
 "www.bonswiateczny.24.eu":null,
 "www.bonutea.pro":null,
+"www.bonuxsarrive.com":null,
 "www.boobi.biz":null,
 "www.boodlsbata.rest":null,
 "www.booking-hotelreserv.info":null,
@@ -76252,6 +76258,7 @@ var BLOCKLIST = {
 "www.dla-ciala.pl":null,
 "www.dlactywnepolskie.convertri.com":null,
 "www.dleaka.cyou":null,
+"www.dlinktour.com":null,
 "www.dljkyq.com":null,
 "www.dlkjxf.com":null,
 "www.dlkvs.com":null,

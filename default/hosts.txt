@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 100132
-# Updated: 2026-04-13 01:44:45 UTC
+# Entries: 100139
+# Updated: 2026-04-14 01:44:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12464,6 +12464,7 @@
 0.0.0.0 alreadynude.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 alset.com
+0.0.0.0 alt-mk-sports.com
 0.0.0.0 alt.impresionesweb.com
 0.0.0.0 alt.net
 0.0.0.0 alt.webtraxs.com
@@ -26006,6 +26007,7 @@
 0.0.0.0 desercctificationtinned.info
 0.0.0.0 deseretnews.112.2o7.net
 0.0.0.0 deserphyll.cyou
+0.0.0.0 desertdreamtour.com
 0.0.0.0 desertgates.com
 0.0.0.0 desertifijjcation.info
 0.0.0.0 desertorganix.com
@@ -39363,6 +39365,7 @@
 0.0.0.0 l1.qsstats.com
 0.0.0.0 l1.zedo.com
 0.0.0.0 l1k8c4.lat
+0.0.0.0 l2.cuyouthmusic.com
 0.0.0.0 l2.l.qq.com
 0.0.0.0 l2.zedo.com
 0.0.0.0 l2cavx.site
@@ -72252,6 +72255,7 @@
 0.0.0.0 www.bawerko.com
 0.0.0.0 www.bawerko.onl
 0.0.0.0 www.baworyu.com
+0.0.0.0 www.bayareafyuerzk.com
 0.0.0.0 www.bayassetholm-ai.fyi
 0.0.0.0 www.baycoders.com
 0.0.0.0 www.bayhdole.com
@@ -72877,6 +72881,7 @@
 0.0.0.0 www.bluecarrot.tucanti.com
 0.0.0.0 www.bluecarrot.turismoruraltenerife.com
 0.0.0.0 www.bluecoasthampstead.com
+0.0.0.0 www.bluecollarparanormal.com
 0.0.0.0 www.blueconfirmcenter.vercel.app
 0.0.0.0 www.bluecrabhosting.co.uk
 0.0.0.0 www.bluecrest-journey.com
@@ -72974,6 +72979,7 @@
 0.0.0.0 www.bonomraffi.rest
 0.0.0.0 www.bonswiateczny.24.eu
 0.0.0.0 www.bonutea.pro
+0.0.0.0 www.bonuxsarrive.com
 0.0.0.0 www.boobi.biz
 0.0.0.0 www.boodlsbata.rest
 0.0.0.0 www.booking-hotelreserv.info
@@ -76250,6 +76256,7 @@
 0.0.0.0 www.dla-ciala.pl
 0.0.0.0 www.dlactywnepolskie.convertri.com
 0.0.0.0 www.dleaka.cyou
+0.0.0.0 www.dlinktour.com
 0.0.0.0 www.dljkyq.com
 0.0.0.0 www.dlkjxf.com
 0.0.0.0 www.dlkvs.com
