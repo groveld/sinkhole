@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 100139
-! Updated: 2026-04-14 01:44:13 UTC
+! Entries: 100151
+! Updated: 2026-04-15 01:44:47 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -72489,6 +72489,7 @@
 ||www.betzolo.org^
 ||www.betzologuncel.org^
 ||www.beuutweenwhileschassed.info^
+||www.bevisgame.com^
 ||www.beyazesyateklif.com^
 ||www.beykozvilla.com^
 ||www.beyondflood.webmanchester.com^
@@ -72748,6 +72749,7 @@
 ||www.bladeandbeyond.com^
 ||www.blakekotrla.com^
 ||www.blancmangesentresspots.info^
+||www.blanknightsmfg.com^
 ||www.blask-finthra.pl^
 ||www.blastocoelup.info^
 ||www.blastoupgrade.click^
@@ -74885,6 +74887,7 @@
 ||www.contrack.link^
 ||www.contractorswealthblueprint.com^
 ||www.contrforce.lamariposademadera.com^
+||www.controlpop.com^
 ||www.controlsecurity.net^
 ||www.contrprono.rest^
 ||www.contrsempl.rest^
@@ -76007,6 +76010,7 @@
 ||www.dicarlotrack.com^
 ||www.dichotomouslxxy.info^
 ||www.dicorcompe.rest^
+||www.dictadosonline.com^
 ||www.didata.bw^
 ||www.didibuy.de^
 ||www.didtheyreadit.com^
@@ -85184,6 +85188,7 @@
 ||www.nebulink-works.com^
 ||www.nebulous-tech.com^
 ||www.nebulus30.plus.com^
+||www.necklaceu.com^
 ||www.nedenyetkiliservis.com^
 ||www.nedinsalihu.shop^
 ||www.nedstat.co.uk^
@@ -86078,6 +86083,7 @@
 ||www.ogolnenowiny.convertri.com^
 ||www.ogolneserwis.convertri.com^
 ||www.ogolnopolskiprogram.convertri.com^
+||www.ogopond.com^
 ||www.ographm.schoolofthot.com^
 ||www.ogrod-moje-zycie.myshopify.com^
 ||www.ogrod24.slgo.pl^
@@ -88805,6 +88811,7 @@
 ||www.premiersecureemail.com^
 ||www.premioluxarionx.net^
 ||www.premium.ihuh.pl^
+||www.premiumbrandszonalibre.com^
 ||www.premiumcartsshop.com^
 ||www.premiumdesignhubuk.pro^
 ||www.premiumdostep.help^
@@ -88888,6 +88895,7 @@
 ||www.primoxura.com^
 ||www.princejall.gridgrab.com^
 ||www.princesscons.best^
+||www.princessuppies.com^
 ||www.prinosifondavi-dk.com^
 ||www.printerial.com^
 ||www.printmail.biz^
@@ -89705,6 +89713,7 @@
 ||www.randlleegacy.co.za^
 ||www.random-logic.com^
 ||www.randppro-cuts.com^
+||www.randrongames.com^
 ||www.randyfelts.com^
 ||www.ranirva.net^
 ||www.ranivo.site^
@@ -92838,6 +92847,7 @@
 ||www.strevkampol.top^
 ||www.striangleo.rayannikcanada.com^
 ||www.stricklermervyn.shop^
+||www.stricklyhouses.com^
 ||www.strideluxorax.com^
 ||www.stridestore.shop^
 ||www.strigcelav.rest^
@@ -93109,6 +93119,7 @@
 ||www.svilltriso.rest^
 ||www.svinacontr.rest^
 ||www.sviolpiati.rest^
+||www.svipfulishipin.com^
 ||www.svolgvomer.rest^
 ||www.svotiaggre.rest^
 ||www.svvecularist.info^
@@ -93685,6 +93696,7 @@
 ||www.teredragonce.work^
 ||www.terefirecent.shop^
 ||www.teresaberent.shop^
+||www.teresinaapartment.com^
 ||www.tereska.pl^
 ||www.terezadurao.shop^
 ||www.terhotudergd.com^

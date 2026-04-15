@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 100141
-# Updated: 2026-04-14 02:33:38 UTC
+# Entries: 100153
+# Updated: 2026-04-15 02:34:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -72490,6 +72490,7 @@
 0.0.0.0 www.betzolo.org
 0.0.0.0 www.betzologuncel.org
 0.0.0.0 www.beuutweenwhileschassed.info
+0.0.0.0 www.bevisgame.com
 0.0.0.0 www.beyazesyateklif.com
 0.0.0.0 www.beykozvilla.com
 0.0.0.0 www.beyondflood.webmanchester.com
@@ -72749,6 +72750,7 @@
 0.0.0.0 www.bladeandbeyond.com
 0.0.0.0 www.blakekotrla.com
 0.0.0.0 www.blancmangesentresspots.info
+0.0.0.0 www.blanknightsmfg.com
 0.0.0.0 www.blask-finthra.pl
 0.0.0.0 www.blastocoelup.info
 0.0.0.0 www.blastoupgrade.click
@@ -74886,6 +74888,7 @@
 0.0.0.0 www.contrack.link
 0.0.0.0 www.contractorswealthblueprint.com
 0.0.0.0 www.contrforce.lamariposademadera.com
+0.0.0.0 www.controlpop.com
 0.0.0.0 www.controlsecurity.net
 0.0.0.0 www.contrprono.rest
 0.0.0.0 www.contrsempl.rest
@@ -76008,6 +76011,7 @@
 0.0.0.0 www.dicarlotrack.com
 0.0.0.0 www.dichotomouslxxy.info
 0.0.0.0 www.dicorcompe.rest
+0.0.0.0 www.dictadosonline.com
 0.0.0.0 www.didata.bw
 0.0.0.0 www.didibuy.de
 0.0.0.0 www.didtheyreadit.com
@@ -85186,6 +85190,7 @@
 0.0.0.0 www.nebulink-works.com
 0.0.0.0 www.nebulous-tech.com
 0.0.0.0 www.nebulus30.plus.com
+0.0.0.0 www.necklaceu.com
 0.0.0.0 www.nedenyetkiliservis.com
 0.0.0.0 www.nedinsalihu.shop
 0.0.0.0 www.nedstat.co.uk
@@ -86080,6 +86085,7 @@
 0.0.0.0 www.ogolnenowiny.convertri.com
 0.0.0.0 www.ogolneserwis.convertri.com
 0.0.0.0 www.ogolnopolskiprogram.convertri.com
+0.0.0.0 www.ogopond.com
 0.0.0.0 www.ographm.schoolofthot.com
 0.0.0.0 www.ogrod-moje-zycie.myshopify.com
 0.0.0.0 www.ogrod24.slgo.pl
@@ -88807,6 +88813,7 @@
 0.0.0.0 www.premiersecureemail.com
 0.0.0.0 www.premioluxarionx.net
 0.0.0.0 www.premium.ihuh.pl
+0.0.0.0 www.premiumbrandszonalibre.com
 0.0.0.0 www.premiumcartsshop.com
 0.0.0.0 www.premiumdesignhubuk.pro
 0.0.0.0 www.premiumdostep.help
@@ -88890,6 +88897,7 @@
 0.0.0.0 www.primoxura.com
 0.0.0.0 www.princejall.gridgrab.com
 0.0.0.0 www.princesscons.best
+0.0.0.0 www.princessuppies.com
 0.0.0.0 www.prinosifondavi-dk.com
 0.0.0.0 www.printerial.com
 0.0.0.0 www.printmail.biz
@@ -89707,6 +89715,7 @@
 0.0.0.0 www.randlleegacy.co.za
 0.0.0.0 www.random-logic.com
 0.0.0.0 www.randppro-cuts.com
+0.0.0.0 www.randrongames.com
 0.0.0.0 www.randyfelts.com
 0.0.0.0 www.ranirva.net
 0.0.0.0 www.ranivo.site
@@ -92840,6 +92849,7 @@
 0.0.0.0 www.strevkampol.top
 0.0.0.0 www.striangleo.rayannikcanada.com
 0.0.0.0 www.stricklermervyn.shop
+0.0.0.0 www.stricklyhouses.com
 0.0.0.0 www.strideluxorax.com
 0.0.0.0 www.stridestore.shop
 0.0.0.0 www.strigcelav.rest
@@ -93111,6 +93121,7 @@
 0.0.0.0 www.svilltriso.rest
 0.0.0.0 www.svinacontr.rest
 0.0.0.0 www.sviolpiati.rest
+0.0.0.0 www.svipfulishipin.com
 0.0.0.0 www.svolgvomer.rest
 0.0.0.0 www.svotiaggre.rest
 0.0.0.0 www.svvecularist.info
@@ -93687,6 +93698,7 @@
 0.0.0.0 www.teredragonce.work
 0.0.0.0 www.terefirecent.shop
 0.0.0.0 www.teresaberent.shop
+0.0.0.0 www.teresinaapartment.com
 0.0.0.0 www.tereska.pl
 0.0.0.0 www.terezadurao.shop
 0.0.0.0 www.terhotudergd.com

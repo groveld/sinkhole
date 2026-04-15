@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 100139
-// Updated: 2026-04-14 01:44:13 UTC
+// Entries: 100151
+// Updated: 2026-04-15 01:44:47 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -72490,6 +72490,7 @@ var BLOCKLIST = {
 "www.betzolo.org":null,
 "www.betzologuncel.org":null,
 "www.beuutweenwhileschassed.info":null,
+"www.bevisgame.com":null,
 "www.beyazesyateklif.com":null,
 "www.beykozvilla.com":null,
 "www.beyondflood.webmanchester.com":null,
@@ -72749,6 +72750,7 @@ var BLOCKLIST = {
 "www.bladeandbeyond.com":null,
 "www.blakekotrla.com":null,
 "www.blancmangesentresspots.info":null,
+"www.blanknightsmfg.com":null,
 "www.blask-finthra.pl":null,
 "www.blastocoelup.info":null,
 "www.blastoupgrade.click":null,
@@ -74886,6 +74888,7 @@ var BLOCKLIST = {
 "www.contrack.link":null,
 "www.contractorswealthblueprint.com":null,
 "www.contrforce.lamariposademadera.com":null,
+"www.controlpop.com":null,
 "www.controlsecurity.net":null,
 "www.contrprono.rest":null,
 "www.contrsempl.rest":null,
@@ -76008,6 +76011,7 @@ var BLOCKLIST = {
 "www.dicarlotrack.com":null,
 "www.dichotomouslxxy.info":null,
 "www.dicorcompe.rest":null,
+"www.dictadosonline.com":null,
 "www.didata.bw":null,
 "www.didibuy.de":null,
 "www.didtheyreadit.com":null,
@@ -85185,6 +85189,7 @@ var BLOCKLIST = {
 "www.nebulink-works.com":null,
 "www.nebulous-tech.com":null,
 "www.nebulus30.plus.com":null,
+"www.necklaceu.com":null,
 "www.nedenyetkiliservis.com":null,
 "www.nedinsalihu.shop":null,
 "www.nedstat.co.uk":null,
@@ -86079,6 +86084,7 @@ var BLOCKLIST = {
 "www.ogolnenowiny.convertri.com":null,
 "www.ogolneserwis.convertri.com":null,
 "www.ogolnopolskiprogram.convertri.com":null,
+"www.ogopond.com":null,
 "www.ographm.schoolofthot.com":null,
 "www.ogrod-moje-zycie.myshopify.com":null,
 "www.ogrod24.slgo.pl":null,
@@ -88806,6 +88812,7 @@ var BLOCKLIST = {
 "www.premiersecureemail.com":null,
 "www.premioluxarionx.net":null,
 "www.premium.ihuh.pl":null,
+"www.premiumbrandszonalibre.com":null,
 "www.premiumcartsshop.com":null,
 "www.premiumdesignhubuk.pro":null,
 "www.premiumdostep.help":null,
@@ -88889,6 +88896,7 @@ var BLOCKLIST = {
 "www.primoxura.com":null,
 "www.princejall.gridgrab.com":null,
 "www.princesscons.best":null,
+"www.princessuppies.com":null,
 "www.prinosifondavi-dk.com":null,
 "www.printerial.com":null,
 "www.printmail.biz":null,
@@ -89706,6 +89714,7 @@ var BLOCKLIST = {
 "www.randlleegacy.co.za":null,
 "www.random-logic.com":null,
 "www.randppro-cuts.com":null,
+"www.randrongames.com":null,
 "www.randyfelts.com":null,
 "www.ranirva.net":null,
 "www.ranivo.site":null,
@@ -92839,6 +92848,7 @@ var BLOCKLIST = {
 "www.strevkampol.top":null,
 "www.striangleo.rayannikcanada.com":null,
 "www.stricklermervyn.shop":null,
+"www.stricklyhouses.com":null,
 "www.strideluxorax.com":null,
 "www.stridestore.shop":null,
 "www.strigcelav.rest":null,
@@ -93110,6 +93120,7 @@ var BLOCKLIST = {
 "www.svilltriso.rest":null,
 "www.svinacontr.rest":null,
 "www.sviolpiati.rest":null,
+"www.svipfulishipin.com":null,
 "www.svolgvomer.rest":null,
 "www.svotiaggre.rest":null,
 "www.svvecularist.info":null,
@@ -93686,6 +93697,7 @@ var BLOCKLIST = {
 "www.teredragonce.work":null,
 "www.terefirecent.shop":null,
 "www.teresaberent.shop":null,
+"www.teresinaapartment.com":null,
 "www.tereska.pl":null,
 "www.terezadurao.shop":null,
 "www.terhotudergd.com":null,
