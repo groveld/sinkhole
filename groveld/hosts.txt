@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 100153
-# Updated: 2026-04-15 02:34:13 UTC
+# Entries: 100162
+# Updated: 2026-04-16 02:35:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -36418,6 +36418,7 @@
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 imtwjwoasak.com
 0.0.0.0 imwx.com
+0.0.0.0 in-aoke.com
 0.0.0.0 in-appadvertising.com
 0.0.0.0 in-cdn.effectivemeasure.net
 0.0.0.0 in-gmtdmp.mookie1.com
@@ -71299,6 +71300,7 @@
 0.0.0.0 www.american-prize-center.com
 0.0.0.0 www.americanexpress-finservices.org
 0.0.0.0 www.americanmettleart.com
+0.0.0.0 www.americanresortresolutions.com
 0.0.0.0 www.americasrighthere.org
 0.0.0.0 www.ameriskulda.top
 0.0.0.0 www.ameriskuldabrentik.top
@@ -80831,6 +80833,7 @@
 0.0.0.0 www.hotmama.pl
 0.0.0.0 www.hotmilf.pl
 0.0.0.0 www.hotmumall.shop
+0.0.0.0 www.hotpanic.net
 0.0.0.0 www.hotplugins.com
 0.0.0.0 www.hotranks.com
 0.0.0.0 www.hotshoe.shop
@@ -84456,6 +84459,7 @@
 0.0.0.0 www.metspa.cam
 0.0.0.0 www.metybai.pro
 0.0.0.0 www.mevsall.com
+0.0.0.0 www.mexdrugs.com
 0.0.0.0 www.mezczyzna-trendy.pl
 0.0.0.0 www.mftracking.com
 0.0.0.0 www.mgid.com
@@ -89761,6 +89765,7 @@
 0.0.0.0 www.rashagulf.com
 0.0.0.0 www.raskinvexaro-no.fyi
 0.0.0.0 www.raspberrydele.towyotrailers.com
+0.0.0.0 www.raspberryketoneslim.com
 0.0.0.0 www.rastemokin.pro
 0.0.0.0 www.rastrbemol.rest
 0.0.0.0 www.rastreio-consulta.shop
@@ -90855,6 +90860,7 @@
 0.0.0.0 www.saukera.com
 0.0.0.0 www.saumweb.com
 0.0.0.0 www.saunatila.com
+0.0.0.0 www.sauteenacoochee.com
 0.0.0.0 www.savannnaiinsight.com
 0.0.0.0 www.savemist.solocanvas.com
 0.0.0.0 www.saveonfurniture.shop
@@ -91895,6 +91901,7 @@
 0.0.0.0 www.slideimovax-pt.fyi
 0.0.0.0 www.slideimovax200-pt.fyi
 0.0.0.0 www.slidesearch.net
+0.0.0.0 www.slidingdoorlocks.com
 0.0.0.0 www.slimads.vn
 0.0.0.0 www.slimak-pozyczki.pl
 0.0.0.0 www.slimme-budgettering.com
@@ -92127,6 +92134,7 @@
 0.0.0.0 www.softvcucumber.coldtakesbeta.com
 0.0.0.0 www.software-hq.net
 0.0.0.0 www.software-phile.com
+0.0.0.0 www.softwarebeginner.com
 0.0.0.0 www.softwave88studio.com
 0.0.0.0 www.soggismarg.rest
 0.0.0.0 www.sogguvapor.rest
@@ -92976,6 +92984,7 @@
 0.0.0.0 www.sunerlypl.myshopify.com
 0.0.0.0 www.sunflagsteel.com
 0.0.0.0 www.sunfwork.mhrc2023.com
+0.0.0.0 www.sunglassesfor.com
 0.0.0.0 www.sunidaytravel.co.uk
 0.0.0.0 www.sunif.cfd
 0.0.0.0 www.sunkissedkate.com

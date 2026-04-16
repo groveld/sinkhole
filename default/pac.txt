@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 100151
-// Updated: 2026-04-15 01:44:47 UTC
+// Entries: 100160
+// Updated: 2026-04-16 01:45:59 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -36418,6 +36418,7 @@ var BLOCKLIST = {
 "imstore.bet365affiliates.com":null,
 "imtwjwoasak.com":null,
 "imwx.com":null,
+"in-aoke.com":null,
 "in-appadvertising.com":null,
 "in-cdn.effectivemeasure.net":null,
 "in-gmtdmp.mookie1.com":null,
@@ -71299,6 +71300,7 @@ var BLOCKLIST = {
 "www.american-prize-center.com":null,
 "www.americanexpress-finservices.org":null,
 "www.americanmettleart.com":null,
+"www.americanresortresolutions.com":null,
 "www.americasrighthere.org":null,
 "www.ameriskulda.top":null,
 "www.ameriskuldabrentik.top":null,
@@ -80830,6 +80832,7 @@ var BLOCKLIST = {
 "www.hotmama.pl":null,
 "www.hotmilf.pl":null,
 "www.hotmumall.shop":null,
+"www.hotpanic.net":null,
 "www.hotplugins.com":null,
 "www.hotranks.com":null,
 "www.hotshoe.shop":null,
@@ -84455,6 +84458,7 @@ var BLOCKLIST = {
 "www.metspa.cam":null,
 "www.metybai.pro":null,
 "www.mevsall.com":null,
+"www.mexdrugs.com":null,
 "www.mezczyzna-trendy.pl":null,
 "www.mftracking.com":null,
 "www.mgid.com":null,
@@ -89760,6 +89764,7 @@ var BLOCKLIST = {
 "www.rashagulf.com":null,
 "www.raskinvexaro-no.fyi":null,
 "www.raspberrydele.towyotrailers.com":null,
+"www.raspberryketoneslim.com":null,
 "www.rastemokin.pro":null,
 "www.rastrbemol.rest":null,
 "www.rastreio-consulta.shop":null,
@@ -90854,6 +90859,7 @@ var BLOCKLIST = {
 "www.saukera.com":null,
 "www.saumweb.com":null,
 "www.saunatila.com":null,
+"www.sauteenacoochee.com":null,
 "www.savannnaiinsight.com":null,
 "www.savemist.solocanvas.com":null,
 "www.saveonfurniture.shop":null,
@@ -91894,6 +91900,7 @@ var BLOCKLIST = {
 "www.slideimovax-pt.fyi":null,
 "www.slideimovax200-pt.fyi":null,
 "www.slidesearch.net":null,
+"www.slidingdoorlocks.com":null,
 "www.slimads.vn":null,
 "www.slimak-pozyczki.pl":null,
 "www.slimme-budgettering.com":null,
@@ -92126,6 +92133,7 @@ var BLOCKLIST = {
 "www.softvcucumber.coldtakesbeta.com":null,
 "www.software-hq.net":null,
 "www.software-phile.com":null,
+"www.softwarebeginner.com":null,
 "www.softwave88studio.com":null,
 "www.soggismarg.rest":null,
 "www.sogguvapor.rest":null,
@@ -92975,6 +92983,7 @@ var BLOCKLIST = {
 "www.sunerlypl.myshopify.com":null,
 "www.sunflagsteel.com":null,
 "www.sunfwork.mhrc2023.com":null,
+"www.sunglassesfor.com":null,
 "www.sunidaytravel.co.uk":null,
 "www.sunif.cfd":null,
 "www.sunkissedkate.com":null,

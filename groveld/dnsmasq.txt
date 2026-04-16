@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 100153
-# Updated: 2026-04-15 02:34:13 UTC
+# Entries: 100162
+# Updated: 2026-04-16 02:35:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -36418,6 +36418,7 @@ address=/imssl01.adtech.us/0.0.0.0
 address=/imstore.bet365affiliates.com/0.0.0.0
 address=/imtwjwoasak.com/0.0.0.0
 address=/imwx.com/0.0.0.0
+address=/in-aoke.com/0.0.0.0
 address=/in-appadvertising.com/0.0.0.0
 address=/in-cdn.effectivemeasure.net/0.0.0.0
 address=/in-gmtdmp.mookie1.com/0.0.0.0
@@ -71299,6 +71300,7 @@ address=/www.amergolthvikk.top/0.0.0.0
 address=/www.american-prize-center.com/0.0.0.0
 address=/www.americanexpress-finservices.org/0.0.0.0
 address=/www.americanmettleart.com/0.0.0.0
+address=/www.americanresortresolutions.com/0.0.0.0
 address=/www.americasrighthere.org/0.0.0.0
 address=/www.ameriskulda.top/0.0.0.0
 address=/www.ameriskuldabrentik.top/0.0.0.0
@@ -80831,6 +80833,7 @@ address=/www.hotmaire.click/0.0.0.0
 address=/www.hotmama.pl/0.0.0.0
 address=/www.hotmilf.pl/0.0.0.0
 address=/www.hotmumall.shop/0.0.0.0
+address=/www.hotpanic.net/0.0.0.0
 address=/www.hotplugins.com/0.0.0.0
 address=/www.hotranks.com/0.0.0.0
 address=/www.hotshoe.shop/0.0.0.0
@@ -84456,6 +84459,7 @@ address=/www.metron-arc.com/0.0.0.0
 address=/www.metspa.cam/0.0.0.0
 address=/www.metybai.pro/0.0.0.0
 address=/www.mevsall.com/0.0.0.0
+address=/www.mexdrugs.com/0.0.0.0
 address=/www.mezczyzna-trendy.pl/0.0.0.0
 address=/www.mftracking.com/0.0.0.0
 address=/www.mgid.com/0.0.0.0
@@ -89761,6 +89765,7 @@ address=/www.raschesage.cyou/0.0.0.0
 address=/www.rashagulf.com/0.0.0.0
 address=/www.raskinvexaro-no.fyi/0.0.0.0
 address=/www.raspberrydele.towyotrailers.com/0.0.0.0
+address=/www.raspberryketoneslim.com/0.0.0.0
 address=/www.rastemokin.pro/0.0.0.0
 address=/www.rastrbemol.rest/0.0.0.0
 address=/www.rastreio-consulta.shop/0.0.0.0
@@ -90855,6 +90860,7 @@ address=/www.saudivisionai.net/0.0.0.0
 address=/www.saukera.com/0.0.0.0
 address=/www.saumweb.com/0.0.0.0
 address=/www.saunatila.com/0.0.0.0
+address=/www.sauteenacoochee.com/0.0.0.0
 address=/www.savannnaiinsight.com/0.0.0.0
 address=/www.savemist.solocanvas.com/0.0.0.0
 address=/www.saveonfurniture.shop/0.0.0.0
@@ -91895,6 +91901,7 @@ address=/www.slideciprohub-ro.fyi/0.0.0.0
 address=/www.slideimovax-pt.fyi/0.0.0.0
 address=/www.slideimovax200-pt.fyi/0.0.0.0
 address=/www.slidesearch.net/0.0.0.0
+address=/www.slidingdoorlocks.com/0.0.0.0
 address=/www.slimads.vn/0.0.0.0
 address=/www.slimak-pozyczki.pl/0.0.0.0
 address=/www.slimme-budgettering.com/0.0.0.0
@@ -92127,6 +92134,7 @@ address=/www.softsucc.cyou/0.0.0.0
 address=/www.softvcucumber.coldtakesbeta.com/0.0.0.0
 address=/www.software-hq.net/0.0.0.0
 address=/www.software-phile.com/0.0.0.0
+address=/www.softwarebeginner.com/0.0.0.0
 address=/www.softwave88studio.com/0.0.0.0
 address=/www.soggismarg.rest/0.0.0.0
 address=/www.sogguvapor.rest/0.0.0.0
@@ -92976,6 +92984,7 @@ address=/www.sunburst-axle.com/0.0.0.0
 address=/www.sunerlypl.myshopify.com/0.0.0.0
 address=/www.sunflagsteel.com/0.0.0.0
 address=/www.sunfwork.mhrc2023.com/0.0.0.0
+address=/www.sunglassesfor.com/0.0.0.0
 address=/www.sunidaytravel.co.uk/0.0.0.0
 address=/www.sunif.cfd/0.0.0.0
 address=/www.sunkissedkate.com/0.0.0.0
