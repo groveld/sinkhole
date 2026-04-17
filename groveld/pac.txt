@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 100162
-// Updated: 2026-04-16 02:35:25 UTC
+// Entries: 100166
+// Updated: 2026-04-17 02:33:24 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -64723,6 +64723,7 @@ var BLOCKLIST = {
 "tyvixom-fr.fyi":null,
 "tyvixom-it.fyi":null,
 "tyvixom-no.fyi":null,
+"tyyvps.com":null,
 "tyzhb.com":null,
 "tyznjj.com":null,
 "tz284.com":null,
@@ -74287,6 +74288,7 @@ var BLOCKLIST = {
 "www.ciceklioglu.com":null,
 "www.cichodaje.pl":null,
 "www.cichyromans.pl":null,
+"www.cidadelobito.com":null,
 "www.cidahaa.com":null,
 "www.ciderbayoulg.pro":null,
 "www.ciderglowcm.site":null,
@@ -90216,6 +90218,7 @@ var BLOCKLIST = {
 "www.ricominter.rest":null,
 "www.ricomproch.rest":null,
 "www.riconcommi.rest":null,
+"www.ricontools.com":null,
 "www.ricosbomba.cyou":null,
 "www.riderslust.com":null,
 "www.ridge-capitaldale.fyi":null,
@@ -93023,6 +93026,7 @@ var BLOCKLIST = {
 "www.supercles.top":null,
 "www.superclix.de":null,
 "www.supercorporatioaans.info":null,
+"www.supereeego.com":null,
 "www.superfastsservers.com":null,
 "www.superga-pl.com":null,
 "www.supergabuty.com":null,

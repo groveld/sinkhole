@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 100160
-# Updated: 2026-04-16 01:45:59 UTC
+# Entries: 100164
+# Updated: 2026-04-17 01:43:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -64721,6 +64721,7 @@ address=/tyvixom-es.fyi/0.0.0.0
 address=/tyvixom-fr.fyi/0.0.0.0
 address=/tyvixom-it.fyi/0.0.0.0
 address=/tyvixom-no.fyi/0.0.0.0
+address=/tyyvps.com/0.0.0.0
 address=/tyzhb.com/0.0.0.0
 address=/tyznjj.com/0.0.0.0
 address=/tz284.com/0.0.0.0
@@ -74285,6 +74286,7 @@ address=/www.cibersexo.eu/0.0.0.0
 address=/www.ciceklioglu.com/0.0.0.0
 address=/www.cichodaje.pl/0.0.0.0
 address=/www.cichyromans.pl/0.0.0.0
+address=/www.cidadelobito.com/0.0.0.0
 address=/www.cidahaa.com/0.0.0.0
 address=/www.ciderbayoulg.pro/0.0.0.0
 address=/www.ciderglowcm.site/0.0.0.0
@@ -90213,6 +90215,7 @@ address=/www.ricomath.com/0.0.0.0
 address=/www.ricominter.rest/0.0.0.0
 address=/www.ricomproch.rest/0.0.0.0
 address=/www.riconcommi.rest/0.0.0.0
+address=/www.ricontools.com/0.0.0.0
 address=/www.ricosbomba.cyou/0.0.0.0
 address=/www.riderslust.com/0.0.0.0
 address=/www.ridge-capitaldale.fyi/0.0.0.0
@@ -93020,6 +93023,7 @@ address=/www.superbrewards.com/0.0.0.0
 address=/www.supercles.top/0.0.0.0
 address=/www.superclix.de/0.0.0.0
 address=/www.supercorporatioaans.info/0.0.0.0
+address=/www.supereeego.com/0.0.0.0
 address=/www.superfastsservers.com/0.0.0.0
 address=/www.superga-pl.com/0.0.0.0
 address=/www.supergabuty.com/0.0.0.0

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 100162
-# Updated: 2026-04-16 02:35:25 UTC
+# Entries: 100166
+# Updated: 2026-04-17 02:33:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -64722,6 +64722,7 @@
 0.0.0.0 tyvixom-fr.fyi
 0.0.0.0 tyvixom-it.fyi
 0.0.0.0 tyvixom-no.fyi
+0.0.0.0 tyyvps.com
 0.0.0.0 tyzhb.com
 0.0.0.0 tyznjj.com
 0.0.0.0 tz284.com
@@ -74286,6 +74287,7 @@
 0.0.0.0 www.ciceklioglu.com
 0.0.0.0 www.cichodaje.pl
 0.0.0.0 www.cichyromans.pl
+0.0.0.0 www.cidadelobito.com
 0.0.0.0 www.cidahaa.com
 0.0.0.0 www.ciderbayoulg.pro
 0.0.0.0 www.ciderglowcm.site
@@ -90215,6 +90217,7 @@
 0.0.0.0 www.ricominter.rest
 0.0.0.0 www.ricomproch.rest
 0.0.0.0 www.riconcommi.rest
+0.0.0.0 www.ricontools.com
 0.0.0.0 www.ricosbomba.cyou
 0.0.0.0 www.riderslust.com
 0.0.0.0 www.ridge-capitaldale.fyi
@@ -93022,6 +93025,7 @@
 0.0.0.0 www.supercles.top
 0.0.0.0 www.superclix.de
 0.0.0.0 www.supercorporatioaans.info
+0.0.0.0 www.supereeego.com
 0.0.0.0 www.superfastsservers.com
 0.0.0.0 www.superga-pl.com
 0.0.0.0 www.supergabuty.com

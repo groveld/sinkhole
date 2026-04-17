@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 100162
-! Updated: 2026-04-16 02:35:25 UTC
+! Entries: 100166
+! Updated: 2026-04-17 02:33:24 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -64722,6 +64722,7 @@
 ||tyvixom-fr.fyi^
 ||tyvixom-it.fyi^
 ||tyvixom-no.fyi^
+||tyyvps.com^
 ||tyzhb.com^
 ||tyznjj.com^
 ||tz284.com^
@@ -74286,6 +74287,7 @@
 ||www.ciceklioglu.com^
 ||www.cichodaje.pl^
 ||www.cichyromans.pl^
+||www.cidadelobito.com^
 ||www.cidahaa.com^
 ||www.ciderbayoulg.pro^
 ||www.ciderglowcm.site^
@@ -90215,6 +90217,7 @@
 ||www.ricominter.rest^
 ||www.ricomproch.rest^
 ||www.riconcommi.rest^
+||www.ricontools.com^
 ||www.ricosbomba.cyou^
 ||www.riderslust.com^
 ||www.ridge-capitaldale.fyi^
@@ -93022,6 +93025,7 @@
 ||www.supercles.top^
 ||www.superclix.de^
 ||www.supercorporatioaans.info^
+||www.supereeego.com^
 ||www.superfastsservers.com^
 ||www.superga-pl.com^
 ||www.supergabuty.com^
