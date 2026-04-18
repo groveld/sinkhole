@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 100164
-# Updated: 2026-04-17 01:43:58 UTC
+# Entries: 100176
+# Updated: 2026-04-18 01:38:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24944,6 +24944,7 @@
 0.0.0.0 czjct.com
 0.0.0.0 czp999.com
 0.0.0.0 czpethome.com
+0.0.0.0 czr.customzonereview.com
 0.0.0.0 czsuperpetzoo.com
 0.0.0.0 cztengji.com
 0.0.0.0 cztkbx.com
@@ -62538,6 +62539,7 @@
 0.0.0.0 thisauthorexperiment.com
 0.0.0.0 thisisclicksecured.page.link
 0.0.0.0 thisiskateharwood.com
+0.0.0.0 thislocalhost.com
 0.0.0.0 thisone.online
 0.0.0.0 thisstyledlife.com
 0.0.0.0 thistle-production.com
@@ -64241,6 +64243,7 @@
 0.0.0.0 trk.acotrk.com
 0.0.0.0 trk.ambientdsp.com
 0.0.0.0 trk.apperol.com
+0.0.0.0 trk.arenachat.xyz
 0.0.0.0 trk.atomex.net
 0.0.0.0 trk.bc.shutterfly.com
 0.0.0.0 trk.blamads.com
@@ -68122,6 +68125,7 @@
 0.0.0.0 wez-bon.24.eu
 0.0.0.0 wf.basebanner.com
 0.0.0.0 wf.taboola.com
+0.0.0.0 wfflxx.com
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 0.0.0.0 wfpscripts.webspectator.com
 0.0.0.0 wfsxzs.com
@@ -77632,6 +77636,7 @@
 0.0.0.0 www.exams-attended-coming-modeling.trycloudflare.com
 0.0.0.0 www.exawre.icu
 0.0.0.0 www.excel-trainings.com
+0.0.0.0 www.exceleratehelp.com
 0.0.0.0 www.excellencerooterandplumbing.com
 0.0.0.0 www.excellentproductsforhealth.store
 0.0.0.0 www.excelmasterys.com
@@ -82821,6 +82826,7 @@
 0.0.0.0 www.knowbaserichd.info
 0.0.0.0 www.knowinteractive.com
 0.0.0.0 www.knowledgecore.life
+0.0.0.0 www.knoxmenus.com
 0.0.0.0 www.knoxvilletitleandescrow.com
 0.0.0.0 www.knullb.click
 0.0.0.0 www.koapkmobi.com
@@ -85762,6 +85768,7 @@
 0.0.0.0 www.nuqiqu.pro
 0.0.0.0 www.nurelialo.autos
 0.0.0.0 www.nurrve.com
+0.0.0.0 www.nursse.com
 0.0.0.0 www.nuskin.com
 0.0.0.0 www.nutabuse.com
 0.0.0.0 www.nutaku.com
@@ -86062,6 +86069,7 @@
 0.0.0.0 www.office-lexware.org
 0.0.0.0 www.officemixture.treystr.com
 0.0.0.0 www.officerare.crete-mix.com
+0.0.0.0 www.officerreport.com
 0.0.0.0 www.officialnotis.site
 0.0.0.0 www.officialunits.site
 0.0.0.0 www.offmot.tfunity.com
@@ -88895,6 +88903,7 @@
 0.0.0.0 www.primewealthstad-de.fyi
 0.0.0.0 www.primexai-app.fyi
 0.0.0.0 www.primexai-it.fyi
+0.0.0.0 www.primitivecountrydecor.com
 0.0.0.0 www.primmeeview.com
 0.0.0.0 www.primoinviox-it.fyi
 0.0.0.0 www.primosearch.com
@@ -89805,6 +89814,7 @@
 0.0.0.0 www.realcastmedia.com
 0.0.0.0 www.realclick.vn
 0.0.0.0 www.realcooldeal.pl
+0.0.0.0 www.realdrjudy.com
 0.0.0.0 www.realestateagentnj.org
 0.0.0.0 www.realincestvideos.com
 0.0.0.0 www.realist.gen.tr
@@ -92078,6 +92088,7 @@
 0.0.0.0 www.sniffmatic1mint.info
 0.0.0.0 www.sniffyy6nose.com
 0.0.0.0 www.snipppy5cut.info
+0.0.0.0 www.snkido.com
 0.0.0.0 www.snnubserving.info
 0.0.0.0 www.snnykpl.shop
 0.0.0.0 www.snobbcompr.rest
@@ -95582,6 +95593,7 @@
 0.0.0.0 www.videogamerewardscentral.com
 0.0.0.0 www.videolove.clanteam.com
 0.0.0.0 www.videomediagroep.nl
+0.0.0.0 www.videonhadat.com
 0.0.0.0 www.videoplanet.pl
 0.0.0.0 www.videoqcrown.sbs
 0.0.0.0 www.videos-france.xyz

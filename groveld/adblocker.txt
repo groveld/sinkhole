@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 100166
-! Updated: 2026-04-17 02:33:24 UTC
+! Entries: 100178
+! Updated: 2026-04-18 02:28:20 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24944,6 +24944,7 @@
 ||czjct.com^
 ||czp999.com^
 ||czpethome.com^
+||czr.customzonereview.com^
 ||czsuperpetzoo.com^
 ||cztengji.com^
 ||cztkbx.com^
@@ -62539,6 +62540,7 @@
 ||thisauthorexperiment.com^
 ||thisisclicksecured.page.link^
 ||thisiskateharwood.com^
+||thislocalhost.com^
 ||thisone.online^
 ||thisstyledlife.com^
 ||thistle-production.com^
@@ -64242,6 +64244,7 @@
 ||trk.acotrk.com^
 ||trk.ambientdsp.com^
 ||trk.apperol.com^
+||trk.arenachat.xyz^
 ||trk.atomex.net^
 ||trk.bc.shutterfly.com^
 ||trk.blamads.com^
@@ -68123,6 +68126,7 @@
 ||wez-bon.24.eu^
 ||wf.basebanner.com^
 ||wf.taboola.com^
+||wfflxx.com^
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me^
 ||wfpscripts.webspectator.com^
 ||wfsxzs.com^
@@ -77633,6 +77637,7 @@
 ||www.exams-attended-coming-modeling.trycloudflare.com^
 ||www.exawre.icu^
 ||www.excel-trainings.com^
+||www.exceleratehelp.com^
 ||www.excellencerooterandplumbing.com^
 ||www.excellentproductsforhealth.store^
 ||www.excelmasterys.com^
@@ -82823,6 +82828,7 @@
 ||www.knowbaserichd.info^
 ||www.knowinteractive.com^
 ||www.knowledgecore.life^
+||www.knoxmenus.com^
 ||www.knoxvilletitleandescrow.com^
 ||www.knullb.click^
 ||www.koapkmobi.com^
@@ -85764,6 +85770,7 @@
 ||www.nuqiqu.pro^
 ||www.nurelialo.autos^
 ||www.nurrve.com^
+||www.nursse.com^
 ||www.nuskin.com^
 ||www.nutabuse.com^
 ||www.nutaku.com^
@@ -86064,6 +86071,7 @@
 ||www.office-lexware.org^
 ||www.officemixture.treystr.com^
 ||www.officerare.crete-mix.com^
+||www.officerreport.com^
 ||www.officialnotis.site^
 ||www.officialunits.site^
 ||www.offmot.tfunity.com^
@@ -88897,6 +88905,7 @@
 ||www.primewealthstad-de.fyi^
 ||www.primexai-app.fyi^
 ||www.primexai-it.fyi^
+||www.primitivecountrydecor.com^
 ||www.primmeeview.com^
 ||www.primoinviox-it.fyi^
 ||www.primosearch.com^
@@ -89807,6 +89816,7 @@
 ||www.realcastmedia.com^
 ||www.realclick.vn^
 ||www.realcooldeal.pl^
+||www.realdrjudy.com^
 ||www.realestateagentnj.org^
 ||www.realincestvideos.com^
 ||www.realist.gen.tr^
@@ -92080,6 +92090,7 @@
 ||www.sniffmatic1mint.info^
 ||www.sniffyy6nose.com^
 ||www.snipppy5cut.info^
+||www.snkido.com^
 ||www.snnubserving.info^
 ||www.snnykpl.shop^
 ||www.snobbcompr.rest^
@@ -95584,6 +95595,7 @@
 ||www.videogamerewardscentral.com^
 ||www.videolove.clanteam.com^
 ||www.videomediagroep.nl^
+||www.videonhadat.com^
 ||www.videoplanet.pl^
 ||www.videoqcrown.sbs^
 ||www.videos-france.xyz^

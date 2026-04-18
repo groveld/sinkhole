@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 100164
-// Updated: 2026-04-17 01:43:58 UTC
+// Entries: 100176
+// Updated: 2026-04-18 01:38:58 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24945,6 +24945,7 @@ var BLOCKLIST = {
 "czjct.com":null,
 "czp999.com":null,
 "czpethome.com":null,
+"czr.customzonereview.com":null,
 "czsuperpetzoo.com":null,
 "cztengji.com":null,
 "cztkbx.com":null,
@@ -62539,6 +62540,7 @@ var BLOCKLIST = {
 "thisauthorexperiment.com":null,
 "thisisclicksecured.page.link":null,
 "thisiskateharwood.com":null,
+"thislocalhost.com":null,
 "thisone.online":null,
 "thisstyledlife.com":null,
 "thistle-production.com":null,
@@ -64242,6 +64244,7 @@ var BLOCKLIST = {
 "trk.acotrk.com":null,
 "trk.ambientdsp.com":null,
 "trk.apperol.com":null,
+"trk.arenachat.xyz":null,
 "trk.atomex.net":null,
 "trk.bc.shutterfly.com":null,
 "trk.blamads.com":null,
@@ -68123,6 +68126,7 @@ var BLOCKLIST = {
 "wez-bon.24.eu":null,
 "wf.basebanner.com":null,
 "wf.taboola.com":null,
+"wfflxx.com":null,
 "wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me":null,
 "wfpscripts.webspectator.com":null,
 "wfsxzs.com":null,
@@ -77633,6 +77637,7 @@ var BLOCKLIST = {
 "www.exams-attended-coming-modeling.trycloudflare.com":null,
 "www.exawre.icu":null,
 "www.excel-trainings.com":null,
+"www.exceleratehelp.com":null,
 "www.excellencerooterandplumbing.com":null,
 "www.excellentproductsforhealth.store":null,
 "www.excelmasterys.com":null,
@@ -82822,6 +82827,7 @@ var BLOCKLIST = {
 "www.knowbaserichd.info":null,
 "www.knowinteractive.com":null,
 "www.knowledgecore.life":null,
+"www.knoxmenus.com":null,
 "www.knoxvilletitleandescrow.com":null,
 "www.knullb.click":null,
 "www.koapkmobi.com":null,
@@ -85763,6 +85769,7 @@ var BLOCKLIST = {
 "www.nuqiqu.pro":null,
 "www.nurelialo.autos":null,
 "www.nurrve.com":null,
+"www.nursse.com":null,
 "www.nuskin.com":null,
 "www.nutabuse.com":null,
 "www.nutaku.com":null,
@@ -86063,6 +86070,7 @@ var BLOCKLIST = {
 "www.office-lexware.org":null,
 "www.officemixture.treystr.com":null,
 "www.officerare.crete-mix.com":null,
+"www.officerreport.com":null,
 "www.officialnotis.site":null,
 "www.officialunits.site":null,
 "www.offmot.tfunity.com":null,
@@ -88896,6 +88904,7 @@ var BLOCKLIST = {
 "www.primewealthstad-de.fyi":null,
 "www.primexai-app.fyi":null,
 "www.primexai-it.fyi":null,
+"www.primitivecountrydecor.com":null,
 "www.primmeeview.com":null,
 "www.primoinviox-it.fyi":null,
 "www.primosearch.com":null,
@@ -89806,6 +89815,7 @@ var BLOCKLIST = {
 "www.realcastmedia.com":null,
 "www.realclick.vn":null,
 "www.realcooldeal.pl":null,
+"www.realdrjudy.com":null,
 "www.realestateagentnj.org":null,
 "www.realincestvideos.com":null,
 "www.realist.gen.tr":null,
@@ -92079,6 +92089,7 @@ var BLOCKLIST = {
 "www.sniffmatic1mint.info":null,
 "www.sniffyy6nose.com":null,
 "www.snipppy5cut.info":null,
+"www.snkido.com":null,
 "www.snnubserving.info":null,
 "www.snnykpl.shop":null,
 "www.snobbcompr.rest":null,
@@ -95583,6 +95594,7 @@ var BLOCKLIST = {
 "www.videogamerewardscentral.com":null,
 "www.videolove.clanteam.com":null,
 "www.videomediagroep.nl":null,
+"www.videonhadat.com":null,
 "www.videoplanet.pl":null,
 "www.videoqcrown.sbs":null,
 "www.videos-france.xyz":null,
