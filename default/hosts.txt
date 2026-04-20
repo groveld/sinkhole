@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 100176
-# Updated: 2026-04-19 01:46:36 UTC
+# Entries: 100179
+# Updated: 2026-04-20 01:45:34 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11412,6 +11412,7 @@
 0.0.0.0 adxvalue.com
 0.0.0.0 adxxx.me
 0.0.0.0 adxxx.org
+0.0.0.0 adxxxxxmost.co
 0.0.0.0 adyea.com
 0.0.0.0 adyogis.gotrackier.com
 0.0.0.0 adyoulike.com
@@ -26884,6 +26885,7 @@
 0.0.0.0 dopoxsnow.shop
 0.0.0.0 doppipower.rest
 0.0.0.0 dopwyy.com
+0.0.0.0 doqpm.click
 0.0.0.0 doratovaultaris-it.fyi
 0.0.0.0 dorefinlence-fr.fyi
 0.0.0.0 dorehiy.convertri.com
@@ -39915,6 +39917,7 @@
 0.0.0.0 lenticularhost.net
 0.0.0.0 lenwoodewell.shop
 0.0.0.0 leocrudo.shop
+0.0.0.0 leojblog.com
 0.0.0.0 leomonde.fr
 0.0.0.0 leonardesch.shop
 0.0.0.0 leonbergery.com.pl

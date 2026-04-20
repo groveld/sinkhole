@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 100176
-// Updated: 2026-04-19 01:46:36 UTC
+// Entries: 100179
+// Updated: 2026-04-20 01:45:34 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11413,6 +11413,7 @@ var BLOCKLIST = {
 "adxvalue.com":null,
 "adxxx.me":null,
 "adxxx.org":null,
+"adxxxxxmost.co":null,
 "adyea.com":null,
 "adyogis.gotrackier.com":null,
 "adyoulike.com":null,
@@ -26885,6 +26886,7 @@ var BLOCKLIST = {
 "dopoxsnow.shop":null,
 "doppipower.rest":null,
 "dopwyy.com":null,
+"doqpm.click":null,
 "doratovaultaris-it.fyi":null,
 "dorefinlence-fr.fyi":null,
 "dorehiy.convertri.com":null,
@@ -39916,6 +39918,7 @@ var BLOCKLIST = {
 "lenticularhost.net":null,
 "lenwoodewell.shop":null,
 "leocrudo.shop":null,
+"leojblog.com":null,
 "leomonde.fr":null,
 "leonardesch.shop":null,
 "leonbergery.com.pl":null,

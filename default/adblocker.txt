@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 100176
-! Updated: 2026-04-19 01:46:36 UTC
+! Entries: 100179
+! Updated: 2026-04-20 01:45:34 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11412,6 +11412,7 @@
 ||adxvalue.com^
 ||adxxx.me^
 ||adxxx.org^
+||adxxxxxmost.co^
 ||adyea.com^
 ||adyogis.gotrackier.com^
 ||adyoulike.com^
@@ -26884,6 +26885,7 @@
 ||dopoxsnow.shop^
 ||doppipower.rest^
 ||dopwyy.com^
+||doqpm.click^
 ||doratovaultaris-it.fyi^
 ||dorefinlence-fr.fyi^
 ||dorehiy.convertri.com^
@@ -39915,6 +39917,7 @@
 ||lenticularhost.net^
 ||lenwoodewell.shop^
 ||leocrudo.shop^
+||leojblog.com^
 ||leomonde.fr^
 ||leonardesch.shop^
 ||leonbergery.com.pl^

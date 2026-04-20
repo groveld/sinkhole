@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 100176
-# Updated: 2026-04-19 01:46:36 UTC
+# Entries: 100179
+# Updated: 2026-04-20 01:45:34 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11412,6 +11412,7 @@ address=/adxpose.com/0.0.0.0
 address=/adxvalue.com/0.0.0.0
 address=/adxxx.me/0.0.0.0
 address=/adxxx.org/0.0.0.0
+address=/adxxxxxmost.co/0.0.0.0
 address=/adyea.com/0.0.0.0
 address=/adyogis.gotrackier.com/0.0.0.0
 address=/adyoulike.com/0.0.0.0
@@ -26884,6 +26885,7 @@ address=/dopestore.pl/0.0.0.0
 address=/dopoxsnow.shop/0.0.0.0
 address=/doppipower.rest/0.0.0.0
 address=/dopwyy.com/0.0.0.0
+address=/doqpm.click/0.0.0.0
 address=/doratovaultaris-it.fyi/0.0.0.0
 address=/dorefinlence-fr.fyi/0.0.0.0
 address=/dorehiy.convertri.com/0.0.0.0
@@ -39915,6 +39917,7 @@ address=/lentatwist.com/0.0.0.0
 address=/lenticularhost.net/0.0.0.0
 address=/lenwoodewell.shop/0.0.0.0
 address=/leocrudo.shop/0.0.0.0
+address=/leojblog.com/0.0.0.0
 address=/leomonde.fr/0.0.0.0
 address=/leonardesch.shop/0.0.0.0
 address=/leonbergery.com.pl/0.0.0.0
