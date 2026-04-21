@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 100181
-# Updated: 2026-04-20 02:35:40 UTC
+# Entries: 100188
+# Updated: 2026-04-21 02:34:05 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10,6 +10,7 @@ address=/0.nextyourcontent.com/0.0.0.0
 address=/0.r.msn.com/0.0.0.0
 address=/0.start.bz/0.0.0.0
 address=/000.gaysexe.free.fr/0.0.0.0
+address=/00000.uno/0.0.0.0
 address=/000dom.revenuedirect.com/0.0.0.0
 address=/000free.us/0.0.0.0
 address=/000tristanprod.free.fr/0.0.0.0
@@ -82840,6 +82841,7 @@ address=/www.kob-na.net/0.0.0.0
 address=/www.kobawer.com/0.0.0.0
 address=/www.kobawer.onl/0.0.0.0
 address=/www.kobicebit.shop/0.0.0.0
+address=/www.kobotausa.com/0.0.0.0
 address=/www.kocham-cie.c0.pl/0.0.0.0
 address=/www.kocmindtech.com/0.0.0.0
 address=/www.kocrekinek.pl/0.0.0.0
@@ -83277,6 +83279,7 @@ address=/www.leanrus.chrel.com/0.0.0.0
 address=/www.leanysphere.trl-ai.com/0.0.0.0
 address=/www.leapclear.varadgreenenviro.com/0.0.0.0
 address=/www.learnjourney.life/0.0.0.0
+address=/www.learnnessy.com/0.0.0.0
 address=/www.learnsuryoyo.com/0.0.0.0
 address=/www.learntechno.com/0.0.0.0
 address=/www.learnwithvalenx.digital/0.0.0.0
@@ -83622,6 +83625,7 @@ address=/www.livejasmincall.net/0.0.0.0
 address=/www.livejasmine.us/0.0.0.0
 address=/www.livejasminebony.com/0.0.0.0
 address=/www.lively-bonus-d16b.jtgbpaymnckheeeylpitakt.workers.dev/0.0.0.0
+address=/www.liveorigamirisk.com/0.0.0.0
 address=/www.liveperson.com/0.0.0.0
 address=/www.liveradiobox.com/0.0.0.0
 address=/www.liveraon.site/0.0.0.0
@@ -84857,6 +84861,7 @@ address=/www.msftdirectorylogin.com/0.0.0.0
 address=/www.msgtag.com/0.0.0.0
 address=/www.msh1ka.webwave.dev/0.0.0.0
 address=/www.mshelp247.weebly.com/0.0.0.0
+address=/www.msmpokergamer.com/0.0.0.0
 address=/www.msnsports.com/0.0.0.0
 address=/www.msp-hack.com/0.0.0.0
 address=/www.mstopg.nicamedica.com/0.0.0.0
@@ -96776,6 +96781,7 @@ address=/www.whipcrack.org/0.0.0.0
 address=/www.whippednbrand.drstreamy.com/0.0.0.0
 address=/www.whirads.com/0.0.0.0
 address=/www.whirlwindjsteel.zhenhir.com/0.0.0.0
+address=/www.whiskeyallys.com/0.0.0.0
 address=/www.whiskeycounsel.com/0.0.0.0
 address=/www.whiskeywealthclub.com/0.0.0.0
 address=/www.whisper-dome.com/0.0.0.0
@@ -97068,6 +97074,7 @@ address=/www.wq-5xa.shop/0.0.0.0
 address=/www.wqerq.com/0.0.0.0
 address=/www.wqgquple.usw-1.sealos.app/0.0.0.0
 address=/www.wr4ett5.lol/0.0.0.0
+address=/www.wraploans.com/0.0.0.0
 address=/www.wrapperbase.popcornfordinner.com/0.0.0.0
 address=/www.wrefi.cam/0.0.0.0
 address=/www.wrencapstead-ai.fyi/0.0.0.0

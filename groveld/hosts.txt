@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 100181
-# Updated: 2026-04-20 02:35:40 UTC
+# Entries: 100188
+# Updated: 2026-04-21 02:34:05 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10,6 +10,7 @@
 0.0.0.0 0.r.msn.com
 0.0.0.0 0.start.bz
 0.0.0.0 000.gaysexe.free.fr
+0.0.0.0 00000.uno
 0.0.0.0 000dom.revenuedirect.com
 0.0.0.0 000free.us
 0.0.0.0 000tristanprod.free.fr
@@ -82840,6 +82841,7 @@
 0.0.0.0 www.kobawer.com
 0.0.0.0 www.kobawer.onl
 0.0.0.0 www.kobicebit.shop
+0.0.0.0 www.kobotausa.com
 0.0.0.0 www.kocham-cie.c0.pl
 0.0.0.0 www.kocmindtech.com
 0.0.0.0 www.kocrekinek.pl
@@ -83277,6 +83279,7 @@
 0.0.0.0 www.leanysphere.trl-ai.com
 0.0.0.0 www.leapclear.varadgreenenviro.com
 0.0.0.0 www.learnjourney.life
+0.0.0.0 www.learnnessy.com
 0.0.0.0 www.learnsuryoyo.com
 0.0.0.0 www.learntechno.com
 0.0.0.0 www.learnwithvalenx.digital
@@ -83622,6 +83625,7 @@
 0.0.0.0 www.livejasmine.us
 0.0.0.0 www.livejasminebony.com
 0.0.0.0 www.lively-bonus-d16b.jtgbpaymnckheeeylpitakt.workers.dev
+0.0.0.0 www.liveorigamirisk.com
 0.0.0.0 www.liveperson.com
 0.0.0.0 www.liveradiobox.com
 0.0.0.0 www.liveraon.site
@@ -84857,6 +84861,7 @@
 0.0.0.0 www.msgtag.com
 0.0.0.0 www.msh1ka.webwave.dev
 0.0.0.0 www.mshelp247.weebly.com
+0.0.0.0 www.msmpokergamer.com
 0.0.0.0 www.msnsports.com
 0.0.0.0 www.msp-hack.com
 0.0.0.0 www.mstopg.nicamedica.com
@@ -96776,6 +96781,7 @@
 0.0.0.0 www.whippednbrand.drstreamy.com
 0.0.0.0 www.whirads.com
 0.0.0.0 www.whirlwindjsteel.zhenhir.com
+0.0.0.0 www.whiskeyallys.com
 0.0.0.0 www.whiskeycounsel.com
 0.0.0.0 www.whiskeywealthclub.com
 0.0.0.0 www.whisper-dome.com
@@ -97068,6 +97074,7 @@
 0.0.0.0 www.wqerq.com
 0.0.0.0 www.wqgquple.usw-1.sealos.app
 0.0.0.0 www.wr4ett5.lol
+0.0.0.0 www.wraploans.com
 0.0.0.0 www.wrapperbase.popcornfordinner.com
 0.0.0.0 www.wrefi.cam
 0.0.0.0 www.wrencapstead-ai.fyi

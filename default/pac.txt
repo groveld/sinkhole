@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 100179
-// Updated: 2026-04-20 01:45:34 UTC
+// Entries: 100186
+// Updated: 2026-04-21 01:44:42 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11,6 +11,7 @@ var BLOCKLIST = {
 "0.r.msn.com":null,
 "0.start.bz":null,
 "000.gaysexe.free.fr":null,
+"00000.uno":null,
 "000dom.revenuedirect.com":null,
 "000free.us":null,
 "000tristanprod.free.fr":null,
@@ -82839,6 +82840,7 @@ var BLOCKLIST = {
 "www.kobawer.com":null,
 "www.kobawer.onl":null,
 "www.kobicebit.shop":null,
+"www.kobotausa.com":null,
 "www.kocham-cie.c0.pl":null,
 "www.kocmindtech.com":null,
 "www.kocrekinek.pl":null,
@@ -83276,6 +83278,7 @@ var BLOCKLIST = {
 "www.leanysphere.trl-ai.com":null,
 "www.leapclear.varadgreenenviro.com":null,
 "www.learnjourney.life":null,
+"www.learnnessy.com":null,
 "www.learnsuryoyo.com":null,
 "www.learntechno.com":null,
 "www.learnwithvalenx.digital":null,
@@ -83621,6 +83624,7 @@ var BLOCKLIST = {
 "www.livejasmine.us":null,
 "www.livejasminebony.com":null,
 "www.lively-bonus-d16b.jtgbpaymnckheeeylpitakt.workers.dev":null,
+"www.liveorigamirisk.com":null,
 "www.liveperson.com":null,
 "www.liveradiobox.com":null,
 "www.liveraon.site":null,
@@ -84856,6 +84860,7 @@ var BLOCKLIST = {
 "www.msgtag.com":null,
 "www.msh1ka.webwave.dev":null,
 "www.mshelp247.weebly.com":null,
+"www.msmpokergamer.com":null,
 "www.msnsports.com":null,
 "www.msp-hack.com":null,
 "www.mstopg.nicamedica.com":null,
@@ -96775,6 +96780,7 @@ var BLOCKLIST = {
 "www.whippednbrand.drstreamy.com":null,
 "www.whirads.com":null,
 "www.whirlwindjsteel.zhenhir.com":null,
+"www.whiskeyallys.com":null,
 "www.whiskeycounsel.com":null,
 "www.whiskeywealthclub.com":null,
 "www.whisper-dome.com":null,
@@ -97067,6 +97073,7 @@ var BLOCKLIST = {
 "www.wqerq.com":null,
 "www.wqgquple.usw-1.sealos.app":null,
 "www.wr4ett5.lol":null,
+"www.wraploans.com":null,
 "www.wrapperbase.popcornfordinner.com":null,
 "www.wrefi.cam":null,
 "www.wrencapstead-ai.fyi":null,

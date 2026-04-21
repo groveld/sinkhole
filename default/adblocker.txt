@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 100179
-! Updated: 2026-04-20 01:45:34 UTC
+! Entries: 100186
+! Updated: 2026-04-21 01:44:42 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10,6 +10,7 @@
 ||0.r.msn.com^
 ||0.start.bz^
 ||000.gaysexe.free.fr^
+||00000.uno^
 ||000dom.revenuedirect.com^
 ||000free.us^
 ||000tristanprod.free.fr^
@@ -82838,6 +82839,7 @@
 ||www.kobawer.com^
 ||www.kobawer.onl^
 ||www.kobicebit.shop^
+||www.kobotausa.com^
 ||www.kocham-cie.c0.pl^
 ||www.kocmindtech.com^
 ||www.kocrekinek.pl^
@@ -83275,6 +83277,7 @@
 ||www.leanysphere.trl-ai.com^
 ||www.leapclear.varadgreenenviro.com^
 ||www.learnjourney.life^
+||www.learnnessy.com^
 ||www.learnsuryoyo.com^
 ||www.learntechno.com^
 ||www.learnwithvalenx.digital^
@@ -83620,6 +83623,7 @@
 ||www.livejasmine.us^
 ||www.livejasminebony.com^
 ||www.lively-bonus-d16b.jtgbpaymnckheeeylpitakt.workers.dev^
+||www.liveorigamirisk.com^
 ||www.liveperson.com^
 ||www.liveradiobox.com^
 ||www.liveraon.site^
@@ -84855,6 +84859,7 @@
 ||www.msgtag.com^
 ||www.msh1ka.webwave.dev^
 ||www.mshelp247.weebly.com^
+||www.msmpokergamer.com^
 ||www.msnsports.com^
 ||www.msp-hack.com^
 ||www.mstopg.nicamedica.com^
@@ -96774,6 +96779,7 @@
 ||www.whippednbrand.drstreamy.com^
 ||www.whirads.com^
 ||www.whirlwindjsteel.zhenhir.com^
+||www.whiskeyallys.com^
 ||www.whiskeycounsel.com^
 ||www.whiskeywealthclub.com^
 ||www.whisper-dome.com^
@@ -97066,6 +97072,7 @@
 ||www.wqerq.com^
 ||www.wqgquple.usw-1.sealos.app^
 ||www.wr4ett5.lol^
+||www.wraploans.com^
 ||www.wrapperbase.popcornfordinner.com^
 ||www.wrefi.cam^
 ||www.wrencapstead-ai.fyi^
