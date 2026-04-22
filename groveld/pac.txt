@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 100188
-// Updated: 2026-04-21 02:34:05 UTC
+// Entries: 100196
+// Updated: 2026-04-22 02:30:47 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -331,6 +331,7 @@ var BLOCKLIST = {
 "1.im.cz":null,
 "1.ofsnetwork.com":null,
 "1.sharkadnetwork.com":null,
+"10-letter-words.com":null,
 "10-million-hits.com":null,
 "10.6.87.194.dynamic.dol.ru":null,
 "10.im.cz":null,
@@ -26638,6 +26639,7 @@ var BLOCKLIST = {
 "dl1d2m8ri9v3j.cloudfront.net":null,
 "dla-ciala.pl":null,
 "dlactywnepolskie.convertri.com":null,
+"dldyjy.com":null,
 "dleaka.cyou":null,
 "dlero.net":null,
 "dljkyq.com":null,
@@ -28555,6 +28557,7 @@ var BLOCKLIST = {
 "energy63.ru":null,
 "energydesk.pro":null,
 "energyefficiencylabuk.info":null,
+"energyfools.com":null,
 "energyhouseinfo.pro":null,
 "energyrela.carmen-carmen.com":null,
 "energywisdomways.pro":null,
@@ -78446,6 +78449,7 @@ var BLOCKLIST = {
 "www.fk-def.site":null,
 "www.fkindi.space":null,
 "www.flagcounter.com":null,
+"www.flaglergrill.com":null,
 "www.flambreskida.info":null,
 "www.flame-hollow.com":null,
 "www.flameashenvoid.shop":null,
@@ -83290,6 +83294,7 @@ var BLOCKLIST = {
 "www.lebeta.pro":null,
 "www.lecap-services.fr":null,
 "www.lectureeercaddied.info":null,
+"www.ledfaucetlight.com":null,
 "www.ledger-secure-support.com":null,
 "www.ledkncsmvcd.com":null,
 "www.ledtabelatamir.com":null,
@@ -84110,6 +84115,7 @@ var BLOCKLIST = {
 "www.magnumbd.com":null,
 "www.mahindrainsurance.com":null,
 "www.mahobot.com":null,
+"www.maiecaffe.com":null,
 "www.mail-service.digital":null,
 "www.mail-system.world":null,
 "www.mail.crosscheck.world":null,
@@ -89083,6 +89089,7 @@ var BLOCKLIST = {
 "www.proxima.repair":null,
 "www.proxionet.com":null,
 "www.proxy-bypass.com":null,
+"www.proxygeni.com":null,
 "www.prriceline.com":null,
 "www.prrrtakeelf.rest":null,
 "www.prsem.com":null,
@@ -91629,6 +91636,7 @@ var BLOCKLIST = {
 "www.silver-pledge.com":null,
 "www.silveragesoftware.com":null,
 "www.silverassetmere-nl.com":null,
+"www.silverboxcreativestudio.com":null,
 "www.silvercash.com":null,
 "www.silvercrest-hub.online":null,
 "www.silverdustvalley.pro":null,

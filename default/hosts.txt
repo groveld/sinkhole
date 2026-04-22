@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 100186
-# Updated: 2026-04-21 01:44:42 UTC
+# Entries: 100194
+# Updated: 2026-04-22 01:41:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -330,6 +330,7 @@
 0.0.0.0 1.im.cz
 0.0.0.0 1.ofsnetwork.com
 0.0.0.0 1.sharkadnetwork.com
+0.0.0.0 10-letter-words.com
 0.0.0.0 10-million-hits.com
 0.0.0.0 10.6.87.194.dynamic.dol.ru
 0.0.0.0 10.im.cz
@@ -26637,6 +26638,7 @@
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dla-ciala.pl
 0.0.0.0 dlactywnepolskie.convertri.com
+0.0.0.0 dldyjy.com
 0.0.0.0 dleaka.cyou
 0.0.0.0 dlero.net
 0.0.0.0 dljkyq.com
@@ -28554,6 +28556,7 @@
 0.0.0.0 energy63.ru
 0.0.0.0 energydesk.pro
 0.0.0.0 energyefficiencylabuk.info
+0.0.0.0 energyfools.com
 0.0.0.0 energyhouseinfo.pro
 0.0.0.0 energyrela.carmen-carmen.com
 0.0.0.0 energywisdomways.pro
@@ -78444,6 +78447,7 @@
 0.0.0.0 www.fk-def.site
 0.0.0.0 www.fkindi.space
 0.0.0.0 www.flagcounter.com
+0.0.0.0 www.flaglergrill.com
 0.0.0.0 www.flambreskida.info
 0.0.0.0 www.flame-hollow.com
 0.0.0.0 www.flameashenvoid.shop
@@ -83287,6 +83291,7 @@
 0.0.0.0 www.lebeta.pro
 0.0.0.0 www.lecap-services.fr
 0.0.0.0 www.lectureeercaddied.info
+0.0.0.0 www.ledfaucetlight.com
 0.0.0.0 www.ledger-secure-support.com
 0.0.0.0 www.ledkncsmvcd.com
 0.0.0.0 www.ledtabelatamir.com
@@ -84107,6 +84112,7 @@
 0.0.0.0 www.magnumbd.com
 0.0.0.0 www.mahindrainsurance.com
 0.0.0.0 www.mahobot.com
+0.0.0.0 www.maiecaffe.com
 0.0.0.0 www.mail-service.digital
 0.0.0.0 www.mail-system.world
 0.0.0.0 www.mail.crosscheck.world
@@ -89080,6 +89086,7 @@
 0.0.0.0 www.proxima.repair
 0.0.0.0 www.proxionet.com
 0.0.0.0 www.proxy-bypass.com
+0.0.0.0 www.proxygeni.com
 0.0.0.0 www.prriceline.com
 0.0.0.0 www.prrrtakeelf.rest
 0.0.0.0 www.prsem.com
@@ -91626,6 +91633,7 @@
 0.0.0.0 www.silver-pledge.com
 0.0.0.0 www.silveragesoftware.com
 0.0.0.0 www.silverassetmere-nl.com
+0.0.0.0 www.silverboxcreativestudio.com
 0.0.0.0 www.silvercash.com
 0.0.0.0 www.silvercrest-hub.online
 0.0.0.0 www.silverdustvalley.pro
