@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 100194
-# Updated: 2026-04-22 01:41:25 UTC
+# Entries: 100203
+# Updated: 2026-04-23 01:45:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -48679,6 +48679,7 @@ address=/pbs.publishers.tremorhub.com/0.0.0.0
 address=/pbterra.com/0.0.0.0
 address=/pbwbl.com/0.0.0.0
 address=/pbworks.fr/0.0.0.0
+address=/pc-apps-kaiyunsports.com/0.0.0.0
 address=/pc-cmsgov-collect.tealiumiq.com/0.0.0.0
 address=/pc-gizmos-ssl.com/0.0.0.0
 address=/pc-humana-collect.tealiumiq.com/0.0.0.0
@@ -73996,6 +73997,7 @@ address=/www.celnazyskovera-pl.com/0.0.0.0
 address=/www.celnazyskovera.net/0.0.0.0
 address=/www.celorintrade.fyi/0.0.0.0
 address=/www.cemcornerstone.com/0.0.0.0
+address=/www.cemerhealth.com/0.0.0.0
 address=/www.cemeterykits.site/0.0.0.0
 address=/www.cemigo24.pl/0.0.0.0
 address=/www.cemurye.com/0.0.0.0
@@ -77396,6 +77398,7 @@ address=/www.eshopads2.com/0.0.0.0
 address=/www.esila-akhtakhanov-on-live.com/0.0.0.0
 address=/www.esimilar.com/0.0.0.0
 address=/www.esitle.com/0.0.0.0
+address=/www.esjetonline.com/0.0.0.0
 address=/www.eskaldgrunt.top/0.0.0.0
 address=/www.eskaldventoormskild.top/0.0.0.0
 address=/www.eskaldventoorskiml.top/0.0.0.0
@@ -77684,6 +77687,7 @@ address=/www.exlmajster.com/0.0.0.0
 address=/www.exludeglown.top/0.0.0.0
 address=/www.exoclick.com/0.0.0.0
 address=/www.exotic-birdsfarm.com/0.0.0.0
+address=/www.exoticainmotion.com/0.0.0.0
 address=/www.expandsign.best/0.0.0.0
 address=/www.expandtodorvex.digital/0.0.0.0
 address=/www.expandtre.club/0.0.0.0
@@ -82088,6 +82092,7 @@ address=/www.jhgjer.com/0.0.0.0
 address=/www.jhkzz.com/0.0.0.0
 address=/www.jhpxa.com/0.0.0.0
 address=/www.jhrltp.com/0.0.0.0
+address=/www.jhsmiami.com/0.0.0.0
 address=/www.jhtfzh.com/0.0.0.0
 address=/www.jhtrssep.sbs/0.0.0.0
 address=/www.jianlee.shop/0.0.0.0
@@ -83153,6 +83158,7 @@ address=/www.landunv.com/0.0.0.0
 address=/www.landurt.com/0.0.0.0
 address=/www.landvom.com/0.0.0.0
 address=/www.langdontalulah.shop/0.0.0.0
+address=/www.langleyantiques.com/0.0.0.0
 address=/www.langleyindependentscollective.com/0.0.0.0
 address=/www.langleyyesterday.com/0.0.0.0
 address=/www.langstonreed.com/0.0.0.0
@@ -84284,6 +84290,7 @@ address=/www.materoutletpl.shop/0.0.0.0
 address=/www.mathenea.com/0.0.0.0
 address=/www.mathieubonnardel.com/0.0.0.0
 address=/www.mathtacy.com/0.0.0.0
+address=/www.matifi.com/0.0.0.0
 address=/www.matri.eu/0.0.0.0
 address=/www.matricescell.dfsnarrative.com/0.0.0.0
 address=/www.matteomartin.shop/0.0.0.0
@@ -84543,6 +84550,7 @@ address=/www.milf-cheating-on-live.com/0.0.0.0
 address=/www.milf-finder.pl/0.0.0.0
 address=/www.milffinder.com/0.0.0.0
 address=/www.milffinder.pl/0.0.0.0
+address=/www.milgaard.com/0.0.0.0
 address=/www.milikowanna124.com/0.0.0.0
 address=/www.milioner2023.pl/0.0.0.0
 address=/www.militaraipl.foetexdk.shop/0.0.0.0
@@ -89988,6 +89996,7 @@ address=/www.releasepoint.plasmadrone.com/0.0.0.0
 address=/www.relentlessair.dequesadaservices.com/0.0.0.0
 address=/www.relevantknowledge.com/0.0.0.0
 address=/www.reliaonline.com/0.0.0.0
+address=/www.reliaslearrning.com/0.0.0.0
 address=/www.reliquariiysuperconducts.info/0.0.0.0
 address=/www.relixo.site/0.0.0.0
 address=/www.relmaxtop.com/0.0.0.0

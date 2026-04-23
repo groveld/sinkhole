@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 100194
-// Updated: 2026-04-22 01:41:25 UTC
+// Entries: 100203
+// Updated: 2026-04-23 01:45:43 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -48680,6 +48680,7 @@ var BLOCKLIST = {
 "pbterra.com":null,
 "pbwbl.com":null,
 "pbworks.fr":null,
+"pc-apps-kaiyunsports.com":null,
 "pc-cmsgov-collect.tealiumiq.com":null,
 "pc-gizmos-ssl.com":null,
 "pc-humana-collect.tealiumiq.com":null,
@@ -73997,6 +73998,7 @@ var BLOCKLIST = {
 "www.celnazyskovera.net":null,
 "www.celorintrade.fyi":null,
 "www.cemcornerstone.com":null,
+"www.cemerhealth.com":null,
 "www.cemeterykits.site":null,
 "www.cemigo24.pl":null,
 "www.cemurye.com":null,
@@ -77397,6 +77399,7 @@ var BLOCKLIST = {
 "www.esila-akhtakhanov-on-live.com":null,
 "www.esimilar.com":null,
 "www.esitle.com":null,
+"www.esjetonline.com":null,
 "www.eskaldgrunt.top":null,
 "www.eskaldventoormskild.top":null,
 "www.eskaldventoorskiml.top":null,
@@ -77685,6 +77688,7 @@ var BLOCKLIST = {
 "www.exludeglown.top":null,
 "www.exoclick.com":null,
 "www.exotic-birdsfarm.com":null,
+"www.exoticainmotion.com":null,
 "www.expandsign.best":null,
 "www.expandtodorvex.digital":null,
 "www.expandtre.club":null,
@@ -82089,6 +82093,7 @@ var BLOCKLIST = {
 "www.jhkzz.com":null,
 "www.jhpxa.com":null,
 "www.jhrltp.com":null,
+"www.jhsmiami.com":null,
 "www.jhtfzh.com":null,
 "www.jhtrssep.sbs":null,
 "www.jianlee.shop":null,
@@ -83154,6 +83159,7 @@ var BLOCKLIST = {
 "www.landurt.com":null,
 "www.landvom.com":null,
 "www.langdontalulah.shop":null,
+"www.langleyantiques.com":null,
 "www.langleyindependentscollective.com":null,
 "www.langleyyesterday.com":null,
 "www.langstonreed.com":null,
@@ -84285,6 +84291,7 @@ var BLOCKLIST = {
 "www.mathenea.com":null,
 "www.mathieubonnardel.com":null,
 "www.mathtacy.com":null,
+"www.matifi.com":null,
 "www.matri.eu":null,
 "www.matricescell.dfsnarrative.com":null,
 "www.matteomartin.shop":null,
@@ -84544,6 +84551,7 @@ var BLOCKLIST = {
 "www.milf-finder.pl":null,
 "www.milffinder.com":null,
 "www.milffinder.pl":null,
+"www.milgaard.com":null,
 "www.milikowanna124.com":null,
 "www.milioner2023.pl":null,
 "www.militaraipl.foetexdk.shop":null,
@@ -89989,6 +89997,7 @@ var BLOCKLIST = {
 "www.relentlessair.dequesadaservices.com":null,
 "www.relevantknowledge.com":null,
 "www.reliaonline.com":null,
+"www.reliaslearrning.com":null,
 "www.reliquariiysuperconducts.info":null,
 "www.relixo.site":null,
 "www.relmaxtop.com":null,
