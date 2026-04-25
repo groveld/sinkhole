@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 97124
-// Updated: 2026-04-24 01:46:48 UTC
+// Entries: 97136
+// Updated: 2026-04-25 01:41:33 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -55877,6 +55877,7 @@ var BLOCKLIST = {
 "sgfw.adsafeprotected.com":null,
 "sgghahidmusicals.info":null,
 "sghealthtendersuae.com":null,
+"sgluco.shop":null,
 "sgmedia.adspirit.net":null,
 "sgoccscade.rest":null,
 "sgotsuit.com":null,
@@ -68637,6 +68638,7 @@ var BLOCKLIST = {
 "www.9900878g7.click":null,
 "www.9900bhx21s.lol":null,
 "www.99106722.icu":null,
+"www.991abc.com":null,
 "www.993818f.sbs":null,
 "www.99382gigr.sbs":null,
 "www.9943034912874738.shop":null,
@@ -70194,6 +70196,7 @@ var BLOCKLIST = {
 "www.aqsablog.online":null,
 "www.aquafit.sklep.pl":null,
 "www.aquafit24.pl":null,
+"www.aqualakefy.name":null,
 "www.aqualite-construct.com":null,
 "www.aquarevia.site":null,
 "www.ar3skelmund.top":null,
@@ -71761,6 +71764,7 @@ var BLOCKLIST = {
 "www.brisk-stance.com":null,
 "www.brisk-traction.com":null,
 "www.briskappmu.name":null,
+"www.briskshadeyv.com":null,
 "www.brisoletta.info":null,
 "www.brisolhavekt.info":null,
 "www.brisolventiga.info":null,
@@ -72699,6 +72703,7 @@ var BLOCKLIST = {
 "www.china-medicom.com":null,
 "www.chinese-its.com":null,
 "www.chineseenvoy.com":null,
+"www.chinesehollywood.com":null,
 "www.chineseoa.com":null,
 "www.chinmayagangotri.com":null,
 "www.chiudsoffo.rest":null,
@@ -82866,11 +82871,13 @@ var BLOCKLIST = {
 "www.myad.vn":null,
 "www.myadsl.co.za":null,
 "www.myaffiliateprogram.com":null,
+"www.myalegent07.com":null,
 "www.mybb.ero-advertising.com":null,
 "www.mybeautytea.com":null,
 "www.mybutleragency.com":null,
 "www.mycashback.co.uk":null,
 "www.mychoicerewards.com":null,
+"www.mycitycue.com":null,
 "www.mycleanpc.com":null,
 "www.mycleanpc.tk":null,
 "www.myclickbankads.com":null,
@@ -87973,6 +87980,7 @@ var BLOCKLIST = {
 "www.riverbeyondcalmforest.digital":null,
 "www.rivercorag.rest":null,
 "www.riverforge.site":null,
+"www.riversidefr.com":null,
 "www.riverthroughamberwoods.com":null,
 "www.rivetandpixel.com":null,
 "www.rivo-construct.com":null,
@@ -88714,6 +88722,7 @@ var BLOCKLIST = {
 "www.security-update.qhigh.com":null,
 "www.security-verification.site":null,
 "www.securitymetrics.com":null,
+"www.securityplusproducts.com":null,
 "www.securityscan.us":null,
 "www.securitystronghold.com":null,
 "www.secursovra.rest":null,
@@ -89059,6 +89068,7 @@ var BLOCKLIST = {
 "www.shiny-chipset.com":null,
 "www.shiny-valve.com":null,
 "www.shiny-vista.com":null,
+"www.shinyechogz.name":null,
 "www.shinystat.com":null,
 "www.shinystat.it":null,
 "www.shipgratis.eu":null,
@@ -89427,6 +89437,7 @@ var BLOCKLIST = {
 "www.skyinfrastructures.com":null,
 "www.skyline-pond.com":null,
 "www.skyline-quarry.com":null,
+"www.skyonlinegratis.com":null,
 "www.skypeclass.com":null,
 "www.skypefr.com":null,
 "www.skyperec.com":null,
@@ -94048,6 +94059,7 @@ var BLOCKLIST = {
 "www.wiwazoo.world":null,
 "www.wj.quvistore.top":null,
 "www.wjktzr.site":null,
+"www.wjldfm.com":null,
 "www.wkgogmig.shop":null,
 "www.wkmg.co.kr":null,
 "www.wkolnn.com":null,

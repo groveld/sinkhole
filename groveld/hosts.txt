@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 97126
-# Updated: 2026-04-24 02:36:14 UTC
+# Entries: 97138
+# Updated: 2026-04-25 02:31:02 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -55877,6 +55877,7 @@
 0.0.0.0 sgfw.adsafeprotected.com
 0.0.0.0 sgghahidmusicals.info
 0.0.0.0 sghealthtendersuae.com
+0.0.0.0 sgluco.shop
 0.0.0.0 sgmedia.adspirit.net
 0.0.0.0 sgoccscade.rest
 0.0.0.0 sgotsuit.com
@@ -68637,6 +68638,7 @@
 0.0.0.0 www.9900878g7.click
 0.0.0.0 www.9900bhx21s.lol
 0.0.0.0 www.99106722.icu
+0.0.0.0 www.991abc.com
 0.0.0.0 www.993818f.sbs
 0.0.0.0 www.99382gigr.sbs
 0.0.0.0 www.9943034912874738.shop
@@ -70194,6 +70196,7 @@
 0.0.0.0 www.aqsablog.online
 0.0.0.0 www.aquafit.sklep.pl
 0.0.0.0 www.aquafit24.pl
+0.0.0.0 www.aqualakefy.name
 0.0.0.0 www.aqualite-construct.com
 0.0.0.0 www.aquarevia.site
 0.0.0.0 www.ar3skelmund.top
@@ -71761,6 +71764,7 @@
 0.0.0.0 www.brisk-stance.com
 0.0.0.0 www.brisk-traction.com
 0.0.0.0 www.briskappmu.name
+0.0.0.0 www.briskshadeyv.com
 0.0.0.0 www.brisoletta.info
 0.0.0.0 www.brisolhavekt.info
 0.0.0.0 www.brisolventiga.info
@@ -72699,6 +72703,7 @@
 0.0.0.0 www.china-medicom.com
 0.0.0.0 www.chinese-its.com
 0.0.0.0 www.chineseenvoy.com
+0.0.0.0 www.chinesehollywood.com
 0.0.0.0 www.chineseoa.com
 0.0.0.0 www.chinmayagangotri.com
 0.0.0.0 www.chiudsoffo.rest
@@ -82867,11 +82872,13 @@
 0.0.0.0 www.myad.vn
 0.0.0.0 www.myadsl.co.za
 0.0.0.0 www.myaffiliateprogram.com
+0.0.0.0 www.myalegent07.com
 0.0.0.0 www.mybb.ero-advertising.com
 0.0.0.0 www.mybeautytea.com
 0.0.0.0 www.mybutleragency.com
 0.0.0.0 www.mycashback.co.uk
 0.0.0.0 www.mychoicerewards.com
+0.0.0.0 www.mycitycue.com
 0.0.0.0 www.mycleanpc.com
 0.0.0.0 www.mycleanpc.tk
 0.0.0.0 www.myclickbankads.com
@@ -87974,6 +87981,7 @@
 0.0.0.0 www.riverbeyondcalmforest.digital
 0.0.0.0 www.rivercorag.rest
 0.0.0.0 www.riverforge.site
+0.0.0.0 www.riversidefr.com
 0.0.0.0 www.riverthroughamberwoods.com
 0.0.0.0 www.rivetandpixel.com
 0.0.0.0 www.rivo-construct.com
@@ -88715,6 +88723,7 @@
 0.0.0.0 www.security-update.qhigh.com
 0.0.0.0 www.security-verification.site
 0.0.0.0 www.securitymetrics.com
+0.0.0.0 www.securityplusproducts.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.securitystronghold.com
 0.0.0.0 www.secursovra.rest
@@ -89060,6 +89069,7 @@
 0.0.0.0 www.shiny-chipset.com
 0.0.0.0 www.shiny-valve.com
 0.0.0.0 www.shiny-vista.com
+0.0.0.0 www.shinyechogz.name
 0.0.0.0 www.shinystat.com
 0.0.0.0 www.shinystat.it
 0.0.0.0 www.shipgratis.eu
@@ -89428,6 +89438,7 @@
 0.0.0.0 www.skyinfrastructures.com
 0.0.0.0 www.skyline-pond.com
 0.0.0.0 www.skyline-quarry.com
+0.0.0.0 www.skyonlinegratis.com
 0.0.0.0 www.skypeclass.com
 0.0.0.0 www.skypefr.com
 0.0.0.0 www.skyperec.com
@@ -94049,6 +94060,7 @@
 0.0.0.0 www.wiwazoo.world
 0.0.0.0 www.wj.quvistore.top
 0.0.0.0 www.wjktzr.site
+0.0.0.0 www.wjldfm.com
 0.0.0.0 www.wkgogmig.shop
 0.0.0.0 www.wkmg.co.kr
 0.0.0.0 www.wkolnn.com
