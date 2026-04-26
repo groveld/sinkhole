@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 97136
-# Updated: 2026-04-25 01:41:33 UTC
+# Entries: 97137
+# Updated: 2026-04-26 01:48:18 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6515,6 +6515,7 @@ adkengage.com
 adklip.com
 adknowledge.com
 adkontekst.pl
+adkora.com
 adksitestaging.com
 adktracking-1671721947.eu-west-3.elb.amazonaws.com
 adl.sound.net

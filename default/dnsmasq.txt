@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 97136
-# Updated: 2026-04-25 01:41:33 UTC
+# Entries: 97137
+# Updated: 2026-04-26 01:48:18 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6515,6 +6515,7 @@ address=/adkengage.com/0.0.0.0
 address=/adklip.com/0.0.0.0
 address=/adknowledge.com/0.0.0.0
 address=/adkontekst.pl/0.0.0.0
+address=/adkora.com/0.0.0.0
 address=/adksitestaging.com/0.0.0.0
 address=/adktracking-1671721947.eu-west-3.elb.amazonaws.com/0.0.0.0
 address=/adl.sound.net/0.0.0.0
