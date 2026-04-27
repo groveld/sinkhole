@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 97137
-! Updated: 2026-04-26 01:48:18 UTC
+! Entries: 97139
+! Updated: 2026-04-27 01:48:21 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24155,6 +24155,7 @@
 ||cqqockneyismsomnibus.info^
 ||cqyhl.com^
 ||cra-arc-gc-ca.noads.biz^
+||cra-documents.ca^
 ||cra-etransfer.online^
 ||crabb2task.pro^
 ||crabbychin.com^
@@ -25874,6 +25875,7 @@
 ||desertdreamtour.com^
 ||desertgates.com^
 ||desertorganix.com^
+||desfans.sportgroup.cl^
 ||desga2026.com^
 ||deshmedia.com^
 ||designbloxlive.com^

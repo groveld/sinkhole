@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 97137
-# Updated: 2026-04-26 01:48:18 UTC
+# Entries: 97139
+# Updated: 2026-04-27 01:48:21 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24155,6 +24155,7 @@
 0.0.0.0 cqqockneyismsomnibus.info
 0.0.0.0 cqyhl.com
 0.0.0.0 cra-arc-gc-ca.noads.biz
+0.0.0.0 cra-documents.ca
 0.0.0.0 cra-etransfer.online
 0.0.0.0 crabb2task.pro
 0.0.0.0 crabbychin.com
@@ -25874,6 +25875,7 @@
 0.0.0.0 desertdreamtour.com
 0.0.0.0 desertgates.com
 0.0.0.0 desertorganix.com
+0.0.0.0 desfans.sportgroup.cl
 0.0.0.0 desga2026.com
 0.0.0.0 deshmedia.com
 0.0.0.0 designbloxlive.com

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 97137
-# Updated: 2026-04-26 01:48:18 UTC
+# Entries: 97139
+# Updated: 2026-04-27 01:48:21 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24155,6 +24155,7 @@ address=/cqmdjf.com/0.0.0.0
 address=/cqqockneyismsomnibus.info/0.0.0.0
 address=/cqyhl.com/0.0.0.0
 address=/cra-arc-gc-ca.noads.biz/0.0.0.0
+address=/cra-documents.ca/0.0.0.0
 address=/cra-etransfer.online/0.0.0.0
 address=/crabb2task.pro/0.0.0.0
 address=/crabbychin.com/0.0.0.0
@@ -25874,6 +25875,7 @@ address=/deserphyll.cyou/0.0.0.0
 address=/desertdreamtour.com/0.0.0.0
 address=/desertgates.com/0.0.0.0
 address=/desertorganix.com/0.0.0.0
+address=/desfans.sportgroup.cl/0.0.0.0
 address=/desga2026.com/0.0.0.0
 address=/deshmedia.com/0.0.0.0
 address=/designbloxlive.com/0.0.0.0

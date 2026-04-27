@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 97137
-// Updated: 2026-04-26 01:48:18 UTC
+// Entries: 97139
+// Updated: 2026-04-27 01:48:21 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24156,6 +24156,7 @@ var BLOCKLIST = {
 "cqqockneyismsomnibus.info":null,
 "cqyhl.com":null,
 "cra-arc-gc-ca.noads.biz":null,
+"cra-documents.ca":null,
 "cra-etransfer.online":null,
 "crabb2task.pro":null,
 "crabbychin.com":null,
@@ -25875,6 +25876,7 @@ var BLOCKLIST = {
 "desertdreamtour.com":null,
 "desertgates.com":null,
 "desertorganix.com":null,
+"desfans.sportgroup.cl":null,
 "desga2026.com":null,
 "deshmedia.com":null,
 "designbloxlive.com":null,
