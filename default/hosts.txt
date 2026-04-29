@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 95483
-# Updated: 2026-04-28 01:49:34 UTC
+# Entries: 95487
+# Updated: 2026-04-29 01:50:51 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42817,6 +42817,7 @@
 0.0.0.0 moonlit-dividends.com
 0.0.0.0 moonlit-vista.com
 0.0.0.0 moonuopen.store
+0.0.0.0 moonwager.com
 0.0.0.0 mooody1blue.pro
 0.0.0.0 mopiez.com
 0.0.0.0 mopik.pl
@@ -67085,6 +67086,7 @@
 0.0.0.0 www.30c5d231.diabetes-bewegung.de
 0.0.0.0 www.30sec.info
 0.0.0.0 www.31256498.xyz
+0.0.0.0 www.316ee.com
 0.0.0.0 www.31864097.xyz
 0.0.0.0 www.31967072.cfd
 0.0.0.0 www.31d.net
@@ -83713,6 +83715,7 @@
 0.0.0.0 www.palaalu.com
 0.0.0.0 www.palacah.com
 0.0.0.0 www.palacesarotthermal.com
+0.0.0.0 www.palaceskateboard.com
 0.0.0.0 www.palarum-palur.com
 0.0.0.0 www.pale-hands.com
 0.0.0.0 www.pale-road.com
@@ -92215,6 +92218,7 @@
 0.0.0.0 www.wewillrocknow.com
 0.0.0.0 www.wexwyrd.com
 0.0.0.0 www.wez-bon.24.eu
+0.0.0.0 www.wezelco.com
 0.0.0.0 www.wfsxzs.com
 0.0.0.0 www.wfyfkg.com
 0.0.0.0 www.wg-zymdns.com

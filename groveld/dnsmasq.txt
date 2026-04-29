@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95485
-# Updated: 2026-04-28 02:38:56 UTC
+# Entries: 95489
+# Updated: 2026-04-29 02:40:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42818,6 +42818,7 @@ address=/moonglade-sorcerer.com/0.0.0.0
 address=/moonlit-dividends.com/0.0.0.0
 address=/moonlit-vista.com/0.0.0.0
 address=/moonuopen.store/0.0.0.0
+address=/moonwager.com/0.0.0.0
 address=/mooody1blue.pro/0.0.0.0
 address=/mopiez.com/0.0.0.0
 address=/mopik.pl/0.0.0.0
@@ -67086,6 +67087,7 @@ address=/www.30968574.xyz/0.0.0.0
 address=/www.30c5d231.diabetes-bewegung.de/0.0.0.0
 address=/www.30sec.info/0.0.0.0
 address=/www.31256498.xyz/0.0.0.0
+address=/www.316ee.com/0.0.0.0
 address=/www.31864097.xyz/0.0.0.0
 address=/www.31967072.cfd/0.0.0.0
 address=/www.31d.net/0.0.0.0
@@ -83715,6 +83717,7 @@ address=/www.pakati.com/0.0.0.0
 address=/www.palaalu.com/0.0.0.0
 address=/www.palacah.com/0.0.0.0
 address=/www.palacesarotthermal.com/0.0.0.0
+address=/www.palaceskateboard.com/0.0.0.0
 address=/www.palarum-palur.com/0.0.0.0
 address=/www.pale-hands.com/0.0.0.0
 address=/www.pale-road.com/0.0.0.0
@@ -92217,6 +92220,7 @@ address=/www.westreclameadvies.nl/0.0.0.0
 address=/www.wewillrocknow.com/0.0.0.0
 address=/www.wexwyrd.com/0.0.0.0
 address=/www.wez-bon.24.eu/0.0.0.0
+address=/www.wezelco.com/0.0.0.0
 address=/www.wfsxzs.com/0.0.0.0
 address=/www.wfyfkg.com/0.0.0.0
 address=/www.wg-zymdns.com/0.0.0.0

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 95483
-// Updated: 2026-04-28 01:49:34 UTC
+// Entries: 95487
+// Updated: 2026-04-29 01:50:51 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42818,6 +42818,7 @@ var BLOCKLIST = {
 "moonlit-dividends.com":null,
 "moonlit-vista.com":null,
 "moonuopen.store":null,
+"moonwager.com":null,
 "mooody1blue.pro":null,
 "mopiez.com":null,
 "mopik.pl":null,
@@ -67086,6 +67087,7 @@ var BLOCKLIST = {
 "www.30c5d231.diabetes-bewegung.de":null,
 "www.30sec.info":null,
 "www.31256498.xyz":null,
+"www.316ee.com":null,
 "www.31864097.xyz":null,
 "www.31967072.cfd":null,
 "www.31d.net":null,
@@ -83714,6 +83716,7 @@ var BLOCKLIST = {
 "www.palaalu.com":null,
 "www.palacah.com":null,
 "www.palacesarotthermal.com":null,
+"www.palaceskateboard.com":null,
 "www.palarum-palur.com":null,
 "www.pale-hands.com":null,
 "www.pale-road.com":null,
@@ -92216,6 +92219,7 @@ var BLOCKLIST = {
 "www.wewillrocknow.com":null,
 "www.wexwyrd.com":null,
 "www.wez-bon.24.eu":null,
+"www.wezelco.com":null,
 "www.wfsxzs.com":null,
 "www.wfyfkg.com":null,
 "www.wg-zymdns.com":null,

@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 95485
-! Updated: 2026-04-28 02:38:56 UTC
+! Entries: 95489
+! Updated: 2026-04-29 02:40:16 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -42818,6 +42818,7 @@
 ||moonlit-dividends.com^
 ||moonlit-vista.com^
 ||moonuopen.store^
+||moonwager.com^
 ||mooody1blue.pro^
 ||mopiez.com^
 ||mopik.pl^
@@ -67086,6 +67087,7 @@
 ||www.30c5d231.diabetes-bewegung.de^
 ||www.30sec.info^
 ||www.31256498.xyz^
+||www.316ee.com^
 ||www.31864097.xyz^
 ||www.31967072.cfd^
 ||www.31d.net^
@@ -83715,6 +83717,7 @@
 ||www.palaalu.com^
 ||www.palacah.com^
 ||www.palacesarotthermal.com^
+||www.palaceskateboard.com^
 ||www.palarum-palur.com^
 ||www.pale-hands.com^
 ||www.pale-road.com^
@@ -92217,6 +92220,7 @@
 ||www.wewillrocknow.com^
 ||www.wexwyrd.com^
 ||www.wez-bon.24.eu^
+||www.wezelco.com^
 ||www.wfsxzs.com^
 ||www.wfyfkg.com^
 ||www.wg-zymdns.com^
