@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 95487
-// Updated: 2026-04-29 01:50:51 UTC
+// Entries: 95496
+// Updated: 2026-04-30 01:50:23 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15614,6 +15614,7 @@ var BLOCKLIST = {
 "backofficellc.com":null,
 "backpaininstantrelief.com":null,
 "backseatcuddler.us.intellitxt.com":null,
+"backtension.com":null,
 "backup.device-ledger.cloud":null,
 "backuperwebcam.weebly.com":null,
 "backuprabbit.com":null,
@@ -18775,6 +18776,7 @@ var BLOCKLIST = {
 "brainient.com":null,
 "brainmentum.pro":null,
 "brainn8ify.pro":null,
+"brainns.sa.com":null,
 "brainschampions.com":null,
 "brainteasers.freestats.com":null,
 "braintem.casa":null,
@@ -52748,6 +52750,7 @@ var BLOCKLIST = {
 "ronaldmohammed.com":null,
 "ronaldocdkboodd.top":null,
 "rongwooh.com":null,
+"ronracepub.com":null,
 "ronsey.com":null,
 "ronswank.com":null,
 "rookholm.com":null,
@@ -81318,6 +81321,7 @@ var BLOCKLIST = {
 "www.minutemilestone.com":null,
 "www.minutevolive.redmarkable.com":null,
 "www.minuzdigua.rest":null,
+"www.miocardite.com":null,
 "www.miosalstsasks.shop":null,
 "www.mioveni.pl":null,
 "www.miqsoft.hu":null,
@@ -82268,6 +82272,7 @@ var BLOCKLIST = {
 "www.nohyjio.com":null,
 "www.noirski.com":null,
 "www.noisepot.com":null,
+"www.noithatphanthinh.com":null,
 "www.noje.topnewsource.com":null,
 "www.nojjnconsumer.info":null,
 "www.nolfphilippe.shop":null,
@@ -83822,6 +83827,7 @@ var BLOCKLIST = {
 "www.parzhvips.shop":null,
 "www.pasadenavintage.com":null,
 "www.pascaljouve.shop":null,
+"www.paseyourself.com":null,
 "www.pasije.pro":null,
 "www.passagellworks.info":null,
 "www.passantabdalla.shop":null,
@@ -88689,6 +88695,7 @@ var BLOCKLIST = {
 "www.startt9cast.pro":null,
 "www.startty.pro":null,
 "www.startup-sk.com":null,
+"www.startupsforstartups.com":null,
 "www.starware.com":null,
 "www.stat.pl":null,
 "www.stat24.com":null,
@@ -92124,6 +92131,7 @@ var BLOCKLIST = {
 "www.webmail-update.biz":null,
 "www.webmail-verification-acess.s3.eu-north-1.amazonaws.com":null,
 "www.webmails-roundcudeb4322.avaking.info":null,
+"www.webmicrostores.com":null,
 "www.webmoblink.com":null,
 "www.webnet.iceiy.com":null,
 "www.webpartition.com":null,
@@ -92769,6 +92777,7 @@ var BLOCKLIST = {
 "www.xctrk.com":null,
 "www.xcyjsy.com":null,
 "www.xdemo.charlieclingman.com":null,
+"www.xdesimbi.com":null,
 "www.xdgkt.com":null,
 "www.xe-bca.com":null,
 "www.xecahsig.ink":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 95487
-# Updated: 2026-04-29 01:50:51 UTC
+# Entries: 95496
+# Updated: 2026-04-30 01:50:23 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15613,6 +15613,7 @@ address=/backoffice.roitracking.info/0.0.0.0
 address=/backofficellc.com/0.0.0.0
 address=/backpaininstantrelief.com/0.0.0.0
 address=/backseatcuddler.us.intellitxt.com/0.0.0.0
+address=/backtension.com/0.0.0.0
 address=/backup.device-ledger.cloud/0.0.0.0
 address=/backuperwebcam.weebly.com/0.0.0.0
 address=/backuprabbit.com/0.0.0.0
@@ -18774,6 +18775,7 @@ address=/brainfox.com/0.0.0.0
 address=/brainient.com/0.0.0.0
 address=/brainmentum.pro/0.0.0.0
 address=/brainn8ify.pro/0.0.0.0
+address=/brainns.sa.com/0.0.0.0
 address=/brainschampions.com/0.0.0.0
 address=/brainteasers.freestats.com/0.0.0.0
 address=/braintem.casa/0.0.0.0
@@ -52747,6 +52749,7 @@ address=/ronabell.shop/0.0.0.0
 address=/ronaldmohammed.com/0.0.0.0
 address=/ronaldocdkboodd.top/0.0.0.0
 address=/rongwooh.com/0.0.0.0
+address=/ronracepub.com/0.0.0.0
 address=/ronsey.com/0.0.0.0
 address=/ronswank.com/0.0.0.0
 address=/rookholm.com/0.0.0.0
@@ -81317,6 +81320,7 @@ address=/www.minutainfo.numpet.com/0.0.0.0
 address=/www.minutemilestone.com/0.0.0.0
 address=/www.minutevolive.redmarkable.com/0.0.0.0
 address=/www.minuzdigua.rest/0.0.0.0
+address=/www.miocardite.com/0.0.0.0
 address=/www.miosalstsasks.shop/0.0.0.0
 address=/www.mioveni.pl/0.0.0.0
 address=/www.miqsoft.hu/0.0.0.0
@@ -82267,6 +82271,7 @@ address=/www.nogart.pl/0.0.0.0
 address=/www.nohyjio.com/0.0.0.0
 address=/www.noirski.com/0.0.0.0
 address=/www.noisepot.com/0.0.0.0
+address=/www.noithatphanthinh.com/0.0.0.0
 address=/www.noje.topnewsource.com/0.0.0.0
 address=/www.nojjnconsumer.info/0.0.0.0
 address=/www.nolfphilippe.shop/0.0.0.0
@@ -83821,6 +83826,7 @@ address=/www.parzhpl.com/0.0.0.0
 address=/www.parzhvips.shop/0.0.0.0
 address=/www.pasadenavintage.com/0.0.0.0
 address=/www.pascaljouve.shop/0.0.0.0
+address=/www.paseyourself.com/0.0.0.0
 address=/www.pasije.pro/0.0.0.0
 address=/www.passagellworks.info/0.0.0.0
 address=/www.passantabdalla.shop/0.0.0.0
@@ -88688,6 +88694,7 @@ address=/www.startt4kit.pro/0.0.0.0
 address=/www.startt9cast.pro/0.0.0.0
 address=/www.startty.pro/0.0.0.0
 address=/www.startup-sk.com/0.0.0.0
+address=/www.startupsforstartups.com/0.0.0.0
 address=/www.starware.com/0.0.0.0
 address=/www.stat.pl/0.0.0.0
 address=/www.stat24.com/0.0.0.0
@@ -92123,6 +92130,7 @@ address=/www.webmail-session-login-time-out-didactic-giggle-production.up.railwa
 address=/www.webmail-update.biz/0.0.0.0
 address=/www.webmail-verification-acess.s3.eu-north-1.amazonaws.com/0.0.0.0
 address=/www.webmails-roundcudeb4322.avaking.info/0.0.0.0
+address=/www.webmicrostores.com/0.0.0.0
 address=/www.webmoblink.com/0.0.0.0
 address=/www.webnet.iceiy.com/0.0.0.0
 address=/www.webpartition.com/0.0.0.0
@@ -92768,6 +92776,7 @@ address=/www.xclicks.net/0.0.0.0
 address=/www.xctrk.com/0.0.0.0
 address=/www.xcyjsy.com/0.0.0.0
 address=/www.xdemo.charlieclingman.com/0.0.0.0
+address=/www.xdesimbi.com/0.0.0.0
 address=/www.xdgkt.com/0.0.0.0
 address=/www.xe-bca.com/0.0.0.0
 address=/www.xecahsig.ink/0.0.0.0

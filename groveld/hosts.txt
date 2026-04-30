@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 95489
-# Updated: 2026-04-29 02:40:16 UTC
+# Entries: 95498
+# Updated: 2026-04-30 02:39:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15613,6 +15613,7 @@
 0.0.0.0 backofficellc.com
 0.0.0.0 backpaininstantrelief.com
 0.0.0.0 backseatcuddler.us.intellitxt.com
+0.0.0.0 backtension.com
 0.0.0.0 backup.device-ledger.cloud
 0.0.0.0 backuperwebcam.weebly.com
 0.0.0.0 backuprabbit.com
@@ -18774,6 +18775,7 @@
 0.0.0.0 brainient.com
 0.0.0.0 brainmentum.pro
 0.0.0.0 brainn8ify.pro
+0.0.0.0 brainns.sa.com
 0.0.0.0 brainschampions.com
 0.0.0.0 brainteasers.freestats.com
 0.0.0.0 braintem.casa
@@ -52748,6 +52750,7 @@
 0.0.0.0 ronaldmohammed.com
 0.0.0.0 ronaldocdkboodd.top
 0.0.0.0 rongwooh.com
+0.0.0.0 ronracepub.com
 0.0.0.0 ronsey.com
 0.0.0.0 ronswank.com
 0.0.0.0 rookholm.com
@@ -81319,6 +81322,7 @@
 0.0.0.0 www.minutemilestone.com
 0.0.0.0 www.minutevolive.redmarkable.com
 0.0.0.0 www.minuzdigua.rest
+0.0.0.0 www.miocardite.com
 0.0.0.0 www.miosalstsasks.shop
 0.0.0.0 www.mioveni.pl
 0.0.0.0 www.miqsoft.hu
@@ -82269,6 +82273,7 @@
 0.0.0.0 www.nohyjio.com
 0.0.0.0 www.noirski.com
 0.0.0.0 www.noisepot.com
+0.0.0.0 www.noithatphanthinh.com
 0.0.0.0 www.noje.topnewsource.com
 0.0.0.0 www.nojjnconsumer.info
 0.0.0.0 www.nolfphilippe.shop
@@ -83823,6 +83828,7 @@
 0.0.0.0 www.parzhvips.shop
 0.0.0.0 www.pasadenavintage.com
 0.0.0.0 www.pascaljouve.shop
+0.0.0.0 www.paseyourself.com
 0.0.0.0 www.pasije.pro
 0.0.0.0 www.passagellworks.info
 0.0.0.0 www.passantabdalla.shop
@@ -88690,6 +88696,7 @@
 0.0.0.0 www.startt9cast.pro
 0.0.0.0 www.startty.pro
 0.0.0.0 www.startup-sk.com
+0.0.0.0 www.startupsforstartups.com
 0.0.0.0 www.starware.com
 0.0.0.0 www.stat.pl
 0.0.0.0 www.stat24.com
@@ -92125,6 +92132,7 @@
 0.0.0.0 www.webmail-update.biz
 0.0.0.0 www.webmail-verification-acess.s3.eu-north-1.amazonaws.com
 0.0.0.0 www.webmails-roundcudeb4322.avaking.info
+0.0.0.0 www.webmicrostores.com
 0.0.0.0 www.webmoblink.com
 0.0.0.0 www.webnet.iceiy.com
 0.0.0.0 www.webpartition.com
@@ -92770,6 +92778,7 @@
 0.0.0.0 www.xctrk.com
 0.0.0.0 www.xcyjsy.com
 0.0.0.0 www.xdemo.charlieclingman.com
+0.0.0.0 www.xdesimbi.com
 0.0.0.0 www.xdgkt.com
 0.0.0.0 www.xe-bca.com
 0.0.0.0 www.xecahsig.ink

@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 95487
-! Updated: 2026-04-29 01:50:51 UTC
+! Entries: 95496
+! Updated: 2026-04-30 01:50:23 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15613,6 +15613,7 @@
 ||backofficellc.com^
 ||backpaininstantrelief.com^
 ||backseatcuddler.us.intellitxt.com^
+||backtension.com^
 ||backup.device-ledger.cloud^
 ||backuperwebcam.weebly.com^
 ||backuprabbit.com^
@@ -18774,6 +18775,7 @@
 ||brainient.com^
 ||brainmentum.pro^
 ||brainn8ify.pro^
+||brainns.sa.com^
 ||brainschampions.com^
 ||brainteasers.freestats.com^
 ||braintem.casa^
@@ -52747,6 +52749,7 @@
 ||ronaldmohammed.com^
 ||ronaldocdkboodd.top^
 ||rongwooh.com^
+||ronracepub.com^
 ||ronsey.com^
 ||ronswank.com^
 ||rookholm.com^
@@ -81317,6 +81320,7 @@
 ||www.minutemilestone.com^
 ||www.minutevolive.redmarkable.com^
 ||www.minuzdigua.rest^
+||www.miocardite.com^
 ||www.miosalstsasks.shop^
 ||www.mioveni.pl^
 ||www.miqsoft.hu^
@@ -82267,6 +82271,7 @@
 ||www.nohyjio.com^
 ||www.noirski.com^
 ||www.noisepot.com^
+||www.noithatphanthinh.com^
 ||www.noje.topnewsource.com^
 ||www.nojjnconsumer.info^
 ||www.nolfphilippe.shop^
@@ -83821,6 +83826,7 @@
 ||www.parzhvips.shop^
 ||www.pasadenavintage.com^
 ||www.pascaljouve.shop^
+||www.paseyourself.com^
 ||www.pasije.pro^
 ||www.passagellworks.info^
 ||www.passantabdalla.shop^
@@ -88688,6 +88694,7 @@
 ||www.startt9cast.pro^
 ||www.startty.pro^
 ||www.startup-sk.com^
+||www.startupsforstartups.com^
 ||www.starware.com^
 ||www.stat.pl^
 ||www.stat24.com^
@@ -92123,6 +92130,7 @@
 ||www.webmail-update.biz^
 ||www.webmail-verification-acess.s3.eu-north-1.amazonaws.com^
 ||www.webmails-roundcudeb4322.avaking.info^
+||www.webmicrostores.com^
 ||www.webmoblink.com^
 ||www.webnet.iceiy.com^
 ||www.webpartition.com^
@@ -92768,6 +92776,7 @@
 ||www.xctrk.com^
 ||www.xcyjsy.com^
 ||www.xdemo.charlieclingman.com^
+||www.xdesimbi.com^
 ||www.xdgkt.com^
 ||www.xe-bca.com^
 ||www.xecahsig.ink^
