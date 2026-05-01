@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 95496
-# Updated: 2026-04-30 01:50:23 UTC
+# Entries: 95498
+# Updated: 2026-05-01 01:55:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24228,6 +24228,7 @@ crpop.livejasmin.com
 crprt.livejasmin.com
 crpt.livejasmin.com
 crqzx.com
+crrect.sa.com
 crs.adapf.com
 crsky2004.yeah.net
 crsspxl.com
@@ -81679,6 +81680,7 @@ www.myfreedinner.com
 www.myfreegifts.co.uk
 www.myfreemp3player.com
 www.myfreesites.net
+www.myfurnituresirplus.com
 www.myglobalsearch.com
 www.mygreatrewards.com
 www.myhank.pl

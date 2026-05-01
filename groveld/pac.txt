@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95498
-// Updated: 2026-04-30 02:39:46 UTC
+// Entries: 95500
+// Updated: 2026-05-01 02:44:52 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24229,6 +24229,7 @@ var BLOCKLIST = {
 "crprt.livejasmin.com":null,
 "crpt.livejasmin.com":null,
 "crqzx.com":null,
+"crrect.sa.com":null,
 "crs.adapf.com":null,
 "crsky2004.yeah.net":null,
 "crsspxl.com":null,
@@ -81682,6 +81683,7 @@ var BLOCKLIST = {
 "www.myfreegifts.co.uk":null,
 "www.myfreemp3player.com":null,
 "www.myfreesites.net":null,
+"www.myfurnituresirplus.com":null,
 "www.myglobalsearch.com":null,
 "www.mygreatrewards.com":null,
 "www.myhank.pl":null,

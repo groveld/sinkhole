@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 95496
-# Updated: 2026-04-30 01:50:23 UTC
+# Entries: 95498
+# Updated: 2026-05-01 01:55:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24228,6 +24228,7 @@ address=/crpop.livejasmin.com/0.0.0.0
 address=/crprt.livejasmin.com/0.0.0.0
 address=/crpt.livejasmin.com/0.0.0.0
 address=/crqzx.com/0.0.0.0
+address=/crrect.sa.com/0.0.0.0
 address=/crs.adapf.com/0.0.0.0
 address=/crsky2004.yeah.net/0.0.0.0
 address=/crsspxl.com/0.0.0.0
@@ -81679,6 +81680,7 @@ address=/www.myfreedinner.com/0.0.0.0
 address=/www.myfreegifts.co.uk/0.0.0.0
 address=/www.myfreemp3player.com/0.0.0.0
 address=/www.myfreesites.net/0.0.0.0
+address=/www.myfurnituresirplus.com/0.0.0.0
 address=/www.myglobalsearch.com/0.0.0.0
 address=/www.mygreatrewards.com/0.0.0.0
 address=/www.myhank.pl/0.0.0.0
