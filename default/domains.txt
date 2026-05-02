@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 95498
-# Updated: 2026-05-01 01:55:29 UTC
+# Entries: 95502
+# Updated: 2026-05-02 01:47:17 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22430,6 +22430,7 @@ cloud.webaccessplatform.com
 cloud.xdrig.com
 cloudads.net
 cloudadservers.com
+cloudalert.shop
 cloudapi.imrworldwide.com
 cloudbiggest.com
 cloudcanvrtyas.info
@@ -25619,6 +25620,7 @@ dense-gear.com
 densmail.com
 dentairemalin.com
 dentalclinichatay.com
+dentalfix.shop
 dentalsearchsolutions.com
 dentistsinyourarea.com
 dentolan.pl
@@ -49646,6 +49648,7 @@ ppoi.org
 pprocessor.net
 pprod.back2.market
 ppuhmarko.com.pl
+ppures.shop
 ppxkt.com
 ppyytt.de
 pq-direct.revsci.net
@@ -71253,6 +71256,7 @@ www.canyonhugesavings.com
 www.caokakao.com
 www.caonmtn.cc
 www.caoptimumsign.com
+www.caothusohoc.com
 www.cap-ferret-location.xyz
 www.capath.com
 www.capehorriizonhub.com

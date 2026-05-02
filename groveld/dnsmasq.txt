@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95500
-# Updated: 2026-05-01 02:44:52 UTC
+# Entries: 95504
+# Updated: 2026-05-02 02:36:41 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22430,6 +22430,7 @@ address=/cloud.webaccessplatform.com/0.0.0.0
 address=/cloud.xdrig.com/0.0.0.0
 address=/cloudads.net/0.0.0.0
 address=/cloudadservers.com/0.0.0.0
+address=/cloudalert.shop/0.0.0.0
 address=/cloudapi.imrworldwide.com/0.0.0.0
 address=/cloudbiggest.com/0.0.0.0
 address=/cloudcanvrtyas.info/0.0.0.0
@@ -25619,6 +25620,7 @@ address=/dense-gear.com/0.0.0.0
 address=/densmail.com/0.0.0.0
 address=/dentairemalin.com/0.0.0.0
 address=/dentalclinichatay.com/0.0.0.0
+address=/dentalfix.shop/0.0.0.0
 address=/dentalsearchsolutions.com/0.0.0.0
 address=/dentistsinyourarea.com/0.0.0.0
 address=/dentolan.pl/0.0.0.0
@@ -49647,6 +49649,7 @@ address=/ppoi.org/0.0.0.0
 address=/pprocessor.net/0.0.0.0
 address=/pprod.back2.market/0.0.0.0
 address=/ppuhmarko.com.pl/0.0.0.0
+address=/ppures.shop/0.0.0.0
 address=/ppxkt.com/0.0.0.0
 address=/ppyytt.de/0.0.0.0
 address=/pq-direct.revsci.net/0.0.0.0
@@ -71254,6 +71257,7 @@ address=/www.canyonhugesavings.com/0.0.0.0
 address=/www.caokakao.com/0.0.0.0
 address=/www.caonmtn.cc/0.0.0.0
 address=/www.caoptimumsign.com/0.0.0.0
+address=/www.caothusohoc.com/0.0.0.0
 address=/www.cap-ferret-location.xyz/0.0.0.0
 address=/www.capath.com/0.0.0.0
 address=/www.capehorriizonhub.com/0.0.0.0

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 95498
-// Updated: 2026-05-01 01:55:29 UTC
+// Entries: 95502
+// Updated: 2026-05-02 01:47:17 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22431,6 +22431,7 @@ var BLOCKLIST = {
 "cloud.xdrig.com":null,
 "cloudads.net":null,
 "cloudadservers.com":null,
+"cloudalert.shop":null,
 "cloudapi.imrworldwide.com":null,
 "cloudbiggest.com":null,
 "cloudcanvrtyas.info":null,
@@ -25620,6 +25621,7 @@ var BLOCKLIST = {
 "densmail.com":null,
 "dentairemalin.com":null,
 "dentalclinichatay.com":null,
+"dentalfix.shop":null,
 "dentalsearchsolutions.com":null,
 "dentistsinyourarea.com":null,
 "dentolan.pl":null,
@@ -49647,6 +49649,7 @@ var BLOCKLIST = {
 "pprocessor.net":null,
 "pprod.back2.market":null,
 "ppuhmarko.com.pl":null,
+"ppures.shop":null,
 "ppxkt.com":null,
 "ppyytt.de":null,
 "pq-direct.revsci.net":null,
@@ -71254,6 +71257,7 @@ var BLOCKLIST = {
 "www.caokakao.com":null,
 "www.caonmtn.cc":null,
 "www.caoptimumsign.com":null,
+"www.caothusohoc.com":null,
 "www.cap-ferret-location.xyz":null,
 "www.capath.com":null,
 "www.capehorriizonhub.com":null,

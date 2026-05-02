@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 95500
-! Updated: 2026-05-01 02:44:52 UTC
+! Entries: 95504
+! Updated: 2026-05-02 02:36:41 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22430,6 +22430,7 @@
 ||cloud.xdrig.com^
 ||cloudads.net^
 ||cloudadservers.com^
+||cloudalert.shop^
 ||cloudapi.imrworldwide.com^
 ||cloudbiggest.com^
 ||cloudcanvrtyas.info^
@@ -25619,6 +25620,7 @@
 ||densmail.com^
 ||dentairemalin.com^
 ||dentalclinichatay.com^
+||dentalfix.shop^
 ||dentalsearchsolutions.com^
 ||dentistsinyourarea.com^
 ||dentolan.pl^
@@ -49647,6 +49649,7 @@
 ||pprocessor.net^
 ||pprod.back2.market^
 ||ppuhmarko.com.pl^
+||ppures.shop^
 ||ppxkt.com^
 ||ppyytt.de^
 ||pq-direct.revsci.net^
@@ -71254,6 +71257,7 @@
 ||www.caokakao.com^
 ||www.caonmtn.cc^
 ||www.caoptimumsign.com^
+||www.caothusohoc.com^
 ||www.cap-ferret-location.xyz^
 ||www.capath.com^
 ||www.capehorriizonhub.com^
