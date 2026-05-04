@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 94205
-# Updated: 2026-05-03 02:43:40 UTC
+# Entries: 94207
+# Updated: 2026-05-04 02:41:02 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22569,6 +22569,7 @@
 0.0.0.0 cnocanoecaprod.112.2o7.net
 0.0.0.0 cnomy.com
 0.0.0.0 cnoompprod.112.2o7.net
+0.0.0.0 cnrfms.pro
 0.0.0.0 cnt-jrs.com
 0.0.0.0 cnt.affiliate.fc2.com
 0.0.0.0 cnt.cityads.com
@@ -49608,6 +49609,7 @@
 0.0.0.0 pressgridz.info
 0.0.0.0 presslify.top
 0.0.0.0 presslinka.info
+0.0.0.0 pressmedieda.info
 0.0.0.0 pressnova.top
 0.0.0.0 pressroomless.info
 0.0.0.0 presss6map.pro

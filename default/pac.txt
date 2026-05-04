@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 94203
-// Updated: 2026-05-03 01:54:14 UTC
+// Entries: 94205
+// Updated: 2026-05-04 01:51:36 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22570,6 +22570,7 @@ var BLOCKLIST = {
 "cnocanoecaprod.112.2o7.net":null,
 "cnomy.com":null,
 "cnoompprod.112.2o7.net":null,
+"cnrfms.pro":null,
 "cnt-jrs.com":null,
 "cnt.affiliate.fc2.com":null,
 "cnt.cityads.com":null,
@@ -49608,6 +49609,7 @@ var BLOCKLIST = {
 "pressgridz.info":null,
 "presslify.top":null,
 "presslinka.info":null,
+"pressmedieda.info":null,
 "pressnova.top":null,
 "pressroomless.info":null,
 "presss6map.pro":null,
