@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 93174
-// Updated: 2026-05-05 02:35:27 UTC
+// Entries: 93180
+// Updated: 2026-05-06 02:35:43 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16481,6 +16481,7 @@ var BLOCKLIST = {
 "bellkayden.shop":null,
 "bellserviceeng.112.2o7.net":null,
 "belluna.122.2o7.net":null,
+"bellybuttons.sa.com":null,
 "belmarketdata.com":null,
 "belointeractive.122.2o7.net":null,
 "belovedcatholicco.com":null,
@@ -54017,6 +54018,7 @@ var BLOCKLIST = {
 "security-update.qhigh.com":null,
 "security.schwab-5.click":null,
 "security60-e.com":null,
+"securityannex.net":null,
 "securityscan.us":null,
 "sedlec.unas.cz":null,
 "sedoparking.com":null,
@@ -67006,6 +67008,7 @@ var BLOCKLIST = {
 "www.acodej.alertsto.com":null,
 "www.acome.valid8chain.com":null,
 "www.acompanhantesdeportugal.com":null,
+"www.aconchoe.com":null,
 "www.aconitinetravoiwwses.info":null,
 "www.aconti.net":null,
 "www.acornpointlodge.com":null,
@@ -88099,6 +88102,7 @@ var BLOCKLIST = {
 "www.totaladblock.com":null,
 "www.totaladperformance.com":null,
 "www.totalav.com":null,
+"www.totalencomenda.com":null,
 "www.totalfilter.administracionesymandatos.com":null,
 "www.totede.com":null,
 "www.totehouse.shop":null,
@@ -89828,6 +89832,7 @@ var BLOCKLIST = {
 "www.wantoucz.com":null,
 "www.wantque.christeigen.com":null,
 "www.wantsfly.com":null,
+"www.wapersab.com":null,
 "www.wapster.malutki.pl":null,
 "www.wapster.pl":null,
 "www.waptechnica.com":null,
@@ -90875,6 +90880,7 @@ var BLOCKLIST = {
 "www.yohin.sg":null,
 "www.yokusfightclub.com":null,
 "www.yonderfield.fit":null,
+"www.yoolyes.com":null,
 "www.yoonjoe.alwaysdata.net":null,
 "www.yotafiles.com":null,
 "www.yotefiles.com":null,

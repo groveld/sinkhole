@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 93174
-# Updated: 2026-05-05 02:35:27 UTC
+# Entries: 93180
+# Updated: 2026-05-06 02:35:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16480,6 +16480,7 @@
 0.0.0.0 bellkayden.shop
 0.0.0.0 bellserviceeng.112.2o7.net
 0.0.0.0 belluna.122.2o7.net
+0.0.0.0 bellybuttons.sa.com
 0.0.0.0 belmarketdata.com
 0.0.0.0 belointeractive.122.2o7.net
 0.0.0.0 belovedcatholicco.com
@@ -54016,6 +54017,7 @@
 0.0.0.0 security-update.qhigh.com
 0.0.0.0 security.schwab-5.click
 0.0.0.0 security60-e.com
+0.0.0.0 securityannex.net
 0.0.0.0 securityscan.us
 0.0.0.0 sedlec.unas.cz
 0.0.0.0 sedoparking.com
@@ -67005,6 +67007,7 @@
 0.0.0.0 www.acodej.alertsto.com
 0.0.0.0 www.acome.valid8chain.com
 0.0.0.0 www.acompanhantesdeportugal.com
+0.0.0.0 www.aconchoe.com
 0.0.0.0 www.aconitinetravoiwwses.info
 0.0.0.0 www.aconti.net
 0.0.0.0 www.acornpointlodge.com
@@ -88098,6 +88101,7 @@
 0.0.0.0 www.totaladblock.com
 0.0.0.0 www.totaladperformance.com
 0.0.0.0 www.totalav.com
+0.0.0.0 www.totalencomenda.com
 0.0.0.0 www.totalfilter.administracionesymandatos.com
 0.0.0.0 www.totede.com
 0.0.0.0 www.totehouse.shop
@@ -89827,6 +89831,7 @@
 0.0.0.0 www.wantoucz.com
 0.0.0.0 www.wantque.christeigen.com
 0.0.0.0 www.wantsfly.com
+0.0.0.0 www.wapersab.com
 0.0.0.0 www.wapster.malutki.pl
 0.0.0.0 www.wapster.pl
 0.0.0.0 www.waptechnica.com
@@ -90874,6 +90879,7 @@
 0.0.0.0 www.yohin.sg
 0.0.0.0 www.yokusfightclub.com
 0.0.0.0 www.yonderfield.fit
+0.0.0.0 www.yoolyes.com
 0.0.0.0 www.yoonjoe.alwaysdata.net
 0.0.0.0 www.yotafiles.com
 0.0.0.0 www.yotefiles.com
