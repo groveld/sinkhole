@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 93178
-! Updated: 2026-05-06 01:46:18 UTC
+! Entries: 93182
+! Updated: 2026-05-07 01:50:13 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68367,6 +68367,7 @@
 ||www.arslanmobilyadekorasyon.xyz^
 ||www.art-offer.com^
 ||www.artcomix.com^
+||www.artdualdesign.com^
 ||www.artedeigioiellishop.com^
 ||www.artemisiseapollo.com^
 ||www.artenist.com^
@@ -70969,6 +70970,7 @@
 ||www.cloudy-mist.com^
 ||www.cloufactory.com^
 ||www.cloutseek.com^
+||www.clovercraftshop.com^
 ||www.clownsong.com^
 ||www.clozapinepps.info^
 ||www.clpfoundation.org^
@@ -71280,6 +71282,7 @@
 ||www.coolmandarin.com^
 ||www.coolonlineoffers.com^
 ||www.coolpan.smartdigitalsigns.com^
+||www.coolrextintshop.com^
 ||www.coolsweetsgirls.com^
 ||www.coolwebsearch.com^
 ||www.coolwebstats.com^
@@ -75218,6 +75221,7 @@
 ||www.ghn6n53sa.top^
 ||www.ghostly-arcade.com^
 ||www.ghy14.com^
+||www.giadungnguyennhat.com^
 ||www.gianninarossini.com^
 ||www.gibolesoce.cyou^
 ||www.gidatakviyeleri.net^

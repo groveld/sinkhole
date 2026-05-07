@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 93178
-# Updated: 2026-05-06 01:46:18 UTC
+# Entries: 93182
+# Updated: 2026-05-07 01:50:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68367,6 +68367,7 @@ address=/www.arsinvest.it/0.0.0.0
 address=/www.arslanmobilyadekorasyon.xyz/0.0.0.0
 address=/www.art-offer.com/0.0.0.0
 address=/www.artcomix.com/0.0.0.0
+address=/www.artdualdesign.com/0.0.0.0
 address=/www.artedeigioiellishop.com/0.0.0.0
 address=/www.artemisiseapollo.com/0.0.0.0
 address=/www.artenist.com/0.0.0.0
@@ -70969,6 +70970,7 @@ address=/www.cloudy-credits.com/0.0.0.0
 address=/www.cloudy-mist.com/0.0.0.0
 address=/www.cloufactory.com/0.0.0.0
 address=/www.cloutseek.com/0.0.0.0
+address=/www.clovercraftshop.com/0.0.0.0
 address=/www.clownsong.com/0.0.0.0
 address=/www.clozapinepps.info/0.0.0.0
 address=/www.clpfoundation.org/0.0.0.0
@@ -71280,6 +71282,7 @@ address=/www.coolfreehost.com/0.0.0.0
 address=/www.coolmandarin.com/0.0.0.0
 address=/www.coolonlineoffers.com/0.0.0.0
 address=/www.coolpan.smartdigitalsigns.com/0.0.0.0
+address=/www.coolrextintshop.com/0.0.0.0
 address=/www.coolsweetsgirls.com/0.0.0.0
 address=/www.coolwebsearch.com/0.0.0.0
 address=/www.coolwebstats.com/0.0.0.0
@@ -75218,6 +75221,7 @@ address=/www.ghmpty.com/0.0.0.0
 address=/www.ghn6n53sa.top/0.0.0.0
 address=/www.ghostly-arcade.com/0.0.0.0
 address=/www.ghy14.com/0.0.0.0
+address=/www.giadungnguyennhat.com/0.0.0.0
 address=/www.gianninarossini.com/0.0.0.0
 address=/www.gibolesoce.cyou/0.0.0.0
 address=/www.gidatakviyeleri.net/0.0.0.0

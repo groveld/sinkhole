@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 93178
-// Updated: 2026-05-06 01:46:18 UTC
+// Entries: 93182
+// Updated: 2026-05-07 01:50:13 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68368,6 +68368,7 @@ var BLOCKLIST = {
 "www.arslanmobilyadekorasyon.xyz":null,
 "www.art-offer.com":null,
 "www.artcomix.com":null,
+"www.artdualdesign.com":null,
 "www.artedeigioiellishop.com":null,
 "www.artemisiseapollo.com":null,
 "www.artenist.com":null,
@@ -70970,6 +70971,7 @@ var BLOCKLIST = {
 "www.cloudy-mist.com":null,
 "www.cloufactory.com":null,
 "www.cloutseek.com":null,
+"www.clovercraftshop.com":null,
 "www.clownsong.com":null,
 "www.clozapinepps.info":null,
 "www.clpfoundation.org":null,
@@ -71281,6 +71283,7 @@ var BLOCKLIST = {
 "www.coolmandarin.com":null,
 "www.coolonlineoffers.com":null,
 "www.coolpan.smartdigitalsigns.com":null,
+"www.coolrextintshop.com":null,
 "www.coolsweetsgirls.com":null,
 "www.coolwebsearch.com":null,
 "www.coolwebstats.com":null,
@@ -75219,6 +75222,7 @@ var BLOCKLIST = {
 "www.ghn6n53sa.top":null,
 "www.ghostly-arcade.com":null,
 "www.ghy14.com":null,
+"www.giadungnguyennhat.com":null,
 "www.gianninarossini.com":null,
 "www.gibolesoce.cyou":null,
 "www.gidatakviyeleri.net":null,

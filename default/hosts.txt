@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 93178
-# Updated: 2026-05-06 01:46:18 UTC
+# Entries: 93182
+# Updated: 2026-05-07 01:50:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68367,6 +68367,7 @@
 0.0.0.0 www.arslanmobilyadekorasyon.xyz
 0.0.0.0 www.art-offer.com
 0.0.0.0 www.artcomix.com
+0.0.0.0 www.artdualdesign.com
 0.0.0.0 www.artedeigioiellishop.com
 0.0.0.0 www.artemisiseapollo.com
 0.0.0.0 www.artenist.com
@@ -70969,6 +70970,7 @@
 0.0.0.0 www.cloudy-mist.com
 0.0.0.0 www.cloufactory.com
 0.0.0.0 www.cloutseek.com
+0.0.0.0 www.clovercraftshop.com
 0.0.0.0 www.clownsong.com
 0.0.0.0 www.clozapinepps.info
 0.0.0.0 www.clpfoundation.org
@@ -71280,6 +71282,7 @@
 0.0.0.0 www.coolmandarin.com
 0.0.0.0 www.coolonlineoffers.com
 0.0.0.0 www.coolpan.smartdigitalsigns.com
+0.0.0.0 www.coolrextintshop.com
 0.0.0.0 www.coolsweetsgirls.com
 0.0.0.0 www.coolwebsearch.com
 0.0.0.0 www.coolwebstats.com
@@ -75218,6 +75221,7 @@
 0.0.0.0 www.ghn6n53sa.top
 0.0.0.0 www.ghostly-arcade.com
 0.0.0.0 www.ghy14.com
+0.0.0.0 www.giadungnguyennhat.com
 0.0.0.0 www.gianninarossini.com
 0.0.0.0 www.gibolesoce.cyou
 0.0.0.0 www.gidatakviyeleri.net
