@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 93182
-# Updated: 2026-05-07 01:50:13 UTC
+# Entries: 93193
+# Updated: 2026-05-08 01:50:40 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14387,6 +14387,7 @@ address=/archzzaeopteryxirritatingly.info/0.0.0.0
 address=/arclock.digital/0.0.0.0
 address=/arcpoint.pro/0.0.0.0
 address=/arctic-quest.com/0.0.0.0
+address=/arcticblast.sa.com/0.0.0.0
 address=/ard.sexplaycam.com/0.0.0.0
 address=/ard.sweetdiscreet.com/0.0.0.0
 address=/ard.xxxblackbook.com/0.0.0.0
@@ -19082,6 +19083,7 @@ address=/bugelaa.com/0.0.0.0
 address=/bugera.popunder.ru/0.0.0.0
 address=/bugly.qq.com/0.0.0.0
 address=/bugnareins.cyou/0.0.0.0
+address=/bugpuk.ru/0.0.0.0
 address=/bugreport.waverevenue.com/0.0.0.0
 address=/bugsee-api-prod.elasticbeanstalk.com/0.0.0.0
 address=/bugsense.com/0.0.0.0
@@ -71929,6 +71931,7 @@ address=/www.day778.com/0.0.0.0
 address=/www.dayanitastore.com/0.0.0.0
 address=/www.dayspasatelite.com/0.0.0.0
 address=/www.daytimeactivities.site/0.0.0.0
+address=/www.daytonjaxx.com/0.0.0.0
 address=/www.dazzle-build.com/0.0.0.0
 address=/www.dazzle-clip.com/0.0.0.0
 address=/www.dazzle-duster.com/0.0.0.0
@@ -72906,6 +72909,7 @@ address=/www.eaglequarry.work/0.0.0.0
 address=/www.eaglescollection.com.powered-by.securewebsiteaccess.com/0.0.0.0
 address=/www.eaglesfanclub.com/0.0.0.0
 address=/www.ealtesol.bond/0.0.0.0
+address=/www.eamazondigital.com/0.0.0.0
 address=/www.earlyrarray.zuzaflow.com/0.0.0.0
 address=/www.earnify.com/0.0.0.0
 address=/www.earthcoreln.info/0.0.0.0
@@ -73165,6 +73169,7 @@ address=/www.elixmedia.com/0.0.0.0
 address=/www.elizabethmignano.com/0.0.0.0
 address=/www.elizabethsmirl.shop/0.0.0.0
 address=/www.elizabethvair.com/0.0.0.0
+address=/www.eljaleomedellin.com/0.0.0.0
 address=/www.ellads.com/0.0.0.0
 address=/www.ellagetstofly.com/0.0.0.0
 address=/www.ellenrhistorian.org/0.0.0.0
@@ -73347,6 +73352,7 @@ address=/www.ercannarinc.com/0.0.0.0
 address=/www.erdemlizeytinyagi.com/0.0.0.0
 address=/www.erea-finrand.com/0.0.0.0
 address=/www.eremogaudio.it/0.0.0.0
+address=/www.eremplacementparts.com/0.0.0.0
 address=/www.erexol24.pro/0.0.0.0
 address=/www.erfimix.net/0.0.0.0
 address=/www.erfoxx.fit/0.0.0.0
@@ -75472,6 +75478,7 @@ address=/www.golden-credit.com/0.0.0.0
 address=/www.golden-flicker.com/0.0.0.0
 address=/www.golden-foothills.com/0.0.0.0
 address=/www.golden-glint.com/0.0.0.0
+address=/www.goldendoodlez.com/0.0.0.0
 address=/www.goldenfound.live/0.0.0.0
 address=/www.goldenfound.xyz/0.0.0.0
 address=/www.goldengirlxena.com/0.0.0.0
@@ -75686,6 +75693,7 @@ address=/www.grosspro.shop/0.0.0.0
 address=/www.grossrilit.cyou/0.0.0.0
 address=/www.grouchizzerhebetated.guru/0.0.0.0
 address=/www.groundandanchor.com/0.0.0.0
+address=/www.groundofsuccess.com/0.0.0.0
 address=/www.groundoutside.enfield4th.com/0.0.0.0
 address=/www.groundpoll.ruxuryshop.com/0.0.0.0
 address=/www.group.pge-energy.us/0.0.0.0
@@ -76124,6 +76132,7 @@ address=/www.hillani.com/0.0.0.0
 address=/www.hillsideresortpahalgam.com/0.0.0.0
 address=/www.hilynyz.com/0.0.0.0
 address=/www.himertekstil.com/0.0.0.0
+address=/www.hindudirectory.com/0.0.0.0
 address=/www.hiperstat.com/0.0.0.0
 address=/www.hippocrmmasesrebuff.life/0.0.0.0
 address=/www.hiragazza.com/0.0.0.0
@@ -77737,6 +77746,7 @@ address=/www.karaceva.com/0.0.0.0
 address=/www.karambaski.com/0.0.0.0
 address=/www.karatbars.com/0.0.0.0
 address=/www.karatex.shop/0.0.0.0
+address=/www.karazah.com/0.0.0.0
 address=/www.karekodkurs.com/0.0.0.0
 address=/www.karencupp.com/0.0.0.0
 address=/www.karhusklep.com/0.0.0.0
@@ -77846,6 +77856,7 @@ address=/www.keqyrai.com/0.0.0.0
 address=/www.kermitowy-sklep.pl/0.0.0.0
 address=/www.kerorondigital.site/0.0.0.0
 address=/www.kersterace.club/0.0.0.0
+address=/www.kesau.com/0.0.0.0
 address=/www.ketoactives.pl/0.0.0.0
 address=/www.ketocowwnazoles.info/0.0.0.0
 address=/www.ketodietnd.com/0.0.0.0

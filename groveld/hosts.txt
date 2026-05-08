@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 93184
-# Updated: 2026-05-07 02:39:36 UTC
+# Entries: 93195
+# Updated: 2026-05-08 02:40:03 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14387,6 +14387,7 @@
 0.0.0.0 arclock.digital
 0.0.0.0 arcpoint.pro
 0.0.0.0 arctic-quest.com
+0.0.0.0 arcticblast.sa.com
 0.0.0.0 ard.sexplaycam.com
 0.0.0.0 ard.sweetdiscreet.com
 0.0.0.0 ard.xxxblackbook.com
@@ -19082,6 +19083,7 @@
 0.0.0.0 bugera.popunder.ru
 0.0.0.0 bugly.qq.com
 0.0.0.0 bugnareins.cyou
+0.0.0.0 bugpuk.ru
 0.0.0.0 bugreport.waverevenue.com
 0.0.0.0 bugsee-api-prod.elasticbeanstalk.com
 0.0.0.0 bugsense.com
@@ -71930,6 +71932,7 @@
 0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.dayspasatelite.com
 0.0.0.0 www.daytimeactivities.site
+0.0.0.0 www.daytonjaxx.com
 0.0.0.0 www.dazzle-build.com
 0.0.0.0 www.dazzle-clip.com
 0.0.0.0 www.dazzle-duster.com
@@ -72907,6 +72910,7 @@
 0.0.0.0 www.eaglescollection.com.powered-by.securewebsiteaccess.com
 0.0.0.0 www.eaglesfanclub.com
 0.0.0.0 www.ealtesol.bond
+0.0.0.0 www.eamazondigital.com
 0.0.0.0 www.earlyrarray.zuzaflow.com
 0.0.0.0 www.earnify.com
 0.0.0.0 www.earthcoreln.info
@@ -73166,6 +73170,7 @@
 0.0.0.0 www.elizabethmignano.com
 0.0.0.0 www.elizabethsmirl.shop
 0.0.0.0 www.elizabethvair.com
+0.0.0.0 www.eljaleomedellin.com
 0.0.0.0 www.ellads.com
 0.0.0.0 www.ellagetstofly.com
 0.0.0.0 www.ellenrhistorian.org
@@ -73348,6 +73353,7 @@
 0.0.0.0 www.erdemlizeytinyagi.com
 0.0.0.0 www.erea-finrand.com
 0.0.0.0 www.eremogaudio.it
+0.0.0.0 www.eremplacementparts.com
 0.0.0.0 www.erexol24.pro
 0.0.0.0 www.erfimix.net
 0.0.0.0 www.erfoxx.fit
@@ -75473,6 +75479,7 @@
 0.0.0.0 www.golden-flicker.com
 0.0.0.0 www.golden-foothills.com
 0.0.0.0 www.golden-glint.com
+0.0.0.0 www.goldendoodlez.com
 0.0.0.0 www.goldenfound.live
 0.0.0.0 www.goldenfound.xyz
 0.0.0.0 www.goldengirlxena.com
@@ -75688,6 +75695,7 @@
 0.0.0.0 www.grossrilit.cyou
 0.0.0.0 www.grouchizzerhebetated.guru
 0.0.0.0 www.groundandanchor.com
+0.0.0.0 www.groundofsuccess.com
 0.0.0.0 www.groundoutside.enfield4th.com
 0.0.0.0 www.groundpoll.ruxuryshop.com
 0.0.0.0 www.group.pge-energy.us
@@ -76126,6 +76134,7 @@
 0.0.0.0 www.hillsideresortpahalgam.com
 0.0.0.0 www.hilynyz.com
 0.0.0.0 www.himertekstil.com
+0.0.0.0 www.hindudirectory.com
 0.0.0.0 www.hiperstat.com
 0.0.0.0 www.hippocrmmasesrebuff.life
 0.0.0.0 www.hiragazza.com
@@ -77739,6 +77748,7 @@
 0.0.0.0 www.karambaski.com
 0.0.0.0 www.karatbars.com
 0.0.0.0 www.karatex.shop
+0.0.0.0 www.karazah.com
 0.0.0.0 www.karekodkurs.com
 0.0.0.0 www.karencupp.com
 0.0.0.0 www.karhusklep.com
@@ -77848,6 +77858,7 @@
 0.0.0.0 www.kermitowy-sklep.pl
 0.0.0.0 www.kerorondigital.site
 0.0.0.0 www.kersterace.club
+0.0.0.0 www.kesau.com
 0.0.0.0 www.ketoactives.pl
 0.0.0.0 www.ketocowwnazoles.info
 0.0.0.0 www.ketodietnd.com

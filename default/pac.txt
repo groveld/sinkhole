@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 93182
-// Updated: 2026-05-07 01:50:13 UTC
+// Entries: 93193
+// Updated: 2026-05-08 01:50:40 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14388,6 +14388,7 @@ var BLOCKLIST = {
 "arclock.digital":null,
 "arcpoint.pro":null,
 "arctic-quest.com":null,
+"arcticblast.sa.com":null,
 "ard.sexplaycam.com":null,
 "ard.sweetdiscreet.com":null,
 "ard.xxxblackbook.com":null,
@@ -19083,6 +19084,7 @@ var BLOCKLIST = {
 "bugera.popunder.ru":null,
 "bugly.qq.com":null,
 "bugnareins.cyou":null,
+"bugpuk.ru":null,
 "bugreport.waverevenue.com":null,
 "bugsee-api-prod.elasticbeanstalk.com":null,
 "bugsense.com":null,
@@ -71930,6 +71932,7 @@ var BLOCKLIST = {
 "www.dayanitastore.com":null,
 "www.dayspasatelite.com":null,
 "www.daytimeactivities.site":null,
+"www.daytonjaxx.com":null,
 "www.dazzle-build.com":null,
 "www.dazzle-clip.com":null,
 "www.dazzle-duster.com":null,
@@ -72907,6 +72910,7 @@ var BLOCKLIST = {
 "www.eaglescollection.com.powered-by.securewebsiteaccess.com":null,
 "www.eaglesfanclub.com":null,
 "www.ealtesol.bond":null,
+"www.eamazondigital.com":null,
 "www.earlyrarray.zuzaflow.com":null,
 "www.earnify.com":null,
 "www.earthcoreln.info":null,
@@ -73166,6 +73170,7 @@ var BLOCKLIST = {
 "www.elizabethmignano.com":null,
 "www.elizabethsmirl.shop":null,
 "www.elizabethvair.com":null,
+"www.eljaleomedellin.com":null,
 "www.ellads.com":null,
 "www.ellagetstofly.com":null,
 "www.ellenrhistorian.org":null,
@@ -73348,6 +73353,7 @@ var BLOCKLIST = {
 "www.erdemlizeytinyagi.com":null,
 "www.erea-finrand.com":null,
 "www.eremogaudio.it":null,
+"www.eremplacementparts.com":null,
 "www.erexol24.pro":null,
 "www.erfimix.net":null,
 "www.erfoxx.fit":null,
@@ -75473,6 +75479,7 @@ var BLOCKLIST = {
 "www.golden-flicker.com":null,
 "www.golden-foothills.com":null,
 "www.golden-glint.com":null,
+"www.goldendoodlez.com":null,
 "www.goldenfound.live":null,
 "www.goldenfound.xyz":null,
 "www.goldengirlxena.com":null,
@@ -75687,6 +75694,7 @@ var BLOCKLIST = {
 "www.grossrilit.cyou":null,
 "www.grouchizzerhebetated.guru":null,
 "www.groundandanchor.com":null,
+"www.groundofsuccess.com":null,
 "www.groundoutside.enfield4th.com":null,
 "www.groundpoll.ruxuryshop.com":null,
 "www.group.pge-energy.us":null,
@@ -76125,6 +76133,7 @@ var BLOCKLIST = {
 "www.hillsideresortpahalgam.com":null,
 "www.hilynyz.com":null,
 "www.himertekstil.com":null,
+"www.hindudirectory.com":null,
 "www.hiperstat.com":null,
 "www.hippocrmmasesrebuff.life":null,
 "www.hiragazza.com":null,
@@ -77738,6 +77747,7 @@ var BLOCKLIST = {
 "www.karambaski.com":null,
 "www.karatbars.com":null,
 "www.karatex.shop":null,
+"www.karazah.com":null,
 "www.karekodkurs.com":null,
 "www.karencupp.com":null,
 "www.karhusklep.com":null,
@@ -77847,6 +77857,7 @@ var BLOCKLIST = {
 "www.kermitowy-sklep.pl":null,
 "www.kerorondigital.site":null,
 "www.kersterace.club":null,
+"www.kesau.com":null,
 "www.ketoactives.pl":null,
 "www.ketocowwnazoles.info":null,
 "www.ketodietnd.com":null,
