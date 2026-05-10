@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95002
-// Updated: 2026-05-09 02:39:19 UTC
+// Entries: 95004
+// Updated: 2026-05-10 02:45:58 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14021,6 +14021,7 @@ var BLOCKLIST = {
 "aporasal.net":null,
 "aporg.112.2o7.net":null,
 "apornmovie.com":null,
+"apoutong.com":null,
 "app-03c19ea7c9fd0c57.mobileapi.usebutton.com":null,
 "app-10d1b5add9b529e5.mobileapi.usebutton.com":null,
 "app-5f80612999bcf5c9.mobileapi.usebutton.com":null,
@@ -76341,6 +76342,7 @@ var BLOCKLIST = {
 "www.gecsgames.com":null,
 "www.geist-burst.com":null,
 "www.gejowo.com.pl":null,
+"www.gekkstoyou.com":null,
 "www.gekorn.com":null,
 "www.geldavo.com":null,
 "www.geldheute.com":null,
