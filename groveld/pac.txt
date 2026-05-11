@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95004
-// Updated: 2026-05-10 02:45:58 UTC
+// Entries: 95005
+// Updated: 2026-05-11 02:45:17 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -62411,6 +62411,7 @@ var BLOCKLIST = {
 "trk4.com":null,
 "trk42.net":null,
 "trkingace.com":null,
+"trkm.mg.thegoodybag.co.uk":null,
 "trkmydomain.com":null,
 "trkn.us":null,
 "trkoptimizer.com":null,
