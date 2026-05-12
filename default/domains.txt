@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 95003
-# Updated: 2026-05-11 01:55:54 UTC
+# Entries: 95007
+# Updated: 2026-05-12 01:49:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22218,6 +22218,7 @@ clicks.mods.de
 clicks.monzo.com
 clicks.nastydollars.com
 clicks.natwest.com
+clicks.njuskalo.hr
 clicks.rbs.co.uk
 clicks.roularta.adhese.com
 clicks.rtad.io
@@ -42418,6 +42419,7 @@ mjxads.internet.com
 mjzmsipd.shop
 mk.ca-conv.amoad.com
 mk.limonshel.de
+mk.wiremanse.hair
 mkcthehomemarketplace.112.2o7.net
 mklik.gazeta.pl
 mkt.hoanghamobile.com
@@ -46346,6 +46348,7 @@ openads.zeads.com
 openadsnetwork.com
 openadstream-eu1.247realmedia.com
 openai.ts2006.kz
+openais.maricosnc.it
 openapi.cymera.com
 openbey.seekerapi.com
 openbid.pubmatic.com
@@ -80289,6 +80292,7 @@ www.logitechlogitechglobal.112.2o7.net
 www.logiwiy.digital
 www.logofia.com
 www.logoradar.com
+www.logoswitch.com
 www.logowanie-online-bonus.mobile24.lat
 www.logowaniepl.pl
 www.logracoffee.com

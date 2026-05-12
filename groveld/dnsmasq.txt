@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95005
-# Updated: 2026-05-11 02:45:17 UTC
+# Entries: 95009
+# Updated: 2026-05-12 02:39:04 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22218,6 +22218,7 @@ address=/clicks.mods.de/0.0.0.0
 address=/clicks.monzo.com/0.0.0.0
 address=/clicks.nastydollars.com/0.0.0.0
 address=/clicks.natwest.com/0.0.0.0
+address=/clicks.njuskalo.hr/0.0.0.0
 address=/clicks.rbs.co.uk/0.0.0.0
 address=/clicks.roularta.adhese.com/0.0.0.0
 address=/clicks.rtad.io/0.0.0.0
@@ -42419,6 +42420,7 @@ address=/mjxads.internet.com/0.0.0.0
 address=/mjzmsipd.shop/0.0.0.0
 address=/mk.ca-conv.amoad.com/0.0.0.0
 address=/mk.limonshel.de/0.0.0.0
+address=/mk.wiremanse.hair/0.0.0.0
 address=/mkcthehomemarketplace.112.2o7.net/0.0.0.0
 address=/mklik.gazeta.pl/0.0.0.0
 address=/mkt.hoanghamobile.com/0.0.0.0
@@ -46347,6 +46349,7 @@ address=/openads.zeads.com/0.0.0.0
 address=/openadsnetwork.com/0.0.0.0
 address=/openadstream-eu1.247realmedia.com/0.0.0.0
 address=/openai.ts2006.kz/0.0.0.0
+address=/openais.maricosnc.it/0.0.0.0
 address=/openapi.cymera.com/0.0.0.0
 address=/openbey.seekerapi.com/0.0.0.0
 address=/openbid.pubmatic.com/0.0.0.0
@@ -80291,6 +80294,7 @@ address=/www.logitechlogitechglobal.112.2o7.net/0.0.0.0
 address=/www.logiwiy.digital/0.0.0.0
 address=/www.logofia.com/0.0.0.0
 address=/www.logoradar.com/0.0.0.0
+address=/www.logoswitch.com/0.0.0.0
 address=/www.logowanie-online-bonus.mobile24.lat/0.0.0.0
 address=/www.logowaniepl.pl/0.0.0.0
 address=/www.logracoffee.com/0.0.0.0

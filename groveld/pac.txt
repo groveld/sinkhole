@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95005
-// Updated: 2026-05-11 02:45:17 UTC
+// Entries: 95009
+// Updated: 2026-05-12 02:39:04 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22219,6 +22219,7 @@ var BLOCKLIST = {
 "clicks.monzo.com":null,
 "clicks.nastydollars.com":null,
 "clicks.natwest.com":null,
+"clicks.njuskalo.hr":null,
 "clicks.rbs.co.uk":null,
 "clicks.roularta.adhese.com":null,
 "clicks.rtad.io":null,
@@ -42420,6 +42421,7 @@ var BLOCKLIST = {
 "mjzmsipd.shop":null,
 "mk.ca-conv.amoad.com":null,
 "mk.limonshel.de":null,
+"mk.wiremanse.hair":null,
 "mkcthehomemarketplace.112.2o7.net":null,
 "mklik.gazeta.pl":null,
 "mkt.hoanghamobile.com":null,
@@ -46348,6 +46350,7 @@ var BLOCKLIST = {
 "openadsnetwork.com":null,
 "openadstream-eu1.247realmedia.com":null,
 "openai.ts2006.kz":null,
+"openais.maricosnc.it":null,
 "openapi.cymera.com":null,
 "openbey.seekerapi.com":null,
 "openbid.pubmatic.com":null,
@@ -80292,6 +80295,7 @@ var BLOCKLIST = {
 "www.logiwiy.digital":null,
 "www.logofia.com":null,
 "www.logoradar.com":null,
+"www.logoswitch.com":null,
 "www.logowanie-online-bonus.mobile24.lat":null,
 "www.logowaniepl.pl":null,
 "www.logracoffee.com":null,
