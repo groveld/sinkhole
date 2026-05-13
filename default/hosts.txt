@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 95007
-# Updated: 2026-05-12 01:49:38 UTC
+# Entries: 95012
+# Updated: 2026-05-13 01:53:55 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2000,6 +2000,7 @@
 0.0.0.0 69d74f2529518e1292b8c6c5--thriving-macaron-9e8f94.netlify.app
 0.0.0.0 69df53480025cb06c4909d789da00235bd.appwrite.network
 0.0.0.0 69er.de
+0.0.0.0 69fcb79c002e689734cad7411fe0d2e2000.appwrite.network
 0.0.0.0 69net.de
 0.0.0.0 69zhzd.tavro4xel.lat
 0.0.0.0 6amateure.net
@@ -11086,6 +11087,7 @@
 0.0.0.0 advertising.bbcworldwide.com
 0.0.0.0 advertising.ch
 0.0.0.0 advertising.christiansunite.com
+0.0.0.0 advertising.civitai.com
 0.0.0.0 advertising.com
 0.0.0.0 advertising.dclux.com
 0.0.0.0 advertising.de
@@ -47811,6 +47813,7 @@
 0.0.0.0 perf.mmstat.com
 0.0.0.0 perf.teads.tv.edgekey.net
 0.0.0.0 perf.weborama.fr
+0.0.0.0 perfecct.sa.com
 0.0.0.0 perfectaudience.com
 0.0.0.0 perfectgirls.net
 0.0.0.0 perfecttools.pl
@@ -76062,6 +76065,7 @@
 0.0.0.0 www.fundspire-axivon.com
 0.0.0.0 www.funfone.me
 0.0.0.0 www.funklicks.com
+0.0.0.0 www.funkycovers.com
 0.0.0.0 www.funkydoowop.plus.com
 0.0.0.0 www.funkyemoticons.com
 0.0.0.0 www.funlinkzone.com
@@ -79799,6 +79803,7 @@
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.leaopt.world
 0.0.0.0 www.learndigitalize.com
+0.0.0.0 www.learngears.com
 0.0.0.0 www.learningb.xyz
 0.0.0.0 www.learninshoreline.digital
 0.0.0.0 www.learninvela.digital

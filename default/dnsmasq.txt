@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 95007
-# Updated: 2026-05-12 01:49:38 UTC
+# Entries: 95012
+# Updated: 2026-05-13 01:53:55 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2000,6 +2000,7 @@ address=/69d6c2ff41c079827087166f--mellifluous-raindrop-6b2770.netlify.app/0.0.0
 address=/69d74f2529518e1292b8c6c5--thriving-macaron-9e8f94.netlify.app/0.0.0.0
 address=/69df53480025cb06c4909d789da00235bd.appwrite.network/0.0.0.0
 address=/69er.de/0.0.0.0
+address=/69fcb79c002e689734cad7411fe0d2e2000.appwrite.network/0.0.0.0
 address=/69net.de/0.0.0.0
 address=/69zhzd.tavro4xel.lat/0.0.0.0
 address=/6amateure.net/0.0.0.0
@@ -11086,6 +11087,7 @@ address=/advertising.bayoubuzz.com/0.0.0.0
 address=/advertising.bbcworldwide.com/0.0.0.0
 address=/advertising.ch/0.0.0.0
 address=/advertising.christiansunite.com/0.0.0.0
+address=/advertising.civitai.com/0.0.0.0
 address=/advertising.com/0.0.0.0
 address=/advertising.dclux.com/0.0.0.0
 address=/advertising.de/0.0.0.0
@@ -47811,6 +47813,7 @@ address=/perf.cdnads.com/0.0.0.0
 address=/perf.mmstat.com/0.0.0.0
 address=/perf.teads.tv.edgekey.net/0.0.0.0
 address=/perf.weborama.fr/0.0.0.0
+address=/perfecct.sa.com/0.0.0.0
 address=/perfectaudience.com/0.0.0.0
 address=/perfectgirls.net/0.0.0.0
 address=/perfecttools.pl/0.0.0.0
@@ -76062,6 +76065,7 @@ address=/www.fundora-stocks.com/0.0.0.0
 address=/www.fundspire-axivon.com/0.0.0.0
 address=/www.funfone.me/0.0.0.0
 address=/www.funklicks.com/0.0.0.0
+address=/www.funkycovers.com/0.0.0.0
 address=/www.funkydoowop.plus.com/0.0.0.0
 address=/www.funkyemoticons.com/0.0.0.0
 address=/www.funlinkzone.com/0.0.0.0
@@ -79799,6 +79803,7 @@ address=/www.leaninn.sugar-sim.com/0.0.0.0
 address=/www.leanplum.com/0.0.0.0
 address=/www.leaopt.world/0.0.0.0
 address=/www.learndigitalize.com/0.0.0.0
+address=/www.learngears.com/0.0.0.0
 address=/www.learningb.xyz/0.0.0.0
 address=/www.learninshoreline.digital/0.0.0.0
 address=/www.learninvela.digital/0.0.0.0
