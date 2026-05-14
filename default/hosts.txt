@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 95012
-# Updated: 2026-05-13 01:53:55 UTC
+# Entries: 95016
+# Updated: 2026-05-14 01:55:10 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24221,6 +24221,7 @@
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 criticalmass.com
+0.0.0.0 criticals.sa.com
 0.0.0.0 criticaltt.shop
 0.0.0.0 critictruck.com
 0.0.0.0 critiquedesigns.com
@@ -30839,6 +30840,7 @@
 0.0.0.0 fresh-sheen.com
 0.0.0.0 fresh-tv.biz
 0.0.0.0 fresh-wing.com
+0.0.0.0 fresh.sa.com
 0.0.0.0 fresh.ygto.com
 0.0.0.0 freshbreeze-cloth.com
 0.0.0.0 freshdepor.com
@@ -83984,6 +83986,7 @@
 0.0.0.0 www.pickmyjunk.us
 0.0.0.0 www.pickoftheweb.com
 0.0.0.0 www.pickpar.click
+0.0.0.0 www.pickupclean.com
 0.0.0.0 www.pickyoo.de
 0.0.0.0 www.picnicbasket.shop
 0.0.0.0 www.picovblended.ectvcdn.com
@@ -89872,6 +89875,7 @@
 0.0.0.0 www.traderprof.today
 0.0.0.0 www.tradersbrokers.com
 0.0.0.0 www.traderschain.com
+0.0.0.0 www.tradesasa.com
 0.0.0.0 www.tradewinning.com
 0.0.0.0 www.tradflux.org
 0.0.0.0 www.trading.com

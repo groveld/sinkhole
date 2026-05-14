@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95014
-# Updated: 2026-05-13 02:43:21 UTC
+# Entries: 95018
+# Updated: 2026-05-14 02:44:32 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24221,6 +24221,7 @@ address=/criteo-sync.teads.tv.edgekey.net/0.0.0.0
 address=/criteo.com/0.0.0.0
 address=/criteo.net/0.0.0.0
 address=/criticalmass.com/0.0.0.0
+address=/criticals.sa.com/0.0.0.0
 address=/criticaltt.shop/0.0.0.0
 address=/critictruck.com/0.0.0.0
 address=/critiquedesigns.com/0.0.0.0
@@ -30839,6 +30840,7 @@ address=/fresh-plaster.com/0.0.0.0
 address=/fresh-sheen.com/0.0.0.0
 address=/fresh-tv.biz/0.0.0.0
 address=/fresh-wing.com/0.0.0.0
+address=/fresh.sa.com/0.0.0.0
 address=/fresh.ygto.com/0.0.0.0
 address=/freshbreeze-cloth.com/0.0.0.0
 address=/freshdepor.com/0.0.0.0
@@ -83986,6 +83988,7 @@ address=/www.pickena.pics/0.0.0.0
 address=/www.pickmyjunk.us/0.0.0.0
 address=/www.pickoftheweb.com/0.0.0.0
 address=/www.pickpar.click/0.0.0.0
+address=/www.pickupclean.com/0.0.0.0
 address=/www.pickyoo.de/0.0.0.0
 address=/www.picnicbasket.shop/0.0.0.0
 address=/www.picovblended.ectvcdn.com/0.0.0.0
@@ -89874,6 +89877,7 @@ address=/www.traderprof.live/0.0.0.0
 address=/www.traderprof.today/0.0.0.0
 address=/www.tradersbrokers.com/0.0.0.0
 address=/www.traderschain.com/0.0.0.0
+address=/www.tradesasa.com/0.0.0.0
 address=/www.tradewinning.com/0.0.0.0
 address=/www.tradflux.org/0.0.0.0
 address=/www.trading.com/0.0.0.0

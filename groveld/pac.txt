@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95014
-// Updated: 2026-05-13 02:43:21 UTC
+// Entries: 95018
+// Updated: 2026-05-14 02:44:32 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24222,6 +24222,7 @@ var BLOCKLIST = {
 "criteo.com":null,
 "criteo.net":null,
 "criticalmass.com":null,
+"criticals.sa.com":null,
 "criticaltt.shop":null,
 "critictruck.com":null,
 "critiquedesigns.com":null,
@@ -30840,6 +30841,7 @@ var BLOCKLIST = {
 "fresh-sheen.com":null,
 "fresh-tv.biz":null,
 "fresh-wing.com":null,
+"fresh.sa.com":null,
 "fresh.ygto.com":null,
 "freshbreeze-cloth.com":null,
 "freshdepor.com":null,
@@ -83987,6 +83989,7 @@ var BLOCKLIST = {
 "www.pickmyjunk.us":null,
 "www.pickoftheweb.com":null,
 "www.pickpar.click":null,
+"www.pickupclean.com":null,
 "www.pickyoo.de":null,
 "www.picnicbasket.shop":null,
 "www.picovblended.ectvcdn.com":null,
@@ -89875,6 +89878,7 @@ var BLOCKLIST = {
 "www.traderprof.today":null,
 "www.tradersbrokers.com":null,
 "www.traderschain.com":null,
+"www.tradesasa.com":null,
 "www.tradewinning.com":null,
 "www.tradflux.org":null,
 "www.trading.com":null,
