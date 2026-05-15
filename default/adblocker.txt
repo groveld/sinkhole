@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 95016
-! Updated: 2026-05-14 01:55:10 UTC
+! Entries: 95021
+! Updated: 2026-05-15 01:53:11 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39464,6 +39464,7 @@
 ||livewell.net^
 ||livezfoot.fr^
 ||livezstolen.site^
+||livhlthy.sa.com^
 ||livingearthsolutions.com^
 ||livingsleet.com^
 ||livingsocial.sp1.convertro.com^
@@ -57296,6 +57297,7 @@
 ||sponsorships.net^
 ||spookysleet.com^
 ||spoon-full-farm.com^
+||spoonballoon.com^
 ||spooncollective.org^
 ||spordiennustus.net^
 ||sporicilldepolaron.info^
@@ -61764,6 +61766,7 @@
 ||tracker.cdnbye.com^
 ||tracker.cl1.fidelizador.com^
 ||tracker.clicktrade.com^
+||tracker.colatv88xb.cc^
 ||tracker.consumerpackage.net^
 ||tracker.coopt.com^
 ||tracker.databrain.com^
@@ -80381,6 +80384,7 @@
 ||www.loveislove.top^
 ||www.loveizz.com^
 ||www.loveknit.shop^
+||www.loveromantic.com^
 ||www.lovingmemorials.site^
 ||www.lovingremembrance.site^
 ||www.low-boss.com^
@@ -85541,6 +85545,7 @@
 ||www.quaerat-excepturi-sit.top^
 ||www.quaint-expeditions.com^
 ||www.quaint-renovation.com^
+||www.qualitygamer.com^
 ||www.qualityindustrialcoatings.com^
 ||www.quant-xel.com^
 ||www.quantarapulseengine.com^

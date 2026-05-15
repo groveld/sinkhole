@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 95016
-# Updated: 2026-05-14 01:55:10 UTC
+# Entries: 95021
+# Updated: 2026-05-15 01:53:11 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39464,6 +39464,7 @@
 0.0.0.0 livewell.net
 0.0.0.0 livezfoot.fr
 0.0.0.0 livezstolen.site
+0.0.0.0 livhlthy.sa.com
 0.0.0.0 livingearthsolutions.com
 0.0.0.0 livingsleet.com
 0.0.0.0 livingsocial.sp1.convertro.com
@@ -57296,6 +57297,7 @@
 0.0.0.0 sponsorships.net
 0.0.0.0 spookysleet.com
 0.0.0.0 spoon-full-farm.com
+0.0.0.0 spoonballoon.com
 0.0.0.0 spooncollective.org
 0.0.0.0 spordiennustus.net
 0.0.0.0 sporicilldepolaron.info
@@ -61764,6 +61766,7 @@
 0.0.0.0 tracker.cdnbye.com
 0.0.0.0 tracker.cl1.fidelizador.com
 0.0.0.0 tracker.clicktrade.com
+0.0.0.0 tracker.colatv88xb.cc
 0.0.0.0 tracker.consumerpackage.net
 0.0.0.0 tracker.coopt.com
 0.0.0.0 tracker.databrain.com
@@ -80381,6 +80384,7 @@
 0.0.0.0 www.loveislove.top
 0.0.0.0 www.loveizz.com
 0.0.0.0 www.loveknit.shop
+0.0.0.0 www.loveromantic.com
 0.0.0.0 www.lovingmemorials.site
 0.0.0.0 www.lovingremembrance.site
 0.0.0.0 www.low-boss.com
@@ -85541,6 +85545,7 @@
 0.0.0.0 www.quaerat-excepturi-sit.top
 0.0.0.0 www.quaint-expeditions.com
 0.0.0.0 www.quaint-renovation.com
+0.0.0.0 www.qualitygamer.com
 0.0.0.0 www.qualityindustrialcoatings.com
 0.0.0.0 www.quant-xel.com
 0.0.0.0 www.quantarapulseengine.com

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95018
-# Updated: 2026-05-14 02:44:32 UTC
+# Entries: 95023
+# Updated: 2026-05-15 02:42:34 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39465,6 +39465,7 @@ address=/liveupdatehub365x.pro/0.0.0.0
 address=/livewell.net/0.0.0.0
 address=/livezfoot.fr/0.0.0.0
 address=/livezstolen.site/0.0.0.0
+address=/livhlthy.sa.com/0.0.0.0
 address=/livingearthsolutions.com/0.0.0.0
 address=/livingsleet.com/0.0.0.0
 address=/livingsocial.sp1.convertro.com/0.0.0.0
@@ -57297,6 +57298,7 @@ address=/sponsors.thoughtsmedia.com/0.0.0.0
 address=/sponsorships.net/0.0.0.0
 address=/spookysleet.com/0.0.0.0
 address=/spoon-full-farm.com/0.0.0.0
+address=/spoonballoon.com/0.0.0.0
 address=/spooncollective.org/0.0.0.0
 address=/spordiennustus.net/0.0.0.0
 address=/sporicilldepolaron.info/0.0.0.0
@@ -61765,6 +61767,7 @@ address=/tracker.bt.uol.com.br/0.0.0.0
 address=/tracker.cdnbye.com/0.0.0.0
 address=/tracker.cl1.fidelizador.com/0.0.0.0
 address=/tracker.clicktrade.com/0.0.0.0
+address=/tracker.colatv88xb.cc/0.0.0.0
 address=/tracker.consumerpackage.net/0.0.0.0
 address=/tracker.coopt.com/0.0.0.0
 address=/tracker.databrain.com/0.0.0.0
@@ -80383,6 +80386,7 @@ address=/www.lovefreegames.com/0.0.0.0
 address=/www.loveislove.top/0.0.0.0
 address=/www.loveizz.com/0.0.0.0
 address=/www.loveknit.shop/0.0.0.0
+address=/www.loveromantic.com/0.0.0.0
 address=/www.lovingmemorials.site/0.0.0.0
 address=/www.lovingremembrance.site/0.0.0.0
 address=/www.low-boss.com/0.0.0.0
@@ -85543,6 +85547,7 @@ address=/www.quadtwisted.egtourismawards.com/0.0.0.0
 address=/www.quaerat-excepturi-sit.top/0.0.0.0
 address=/www.quaint-expeditions.com/0.0.0.0
 address=/www.quaint-renovation.com/0.0.0.0
+address=/www.qualitygamer.com/0.0.0.0
 address=/www.qualityindustrialcoatings.com/0.0.0.0
 address=/www.quant-xel.com/0.0.0.0
 address=/www.quantarapulseengine.com/0.0.0.0

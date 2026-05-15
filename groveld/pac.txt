@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95018
-// Updated: 2026-05-14 02:44:32 UTC
+// Entries: 95023
+// Updated: 2026-05-15 02:42:34 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39466,6 +39466,7 @@ var BLOCKLIST = {
 "livewell.net":null,
 "livezfoot.fr":null,
 "livezstolen.site":null,
+"livhlthy.sa.com":null,
 "livingearthsolutions.com":null,
 "livingsleet.com":null,
 "livingsocial.sp1.convertro.com":null,
@@ -57298,6 +57299,7 @@ var BLOCKLIST = {
 "sponsorships.net":null,
 "spookysleet.com":null,
 "spoon-full-farm.com":null,
+"spoonballoon.com":null,
 "spooncollective.org":null,
 "spordiennustus.net":null,
 "sporicilldepolaron.info":null,
@@ -61766,6 +61768,7 @@ var BLOCKLIST = {
 "tracker.cdnbye.com":null,
 "tracker.cl1.fidelizador.com":null,
 "tracker.clicktrade.com":null,
+"tracker.colatv88xb.cc":null,
 "tracker.consumerpackage.net":null,
 "tracker.coopt.com":null,
 "tracker.databrain.com":null,
@@ -80384,6 +80387,7 @@ var BLOCKLIST = {
 "www.loveislove.top":null,
 "www.loveizz.com":null,
 "www.loveknit.shop":null,
+"www.loveromantic.com":null,
 "www.lovingmemorials.site":null,
 "www.lovingremembrance.site":null,
 "www.low-boss.com":null,
@@ -85544,6 +85548,7 @@ var BLOCKLIST = {
 "www.quaerat-excepturi-sit.top":null,
 "www.quaint-expeditions.com":null,
 "www.quaint-renovation.com":null,
+"www.qualitygamer.com":null,
 "www.qualityindustrialcoatings.com":null,
 "www.quant-xel.com":null,
 "www.quantarapulseengine.com":null,
