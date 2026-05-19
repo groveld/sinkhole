@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 94591
-# Updated: 2026-05-18 01:58:48 UTC
+# Entries: 94595
+# Updated: 2026-05-19 01:58:12 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -70109,6 +70109,7 @@
 0.0.0.0 www.bloodwomen.com
 0.0.0.0 www.bloodwritten.pl
 0.0.0.0 www.bloom-hands.com
+0.0.0.0 www.bloomifllowers.com
 0.0.0.0 www.blooming-asset.com
 0.0.0.0 www.blooming-trove.com
 0.0.0.0 www.bloomingplanet.xyz
@@ -71057,6 +71058,7 @@
 0.0.0.0 www.casinoonnet.com
 0.0.0.0 www.casinopokarpro.com
 0.0.0.0 www.casinopower.co.uk
+0.0.0.0 www.casinorankerhub.com
 0.0.0.0 www.casinosohne5sekundenregel.com
 0.0.0.0 www.casinostarluck.net
 0.0.0.0 www.casinotropez.com
@@ -83916,6 +83918,7 @@
 0.0.0.0 www.playinzenflux.digital
 0.0.0.0 www.playlott.com
 0.0.0.0 www.playmax.co
+0.0.0.0 www.playnowse.com
 0.0.0.0 www.playproz.com
 0.0.0.0 www.playroyaluk.com
 0.0.0.0 www.playsataion.com
@@ -87658,6 +87661,7 @@
 0.0.0.0 www.spnccrzone.com
 0.0.0.0 www.spodnice.shop
 0.0.0.0 www.spoileralert.net
+0.0.0.0 www.spojrzenia.com
 0.0.0.0 www.spokeo.pl
 0.0.0.0 www.spoleczniak.pl
 0.0.0.0 www.spolszczenia-gier.com.pl

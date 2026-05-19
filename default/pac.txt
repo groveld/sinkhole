@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 94591
-// Updated: 2026-05-18 01:58:48 UTC
+// Entries: 94595
+// Updated: 2026-05-19 01:58:12 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -70110,6 +70110,7 @@ var BLOCKLIST = {
 "www.bloodwomen.com":null,
 "www.bloodwritten.pl":null,
 "www.bloom-hands.com":null,
+"www.bloomifllowers.com":null,
 "www.blooming-asset.com":null,
 "www.blooming-trove.com":null,
 "www.bloomingplanet.xyz":null,
@@ -71058,6 +71059,7 @@ var BLOCKLIST = {
 "www.casinoonnet.com":null,
 "www.casinopokarpro.com":null,
 "www.casinopower.co.uk":null,
+"www.casinorankerhub.com":null,
 "www.casinosohne5sekundenregel.com":null,
 "www.casinostarluck.net":null,
 "www.casinotropez.com":null,
@@ -83917,6 +83919,7 @@ var BLOCKLIST = {
 "www.playinzenflux.digital":null,
 "www.playlott.com":null,
 "www.playmax.co":null,
+"www.playnowse.com":null,
 "www.playproz.com":null,
 "www.playroyaluk.com":null,
 "www.playsataion.com":null,
@@ -87659,6 +87662,7 @@ var BLOCKLIST = {
 "www.spnccrzone.com":null,
 "www.spodnice.shop":null,
 "www.spoileralert.net":null,
+"www.spojrzenia.com":null,
 "www.spokeo.pl":null,
 "www.spoleczniak.pl":null,
 "www.spolszczenia-gier.com.pl":null,
