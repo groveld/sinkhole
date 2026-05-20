@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 94595
-# Updated: 2026-05-19 01:58:12 UTC
+# Entries: 94598
+# Updated: 2026-05-20 01:59:41 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19562,6 +19562,7 @@
 0.0.0.0 c.am11.ru
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 c.anytrx.com
+0.0.0.0 c.apple.com
 0.0.0.0 c.ar.msn.com
 0.0.0.0 c.at.msn.com
 0.0.0.0 c.atdmt.com
@@ -49956,6 +49957,7 @@
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 propesense.lol
 0.0.0.0 propitea.fr
+0.0.0.0 propk.sa.com
 0.0.0.0 propluskiralama.com
 0.0.0.0 proportionsgraph.webcotentwritingservices.com
 0.0.0.0 props.id
@@ -80264,6 +80266,7 @@
 0.0.0.0 www.marketdistrict.shop
 0.0.0.0 www.marketfusion.shop
 0.0.0.0 www.markethelper.name
+0.0.0.0 www.marketinghwy.com
 0.0.0.0 www.marketmakers.cc
 0.0.0.0 www.marketokazji.shop
 0.0.0.0 www.marketovix.shop

@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 94595
-! Updated: 2026-05-19 01:58:12 UTC
+! Entries: 94598
+! Updated: 2026-05-20 01:59:41 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19562,6 +19562,7 @@
 ||c.am11.ru^
 ||c.amazon-adsystem.com^
 ||c.anytrx.com^
+||c.apple.com^
 ||c.ar.msn.com^
 ||c.at.msn.com^
 ||c.atdmt.com^
@@ -49956,6 +49957,7 @@
 ||propermedia-d.openx.net^
 ||propesense.lol^
 ||propitea.fr^
+||propk.sa.com^
 ||propluskiralama.com^
 ||proportionsgraph.webcotentwritingservices.com^
 ||props.id^
@@ -80264,6 +80266,7 @@
 ||www.marketdistrict.shop^
 ||www.marketfusion.shop^
 ||www.markethelper.name^
+||www.marketinghwy.com^
 ||www.marketmakers.cc^
 ||www.marketokazji.shop^
 ||www.marketovix.shop^
