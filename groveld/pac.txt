@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 96561
-// Updated: 2026-05-21 02:50:03 UTC
+// Entries: 96569
+// Updated: 2026-05-22 02:47:39 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -69986,6 +69986,7 @@ var BLOCKLIST = {
 "www.athletesdendriootes.info":null,
 "www.athletic-outlet.store":null,
 "www.athleticisccm.business":null,
+"www.atightschedule.com":null,
 "www.atinna.com":null,
 "www.atjgp.com":null,
 "www.atkidk.shop":null,
@@ -70344,6 +70345,7 @@ var BLOCKLIST = {
 "www.balanceco.pics":null,
 "www.balancedalma.com":null,
 "www.balancedneed.store":null,
+"www.balassst.com":null,
 "www.balemoyaye.com":null,
 "www.baliion.com":null,
 "www.balik.store":null,
@@ -75128,6 +75130,7 @@ var BLOCKLIST = {
 "www.epowernorth.com":null,
 "www.epsilonpureis.com":null,
 "www.epuuilepsysoundest.info":null,
+"www.eqarati.com":null,
 "www.eqdrsr.org":null,
 "www.equalizerapo.shop":null,
 "www.equesaatrians.info":null,
@@ -75803,6 +75806,7 @@ var BLOCKLIST = {
 "www.feedingtheunfed.com":null,
 "www.feedstermedia.com":null,
 "www.feelgro.sbs":null,
+"www.feelimprove.bond":null,
 "www.feelnbergamot.cfd":null,
 "www.feetfocus.pics":null,
 "www.fegrat24.store":null,
@@ -77955,6 +77959,7 @@ var BLOCKLIST = {
 "www.hardbacksresiniiifies.info":null,
 "www.hardcorebymail.com":null,
 "www.hardes.digital":null,
+"www.hardlyterrible.bond":null,
 "www.hardscapetools.com":null,
 "www.hardy-clamp.com":null,
 "www.hareketlikablosistemleri.com":null,
@@ -79594,6 +79599,7 @@ var BLOCKLIST = {
 "www.johnkirsh.shop":null,
 "www.join.faceit-hub.com":null,
 "www.joincreditexpert.co.uk":null,
+"www.joinfx.net":null,
 "www.joinhoney.com":null,
 "www.joininn.live":null,
 "www.joinourwebsite.com":null,
@@ -87429,6 +87435,7 @@ var BLOCKLIST = {
 "www.rollroom.shop":null,
 "www.romamimarlik.com":null,
 "www.romansownia.pl":null,
+"www.romanticdemands.bond":null,
 "www.romanticmaui.net":null,
 "www.romanticppally.info":null,
 "www.romeniwat.shop":null,
@@ -94065,6 +94072,7 @@ var BLOCKLIST = {
 "www.yjlcw.com":null,
 "www.ykateba.pro":null,
 "www.ylesomur.pro":null,
+"www.ylgj789.com":null,
 "www.ylticaret.com":null,
 "www.ylxlr.com":null,
 "www.ymhhfhmw.shop":null,

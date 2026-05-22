@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 96561
-# Updated: 2026-05-21 02:50:03 UTC
+# Entries: 96569
+# Updated: 2026-05-22 02:47:39 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -69985,6 +69985,7 @@ address=/www.athletebeacon.com/0.0.0.0
 address=/www.athletesdendriootes.info/0.0.0.0
 address=/www.athletic-outlet.store/0.0.0.0
 address=/www.athleticisccm.business/0.0.0.0
+address=/www.atightschedule.com/0.0.0.0
 address=/www.atinna.com/0.0.0.0
 address=/www.atjgp.com/0.0.0.0
 address=/www.atkidk.shop/0.0.0.0
@@ -70343,6 +70344,7 @@ address=/www.bakkeborgs.com/0.0.0.0
 address=/www.balanceco.pics/0.0.0.0
 address=/www.balancedalma.com/0.0.0.0
 address=/www.balancedneed.store/0.0.0.0
+address=/www.balassst.com/0.0.0.0
 address=/www.balemoyaye.com/0.0.0.0
 address=/www.baliion.com/0.0.0.0
 address=/www.balik.store/0.0.0.0
@@ -75127,6 +75129,7 @@ address=/www.eposanytime.com/0.0.0.0
 address=/www.epowernorth.com/0.0.0.0
 address=/www.epsilonpureis.com/0.0.0.0
 address=/www.epuuilepsysoundest.info/0.0.0.0
+address=/www.eqarati.com/0.0.0.0
 address=/www.eqdrsr.org/0.0.0.0
 address=/www.equalizerapo.shop/0.0.0.0
 address=/www.equesaatrians.info/0.0.0.0
@@ -75802,6 +75805,7 @@ address=/www.federicksofhollywood.com/0.0.0.0
 address=/www.feedingtheunfed.com/0.0.0.0
 address=/www.feedstermedia.com/0.0.0.0
 address=/www.feelgro.sbs/0.0.0.0
+address=/www.feelimprove.bond/0.0.0.0
 address=/www.feelnbergamot.cfd/0.0.0.0
 address=/www.feetfocus.pics/0.0.0.0
 address=/www.fegrat24.store/0.0.0.0
@@ -77954,6 +77958,7 @@ address=/www.harborloomsystems.net/0.0.0.0
 address=/www.hardbacksresiniiifies.info/0.0.0.0
 address=/www.hardcorebymail.com/0.0.0.0
 address=/www.hardes.digital/0.0.0.0
+address=/www.hardlyterrible.bond/0.0.0.0
 address=/www.hardscapetools.com/0.0.0.0
 address=/www.hardy-clamp.com/0.0.0.0
 address=/www.hareketlikablosistemleri.com/0.0.0.0
@@ -79593,6 +79598,7 @@ address=/www.johncottingham.com/0.0.0.0
 address=/www.johnkirsh.shop/0.0.0.0
 address=/www.join.faceit-hub.com/0.0.0.0
 address=/www.joincreditexpert.co.uk/0.0.0.0
+address=/www.joinfx.net/0.0.0.0
 address=/www.joinhoney.com/0.0.0.0
 address=/www.joininn.live/0.0.0.0
 address=/www.joinourwebsite.com/0.0.0.0
@@ -87428,6 +87434,7 @@ address=/www.rollingslots63.com/0.0.0.0
 address=/www.rollroom.shop/0.0.0.0
 address=/www.romamimarlik.com/0.0.0.0
 address=/www.romansownia.pl/0.0.0.0
+address=/www.romanticdemands.bond/0.0.0.0
 address=/www.romanticmaui.net/0.0.0.0
 address=/www.romanticppally.info/0.0.0.0
 address=/www.romeniwat.shop/0.0.0.0
@@ -94064,6 +94071,7 @@ address=/www.yjdpf.com/0.0.0.0
 address=/www.yjlcw.com/0.0.0.0
 address=/www.ykateba.pro/0.0.0.0
 address=/www.ylesomur.pro/0.0.0.0
+address=/www.ylgj789.com/0.0.0.0
 address=/www.ylticaret.com/0.0.0.0
 address=/www.ylxlr.com/0.0.0.0
 address=/www.ymhhfhmw.shop/0.0.0.0
