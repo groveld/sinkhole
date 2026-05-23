@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 96569
-# Updated: 2026-05-22 02:47:39 UTC
+# Entries: 96575
+# Updated: 2026-05-23 02:44:20 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16588,6 +16588,7 @@ address=/benchuss.shop/0.0.0.0
 address=/bendefog.hellogroupbd.com/0.0.0.0
 address=/bendiscript.josemorenoesteban.com/0.0.0.0
 address=/benefits.sovendus.com/0.0.0.0
+address=/benefitsaccountreport.es/0.0.0.0
 address=/benefitsgov.info/0.0.0.0
 address=/benefitsorganic.com/0.0.0.0
 address=/beneko.com/0.0.0.0
@@ -52401,6 +52402,7 @@ address=/remove-ads.xyz/0.0.0.0
 address=/removearrest.com/0.0.0.0
 address=/removelabs.org/0.0.0.0
 address=/removiov.com/0.0.0.0
+address=/remox.com/0.0.0.0
 address=/renacernaturalproducts.com/0.0.0.0
 address=/renacious.nwwadq.cn/0.0.0.0
 address=/renaissance-fresco-restoration.garden/0.0.0.0
@@ -70381,6 +70383,7 @@ address=/www.banjers.ero-advertising.com/0.0.0.0
 address=/www.bankforevermore.top/0.0.0.0
 address=/www.bankingac.digital/0.0.0.0
 address=/www.bankingre.de/0.0.0.0
+address=/www.bankofcounty.com/0.0.0.0
 address=/www.banlin.arkforestmerch.com/0.0.0.0
 address=/www.bann12s.ero-advertising.com/0.0.0.0
 address=/www.bann13s.ero-advertising.com/0.0.0.0
@@ -74530,6 +74533,7 @@ address=/www.dusk-trees.com/0.0.0.0
 address=/www.dusk-trekker.com/0.0.0.0
 address=/www.duskshade-aborne.com/0.0.0.0
 address=/www.dusky-borders.com/0.0.0.0
+address=/www.dustinjonesgolfacademy.com/0.0.0.0
 address=/www.dusukhapi.online/0.0.0.0
 address=/www.dusukhapiburada.online/0.0.0.0
 address=/www.dusukhapisiparisver.online/0.0.0.0
@@ -80480,6 +80484,7 @@ address=/www.labyrinthddsthearchies.info/0.0.0.0
 address=/www.lacasadialicedesenzano.it/0.0.0.0
 address=/www.lacebridge.shop/0.0.0.0
 address=/www.lacmp.net/0.0.0.0
+address=/www.lacocinany.com/0.0.0.0
 address=/www.lactavitti.cyou/0.0.0.0
 address=/www.lactifresh.pl/0.0.0.0
 address=/www.ladsblue.com/0.0.0.0
@@ -84120,6 +84125,7 @@ address=/www.orange-finansow-polska.net/0.0.0.0
 address=/www.orangecountyrealestateadvisor.com/0.0.0.0
 address=/www.orangemint.shop/0.0.0.0
 address=/www.orangequatnslap.cryptoserene.com/0.0.0.0
+address=/www.orangesalonboise.com/0.0.0.0
 address=/www.orangeteen.com/0.0.0.0
 address=/www.oranovire.shop/0.0.0.0
 address=/www.orarione.shop/0.0.0.0

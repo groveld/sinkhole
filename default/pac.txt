@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 96567
-// Updated: 2026-05-22 01:58:12 UTC
+// Entries: 96573
+// Updated: 2026-05-23 01:54:49 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16589,6 +16589,7 @@ var BLOCKLIST = {
 "bendefog.hellogroupbd.com":null,
 "bendiscript.josemorenoesteban.com":null,
 "benefits.sovendus.com":null,
+"benefitsaccountreport.es":null,
 "benefitsgov.info":null,
 "benefitsorganic.com":null,
 "beneko.com":null,
@@ -52401,6 +52402,7 @@ var BLOCKLIST = {
 "removearrest.com":null,
 "removelabs.org":null,
 "removiov.com":null,
+"remox.com":null,
 "renacernaturalproducts.com":null,
 "renacious.nwwadq.cn":null,
 "renaissance-fresco-restoration.garden":null,
@@ -70381,6 +70383,7 @@ var BLOCKLIST = {
 "www.bankforevermore.top":null,
 "www.bankingac.digital":null,
 "www.bankingre.de":null,
+"www.bankofcounty.com":null,
 "www.banlin.arkforestmerch.com":null,
 "www.bann12s.ero-advertising.com":null,
 "www.bann13s.ero-advertising.com":null,
@@ -74530,6 +74533,7 @@ var BLOCKLIST = {
 "www.dusk-trekker.com":null,
 "www.duskshade-aborne.com":null,
 "www.dusky-borders.com":null,
+"www.dustinjonesgolfacademy.com":null,
 "www.dusukhapi.online":null,
 "www.dusukhapiburada.online":null,
 "www.dusukhapisiparisver.online":null,
@@ -80479,6 +80483,7 @@ var BLOCKLIST = {
 "www.lacasadialicedesenzano.it":null,
 "www.lacebridge.shop":null,
 "www.lacmp.net":null,
+"www.lacocinany.com":null,
 "www.lactavitti.cyou":null,
 "www.lactifresh.pl":null,
 "www.ladsblue.com":null,
@@ -84119,6 +84124,7 @@ var BLOCKLIST = {
 "www.orangecountyrealestateadvisor.com":null,
 "www.orangemint.shop":null,
 "www.orangequatnslap.cryptoserene.com":null,
+"www.orangesalonboise.com":null,
 "www.orangeteen.com":null,
 "www.oranovire.shop":null,
 "www.orarione.shop":null,
