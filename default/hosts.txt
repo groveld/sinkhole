@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 95397
-# Updated: 2026-05-24 02:00:07 UTC
+# Entries: 95398
+# Updated: 2026-05-25 02:01:48 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -30856,6 +30856,7 @@
 0.0.0.0 funnycelebrate.shop
 0.0.0.0 funnyordie-d.openx.net
 0.0.0.0 funnyreign.com
+0.0.0.0 funnysciencediscounts1.blogspot.com
 0.0.0.0 funpageexchange.com
 0.0.0.0 funpay.pics
 0.0.0.0 funsilly.com

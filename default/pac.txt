@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 95397
-// Updated: 2026-05-24 02:00:07 UTC
+// Entries: 95398
+// Updated: 2026-05-25 02:01:48 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -30857,6 +30857,7 @@ var BLOCKLIST = {
 "funnycelebrate.shop":null,
 "funnyordie-d.openx.net":null,
 "funnyreign.com":null,
+"funnysciencediscounts1.blogspot.com":null,
 "funpageexchange.com":null,
 "funpay.pics":null,
 "funsilly.com":null,
