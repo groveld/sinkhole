@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95400
-// Updated: 2026-05-26 02:45:35 UTC
+// Entries: 95402
+// Updated: 2026-05-27 02:49:43 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -82322,6 +82322,7 @@ var BLOCKLIST = {
 "www.oakcityheadlightrestoration.com":null,
 "www.oakcover.net":null,
 "www.oakcover.org":null,
+"www.oakog.com":null,
 "www.oakridgeflows.uk":null,
 "www.oaksmart.net":null,
 "www.oakvillenorthendoscopy.com":null,
@@ -82350,6 +82351,7 @@ var BLOCKLIST = {
 "www.obyz.de":null,
 "www.occidrainb.cyou":null,
 "www.occlucroft.cyou":null,
+"www.occoquananimalhospital.com":null,
 "www.occsupport.org":null,
 "www.ocdvo.com":null,
 "www.oceanainbaja.net":null,
