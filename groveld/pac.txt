@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95402
-// Updated: 2026-05-27 02:49:43 UTC
+// Entries: 95405
+// Updated: 2026-05-28 02:42:28 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -69567,6 +69567,7 @@ var BLOCKLIST = {
 "www.backflow.tommydong.com":null,
 "www.backgroundpictures.net":null,
 "www.backguard.pl":null,
+"www.backingguitar.garden":null,
 "www.backingother.crefood.com":null,
 "www.backlink4u.net":null,
 "www.backlinkdigital.xyz":null,
@@ -72527,6 +72528,7 @@ var BLOCKLIST = {
 "www.crystal-lands.com":null,
 "www.crystal-rinse.com":null,
 "www.crystal-vistas.com":null,
+"www.crystalbranchtw.blog":null,
 "www.crystalcrowless.pro":null,
 "www.crystalgate.fit":null,
 "www.crystall-clear.com":null,
@@ -87912,6 +87914,7 @@ var BLOCKLIST = {
 "www.snrfmbustoay.com":null,
 "www.snug-glint.com":null,
 "www.snugavento.com":null,
+"www.snugbirdjq.blog":null,
 "www.snurrlyspin.com":null,
 "www.snxdw.com":null,
 "www.snztauem.shop":null,

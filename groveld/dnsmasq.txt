@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95402
-# Updated: 2026-05-27 02:49:43 UTC
+# Entries: 95405
+# Updated: 2026-05-28 02:42:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -69566,6 +69566,7 @@ address=/www.backend.hills-coupon.com.tw/0.0.0.0
 address=/www.backflow.tommydong.com/0.0.0.0
 address=/www.backgroundpictures.net/0.0.0.0
 address=/www.backguard.pl/0.0.0.0
+address=/www.backingguitar.garden/0.0.0.0
 address=/www.backingother.crefood.com/0.0.0.0
 address=/www.backlink4u.net/0.0.0.0
 address=/www.backlinkdigital.xyz/0.0.0.0
@@ -72526,6 +72527,7 @@ address=/www.crystal-destination.com/0.0.0.0
 address=/www.crystal-lands.com/0.0.0.0
 address=/www.crystal-rinse.com/0.0.0.0
 address=/www.crystal-vistas.com/0.0.0.0
+address=/www.crystalbranchtw.blog/0.0.0.0
 address=/www.crystalcrowless.pro/0.0.0.0
 address=/www.crystalgate.fit/0.0.0.0
 address=/www.crystall-clear.com/0.0.0.0
@@ -87911,6 +87913,7 @@ address=/www.snowhandball.com/0.0.0.0
 address=/www.snrfmbustoay.com/0.0.0.0
 address=/www.snug-glint.com/0.0.0.0
 address=/www.snugavento.com/0.0.0.0
+address=/www.snugbirdjq.blog/0.0.0.0
 address=/www.snurrlyspin.com/0.0.0.0
 address=/www.snxdw.com/0.0.0.0
 address=/www.snztauem.shop/0.0.0.0

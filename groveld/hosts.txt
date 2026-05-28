@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 95402
-# Updated: 2026-05-27 02:49:43 UTC
+# Entries: 95405
+# Updated: 2026-05-28 02:42:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -69566,6 +69566,7 @@
 0.0.0.0 www.backflow.tommydong.com
 0.0.0.0 www.backgroundpictures.net
 0.0.0.0 www.backguard.pl
+0.0.0.0 www.backingguitar.garden
 0.0.0.0 www.backingother.crefood.com
 0.0.0.0 www.backlink4u.net
 0.0.0.0 www.backlinkdigital.xyz
@@ -72526,6 +72527,7 @@
 0.0.0.0 www.crystal-lands.com
 0.0.0.0 www.crystal-rinse.com
 0.0.0.0 www.crystal-vistas.com
+0.0.0.0 www.crystalbranchtw.blog
 0.0.0.0 www.crystalcrowless.pro
 0.0.0.0 www.crystalgate.fit
 0.0.0.0 www.crystall-clear.com
@@ -87911,6 +87913,7 @@
 0.0.0.0 www.snrfmbustoay.com
 0.0.0.0 www.snug-glint.com
 0.0.0.0 www.snugavento.com
+0.0.0.0 www.snugbirdjq.blog
 0.0.0.0 www.snurrlyspin.com
 0.0.0.0 www.snxdw.com
 0.0.0.0 www.snztauem.shop
