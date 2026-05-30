@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 94391
-# Updated: 2026-05-29 02:52:02 UTC
+# Entries: 94393
+# Updated: 2026-05-30 02:45:53 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -70003,6 +70003,7 @@ www.boxingclothe.com
 www.boxl.ink
 www.boxrneptune.co
 www.boylestutoring.com
+www.boysstrongly.living
 www.bozworking.com
 www.bpath.com
 www.bpb-corp.com
@@ -91298,6 +91299,7 @@ www.wise-lesson.com
 www.wise-pathfinder.com
 www.wise.ikenmabok.shop
 www.wiseborrowing.com
+www.wiseknows.bond
 www.wiseopin.binneserver.com
 www.wisetobesocial.com
 www.wisezfloor.best
