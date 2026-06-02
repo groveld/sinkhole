@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 93716
-# Updated: 2026-06-01 02:57:36 UTC
+# Entries: 93726
+# Updated: 2026-06-02 02:55:53 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22246,6 +22246,8 @@
 0.0.0.0 cm.smadex.com
 0.0.0.0 cm.steepto.com
 0.0.0.0 cm.t.tailtarget.com
+0.0.0.0 cm076410.tw1.ru
+0.0.0.0 cm076410.tw1.ru]
 0.0.0.0 cm2.adform.net
 0.0.0.0 cm3.adform.net
 0.0.0.0 cm3.bnmq.com
@@ -60242,6 +60244,7 @@
 0.0.0.0 topservicesupdate.com
 0.0.0.0 topservicesupdates.com
 0.0.0.0 topshape.me
+0.0.0.0 topshoponline.ru
 0.0.0.0 topsir.com
 0.0.0.0 topsite.lv
 0.0.0.0 topsites.blogflux.com
@@ -71068,6 +71071,7 @@
 0.0.0.0 www.concash.pl
 0.0.0.0 www.concentratedmagic.net
 0.0.0.0 www.concertbland.glennraya.com
+0.0.0.0 www.conclusioncompeting.bond
 0.0.0.0 www.concoascri.cyou
 0.0.0.0 www.condress.pics
 0.0.0.0 www.condress.shop
@@ -71807,6 +71811,7 @@
 0.0.0.0 www.dealsrate.com
 0.0.0.0 www.dealvio.club
 0.0.0.0 www.dealzonepl.shop
+0.0.0.0 www.deashi.com
 0.0.0.0 www.debbielake.shop
 0.0.0.0 www.debbo.plus.com
 0.0.0.0 www.debbrmatology.info
@@ -75694,6 +75699,7 @@
 0.0.0.0 www.gtradersoft.com
 0.0.0.0 www.gtsyrstytody.com
 0.0.0.0 www.guanukol.site
+0.0.0.0 www.guaranteeservice.lat
 0.0.0.0 www.guaranty.com.cn
 0.0.0.0 www.guardcyclequick.com
 0.0.0.0 www.guardmo.de
@@ -79430,6 +79436,7 @@
 0.0.0.0 www.meadow-paths.com
 0.0.0.0 www.meadow-stroll.com
 0.0.0.0 www.mean-glade.com
+0.0.0.0 www.meantvictim.lat
 0.0.0.0 www.measureoclay.tunapizza.com
 0.0.0.0 www.meatspin.biz
 0.0.0.0 www.meatspin.com
@@ -79878,6 +79885,7 @@
 0.0.0.0 www.monopspons.cyou
 0.0.0.0 www.monowcrack.jessicajorogers.com
 0.0.0.0 www.monsieurmichel.be
+0.0.0.0 www.monstervits.com
 0.0.0.0 www.montemoon.com
 0.0.0.0 www.monthsilent.haithsg.com
 0.0.0.0 www.montrio.shop
@@ -81629,6 +81637,7 @@
 0.0.0.0 www.online.sh.cn
 0.0.0.0 www.onlineadmin.net
 0.0.0.0 www.onlineapparel.shop
+0.0.0.0 www.onlinebidnow.com
 0.0.0.0 www.onlineblackfrday.com
 0.0.0.0 www.onlinecda.pl
 0.0.0.0 www.onlinecomputersworld.com
@@ -82555,6 +82564,7 @@
 0.0.0.0 www.pioupg.xyz
 0.0.0.0 www.pipenv.org
 0.0.0.0 www.pipepassage.pyanswers.com
+0.0.0.0 www.pipepractice.world
 0.0.0.0 www.piperinox.pl
 0.0.0.0 www.pipetransfering.com
 0.0.0.0 www.pipkinsbbq.com

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 93714
-// Updated: 2026-06-01 02:08:02 UTC
+// Entries: 93724
+// Updated: 2026-06-02 02:06:31 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22247,6 +22247,8 @@ var BLOCKLIST = {
 "cm.smadex.com":null,
 "cm.steepto.com":null,
 "cm.t.tailtarget.com":null,
+"cm076410.tw1.ru":null,
+"cm076410.tw1.ru]":null,
 "cm2.adform.net":null,
 "cm3.adform.net":null,
 "cm3.bnmq.com":null,
@@ -60242,6 +60244,7 @@ var BLOCKLIST = {
 "topservicesupdate.com":null,
 "topservicesupdates.com":null,
 "topshape.me":null,
+"topshoponline.ru":null,
 "topsir.com":null,
 "topsite.lv":null,
 "topsites.blogflux.com":null,
@@ -71068,6 +71071,7 @@ var BLOCKLIST = {
 "www.concash.pl":null,
 "www.concentratedmagic.net":null,
 "www.concertbland.glennraya.com":null,
+"www.conclusioncompeting.bond":null,
 "www.concoascri.cyou":null,
 "www.condress.pics":null,
 "www.condress.shop":null,
@@ -71807,6 +71811,7 @@ var BLOCKLIST = {
 "www.dealsrate.com":null,
 "www.dealvio.club":null,
 "www.dealzonepl.shop":null,
+"www.deashi.com":null,
 "www.debbielake.shop":null,
 "www.debbo.plus.com":null,
 "www.debbrmatology.info":null,
@@ -75693,6 +75698,7 @@ var BLOCKLIST = {
 "www.gtradersoft.com":null,
 "www.gtsyrstytody.com":null,
 "www.guanukol.site":null,
+"www.guaranteeservice.lat":null,
 "www.guaranty.com.cn":null,
 "www.guardcyclequick.com":null,
 "www.guardmo.de":null,
@@ -79429,6 +79435,7 @@ var BLOCKLIST = {
 "www.meadow-paths.com":null,
 "www.meadow-stroll.com":null,
 "www.mean-glade.com":null,
+"www.meantvictim.lat":null,
 "www.measureoclay.tunapizza.com":null,
 "www.meatspin.biz":null,
 "www.meatspin.com":null,
@@ -79877,6 +79884,7 @@ var BLOCKLIST = {
 "www.monopspons.cyou":null,
 "www.monowcrack.jessicajorogers.com":null,
 "www.monsieurmichel.be":null,
+"www.monstervits.com":null,
 "www.montemoon.com":null,
 "www.monthsilent.haithsg.com":null,
 "www.montrio.shop":null,
@@ -81628,6 +81636,7 @@ var BLOCKLIST = {
 "www.online.sh.cn":null,
 "www.onlineadmin.net":null,
 "www.onlineapparel.shop":null,
+"www.onlinebidnow.com":null,
 "www.onlineblackfrday.com":null,
 "www.onlinecda.pl":null,
 "www.onlinecomputersworld.com":null,
@@ -82554,6 +82563,7 @@ var BLOCKLIST = {
 "www.pioupg.xyz":null,
 "www.pipenv.org":null,
 "www.pipepassage.pyanswers.com":null,
+"www.pipepractice.world":null,
 "www.piperinox.pl":null,
 "www.pipetransfering.com":null,
 "www.pipkinsbbq.com":null,

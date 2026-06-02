@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 93716
-# Updated: 2026-06-01 02:57:36 UTC
+# Entries: 93726
+# Updated: 2026-06-02 02:55:53 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22246,6 +22246,8 @@ address=/cm.shareaholic.com/0.0.0.0
 address=/cm.smadex.com/0.0.0.0
 address=/cm.steepto.com/0.0.0.0
 address=/cm.t.tailtarget.com/0.0.0.0
+address=/cm076410.tw1.ru/0.0.0.0
+address=/cm076410.tw1.ru]/0.0.0.0
 address=/cm2.adform.net/0.0.0.0
 address=/cm3.adform.net/0.0.0.0
 address=/cm3.bnmq.com/0.0.0.0
@@ -60242,6 +60244,7 @@ address=/topservicesecurity.com/0.0.0.0
 address=/topservicesupdate.com/0.0.0.0
 address=/topservicesupdates.com/0.0.0.0
 address=/topshape.me/0.0.0.0
+address=/topshoponline.ru/0.0.0.0
 address=/topsir.com/0.0.0.0
 address=/topsite.lv/0.0.0.0
 address=/topsites.blogflux.com/0.0.0.0
@@ -71068,6 +71071,7 @@ address=/www.concaaomitant.info/0.0.0.0
 address=/www.concash.pl/0.0.0.0
 address=/www.concentratedmagic.net/0.0.0.0
 address=/www.concertbland.glennraya.com/0.0.0.0
+address=/www.conclusioncompeting.bond/0.0.0.0
 address=/www.concoascri.cyou/0.0.0.0
 address=/www.condress.pics/0.0.0.0
 address=/www.condress.shop/0.0.0.0
@@ -71807,6 +71811,7 @@ address=/www.dealspotpl.shop/0.0.0.0
 address=/www.dealsrate.com/0.0.0.0
 address=/www.dealvio.club/0.0.0.0
 address=/www.dealzonepl.shop/0.0.0.0
+address=/www.deashi.com/0.0.0.0
 address=/www.debbielake.shop/0.0.0.0
 address=/www.debbo.plus.com/0.0.0.0
 address=/www.debbrmatology.info/0.0.0.0
@@ -75694,6 +75699,7 @@ address=/www.gtgre3rgbntbs.sbs/0.0.0.0
 address=/www.gtradersoft.com/0.0.0.0
 address=/www.gtsyrstytody.com/0.0.0.0
 address=/www.guanukol.site/0.0.0.0
+address=/www.guaranteeservice.lat/0.0.0.0
 address=/www.guaranty.com.cn/0.0.0.0
 address=/www.guardcyclequick.com/0.0.0.0
 address=/www.guardmo.de/0.0.0.0
@@ -79430,6 +79436,7 @@ address=/www.mdeaw.shop/0.0.0.0
 address=/www.meadow-paths.com/0.0.0.0
 address=/www.meadow-stroll.com/0.0.0.0
 address=/www.mean-glade.com/0.0.0.0
+address=/www.meantvictim.lat/0.0.0.0
 address=/www.measureoclay.tunapizza.com/0.0.0.0
 address=/www.meatspin.biz/0.0.0.0
 address=/www.meatspin.com/0.0.0.0
@@ -79878,6 +79885,7 @@ address=/www.monopol.urmaindia.com/0.0.0.0
 address=/www.monopspons.cyou/0.0.0.0
 address=/www.monowcrack.jessicajorogers.com/0.0.0.0
 address=/www.monsieurmichel.be/0.0.0.0
+address=/www.monstervits.com/0.0.0.0
 address=/www.montemoon.com/0.0.0.0
 address=/www.monthsilent.haithsg.com/0.0.0.0
 address=/www.montrio.shop/0.0.0.0
@@ -81629,6 +81637,7 @@ address=/www.online.permanent.vu/0.0.0.0
 address=/www.online.sh.cn/0.0.0.0
 address=/www.onlineadmin.net/0.0.0.0
 address=/www.onlineapparel.shop/0.0.0.0
+address=/www.onlinebidnow.com/0.0.0.0
 address=/www.onlineblackfrday.com/0.0.0.0
 address=/www.onlinecda.pl/0.0.0.0
 address=/www.onlinecomputersworld.com/0.0.0.0
@@ -82555,6 +82564,7 @@ address=/www.piotrlezuch.shop/0.0.0.0
 address=/www.pioupg.xyz/0.0.0.0
 address=/www.pipenv.org/0.0.0.0
 address=/www.pipepassage.pyanswers.com/0.0.0.0
+address=/www.pipepractice.world/0.0.0.0
 address=/www.piperinox.pl/0.0.0.0
 address=/www.pipetransfering.com/0.0.0.0
 address=/www.pipkinsbbq.com/0.0.0.0
