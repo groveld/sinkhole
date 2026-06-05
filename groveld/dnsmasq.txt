@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95939
-# Updated: 2026-06-04 03:01:34 UTC
+# Entries: 95944
+# Updated: 2026-06-05 02:52:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -41646,6 +41646,7 @@ address=/metric.volkswagen.com/0.0.0.0
 address=/metric.worldcat.org/0.0.0.0
 address=/metric.yellowpages.com/0.0.0.0
 address=/metricreceiver.cellrebel.com/0.0.0.0
+address=/metrics-a.wbx2.com/0.0.0.0
 address=/metrics-api.librato.com/0.0.0.0
 address=/metrics-logger.spot.im/0.0.0.0
 address=/metrics.aa.com/0.0.0.0
@@ -62515,6 +62516,7 @@ address=/ts.unrealmarketing.com/0.0.0.0
 address=/ts1.hitbox.com/0.0.0.0
 address=/ts1.lsfinteractive.com/0.0.0.0
 address=/ts2.hitbox.com/0.0.0.0
+address=/tsa.webex.com/0.0.0.0
 address=/tsadra.com/0.0.0.0
 address=/tsbm.ch/0.0.0.0
 address=/tshirtis.com/0.0.0.0
@@ -69021,6 +69023,7 @@ address=/www.altoquepk.org/0.0.0.0
 address=/www.altosaxophone.com/0.0.0.0
 address=/www.altrarunningpl.com/0.0.0.0
 address=/www.altunsoyinsaat.com/0.0.0.0
+address=/www.altunyapimarket.com/0.0.0.0
 address=/www.alumbramos.com/0.0.0.0
 address=/www.alvabryce.shop/0.0.0.0
 address=/www.alvalocke.shop/0.0.0.0
@@ -70854,6 +70857,7 @@ address=/www.breaking-news-now.online/0.0.0.0
 address=/www.breakingnews-24.pro/0.0.0.0
 address=/www.breakingnowpulse.pro/0.0.0.0
 address=/www.breaknot.cinema138.com/0.0.0.0
+address=/www.breaksdown.lol/0.0.0.0
 address=/www.breakslavery.com/0.0.0.0
 address=/www.breatheopenloveformula.com/0.0.0.0
 address=/www.breathingopeningandloving.com/0.0.0.0
@@ -76956,6 +76960,7 @@ address=/www.gonser.kids-world.sbs/0.0.0.0
 address=/www.gontijoamaral.hpg.com.br/0.0.0.0
 address=/www.goodairtr.com/0.0.0.0
 address=/www.goodblock.gladly.io/0.0.0.0
+address=/www.gooddeserve.skin/0.0.0.0
 address=/www.gooddiplomb.online/0.0.0.0
 address=/www.goodlook.digital/0.0.0.0
 address=/www.goodmenonthego.com/0.0.0.0

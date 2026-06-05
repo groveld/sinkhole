@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 95939
-# Updated: 2026-06-04 03:01:34 UTC
+# Entries: 95944
+# Updated: 2026-06-05 02:52:16 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -41646,6 +41646,7 @@
 0.0.0.0 metric.worldcat.org
 0.0.0.0 metric.yellowpages.com
 0.0.0.0 metricreceiver.cellrebel.com
+0.0.0.0 metrics-a.wbx2.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.aa.com
@@ -62515,6 +62516,7 @@
 0.0.0.0 ts1.hitbox.com
 0.0.0.0 ts1.lsfinteractive.com
 0.0.0.0 ts2.hitbox.com
+0.0.0.0 tsa.webex.com
 0.0.0.0 tsadra.com
 0.0.0.0 tsbm.ch
 0.0.0.0 tshirtis.com
@@ -69021,6 +69023,7 @@
 0.0.0.0 www.altosaxophone.com
 0.0.0.0 www.altrarunningpl.com
 0.0.0.0 www.altunsoyinsaat.com
+0.0.0.0 www.altunyapimarket.com
 0.0.0.0 www.alumbramos.com
 0.0.0.0 www.alvabryce.shop
 0.0.0.0 www.alvalocke.shop
@@ -70854,6 +70857,7 @@
 0.0.0.0 www.breakingnews-24.pro
 0.0.0.0 www.breakingnowpulse.pro
 0.0.0.0 www.breaknot.cinema138.com
+0.0.0.0 www.breaksdown.lol
 0.0.0.0 www.breakslavery.com
 0.0.0.0 www.breatheopenloveformula.com
 0.0.0.0 www.breathingopeningandloving.com
@@ -76956,6 +76960,7 @@
 0.0.0.0 www.gontijoamaral.hpg.com.br
 0.0.0.0 www.goodairtr.com
 0.0.0.0 www.goodblock.gladly.io
+0.0.0.0 www.gooddeserve.skin
 0.0.0.0 www.gooddiplomb.online
 0.0.0.0 www.goodlook.digital
 0.0.0.0 www.goodmenonthego.com

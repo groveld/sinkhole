@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95939
-// Updated: 2026-06-04 03:01:34 UTC
+// Entries: 95944
+// Updated: 2026-06-05 02:52:16 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -41647,6 +41647,7 @@ var BLOCKLIST = {
 "metric.worldcat.org":null,
 "metric.yellowpages.com":null,
 "metricreceiver.cellrebel.com":null,
+"metrics-a.wbx2.com":null,
 "metrics-api.librato.com":null,
 "metrics-logger.spot.im":null,
 "metrics.aa.com":null,
@@ -62516,6 +62517,7 @@ var BLOCKLIST = {
 "ts1.hitbox.com":null,
 "ts1.lsfinteractive.com":null,
 "ts2.hitbox.com":null,
+"tsa.webex.com":null,
 "tsadra.com":null,
 "tsbm.ch":null,
 "tshirtis.com":null,
@@ -69022,6 +69024,7 @@ var BLOCKLIST = {
 "www.altosaxophone.com":null,
 "www.altrarunningpl.com":null,
 "www.altunsoyinsaat.com":null,
+"www.altunyapimarket.com":null,
 "www.alumbramos.com":null,
 "www.alvabryce.shop":null,
 "www.alvalocke.shop":null,
@@ -70855,6 +70858,7 @@ var BLOCKLIST = {
 "www.breakingnews-24.pro":null,
 "www.breakingnowpulse.pro":null,
 "www.breaknot.cinema138.com":null,
+"www.breaksdown.lol":null,
 "www.breakslavery.com":null,
 "www.breatheopenloveformula.com":null,
 "www.breathingopeningandloving.com":null,
@@ -76957,6 +76961,7 @@ var BLOCKLIST = {
 "www.gontijoamaral.hpg.com.br":null,
 "www.goodairtr.com":null,
 "www.goodblock.gladly.io":null,
+"www.gooddeserve.skin":null,
 "www.gooddiplomb.online":null,
 "www.goodlook.digital":null,
 "www.goodmenonthego.com":null,
