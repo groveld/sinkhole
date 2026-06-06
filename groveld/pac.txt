@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95944
-// Updated: 2026-06-05 02:52:16 UTC
+// Entries: 95955
+// Updated: 2026-06-06 02:47:28 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22200,6 +22200,7 @@ var BLOCKLIST = {
 "clicz.com":null,
 "client-analytics.braintreegateway.com":null,
 "client-events.inner-active.mobi":null,
+"client-logs-a.wbx2.com":null,
 "client-uc.heytapmobi.com":null,
 "client.475238-cb.com":null,
 "client.browseraccelerator.com":null,
@@ -28648,6 +28649,7 @@ var BLOCKLIST = {
 "events.engager.ecbsn.com":null,
 "events.engageya.com":null,
 "events.foreseeresults.com":null,
+"events.hotjar.io":null,
 "events.influencemobile.com":null,
 "events.kalooga.com":null,
 "events.kiosked.com":null,
@@ -66311,6 +66313,7 @@ var BLOCKLIST = {
 "wirtuozseksu.pl":null,
 "wirtvlg.oewabox.at":null,
 "wirusndiareoadksoa.site":null,
+"wirypaste.com":null,
 "wisconsincryptotaxprep.com":null,
 "wisdomminus.tanzabooks.com":null,
 "wise-lesson.com":null,
@@ -69069,6 +69072,7 @@ var BLOCKLIST = {
 "www.ambruso.org":null,
 "www.amcgheepublishing.com":null,
 "www.amedi.fixb2b.com":null,
+"www.amerenallieshvac.com":null,
 "www.american-prize-center.com":null,
 "www.americanbedrock.us":null,
 "www.americanewsdaily.org":null,
@@ -70605,6 +70609,7 @@ var BLOCKLIST = {
 "www.blueplanetlearning.com":null,
 "www.bluepoolgroup.com":null,
 "www.blueraventy.info":null,
+"www.blueridgecpp.com":null,
 "www.bluestreak.com":null,
 "www.bluetick-aurorafb-1001.vercel.app":null,
 "www.bluetickmanufacturkke.info":null,
@@ -72605,6 +72610,7 @@ var BLOCKLIST = {
 "www.cpx24.com":null,
 "www.cqcounter.com":null,
 "www.cqqst.com":null,
+"www.cqwallpaper.com":null,
 "www.cr8ivenest.co.uk":null,
 "www.crabtreeshome.org":null,
 "www.crackneed.tommyleonardjr.com":null,
@@ -79020,6 +79026,7 @@ var BLOCKLIST = {
 "www.jneck.com":null,
 "www.jnews5.com":null,
 "www.jnexus.com":null,
+"www.jnhjf.com":null,
 "www.jnhld.com":null,
 "www.jntct.com":null,
 "www.jnwsc.com":null,
@@ -81347,6 +81354,7 @@ var BLOCKLIST = {
 "www.midnightoro.info":null,
 "www.miekgosapro.cyou":null,
 "www.mietowki.shop":null,
+"www.mightpays.lol":null,
 "www.mighty-studies.com":null,
 "www.mightymagoo.com":null,
 "www.mikaeljigmo.com":null,
@@ -85859,6 +85867,7 @@ var BLOCKLIST = {
 "www.quarmelinta24.top":null,
 "www.quarmelitara.pro":null,
 "www.quarmelontiqa.pro":null,
+"www.quartersnorth.lat":null,
 "www.quartexindustries.com":null,
 "www.quartz-tide.com":null,
 "www.quarvions.com":null,
@@ -87762,6 +87771,7 @@ var BLOCKLIST = {
 "www.shoeviro.shop":null,
 "www.shogla.com":null,
 "www.shooshtimeinc.com":null,
+"www.shootingeffectively.skin":null,
 "www.shop-chewy.com":null,
 "www.shop-samsonite.top":null,
 "www.shop-titleboxing.com":null,
@@ -90909,6 +90919,7 @@ var BLOCKLIST = {
 "www.tv-store.net":null,
 "www.tv-zalukaj.pl":null,
 "www.tv69.com":null,
+"www.tvccpt.com":null,
 "www.tvmds.tvpassport.com":null,
 "www.tvmoviespoilers.com":null,
 "www.tvnowapp.net":null,

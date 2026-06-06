@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 95942
-# Updated: 2026-06-05 02:02:49 UTC
+# Entries: 95953
+# Updated: 2026-06-06 01:58:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22199,6 +22199,7 @@ clicmanager.fr
 clicz.com
 client-analytics.braintreegateway.com
 client-events.inner-active.mobi
+client-logs-a.wbx2.com
 client-uc.heytapmobi.com
 client.475238-cb.com
 client.browseraccelerator.com
@@ -28647,6 +28648,7 @@ events.claspws.tv
 events.engager.ecbsn.com
 events.engageya.com
 events.foreseeresults.com
+events.hotjar.io
 events.influencemobile.com
 events.kalooga.com
 events.kiosked.com
@@ -66309,6 +66311,7 @@ wirtuainapoiskawp.weebly.com
 wirtuozseksu.pl
 wirtvlg.oewabox.at
 wirusndiareoadksoa.site
+wirypaste.com
 wisconsincryptotaxprep.com
 wisdomminus.tanzabooks.com
 wise-lesson.com
@@ -69067,6 +69070,7 @@ www.ambientdsp.com
 www.ambruso.org
 www.amcgheepublishing.com
 www.amedi.fixb2b.com
+www.amerenallieshvac.com
 www.american-prize-center.com
 www.americanbedrock.us
 www.americanewsdaily.org
@@ -70603,6 +70607,7 @@ www.bluepalmconsulting.net
 www.blueplanetlearning.com
 www.bluepoolgroup.com
 www.blueraventy.info
+www.blueridgecpp.com
 www.bluestreak.com
 www.bluetick-aurorafb-1001.vercel.app
 www.bluetickmanufacturkke.info
@@ -72603,6 +72608,7 @@ www.cpwzp.com
 www.cpx24.com
 www.cqcounter.com
 www.cqqst.com
+www.cqwallpaper.com
 www.cr8ivenest.co.uk
 www.crabtreeshome.org
 www.crackneed.tommyleonardjr.com
@@ -79017,6 +79023,7 @@ www.jndlr.com
 www.jneck.com
 www.jnews5.com
 www.jnexus.com
+www.jnhjf.com
 www.jnhld.com
 www.jntct.com
 www.jnwsc.com
@@ -81344,6 +81351,7 @@ www.midkotatraffic.net
 www.midnightoro.info
 www.miekgosapro.cyou
 www.mietowki.shop
+www.mightpays.lol
 www.mighty-studies.com
 www.mightymagoo.com
 www.mikaeljigmo.com
@@ -85856,6 +85864,7 @@ www.quarmelantiqa.com
 www.quarmelinta24.top
 www.quarmelitara.pro
 www.quarmelontiqa.pro
+www.quartersnorth.lat
 www.quartexindustries.com
 www.quartz-tide.com
 www.quarvions.com
@@ -87759,6 +87768,7 @@ www.shoestyle.pl
 www.shoeviro.shop
 www.shogla.com
 www.shooshtimeinc.com
+www.shootingeffectively.skin
 www.shop-chewy.com
 www.shop-samsonite.top
 www.shop-titleboxing.com
@@ -90906,6 +90916,7 @@ www.tv-maniak.pl
 www.tv-store.net
 www.tv-zalukaj.pl
 www.tv69.com
+www.tvccpt.com
 www.tvmds.tvpassport.com
 www.tvmoviespoilers.com
 www.tvnowapp.net

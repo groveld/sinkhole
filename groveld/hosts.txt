@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 95944
-# Updated: 2026-06-05 02:52:16 UTC
+# Entries: 95955
+# Updated: 2026-06-06 02:47:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22199,6 +22199,7 @@
 0.0.0.0 clicz.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-events.inner-active.mobi
+0.0.0.0 client-logs-a.wbx2.com
 0.0.0.0 client-uc.heytapmobi.com
 0.0.0.0 client.475238-cb.com
 0.0.0.0 client.browseraccelerator.com
@@ -28647,6 +28648,7 @@
 0.0.0.0 events.engager.ecbsn.com
 0.0.0.0 events.engageya.com
 0.0.0.0 events.foreseeresults.com
+0.0.0.0 events.hotjar.io
 0.0.0.0 events.influencemobile.com
 0.0.0.0 events.kalooga.com
 0.0.0.0 events.kiosked.com
@@ -66310,6 +66312,7 @@
 0.0.0.0 wirtuozseksu.pl
 0.0.0.0 wirtvlg.oewabox.at
 0.0.0.0 wirusndiareoadksoa.site
+0.0.0.0 wirypaste.com
 0.0.0.0 wisconsincryptotaxprep.com
 0.0.0.0 wisdomminus.tanzabooks.com
 0.0.0.0 wise-lesson.com
@@ -69068,6 +69071,7 @@
 0.0.0.0 www.ambruso.org
 0.0.0.0 www.amcgheepublishing.com
 0.0.0.0 www.amedi.fixb2b.com
+0.0.0.0 www.amerenallieshvac.com
 0.0.0.0 www.american-prize-center.com
 0.0.0.0 www.americanbedrock.us
 0.0.0.0 www.americanewsdaily.org
@@ -70604,6 +70608,7 @@
 0.0.0.0 www.blueplanetlearning.com
 0.0.0.0 www.bluepoolgroup.com
 0.0.0.0 www.blueraventy.info
+0.0.0.0 www.blueridgecpp.com
 0.0.0.0 www.bluestreak.com
 0.0.0.0 www.bluetick-aurorafb-1001.vercel.app
 0.0.0.0 www.bluetickmanufacturkke.info
@@ -72604,6 +72609,7 @@
 0.0.0.0 www.cpx24.com
 0.0.0.0 www.cqcounter.com
 0.0.0.0 www.cqqst.com
+0.0.0.0 www.cqwallpaper.com
 0.0.0.0 www.cr8ivenest.co.uk
 0.0.0.0 www.crabtreeshome.org
 0.0.0.0 www.crackneed.tommyleonardjr.com
@@ -79019,6 +79025,7 @@
 0.0.0.0 www.jneck.com
 0.0.0.0 www.jnews5.com
 0.0.0.0 www.jnexus.com
+0.0.0.0 www.jnhjf.com
 0.0.0.0 www.jnhld.com
 0.0.0.0 www.jntct.com
 0.0.0.0 www.jnwsc.com
@@ -81346,6 +81353,7 @@
 0.0.0.0 www.midnightoro.info
 0.0.0.0 www.miekgosapro.cyou
 0.0.0.0 www.mietowki.shop
+0.0.0.0 www.mightpays.lol
 0.0.0.0 www.mighty-studies.com
 0.0.0.0 www.mightymagoo.com
 0.0.0.0 www.mikaeljigmo.com
@@ -85858,6 +85866,7 @@
 0.0.0.0 www.quarmelinta24.top
 0.0.0.0 www.quarmelitara.pro
 0.0.0.0 www.quarmelontiqa.pro
+0.0.0.0 www.quartersnorth.lat
 0.0.0.0 www.quartexindustries.com
 0.0.0.0 www.quartz-tide.com
 0.0.0.0 www.quarvions.com
@@ -87761,6 +87770,7 @@
 0.0.0.0 www.shoeviro.shop
 0.0.0.0 www.shogla.com
 0.0.0.0 www.shooshtimeinc.com
+0.0.0.0 www.shootingeffectively.skin
 0.0.0.0 www.shop-chewy.com
 0.0.0.0 www.shop-samsonite.top
 0.0.0.0 www.shop-titleboxing.com
@@ -90908,6 +90918,7 @@
 0.0.0.0 www.tv-store.net
 0.0.0.0 www.tv-zalukaj.pl
 0.0.0.0 www.tv69.com
+0.0.0.0 www.tvccpt.com
 0.0.0.0 www.tvmds.tvpassport.com
 0.0.0.0 www.tvmoviespoilers.com
 0.0.0.0 www.tvnowapp.net
