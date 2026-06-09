@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95837
-# Updated: 2026-06-08 02:56:06 UTC
+# Entries: 95840
+# Updated: 2026-06-09 02:46:42 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53394,6 +53394,7 @@ address=/safeora.shop/0.0.0.0
 address=/safepay2.interactivebrands.com/0.0.0.0
 address=/safepccleaner.com/0.0.0.0
 address=/safepower.sbs/0.0.0.0
+address=/safes.ru.com/0.0.0.0
 address=/safeurl.maxthon.cn/0.0.0.0
 address=/safora-cashflow.com/0.0.0.0
 address=/sagan.iad-03.braze.com/0.0.0.0
@@ -72298,6 +72299,7 @@ address=/www.connorheuer.com/0.0.0.0
 address=/www.conradfulbrookdesign.com/0.0.0.0
 address=/www.consciousnesswait.fstracking.com/0.0.0.0
 address=/www.consegold.best/0.0.0.0
+address=/www.conservativedeeper.garden/0.0.0.0
 address=/www.consomorning.sbs/0.0.0.0
 address=/www.consorswealth.com/0.0.0.0
 address=/www.conspcanva.cyou/0.0.0.0
@@ -88938,6 +88940,7 @@ address=/www.subtlesawfly.autos/0.0.0.0
 address=/www.subwayfast.com/0.0.0.0
 address=/www.successfulpanda.autos/0.0.0.0
 address=/www.successwithchrisbrothersmarketing.com/0.0.0.0
+address=/www.suchnasty.skin/0.0.0.0
 address=/www.suckdude.com/0.0.0.0
 address=/www.suddenemergency.com/0.0.0.0
 address=/www.sudokuwhiz.com/0.0.0.0

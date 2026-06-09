@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 95835
-# Updated: 2026-06-08 02:06:39 UTC
+# Entries: 95838
+# Updated: 2026-06-09 01:57:19 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53393,6 +53393,7 @@
 0.0.0.0 safepay2.interactivebrands.com
 0.0.0.0 safepccleaner.com
 0.0.0.0 safepower.sbs
+0.0.0.0 safes.ru.com
 0.0.0.0 safeurl.maxthon.cn
 0.0.0.0 safora-cashflow.com
 0.0.0.0 sagan.iad-03.braze.com
@@ -72297,6 +72298,7 @@
 0.0.0.0 www.conradfulbrookdesign.com
 0.0.0.0 www.consciousnesswait.fstracking.com
 0.0.0.0 www.consegold.best
+0.0.0.0 www.conservativedeeper.garden
 0.0.0.0 www.consomorning.sbs
 0.0.0.0 www.consorswealth.com
 0.0.0.0 www.conspcanva.cyou
@@ -88936,6 +88938,7 @@
 0.0.0.0 www.subwayfast.com
 0.0.0.0 www.successfulpanda.autos
 0.0.0.0 www.successwithchrisbrothersmarketing.com
+0.0.0.0 www.suchnasty.skin
 0.0.0.0 www.suckdude.com
 0.0.0.0 www.suddenemergency.com
 0.0.0.0 www.sudokuwhiz.com

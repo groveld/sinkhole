@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 95835
-! Updated: 2026-06-08 02:06:39 UTC
+! Entries: 95838
+! Updated: 2026-06-09 01:57:19 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53393,6 +53393,7 @@
 ||safepay2.interactivebrands.com^
 ||safepccleaner.com^
 ||safepower.sbs^
+||safes.ru.com^
 ||safeurl.maxthon.cn^
 ||safora-cashflow.com^
 ||sagan.iad-03.braze.com^
@@ -72297,6 +72298,7 @@
 ||www.conradfulbrookdesign.com^
 ||www.consciousnesswait.fstracking.com^
 ||www.consegold.best^
+||www.conservativedeeper.garden^
 ||www.consomorning.sbs^
 ||www.consorswealth.com^
 ||www.conspcanva.cyou^
@@ -88936,6 +88938,7 @@
 ||www.subwayfast.com^
 ||www.successfulpanda.autos^
 ||www.successwithchrisbrothersmarketing.com^
+||www.suchnasty.skin^
 ||www.suckdude.com^
 ||www.suddenemergency.com^
 ||www.sudokuwhiz.com^

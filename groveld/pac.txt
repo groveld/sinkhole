@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95837
-// Updated: 2026-06-08 02:56:06 UTC
+// Entries: 95840
+// Updated: 2026-06-09 02:46:42 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53395,6 +53395,7 @@ var BLOCKLIST = {
 "safepay2.interactivebrands.com":null,
 "safepccleaner.com":null,
 "safepower.sbs":null,
+"safes.ru.com":null,
 "safeurl.maxthon.cn":null,
 "safora-cashflow.com":null,
 "sagan.iad-03.braze.com":null,
@@ -72299,6 +72300,7 @@ var BLOCKLIST = {
 "www.conradfulbrookdesign.com":null,
 "www.consciousnesswait.fstracking.com":null,
 "www.consegold.best":null,
+"www.conservativedeeper.garden":null,
 "www.consomorning.sbs":null,
 "www.consorswealth.com":null,
 "www.conspcanva.cyou":null,
@@ -88939,6 +88941,7 @@ var BLOCKLIST = {
 "www.subwayfast.com":null,
 "www.successfulpanda.autos":null,
 "www.successwithchrisbrothersmarketing.com":null,
+"www.suchnasty.skin":null,
 "www.suckdude.com":null,
 "www.suddenemergency.com":null,
 "www.sudokuwhiz.com":null,
