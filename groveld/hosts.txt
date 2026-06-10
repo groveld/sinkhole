@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 95840
-# Updated: 2026-06-09 02:46:42 UTC
+# Entries: 95846
+# Updated: 2026-06-10 02:52:15 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24296,6 +24296,7 @@
 0.0.0.0 cyathaster.cyou
 0.0.0.0 cyber-fuck.com
 0.0.0.0 cyber-shop.net
+0.0.0.0 cyber20.com
 0.0.0.0 cyberagent.122.2o7.net
 0.0.0.0 cyberbounty.com
 0.0.0.0 cyberdefender.122.2o7.net
@@ -36356,6 +36357,7 @@
 0.0.0.0 izar.iad-03.braze.com
 0.0.0.0 izarc.fr
 0.0.0.0 izcih.com
+0.0.0.0 izcle.com
 0.0.0.0 izli.fr
 0.0.0.0 izmiresernakliyat.com
 0.0.0.0 izmirserviskapinda.com
@@ -51016,6 +51018,7 @@
 0.0.0.0 rachelstevens.sexybabesx.com
 0.0.0.0 rachelweisz.sexybabesx.com
 0.0.0.0 rachelwicks.net
+0.0.0.0 racingfamilyvillage.com
 0.0.0.0 rackforstorage.com
 0.0.0.0 rad.live.com
 0.0.0.0 rad.msn.com
@@ -60115,6 +60118,7 @@
 0.0.0.0 test.com
 0.0.0.0 test.coremetrics.com
 0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 test.gutir.ru
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 test.tns-cs.net
@@ -79352,6 +79356,7 @@
 0.0.0.0 www.ken-crawford.com
 0.0.0.0 www.kenaiflighttraining.com
 0.0.0.0 www.kenclark.shop
+0.0.0.0 www.kencorporation.property
 0.0.0.0 www.kendininterapistiol.com
 0.0.0.0 www.kengraetz.org
 0.0.0.0 www.kenilworthlane.eu
@@ -91111,6 +91116,7 @@
 0.0.0.0 www.underglazestitooanically.info
 0.0.0.0 www.underish.quest
 0.0.0.0 www.underleycorner.eu
+0.0.0.0 www.underobviously.garden
 0.0.0.0 www.undersowedlejjctureship.info
 0.0.0.0 www.undertonenetworks.com
 0.0.0.0 www.undervelcro.com

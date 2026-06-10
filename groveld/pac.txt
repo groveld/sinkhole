@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95840
-// Updated: 2026-06-09 02:46:42 UTC
+// Entries: 95846
+// Updated: 2026-06-10 02:52:15 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24297,6 +24297,7 @@ var BLOCKLIST = {
 "cyathaster.cyou":null,
 "cyber-fuck.com":null,
 "cyber-shop.net":null,
+"cyber20.com":null,
 "cyberagent.122.2o7.net":null,
 "cyberbounty.com":null,
 "cyberdefender.122.2o7.net":null,
@@ -36357,6 +36358,7 @@ var BLOCKLIST = {
 "izar.iad-03.braze.com":null,
 "izarc.fr":null,
 "izcih.com":null,
+"izcle.com":null,
 "izli.fr":null,
 "izmiresernakliyat.com":null,
 "izmirserviskapinda.com":null,
@@ -51017,6 +51019,7 @@ var BLOCKLIST = {
 "rachelstevens.sexybabesx.com":null,
 "rachelweisz.sexybabesx.com":null,
 "rachelwicks.net":null,
+"racingfamilyvillage.com":null,
 "rackforstorage.com":null,
 "rad.live.com":null,
 "rad.msn.com":null,
@@ -60116,6 +60119,7 @@ var BLOCKLIST = {
 "test.com":null,
 "test.coremetrics.com":null,
 "test.e.ad.xiaomi.com":null,
+"test.gutir.ru":null,
 "test.ishvara-yoga.com":null,
 "test.peperoncinochepassione.it":null,
 "test.tns-cs.net":null,
@@ -79353,6 +79357,7 @@ var BLOCKLIST = {
 "www.ken-crawford.com":null,
 "www.kenaiflighttraining.com":null,
 "www.kenclark.shop":null,
+"www.kencorporation.property":null,
 "www.kendininterapistiol.com":null,
 "www.kengraetz.org":null,
 "www.kenilworthlane.eu":null,
@@ -91112,6 +91117,7 @@ var BLOCKLIST = {
 "www.underglazestitooanically.info":null,
 "www.underish.quest":null,
 "www.underleycorner.eu":null,
+"www.underobviously.garden":null,
 "www.undersowedlejjctureship.info":null,
 "www.undertonenetworks.com":null,
 "www.undervelcro.com":null,

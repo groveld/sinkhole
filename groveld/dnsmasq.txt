@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95840
-# Updated: 2026-06-09 02:46:42 UTC
+# Entries: 95846
+# Updated: 2026-06-10 02:52:15 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24296,6 +24296,7 @@ address=/cyarqn-fp.myshopify.com/0.0.0.0
 address=/cyathaster.cyou/0.0.0.0
 address=/cyber-fuck.com/0.0.0.0
 address=/cyber-shop.net/0.0.0.0
+address=/cyber20.com/0.0.0.0
 address=/cyberagent.122.2o7.net/0.0.0.0
 address=/cyberbounty.com/0.0.0.0
 address=/cyberdefender.122.2o7.net/0.0.0.0
@@ -36356,6 +36357,7 @@ address=/izalukaj.pl/0.0.0.0
 address=/izar.iad-03.braze.com/0.0.0.0
 address=/izarc.fr/0.0.0.0
 address=/izcih.com/0.0.0.0
+address=/izcle.com/0.0.0.0
 address=/izli.fr/0.0.0.0
 address=/izmiresernakliyat.com/0.0.0.0
 address=/izmirserviskapinda.com/0.0.0.0
@@ -51016,6 +51018,7 @@ address=/rachelmcadams.sexybabesx.com/0.0.0.0
 address=/rachelstevens.sexybabesx.com/0.0.0.0
 address=/rachelweisz.sexybabesx.com/0.0.0.0
 address=/rachelwicks.net/0.0.0.0
+address=/racingfamilyvillage.com/0.0.0.0
 address=/rackforstorage.com/0.0.0.0
 address=/rad.live.com/0.0.0.0
 address=/rad.msn.com/0.0.0.0
@@ -60115,6 +60118,7 @@ address=/test.ad.xiaomi.com/0.0.0.0
 address=/test.com/0.0.0.0
 address=/test.coremetrics.com/0.0.0.0
 address=/test.e.ad.xiaomi.com/0.0.0.0
+address=/test.gutir.ru/0.0.0.0
 address=/test.ishvara-yoga.com/0.0.0.0
 address=/test.peperoncinochepassione.it/0.0.0.0
 address=/test.tns-cs.net/0.0.0.0
@@ -79352,6 +79356,7 @@ address=/www.kelzavo.shop/0.0.0.0
 address=/www.ken-crawford.com/0.0.0.0
 address=/www.kenaiflighttraining.com/0.0.0.0
 address=/www.kenclark.shop/0.0.0.0
+address=/www.kencorporation.property/0.0.0.0
 address=/www.kendininterapistiol.com/0.0.0.0
 address=/www.kengraetz.org/0.0.0.0
 address=/www.kenilworthlane.eu/0.0.0.0
@@ -91111,6 +91116,7 @@ address=/www.underdeal.shop/0.0.0.0
 address=/www.underglazestitooanically.info/0.0.0.0
 address=/www.underish.quest/0.0.0.0
 address=/www.underleycorner.eu/0.0.0.0
+address=/www.underobviously.garden/0.0.0.0
 address=/www.undersowedlejjctureship.info/0.0.0.0
 address=/www.undertonenetworks.com/0.0.0.0
 address=/www.undervelcro.com/0.0.0.0
