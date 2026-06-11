@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 95843
-// Updated: 2026-06-10 02:02:52 UTC
+// Entries: 95846
+// Updated: 2026-06-11 02:05:13 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -60118,6 +60118,7 @@ var BLOCKLIST = {
 "test.com":null,
 "test.coremetrics.com":null,
 "test.e.ad.xiaomi.com":null,
+"test.gutir.ru":null,
 "test.ishvara-yoga.com":null,
 "test.peperoncinochepassione.it":null,
 "test.tns-cs.net":null,
@@ -73926,6 +73927,7 @@ var BLOCKLIST = {
 "www.dztqc.com":null,
 "www.dzyjf.net":null,
 "www.dzzrenjanin.rs":null,
+"www.dzzzsc.com":null,
 "www.e-3txp.site":null,
 "www.e-agripass.info":null,
 "www.e-bahce.com":null,
@@ -83890,6 +83892,7 @@ var BLOCKLIST = {
 "www.pdrill.com":null,
 "www.pdtki.com":null,
 "www.pdxpride.com":null,
+"www.pdxsenior.com":null,
 "www.peaceandpassage.org":null,
 "www.peacecountrysimmentals.com":null,
 "www.peaceful-funds.com":null,

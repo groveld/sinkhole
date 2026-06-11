@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 95843
-! Updated: 2026-06-10 02:02:52 UTC
+! Entries: 95846
+! Updated: 2026-06-11 02:05:13 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -60117,6 +60117,7 @@
 ||test.com^
 ||test.coremetrics.com^
 ||test.e.ad.xiaomi.com^
+||test.gutir.ru^
 ||test.ishvara-yoga.com^
 ||test.peperoncinochepassione.it^
 ||test.tns-cs.net^
@@ -73925,6 +73926,7 @@
 ||www.dztqc.com^
 ||www.dzyjf.net^
 ||www.dzzrenjanin.rs^
+||www.dzzzsc.com^
 ||www.e-3txp.site^
 ||www.e-agripass.info^
 ||www.e-bahce.com^
@@ -83889,6 +83891,7 @@
 ||www.pdrill.com^
 ||www.pdtki.com^
 ||www.pdxpride.com^
+||www.pdxsenior.com^
 ||www.peaceandpassage.org^
 ||www.peacecountrysimmentals.com^
 ||www.peaceful-funds.com^

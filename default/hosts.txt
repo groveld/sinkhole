@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 95843
-# Updated: 2026-06-10 02:02:52 UTC
+# Entries: 95846
+# Updated: 2026-06-11 02:05:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -60117,6 +60117,7 @@
 0.0.0.0 test.com
 0.0.0.0 test.coremetrics.com
 0.0.0.0 test.e.ad.xiaomi.com
+0.0.0.0 test.gutir.ru
 0.0.0.0 test.ishvara-yoga.com
 0.0.0.0 test.peperoncinochepassione.it
 0.0.0.0 test.tns-cs.net
@@ -73925,6 +73926,7 @@
 0.0.0.0 www.dztqc.com
 0.0.0.0 www.dzyjf.net
 0.0.0.0 www.dzzrenjanin.rs
+0.0.0.0 www.dzzzsc.com
 0.0.0.0 www.e-3txp.site
 0.0.0.0 www.e-agripass.info
 0.0.0.0 www.e-bahce.com
@@ -83889,6 +83891,7 @@
 0.0.0.0 www.pdrill.com
 0.0.0.0 www.pdtki.com
 0.0.0.0 www.pdxpride.com
+0.0.0.0 www.pdxsenior.com
 0.0.0.0 www.peaceandpassage.org
 0.0.0.0 www.peacecountrysimmentals.com
 0.0.0.0 www.peaceful-funds.com
