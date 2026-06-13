@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 97318
-// Updated: 2026-06-12 02:08:15 UTC
+// Entries: 97320
+// Updated: 2026-06-13 02:06:19 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -89384,6 +89384,7 @@ var BLOCKLIST = {
 "www.spiradelet.cyou":null,
 "www.spirals-of-life.com":null,
 "www.spire-education.com":null,
+"www.spiritentertainment.homes":null,
 "www.spirittherb.myallergyalert.com":null,
 "www.spirotipif.cyou":null,
 "www.spirulinplus.pl":null,
@@ -93987,6 +93988,7 @@ var BLOCKLIST = {
 "www.wfaci.appveni.com":null,
 "www.wfreau.com":null,
 "www.wgixa.com":null,
+"www.wgmarketingdigital.com":null,
 "www.wgriny.servboss.com":null,
 "www.wgtao.com":null,
 "www.whalecashads.com":null,

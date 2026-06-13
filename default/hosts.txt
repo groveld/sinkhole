@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 97318
-# Updated: 2026-06-12 02:08:15 UTC
+# Entries: 97320
+# Updated: 2026-06-13 02:06:19 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -89383,6 +89383,7 @@
 0.0.0.0 www.spiradelet.cyou
 0.0.0.0 www.spirals-of-life.com
 0.0.0.0 www.spire-education.com
+0.0.0.0 www.spiritentertainment.homes
 0.0.0.0 www.spirittherb.myallergyalert.com
 0.0.0.0 www.spirotipif.cyou
 0.0.0.0 www.spirulinplus.pl
@@ -93986,6 +93987,7 @@
 0.0.0.0 www.wfaci.appveni.com
 0.0.0.0 www.wfreau.com
 0.0.0.0 www.wgixa.com
+0.0.0.0 www.wgmarketingdigital.com
 0.0.0.0 www.wgriny.servboss.com
 0.0.0.0 www.wgtao.com
 0.0.0.0 www.whalecashads.com
