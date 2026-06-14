@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 97322
-# Updated: 2026-06-13 02:55:45 UTC
+# Entries: 97331
+# Updated: 2026-06-14 02:58:11 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27834,6 +27834,7 @@ address=/emodoinc.com/0.0.0.0
 address=/emonitor.takeit.cz/0.0.0.0
 address=/emonitoring-paczki.pl/0.0.0.0
 address=/emoticons.hotmsnnames.com/0.0.0.0
+address=/emperors.bunkerhilltradingco.info/0.0.0.0
 address=/empieintro.cyou/0.0.0.0
 address=/empikpl.dozoutlet.top/0.0.0.0
 address=/empiktravel.pl/0.0.0.0
@@ -39492,6 +39493,7 @@ address=/livrare42156.shop/0.0.0.0
 address=/livreral.fr/0.0.0.0
 address=/livrval.fr/0.0.0.0
 address=/livsffer.sa.com/0.0.0.0
+address=/livsfs.today/0.0.0.0
 address=/livtyler.sexybabesx.com/0.0.0.0
 address=/liwzx.com/0.0.0.0
 address=/lixxppinesses.info/0.0.0.0
@@ -41083,6 +41085,7 @@ address=/matchmyip.com/0.0.0.0
 address=/matchnet.st.sageanalyst.net/0.0.0.0
 address=/matchregi.com/0.0.0.0
 address=/matchukumquat.kenaiflighttraining.com/0.0.0.0
+address=/matchwomanreal.com/0.0.0.0
 address=/matematycznekupony.pl/0.0.0.0
 address=/material-ssl.mediav.com/0.0.0.0
 address=/material.mediav.com/0.0.0.0
@@ -52851,6 +52854,7 @@ address=/rranking6.ziyu.net/0.0.0.0
 address=/rranking7.ziyu.net/0.0.0.0
 address=/rranking8.ziyu.net/0.0.0.0
 address=/rranking9.ziyu.net/0.0.0.0
+address=/rrg2mrb.matchwomanreal.com/0.0.0.0
 address=/rrodt.com/0.0.0.0
 address=/rrpartners.122.2o7.net/0.0.0.0
 address=/rrtougao.com/0.0.0.0
@@ -56786,6 +56790,7 @@ address=/sofeminine.uk.intellitxt.com/0.0.0.0
 address=/soffiinvip.cyou/0.0.0.0
 address=/soffrblack.cyou/0.0.0.0
 address=/sofia.trustx.org/0.0.0.0
+address=/sofia.whatcaniseeinkiev.info/0.0.0.0
 address=/sofmap.112.2o7.net/0.0.0.0
 address=/sofrehaghd.com/0.0.0.0
 address=/soft-pebble.com/0.0.0.0
@@ -80408,6 +80413,7 @@ address=/www.kimsaul.shop/0.0.0.0
 address=/www.kindandcraft.eu/0.0.0.0
 address=/www.kindcornerstore.eu/0.0.0.0
 address=/www.kinderreading.info/0.0.0.0
+address=/www.kinderstampo.com/0.0.0.0
 address=/www.kindharborlane.eu/0.0.0.0
 address=/www.kindlane.eu/0.0.0.0
 address=/www.kindledger.eu/0.0.0.0
@@ -85875,6 +85881,7 @@ address=/www.potebonsku.com/0.0.0.0
 address=/www.potewonsku.com/0.0.0.0
 address=/www.pothosofficial.online/0.0.0.0
 address=/www.pottaglawfirm.com/0.0.0.0
+address=/www.poukladanyswiat.com/0.0.0.0
 address=/www.povegonsku.com/0.0.0.0
 address=/www.poverhdom.online/0.0.0.0
 address=/www.povstz.shop/0.0.0.0
@@ -92923,6 +92930,7 @@ address=/www.vaumubeetr.cyou/0.0.0.0
 address=/www.vavotel.com/0.0.0.0
 address=/www.vawerjirevasad.com/0.0.0.0
 address=/www.vbity.com/0.0.0.0
+address=/www.vbttech.com/0.0.0.0
 address=/www.vbuhrecdjnkrev.com/0.0.0.0
 address=/www.vcascc.eu/0.0.0.0
 address=/www.vceiods3ewqa.com/0.0.0.0
@@ -94787,6 +94795,7 @@ address=/www.yinyogahocasi.com/0.0.0.0
 address=/www.yip.su/0.0.0.0
 address=/www.yipici.com/0.0.0.0
 address=/www.yiqilai.com/0.0.0.0
+address=/www.yixiudn.com/0.0.0.0
 address=/www.yiyny.com/0.0.0.0
 address=/www.yjayfhed.shop/0.0.0.0
 address=/www.yjdpf.com/0.0.0.0

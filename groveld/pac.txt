@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 97322
-// Updated: 2026-06-13 02:55:45 UTC
+// Entries: 97331
+// Updated: 2026-06-14 02:58:11 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27835,6 +27835,7 @@ var BLOCKLIST = {
 "emonitor.takeit.cz":null,
 "emonitoring-paczki.pl":null,
 "emoticons.hotmsnnames.com":null,
+"emperors.bunkerhilltradingco.info":null,
 "empieintro.cyou":null,
 "empikpl.dozoutlet.top":null,
 "empiktravel.pl":null,
@@ -39493,6 +39494,7 @@ var BLOCKLIST = {
 "livreral.fr":null,
 "livrval.fr":null,
 "livsffer.sa.com":null,
+"livsfs.today":null,
 "livtyler.sexybabesx.com":null,
 "liwzx.com":null,
 "lixxppinesses.info":null,
@@ -41084,6 +41086,7 @@ var BLOCKLIST = {
 "matchnet.st.sageanalyst.net":null,
 "matchregi.com":null,
 "matchukumquat.kenaiflighttraining.com":null,
+"matchwomanreal.com":null,
 "matematycznekupony.pl":null,
 "material-ssl.mediav.com":null,
 "material.mediav.com":null,
@@ -52852,6 +52855,7 @@ var BLOCKLIST = {
 "rranking7.ziyu.net":null,
 "rranking8.ziyu.net":null,
 "rranking9.ziyu.net":null,
+"rrg2mrb.matchwomanreal.com":null,
 "rrodt.com":null,
 "rrpartners.122.2o7.net":null,
 "rrtougao.com":null,
@@ -56787,6 +56791,7 @@ var BLOCKLIST = {
 "soffiinvip.cyou":null,
 "soffrblack.cyou":null,
 "sofia.trustx.org":null,
+"sofia.whatcaniseeinkiev.info":null,
 "sofmap.112.2o7.net":null,
 "sofrehaghd.com":null,
 "soft-pebble.com":null,
@@ -80409,6 +80414,7 @@ var BLOCKLIST = {
 "www.kindandcraft.eu":null,
 "www.kindcornerstore.eu":null,
 "www.kinderreading.info":null,
+"www.kinderstampo.com":null,
 "www.kindharborlane.eu":null,
 "www.kindlane.eu":null,
 "www.kindledger.eu":null,
@@ -85876,6 +85882,7 @@ var BLOCKLIST = {
 "www.potewonsku.com":null,
 "www.pothosofficial.online":null,
 "www.pottaglawfirm.com":null,
+"www.poukladanyswiat.com":null,
 "www.povegonsku.com":null,
 "www.poverhdom.online":null,
 "www.povstz.shop":null,
@@ -92924,6 +92931,7 @@ var BLOCKLIST = {
 "www.vavotel.com":null,
 "www.vawerjirevasad.com":null,
 "www.vbity.com":null,
+"www.vbttech.com":null,
 "www.vbuhrecdjnkrev.com":null,
 "www.vcascc.eu":null,
 "www.vceiods3ewqa.com":null,
@@ -94788,6 +94796,7 @@ var BLOCKLIST = {
 "www.yip.su":null,
 "www.yipici.com":null,
 "www.yiqilai.com":null,
+"www.yixiudn.com":null,
 "www.yiyny.com":null,
 "www.yjayfhed.shop":null,
 "www.yjdpf.com":null,

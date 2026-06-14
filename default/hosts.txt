@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 97320
-# Updated: 2026-06-13 02:06:19 UTC
+# Entries: 97328
+# Updated: 2026-06-14 02:08:44 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27834,6 +27834,7 @@
 0.0.0.0 emonitor.takeit.cz
 0.0.0.0 emonitoring-paczki.pl
 0.0.0.0 emoticons.hotmsnnames.com
+0.0.0.0 emperors.bunkerhilltradingco.info
 0.0.0.0 empieintro.cyou
 0.0.0.0 empikpl.dozoutlet.top
 0.0.0.0 empiktravel.pl
@@ -39491,6 +39492,7 @@
 0.0.0.0 livreral.fr
 0.0.0.0 livrval.fr
 0.0.0.0 livsffer.sa.com
+0.0.0.0 livsfs.today
 0.0.0.0 livtyler.sexybabesx.com
 0.0.0.0 liwzx.com
 0.0.0.0 lixxppinesses.info
@@ -41082,6 +41084,7 @@
 0.0.0.0 matchnet.st.sageanalyst.net
 0.0.0.0 matchregi.com
 0.0.0.0 matchukumquat.kenaiflighttraining.com
+0.0.0.0 matchwomanreal.com
 0.0.0.0 matematycznekupony.pl
 0.0.0.0 material-ssl.mediav.com
 0.0.0.0 material.mediav.com
@@ -51926,7 +51929,6 @@
 0.0.0.0 removearrest.com
 0.0.0.0 removelabs.org
 0.0.0.0 removiov.com
-0.0.0.0 remox.com
 0.0.0.0 renacernaturalproducts.com
 0.0.0.0 renacious.nwwadq.cn
 0.0.0.0 rencontreavenue.com
@@ -52850,6 +52852,7 @@
 0.0.0.0 rranking7.ziyu.net
 0.0.0.0 rranking8.ziyu.net
 0.0.0.0 rranking9.ziyu.net
+0.0.0.0 rrg2mrb.matchwomanreal.com
 0.0.0.0 rrodt.com
 0.0.0.0 rrpartners.122.2o7.net
 0.0.0.0 rrtougao.com
@@ -56785,6 +56788,7 @@
 0.0.0.0 soffiinvip.cyou
 0.0.0.0 soffrblack.cyou
 0.0.0.0 sofia.trustx.org
+0.0.0.0 sofia.whatcaniseeinkiev.info
 0.0.0.0 sofmap.112.2o7.net
 0.0.0.0 sofrehaghd.com
 0.0.0.0 soft-pebble.com
@@ -80406,6 +80410,7 @@
 0.0.0.0 www.kindandcraft.eu
 0.0.0.0 www.kindcornerstore.eu
 0.0.0.0 www.kinderreading.info
+0.0.0.0 www.kinderstampo.com
 0.0.0.0 www.kindharborlane.eu
 0.0.0.0 www.kindlane.eu
 0.0.0.0 www.kindledger.eu
@@ -85873,6 +85878,7 @@
 0.0.0.0 www.potewonsku.com
 0.0.0.0 www.pothosofficial.online
 0.0.0.0 www.pottaglawfirm.com
+0.0.0.0 www.poukladanyswiat.com
 0.0.0.0 www.povegonsku.com
 0.0.0.0 www.poverhdom.online
 0.0.0.0 www.povstz.shop
@@ -92921,6 +92927,7 @@
 0.0.0.0 www.vavotel.com
 0.0.0.0 www.vawerjirevasad.com
 0.0.0.0 www.vbity.com
+0.0.0.0 www.vbttech.com
 0.0.0.0 www.vbuhrecdjnkrev.com
 0.0.0.0 www.vcascc.eu
 0.0.0.0 www.vceiods3ewqa.com
@@ -94785,6 +94792,7 @@
 0.0.0.0 www.yip.su
 0.0.0.0 www.yipici.com
 0.0.0.0 www.yiqilai.com
+0.0.0.0 www.yixiudn.com
 0.0.0.0 www.yiyny.com
 0.0.0.0 www.yjayfhed.shop
 0.0.0.0 www.yjdpf.com
