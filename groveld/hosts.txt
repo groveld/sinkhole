@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 97331
-# Updated: 2026-06-14 02:58:11 UTC
+# Entries: 97333
+# Updated: 2026-06-15 03:01:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -30439,6 +30439,7 @@
 0.0.0.0 fortpom.com
 0.0.0.0 fortrade.com
 0.0.0.0 fortrating.top
+0.0.0.0 fortress.anhcs.info
 0.0.0.0 fortrush.pro
 0.0.0.0 fortsave.top
 0.0.0.0 fortscore.org
@@ -52072,6 +52073,7 @@
 0.0.0.0 reservedsales-pl.shop
 0.0.0.0 reservetool.com
 0.0.0.0 resetcibc-logincibc.com
+0.0.0.0 residence.bunkerhilltradingco.info
 0.0.0.0 resimlicvornekleri.com
 0.0.0.0 resize.mantisadnetwork.com
 0.0.0.0 resizer.mantisadnetwork.com

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 97328
-# Updated: 2026-06-14 02:08:44 UTC
+# Entries: 97331
+# Updated: 2026-06-15 02:11:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -30439,6 +30439,7 @@ address=/fortpit.com/0.0.0.0
 address=/fortpom.com/0.0.0.0
 address=/fortrade.com/0.0.0.0
 address=/fortrating.top/0.0.0.0
+address=/fortress.anhcs.info/0.0.0.0
 address=/fortrush.pro/0.0.0.0
 address=/fortsave.top/0.0.0.0
 address=/fortscore.org/0.0.0.0
@@ -51929,6 +51930,7 @@ address=/remove-ads.xyz/0.0.0.0
 address=/removearrest.com/0.0.0.0
 address=/removelabs.org/0.0.0.0
 address=/removiov.com/0.0.0.0
+address=/remox.com/0.0.0.0
 address=/renacernaturalproducts.com/0.0.0.0
 address=/renacious.nwwadq.cn/0.0.0.0
 address=/rencontreavenue.com/0.0.0.0
@@ -52070,6 +52072,7 @@ address=/reservedsa.shop/0.0.0.0
 address=/reservedsales-pl.shop/0.0.0.0
 address=/reservetool.com/0.0.0.0
 address=/resetcibc-logincibc.com/0.0.0.0
+address=/residence.bunkerhilltradingco.info/0.0.0.0
 address=/resimlicvornekleri.com/0.0.0.0
 address=/resize.mantisadnetwork.com/0.0.0.0
 address=/resizer.mantisadnetwork.com/0.0.0.0

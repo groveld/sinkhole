@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 97331
-! Updated: 2026-06-14 02:58:11 UTC
+! Entries: 97333
+! Updated: 2026-06-15 03:01:13 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -30439,6 +30439,7 @@
 ||fortpom.com^
 ||fortrade.com^
 ||fortrating.top^
+||fortress.anhcs.info^
 ||fortrush.pro^
 ||fortsave.top^
 ||fortscore.org^
@@ -52072,6 +52073,7 @@
 ||reservedsales-pl.shop^
 ||reservetool.com^
 ||resetcibc-logincibc.com^
+||residence.bunkerhilltradingco.info^
 ||resimlicvornekleri.com^
 ||resize.mantisadnetwork.com^
 ||resizer.mantisadnetwork.com^

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 97331
-// Updated: 2026-06-14 02:58:11 UTC
+// Entries: 97333
+// Updated: 2026-06-15 03:01:13 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -30440,6 +30440,7 @@ var BLOCKLIST = {
 "fortpom.com":null,
 "fortrade.com":null,
 "fortrating.top":null,
+"fortress.anhcs.info":null,
 "fortrush.pro":null,
 "fortsave.top":null,
 "fortscore.org":null,
@@ -52073,6 +52074,7 @@ var BLOCKLIST = {
 "reservedsales-pl.shop":null,
 "reservetool.com":null,
 "resetcibc-logincibc.com":null,
+"residence.bunkerhilltradingco.info":null,
 "resimlicvornekleri.com":null,
 "resize.mantisadnetwork.com":null,
 "resizer.mantisadnetwork.com":null,
