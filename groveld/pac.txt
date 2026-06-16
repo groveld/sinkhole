@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 97333
-// Updated: 2026-06-15 03:01:13 UTC
+// Entries: 97339
+// Updated: 2026-06-16 03:02:06 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -77116,6 +77116,7 @@ var BLOCKLIST = {
 "www.gagsrw628-jbnsac539.courseplane.su":null,
 "www.gahili-vizike.info":null,
 "www.gaiaretailer.shop":null,
+"www.gaicodon.com":null,
 "www.gainwintz.com":null,
 "www.gaja79.com":null,
 "www.galacticdev.info":null,
@@ -79654,6 +79655,7 @@ var BLOCKLIST = {
 "www.ivyharbor.eu":null,
 "www.ivyjudith.shop":null,
 "www.iwaikin.com":null,
+"www.iwantclothing.com":null,
 "www.iwantporn.info":null,
 "www.iwanttodeliver.com":null,
 "www.iwd46.icu":null,
@@ -81664,6 +81666,7 @@ var BLOCKLIST = {
 "www.luvver.pl":null,
 "www.luweteo.com":null,
 "www.luxavre.com":null,
+"www.luxeforher.com":null,
 "www.luxelayer.shop":null,
 "www.luxemil.com":null,
 "www.luxetra.shop":null,
@@ -89134,6 +89137,7 @@ var BLOCKLIST = {
 "www.sociquo.com":null,
 "www.sockshock.com":null,
 "www.socksonclick.com":null,
+"www.soctoni.com":null,
 "www.soczyste-kobiety.pl":null,
 "www.soczyste-milfy.com":null,
 "www.soczystemilfy.com":null,
@@ -91382,6 +91386,7 @@ var BLOCKLIST = {
 "www.theshoestring.shop":null,
 "www.theshoestringshop.shop":null,
 "www.theshyp.top":null,
+"www.theskinnyschool.com":null,
 "www.theslidehub.shop":null,
 "www.theslingvault.shop":null,
 "www.thesocialmarket.us":null,
@@ -94007,6 +94012,7 @@ var BLOCKLIST = {
 "www.whana-gonnyx.com":null,
 "www.whatmarketsdid.com":null,
 "www.whatpornsite.com":null,
+"www.whatsappvido.com":null,
 "www.whatsfind.com":null,
 "www.whatsitsnameaui.pro":null,
 "www.wheelcomet.origlnals-diplomas.com":null,

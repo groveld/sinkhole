@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 97331
-# Updated: 2026-06-15 02:11:46 UTC
+# Entries: 97337
+# Updated: 2026-06-16 02:12:40 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -77114,6 +77114,7 @@ address=/www.gagospelmusic.com/0.0.0.0
 address=/www.gagsrw628-jbnsac539.courseplane.su/0.0.0.0
 address=/www.gahili-vizike.info/0.0.0.0
 address=/www.gaiaretailer.shop/0.0.0.0
+address=/www.gaicodon.com/0.0.0.0
 address=/www.gainwintz.com/0.0.0.0
 address=/www.gaja79.com/0.0.0.0
 address=/www.galacticdev.info/0.0.0.0
@@ -79651,6 +79652,7 @@ address=/www.ivybridgehome.eu/0.0.0.0
 address=/www.ivyharbor.eu/0.0.0.0
 address=/www.ivyjudith.shop/0.0.0.0
 address=/www.iwaikin.com/0.0.0.0
+address=/www.iwantclothing.com/0.0.0.0
 address=/www.iwantporn.info/0.0.0.0
 address=/www.iwanttodeliver.com/0.0.0.0
 address=/www.iwd46.icu/0.0.0.0
@@ -81661,6 +81663,7 @@ address=/www.luvienserthyn.shop/0.0.0.0
 address=/www.luvver.pl/0.0.0.0
 address=/www.luweteo.com/0.0.0.0
 address=/www.luxavre.com/0.0.0.0
+address=/www.luxeforher.com/0.0.0.0
 address=/www.luxelayer.shop/0.0.0.0
 address=/www.luxemil.com/0.0.0.0
 address=/www.luxetra.shop/0.0.0.0
@@ -89131,6 +89134,7 @@ address=/www.socialtapworks.com/0.0.0.0
 address=/www.sociquo.com/0.0.0.0
 address=/www.sockshock.com/0.0.0.0
 address=/www.socksonclick.com/0.0.0.0
+address=/www.soctoni.com/0.0.0.0
 address=/www.soczyste-kobiety.pl/0.0.0.0
 address=/www.soczyste-milfy.com/0.0.0.0
 address=/www.soczystemilfy.com/0.0.0.0
@@ -91379,6 +91383,7 @@ address=/www.theshoelover.shop/0.0.0.0
 address=/www.theshoestring.shop/0.0.0.0
 address=/www.theshoestringshop.shop/0.0.0.0
 address=/www.theshyp.top/0.0.0.0
+address=/www.theskinnyschool.com/0.0.0.0
 address=/www.theslidehub.shop/0.0.0.0
 address=/www.theslingvault.shop/0.0.0.0
 address=/www.thesocialmarket.us/0.0.0.0
@@ -94004,6 +94009,7 @@ address=/www.whalecashads.com/0.0.0.0
 address=/www.whana-gonnyx.com/0.0.0.0
 address=/www.whatmarketsdid.com/0.0.0.0
 address=/www.whatpornsite.com/0.0.0.0
+address=/www.whatsappvido.com/0.0.0.0
 address=/www.whatsfind.com/0.0.0.0
 address=/www.whatsitsnameaui.pro/0.0.0.0
 address=/www.wheelcomet.origlnals-diplomas.com/0.0.0.0

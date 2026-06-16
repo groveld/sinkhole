@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 97333
-# Updated: 2026-06-15 03:01:13 UTC
+# Entries: 97339
+# Updated: 2026-06-16 03:02:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -77115,6 +77115,7 @@
 0.0.0.0 www.gagsrw628-jbnsac539.courseplane.su
 0.0.0.0 www.gahili-vizike.info
 0.0.0.0 www.gaiaretailer.shop
+0.0.0.0 www.gaicodon.com
 0.0.0.0 www.gainwintz.com
 0.0.0.0 www.gaja79.com
 0.0.0.0 www.galacticdev.info
@@ -79653,6 +79654,7 @@
 0.0.0.0 www.ivyharbor.eu
 0.0.0.0 www.ivyjudith.shop
 0.0.0.0 www.iwaikin.com
+0.0.0.0 www.iwantclothing.com
 0.0.0.0 www.iwantporn.info
 0.0.0.0 www.iwanttodeliver.com
 0.0.0.0 www.iwd46.icu
@@ -81663,6 +81665,7 @@
 0.0.0.0 www.luvver.pl
 0.0.0.0 www.luweteo.com
 0.0.0.0 www.luxavre.com
+0.0.0.0 www.luxeforher.com
 0.0.0.0 www.luxelayer.shop
 0.0.0.0 www.luxemil.com
 0.0.0.0 www.luxetra.shop
@@ -89133,6 +89136,7 @@
 0.0.0.0 www.sociquo.com
 0.0.0.0 www.sockshock.com
 0.0.0.0 www.socksonclick.com
+0.0.0.0 www.soctoni.com
 0.0.0.0 www.soczyste-kobiety.pl
 0.0.0.0 www.soczyste-milfy.com
 0.0.0.0 www.soczystemilfy.com
@@ -91381,6 +91385,7 @@
 0.0.0.0 www.theshoestring.shop
 0.0.0.0 www.theshoestringshop.shop
 0.0.0.0 www.theshyp.top
+0.0.0.0 www.theskinnyschool.com
 0.0.0.0 www.theslidehub.shop
 0.0.0.0 www.theslingvault.shop
 0.0.0.0 www.thesocialmarket.us
@@ -94006,6 +94011,7 @@
 0.0.0.0 www.whana-gonnyx.com
 0.0.0.0 www.whatmarketsdid.com
 0.0.0.0 www.whatpornsite.com
+0.0.0.0 www.whatsappvido.com
 0.0.0.0 www.whatsfind.com
 0.0.0.0 www.whatsitsnameaui.pro
 0.0.0.0 www.wheelcomet.origlnals-diplomas.com
