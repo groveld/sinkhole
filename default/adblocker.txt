@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 97337
-! Updated: 2026-06-16 02:12:40 UTC
+! Entries: 97341
+! Updated: 2026-06-17 02:08:30 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -69924,6 +69924,7 @@
 ||www.any-load.com^
 ||www.anydrill.com^
 ||www.anyglot.com^
+||www.anyik.com^
 ||www.anyma-event.com^
 ||www.anynice.fencing-flow.com^
 ||www.anytimetowing.biz^
@@ -82050,6 +82051,7 @@
 ||www.medtecchina.com^
 ||www.medycznapolska.pl^
 ||www.medyumatusa.com^
+||www.meeseger.com^
 ||www.meet-emma.com^
 ||www.meetic-partners.com^
 ||www.meetonlyhot.com^
@@ -87006,6 +87008,7 @@
 ||www.registryfix.com^
 ||www.registrygenius.com^
 ||www.registrysweeper.com^
+||www.regulationprofit.bond^
 ||www.rehabilitant.rzeszow.re^
 ||www.rehberi.net^
 ||www.reifenquick.de^
@@ -94468,6 +94471,7 @@
 ||www.wwwrealator.com^
 ||www.wwwservicemerchandise.com^
 ||www.wwwtarget.com^
+||www.wwwtsg.com^
 ||www.wwwuproar.com^
 ||www.wwwwal-mart.com^
 ||www.wxems.com^

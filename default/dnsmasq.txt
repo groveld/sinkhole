@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 97337
-# Updated: 2026-06-16 02:12:40 UTC
+# Entries: 97341
+# Updated: 2026-06-17 02:08:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -69924,6 +69924,7 @@ address=/www.anxkg.com/0.0.0.0
 address=/www.any-load.com/0.0.0.0
 address=/www.anydrill.com/0.0.0.0
 address=/www.anyglot.com/0.0.0.0
+address=/www.anyik.com/0.0.0.0
 address=/www.anyma-event.com/0.0.0.0
 address=/www.anynice.fencing-flow.com/0.0.0.0
 address=/www.anytimetowing.biz/0.0.0.0
@@ -82050,6 +82051,7 @@ address=/www.medssicolegal.info/0.0.0.0
 address=/www.medtecchina.com/0.0.0.0
 address=/www.medycznapolska.pl/0.0.0.0
 address=/www.medyumatusa.com/0.0.0.0
+address=/www.meeseger.com/0.0.0.0
 address=/www.meet-emma.com/0.0.0.0
 address=/www.meetic-partners.com/0.0.0.0
 address=/www.meetonlyhot.com/0.0.0.0
@@ -87006,6 +87008,7 @@ address=/www.registrydefender.com/0.0.0.0
 address=/www.registryfix.com/0.0.0.0
 address=/www.registrygenius.com/0.0.0.0
 address=/www.registrysweeper.com/0.0.0.0
+address=/www.regulationprofit.bond/0.0.0.0
 address=/www.rehabilitant.rzeszow.re/0.0.0.0
 address=/www.rehberi.net/0.0.0.0
 address=/www.reifenquick.de/0.0.0.0
@@ -94468,6 +94471,7 @@ address=/www.wwwplaysite.com/0.0.0.0
 address=/www.wwwrealator.com/0.0.0.0
 address=/www.wwwservicemerchandise.com/0.0.0.0
 address=/www.wwwtarget.com/0.0.0.0
+address=/www.wwwtsg.com/0.0.0.0
 address=/www.wwwuproar.com/0.0.0.0
 address=/www.wwwwal-mart.com/0.0.0.0
 address=/www.wxems.com/0.0.0.0

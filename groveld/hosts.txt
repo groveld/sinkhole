@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 97339
-# Updated: 2026-06-16 03:02:06 UTC
+# Entries: 97343
+# Updated: 2026-06-17 02:58:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -69925,6 +69925,7 @@
 0.0.0.0 www.any-load.com
 0.0.0.0 www.anydrill.com
 0.0.0.0 www.anyglot.com
+0.0.0.0 www.anyik.com
 0.0.0.0 www.anyma-event.com
 0.0.0.0 www.anynice.fencing-flow.com
 0.0.0.0 www.anytimetowing.biz
@@ -82052,6 +82053,7 @@
 0.0.0.0 www.medtecchina.com
 0.0.0.0 www.medycznapolska.pl
 0.0.0.0 www.medyumatusa.com
+0.0.0.0 www.meeseger.com
 0.0.0.0 www.meet-emma.com
 0.0.0.0 www.meetic-partners.com
 0.0.0.0 www.meetonlyhot.com
@@ -87008,6 +87010,7 @@
 0.0.0.0 www.registryfix.com
 0.0.0.0 www.registrygenius.com
 0.0.0.0 www.registrysweeper.com
+0.0.0.0 www.regulationprofit.bond
 0.0.0.0 www.rehabilitant.rzeszow.re
 0.0.0.0 www.rehberi.net
 0.0.0.0 www.reifenquick.de
@@ -94470,6 +94473,7 @@
 0.0.0.0 www.wwwrealator.com
 0.0.0.0 www.wwwservicemerchandise.com
 0.0.0.0 www.wwwtarget.com
+0.0.0.0 www.wwwtsg.com
 0.0.0.0 www.wwwuproar.com
 0.0.0.0 www.wwwwal-mart.com
 0.0.0.0 www.wxems.com

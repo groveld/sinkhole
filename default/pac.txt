@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 97337
-// Updated: 2026-06-16 02:12:40 UTC
+// Entries: 97341
+// Updated: 2026-06-17 02:08:30 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -69925,6 +69925,7 @@ var BLOCKLIST = {
 "www.any-load.com":null,
 "www.anydrill.com":null,
 "www.anyglot.com":null,
+"www.anyik.com":null,
 "www.anyma-event.com":null,
 "www.anynice.fencing-flow.com":null,
 "www.anytimetowing.biz":null,
@@ -82051,6 +82052,7 @@ var BLOCKLIST = {
 "www.medtecchina.com":null,
 "www.medycznapolska.pl":null,
 "www.medyumatusa.com":null,
+"www.meeseger.com":null,
 "www.meet-emma.com":null,
 "www.meetic-partners.com":null,
 "www.meetonlyhot.com":null,
@@ -87007,6 +87009,7 @@ var BLOCKLIST = {
 "www.registryfix.com":null,
 "www.registrygenius.com":null,
 "www.registrysweeper.com":null,
+"www.regulationprofit.bond":null,
 "www.rehabilitant.rzeszow.re":null,
 "www.rehberi.net":null,
 "www.reifenquick.de":null,
@@ -94469,6 +94472,7 @@ var BLOCKLIST = {
 "www.wwwrealator.com":null,
 "www.wwwservicemerchandise.com":null,
 "www.wwwtarget.com":null,
+"www.wwwtsg.com":null,
 "www.wwwuproar.com":null,
 "www.wwwwal-mart.com":null,
 "www.wxems.com":null,
