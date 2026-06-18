@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 97343
-# Updated: 2026-06-17 02:58:00 UTC
+# Entries: 97349
+# Updated: 2026-06-18 02:56:17 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74091,6 +74091,7 @@ address=/www.digi-print.fr/0.0.0.0
 address=/www.digiaquascr.com/0.0.0.0
 address=/www.digibteresdigierdiservces.org/0.0.0.0
 address=/www.digimedia.com/0.0.0.0
+address=/www.digimininggame.com/0.0.0.0
 address=/www.digink.com/0.0.0.0
 address=/www.digipressioq.pro/0.0.0.0
 address=/www.digisubmission.com/0.0.0.0
@@ -81480,6 +81481,7 @@ address=/www.longtraffic.com/0.0.0.0
 address=/www.lonp57-vo80.m6vpey.cfd/0.0.0.0
 address=/www.lookbookco.shop/0.0.0.0
 address=/www.lookerifuhlo.com/0.0.0.0
+address=/www.lookimpression.beer/0.0.0.0
 address=/www.looking4fuck.com/0.0.0.0
 address=/www.lookino.shop/0.0.0.0
 address=/www.lookoutsoft.net/0.0.0.0
@@ -81538,6 +81540,7 @@ address=/www.lovestorymalatya.com/0.0.0.0
 address=/www.lovinvin.eu/0.0.0.0
 address=/www.lowelowe.pl/0.0.0.0
 address=/www.lowenfield.eu/0.0.0.0
+address=/www.lowestincreases.bond/0.0.0.0
 address=/www.lowisko-podolsze.pl/0.0.0.0
 address=/www.lowsale.top/0.0.0.0
 address=/www.loydhomelive.com/0.0.0.0
@@ -91314,6 +91317,7 @@ address=/www.theislandatlas.com/0.0.0.0
 address=/www.theithacavoice.com/0.0.0.0
 address=/www.thejhs.org/0.0.0.0
 address=/www.thekeencorner.shop/0.0.0.0
+address=/www.thelaferianews.com/0.0.0.0
 address=/www.thelittlegiftofhappiness.com/0.0.0.0
 address=/www.thelmsdev.com/0.0.0.0
 address=/www.theloaferlodge.shop/0.0.0.0
@@ -92210,6 +92214,7 @@ address=/www.tsldg.com/0.0.0.0
 address=/www.tsnrew.shop/0.0.0.0
 address=/www.tsygyd.com/0.0.0.0
 address=/www.tsywc.com/0.0.0.0
+address=/www.ttcgg.com/0.0.0.0
 address=/www.ttech.best/0.0.0.0
 address=/www.ttgpdldp.usw-1.sealos.app/0.0.0.0
 address=/www.tthseshop.myshoplaza.com/0.0.0.0
@@ -94272,6 +94277,7 @@ address=/www.womisouja.autos/0.0.0.0
 address=/www.wonderfullydays.com/0.0.0.0
 address=/www.wondertravelegypt.com/0.0.0.0
 address=/www.wonta.lat/0.0.0.0
+address=/www.wontake.skin/0.0.0.0
 address=/www.woocash.platformydisplus.pl/0.0.0.0
 address=/www.woodbeads.com/0.0.0.0
 address=/www.woodducksless.pro/0.0.0.0

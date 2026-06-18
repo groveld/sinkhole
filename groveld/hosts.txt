@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 97343
-# Updated: 2026-06-17 02:58:00 UTC
+# Entries: 97349
+# Updated: 2026-06-18 02:56:17 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74091,6 +74091,7 @@
 0.0.0.0 www.digiaquascr.com
 0.0.0.0 www.digibteresdigierdiservces.org
 0.0.0.0 www.digimedia.com
+0.0.0.0 www.digimininggame.com
 0.0.0.0 www.digink.com
 0.0.0.0 www.digipressioq.pro
 0.0.0.0 www.digisubmission.com
@@ -81480,6 +81481,7 @@
 0.0.0.0 www.lonp57-vo80.m6vpey.cfd
 0.0.0.0 www.lookbookco.shop
 0.0.0.0 www.lookerifuhlo.com
+0.0.0.0 www.lookimpression.beer
 0.0.0.0 www.looking4fuck.com
 0.0.0.0 www.lookino.shop
 0.0.0.0 www.lookoutsoft.net
@@ -81538,6 +81540,7 @@
 0.0.0.0 www.lovinvin.eu
 0.0.0.0 www.lowelowe.pl
 0.0.0.0 www.lowenfield.eu
+0.0.0.0 www.lowestincreases.bond
 0.0.0.0 www.lowisko-podolsze.pl
 0.0.0.0 www.lowsale.top
 0.0.0.0 www.loydhomelive.com
@@ -91314,6 +91317,7 @@
 0.0.0.0 www.theithacavoice.com
 0.0.0.0 www.thejhs.org
 0.0.0.0 www.thekeencorner.shop
+0.0.0.0 www.thelaferianews.com
 0.0.0.0 www.thelittlegiftofhappiness.com
 0.0.0.0 www.thelmsdev.com
 0.0.0.0 www.theloaferlodge.shop
@@ -92210,6 +92214,7 @@
 0.0.0.0 www.tsnrew.shop
 0.0.0.0 www.tsygyd.com
 0.0.0.0 www.tsywc.com
+0.0.0.0 www.ttcgg.com
 0.0.0.0 www.ttech.best
 0.0.0.0 www.ttgpdldp.usw-1.sealos.app
 0.0.0.0 www.tthseshop.myshoplaza.com
@@ -94272,6 +94277,7 @@
 0.0.0.0 www.wonderfullydays.com
 0.0.0.0 www.wondertravelegypt.com
 0.0.0.0 www.wonta.lat
+0.0.0.0 www.wontake.skin
 0.0.0.0 www.woocash.platformydisplus.pl
 0.0.0.0 www.woodbeads.com
 0.0.0.0 www.woodducksless.pro

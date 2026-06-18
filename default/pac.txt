@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 97341
-// Updated: 2026-06-17 02:08:30 UTC
+// Entries: 97347
+// Updated: 2026-06-18 02:06:55 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74091,6 +74091,7 @@ var BLOCKLIST = {
 "www.digiaquascr.com":null,
 "www.digibteresdigierdiservces.org":null,
 "www.digimedia.com":null,
+"www.digimininggame.com":null,
 "www.digink.com":null,
 "www.digipressioq.pro":null,
 "www.digisubmission.com":null,
@@ -81479,6 +81480,7 @@ var BLOCKLIST = {
 "www.lonp57-vo80.m6vpey.cfd":null,
 "www.lookbookco.shop":null,
 "www.lookerifuhlo.com":null,
+"www.lookimpression.beer":null,
 "www.looking4fuck.com":null,
 "www.lookino.shop":null,
 "www.lookoutsoft.net":null,
@@ -81537,6 +81539,7 @@ var BLOCKLIST = {
 "www.lovinvin.eu":null,
 "www.lowelowe.pl":null,
 "www.lowenfield.eu":null,
+"www.lowestincreases.bond":null,
 "www.lowisko-podolsze.pl":null,
 "www.lowsale.top":null,
 "www.loydhomelive.com":null,
@@ -91313,6 +91316,7 @@ var BLOCKLIST = {
 "www.theithacavoice.com":null,
 "www.thejhs.org":null,
 "www.thekeencorner.shop":null,
+"www.thelaferianews.com":null,
 "www.thelittlegiftofhappiness.com":null,
 "www.thelmsdev.com":null,
 "www.theloaferlodge.shop":null,
@@ -92209,6 +92213,7 @@ var BLOCKLIST = {
 "www.tsnrew.shop":null,
 "www.tsygyd.com":null,
 "www.tsywc.com":null,
+"www.ttcgg.com":null,
 "www.ttech.best":null,
 "www.ttgpdldp.usw-1.sealos.app":null,
 "www.tthseshop.myshoplaza.com":null,
@@ -94271,6 +94276,7 @@ var BLOCKLIST = {
 "www.wonderfullydays.com":null,
 "www.wondertravelegypt.com":null,
 "www.wonta.lat":null,
+"www.wontake.skin":null,
 "www.woocash.platformydisplus.pl":null,
 "www.woodbeads.com":null,
 "www.woodducksless.pro":null,
