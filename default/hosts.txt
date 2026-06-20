@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 96283
-# Updated: 2026-06-19 02:13:00 UTC
+# Entries: 96284
+# Updated: 2026-06-20 02:01:34 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -51315,7 +51315,6 @@
 0.0.0.0 remove-ads.xyz
 0.0.0.0 removearrest.com
 0.0.0.0 removiov.com
-0.0.0.0 remox.com
 0.0.0.0 rempaoffic.cyou
 0.0.0.0 renacious.nwwadq.cn
 0.0.0.0 rencontreavenue.com
@@ -81480,6 +81479,7 @@
 0.0.0.0 www.mixertromb.cyou
 0.0.0.0 www.mixeto.lovable.app
 0.0.0.0 www.mixmaxmedia.com
+0.0.0.0 www.mixsorts.garden
 0.0.0.0 www.miyazaki-catv.ne.jp
 0.0.0.0 www.miziko.com
 0.0.0.0 www.mjonkers.nl
@@ -87065,6 +87065,7 @@
 0.0.0.0 www.seealive.tutututorials.com
 0.0.0.0 www.seebel.lumenade-ltg.com
 0.0.0.0 www.seecream.felicianomeals.com
+0.0.0.0 www.seedschaos.garden
 0.0.0.0 www.seefas.gopamoja.com
 0.0.0.0 www.seehits.com
 0.0.0.0 www.seekbang.com

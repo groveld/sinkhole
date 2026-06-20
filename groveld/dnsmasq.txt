@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 96285
-# Updated: 2026-06-19 03:02:23 UTC
+# Entries: 96286
+# Updated: 2026-06-20 02:51:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -51316,7 +51316,6 @@ address=/remotead.cnet.com/0.0.0.0
 address=/remove-ads.xyz/0.0.0.0
 address=/removearrest.com/0.0.0.0
 address=/removiov.com/0.0.0.0
-address=/remox.com/0.0.0.0
 address=/rempaoffic.cyou/0.0.0.0
 address=/renacious.nwwadq.cn/0.0.0.0
 address=/rencontreavenue.com/0.0.0.0
@@ -81482,6 +81481,7 @@ address=/www.mixelmor.eu/0.0.0.0
 address=/www.mixertromb.cyou/0.0.0.0
 address=/www.mixeto.lovable.app/0.0.0.0
 address=/www.mixmaxmedia.com/0.0.0.0
+address=/www.mixsorts.garden/0.0.0.0
 address=/www.miyazaki-catv.ne.jp/0.0.0.0
 address=/www.miziko.com/0.0.0.0
 address=/www.mjonkers.nl/0.0.0.0
@@ -87067,6 +87067,7 @@ address=/www.sedyes.com/0.0.0.0
 address=/www.seealive.tutututorials.com/0.0.0.0
 address=/www.seebel.lumenade-ltg.com/0.0.0.0
 address=/www.seecream.felicianomeals.com/0.0.0.0
+address=/www.seedschaos.garden/0.0.0.0
 address=/www.seefas.gopamoja.com/0.0.0.0
 address=/www.seehits.com/0.0.0.0
 address=/www.seekbang.com/0.0.0.0

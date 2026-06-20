@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 96285
-! Updated: 2026-06-19 03:02:23 UTC
+! Entries: 96286
+! Updated: 2026-06-20 02:51:01 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -51316,7 +51316,6 @@
 ||remove-ads.xyz^
 ||removearrest.com^
 ||removiov.com^
-||remox.com^
 ||rempaoffic.cyou^
 ||renacious.nwwadq.cn^
 ||rencontreavenue.com^
@@ -81482,6 +81481,7 @@
 ||www.mixertromb.cyou^
 ||www.mixeto.lovable.app^
 ||www.mixmaxmedia.com^
+||www.mixsorts.garden^
 ||www.miyazaki-catv.ne.jp^
 ||www.miziko.com^
 ||www.mjonkers.nl^
@@ -87067,6 +87067,7 @@
 ||www.seealive.tutututorials.com^
 ||www.seebel.lumenade-ltg.com^
 ||www.seecream.felicianomeals.com^
+||www.seedschaos.garden^
 ||www.seefas.gopamoja.com^
 ||www.seehits.com^
 ||www.seekbang.com^
