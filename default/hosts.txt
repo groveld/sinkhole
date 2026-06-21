@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 96284
-# Updated: 2026-06-20 02:01:34 UTC
+# Entries: 96285
+# Updated: 2026-06-21 02:11:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22551,6 +22551,7 @@
 0.0.0.0 coleenhajcandles.com
 0.0.0.0 colisismo.fr
 0.0.0.0 colladioxprosale.com
+0.0.0.0 collagenforwellnessandbeauty.com
 0.0.0.0 collagenselect.pl
 0.0.0.0 collataunns.site
 0.0.0.0 collatogel.org

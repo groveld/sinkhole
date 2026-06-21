@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 96286
-! Updated: 2026-06-20 02:51:01 UTC
+! Entries: 96287
+! Updated: 2026-06-21 03:00:54 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -22551,6 +22551,7 @@
 ||coleenhajcandles.com^
 ||colisismo.fr^
 ||colladioxprosale.com^
+||collagenforwellnessandbeauty.com^
 ||collagenselect.pl^
 ||collataunns.site^
 ||collatogel.org^
