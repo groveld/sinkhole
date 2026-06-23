@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 94962
-# Updated: 2026-06-22 03:00:48 UTC
+# Entries: 94967
+# Updated: 2026-06-23 02:48:11 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6133,6 +6133,7 @@
 0.0.0.0 admaximize.com
 0.0.0.0 admaximize.nu
 0.0.0.0 admd.yam.com
+0.0.0.0 adme2.click
 0.0.0.0 admedia.com
 0.0.0.0 admedia.expedia.com
 0.0.0.0 admedia.net
@@ -20654,6 +20655,7 @@
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.simpli.fi
 0.0.0.0 cdn.siteanalytics.evolvemediametrics.com
+0.0.0.0 cdn.smalk.ai
 0.0.0.0 cdn.smartnews-ads.com
 0.0.0.0 cdn.socialannex.com
 0.0.0.0 cdn.speakol.com
@@ -23107,6 +23109,7 @@
 0.0.0.0 corporate.crakmedia.com
 0.0.0.0 corporationservicecompany.112.2o7.net
 0.0.0.0 corporationswet.rxupdates.com
+0.0.0.0 correctedcode.com
 0.0.0.0 corsageleukemicuus.info
 0.0.0.0 corsearchtakedown.online
 0.0.0.0 corsoudiva.cyou
@@ -35808,6 +35811,7 @@
 0.0.0.0 itprfft.sa.com
 0.0.0.0 itpro.uk.intellitxt.com
 0.0.0.0 itrackerpro.com
+0.0.0.0 itrackly.com
 0.0.0.0 itreviews.uk.intellitxt.com
 0.0.0.0 its-that-easy.com
 0.0.0.0 itservicesupdate.webflow.io
@@ -89177,6 +89181,7 @@
 0.0.0.0 www.thefriday.net
 0.0.0.0 www.thegencos.com
 0.0.0.0 www.thegeneralpurposepodcast.com
+0.0.0.0 www.thegioibaove.com
 0.0.0.0 www.thegrapeconnection.com
 0.0.0.0 www.thegreenpowerhour.info
 0.0.0.0 www.thehalalnetwork.com

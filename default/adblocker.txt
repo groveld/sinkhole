@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 94960
-! Updated: 2026-06-22 02:11:11 UTC
+! Entries: 94965
+! Updated: 2026-06-23 01:58:41 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6133,6 +6133,7 @@
 ||admaximize.com^
 ||admaximize.nu^
 ||admd.yam.com^
+||adme2.click^
 ||admedia.com^
 ||admedia.expedia.com^
 ||admedia.net^
@@ -20654,6 +20655,7 @@
 ||cdn.simpleanalytics.io^
 ||cdn.simpli.fi^
 ||cdn.siteanalytics.evolvemediametrics.com^
+||cdn.smalk.ai^
 ||cdn.smartnews-ads.com^
 ||cdn.socialannex.com^
 ||cdn.speakol.com^
@@ -23107,6 +23109,7 @@
 ||corporate.crakmedia.com^
 ||corporationservicecompany.112.2o7.net^
 ||corporationswet.rxupdates.com^
+||correctedcode.com^
 ||corsageleukemicuus.info^
 ||corsearchtakedown.online^
 ||corsoudiva.cyou^
@@ -35807,6 +35810,7 @@
 ||itprfft.sa.com^
 ||itpro.uk.intellitxt.com^
 ||itrackerpro.com^
+||itrackly.com^
 ||itreviews.uk.intellitxt.com^
 ||its-that-easy.com^
 ||itservicesupdate.webflow.io^
@@ -89175,6 +89179,7 @@
 ||www.thefriday.net^
 ||www.thegencos.com^
 ||www.thegeneralpurposepodcast.com^
+||www.thegioibaove.com^
 ||www.thegrapeconnection.com^
 ||www.thegreenpowerhour.info^
 ||www.thehalalnetwork.com^

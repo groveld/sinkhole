@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 94962
-// Updated: 2026-06-22 03:00:48 UTC
+// Entries: 94967
+// Updated: 2026-06-23 02:48:11 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6134,6 +6134,7 @@ var BLOCKLIST = {
 "admaximize.com":null,
 "admaximize.nu":null,
 "admd.yam.com":null,
+"adme2.click":null,
 "admedia.com":null,
 "admedia.expedia.com":null,
 "admedia.net":null,
@@ -20655,6 +20656,7 @@ var BLOCKLIST = {
 "cdn.simpleanalytics.io":null,
 "cdn.simpli.fi":null,
 "cdn.siteanalytics.evolvemediametrics.com":null,
+"cdn.smalk.ai":null,
 "cdn.smartnews-ads.com":null,
 "cdn.socialannex.com":null,
 "cdn.speakol.com":null,
@@ -23108,6 +23110,7 @@ var BLOCKLIST = {
 "corporate.crakmedia.com":null,
 "corporationservicecompany.112.2o7.net":null,
 "corporationswet.rxupdates.com":null,
+"correctedcode.com":null,
 "corsageleukemicuus.info":null,
 "corsearchtakedown.online":null,
 "corsoudiva.cyou":null,
@@ -35809,6 +35812,7 @@ var BLOCKLIST = {
 "itprfft.sa.com":null,
 "itpro.uk.intellitxt.com":null,
 "itrackerpro.com":null,
+"itrackly.com":null,
 "itreviews.uk.intellitxt.com":null,
 "its-that-easy.com":null,
 "itservicesupdate.webflow.io":null,
@@ -89178,6 +89182,7 @@ var BLOCKLIST = {
 "www.thefriday.net":null,
 "www.thegencos.com":null,
 "www.thegeneralpurposepodcast.com":null,
+"www.thegioibaove.com":null,
 "www.thegrapeconnection.com":null,
 "www.thegreenpowerhour.info":null,
 "www.thehalalnetwork.com":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 94962
-# Updated: 2026-06-22 03:00:48 UTC
+# Entries: 94967
+# Updated: 2026-06-23 02:48:11 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6133,6 +6133,7 @@ address=/admax.nexage.com/0.0.0.0
 address=/admaximize.com/0.0.0.0
 address=/admaximize.nu/0.0.0.0
 address=/admd.yam.com/0.0.0.0
+address=/adme2.click/0.0.0.0
 address=/admedia.com/0.0.0.0
 address=/admedia.expedia.com/0.0.0.0
 address=/admedia.net/0.0.0.0
@@ -20654,6 +20655,7 @@ address=/cdn.siftscience.com/0.0.0.0
 address=/cdn.simpleanalytics.io/0.0.0.0
 address=/cdn.simpli.fi/0.0.0.0
 address=/cdn.siteanalytics.evolvemediametrics.com/0.0.0.0
+address=/cdn.smalk.ai/0.0.0.0
 address=/cdn.smartnews-ads.com/0.0.0.0
 address=/cdn.socialannex.com/0.0.0.0
 address=/cdn.speakol.com/0.0.0.0
@@ -23107,6 +23109,7 @@ address=/corporacioncrf.com/0.0.0.0
 address=/corporate.crakmedia.com/0.0.0.0
 address=/corporationservicecompany.112.2o7.net/0.0.0.0
 address=/corporationswet.rxupdates.com/0.0.0.0
+address=/correctedcode.com/0.0.0.0
 address=/corsageleukemicuus.info/0.0.0.0
 address=/corsearchtakedown.online/0.0.0.0
 address=/corsoudiva.cyou/0.0.0.0
@@ -35808,6 +35811,7 @@ address=/itpesthetique.pl/0.0.0.0
 address=/itprfft.sa.com/0.0.0.0
 address=/itpro.uk.intellitxt.com/0.0.0.0
 address=/itrackerpro.com/0.0.0.0
+address=/itrackly.com/0.0.0.0
 address=/itreviews.uk.intellitxt.com/0.0.0.0
 address=/its-that-easy.com/0.0.0.0
 address=/itservicesupdate.webflow.io/0.0.0.0
@@ -89177,6 +89181,7 @@ address=/www.thefootwearfloor.shop/0.0.0.0
 address=/www.thefriday.net/0.0.0.0
 address=/www.thegencos.com/0.0.0.0
 address=/www.thegeneralpurposepodcast.com/0.0.0.0
+address=/www.thegioibaove.com/0.0.0.0
 address=/www.thegrapeconnection.com/0.0.0.0
 address=/www.thegreenpowerhour.info/0.0.0.0
 address=/www.thehalalnetwork.com/0.0.0.0
