@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 94967
-# Updated: 2026-06-23 02:48:11 UTC
+# Entries: 94969
+# Updated: 2026-06-24 02:43:50 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -85607,6 +85607,7 @@
 0.0.0.0 www.salesorbit.buzz
 0.0.0.0 www.saletool.shop
 0.0.0.0 www.salivuse.info
+0.0.0.0 www.salliemaebenefits.com
 0.0.0.0 www.sallyevans.shop
 0.0.0.0 www.salok.laurice.info
 0.0.0.0 www.saloltrowe.cyou
@@ -91314,6 +91315,7 @@
 0.0.0.0 www.voltina-arc.com
 0.0.0.0 www.voltiumenerji.com
 0.0.0.0 www.voltoppicks.com
+0.0.0.0 www.volvce.com
 0.0.0.0 www.vomba.com
 0.0.0.0 www.vombacash.com
 0.0.0.0 www.vombashots.com

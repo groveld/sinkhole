@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 94965
-! Updated: 2026-06-23 01:58:41 UTC
+! Entries: 94967
+! Updated: 2026-06-24 01:54:23 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -85605,6 +85605,7 @@
 ||www.salesorbit.buzz^
 ||www.saletool.shop^
 ||www.salivuse.info^
+||www.salliemaebenefits.com^
 ||www.sallyevans.shop^
 ||www.salok.laurice.info^
 ||www.saloltrowe.cyou^
@@ -91312,6 +91313,7 @@
 ||www.voltina-arc.com^
 ||www.voltiumenerji.com^
 ||www.voltoppicks.com^
+||www.volvce.com^
 ||www.vomba.com^
 ||www.vombacash.com^
 ||www.vombashots.com^

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 94965
-// Updated: 2026-06-23 01:58:41 UTC
+// Entries: 94967
+// Updated: 2026-06-24 01:54:23 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -85606,6 +85606,7 @@ var BLOCKLIST = {
 "www.salesorbit.buzz":null,
 "www.saletool.shop":null,
 "www.salivuse.info":null,
+"www.salliemaebenefits.com":null,
 "www.sallyevans.shop":null,
 "www.salok.laurice.info":null,
 "www.saloltrowe.cyou":null,
@@ -91313,6 +91314,7 @@ var BLOCKLIST = {
 "www.voltina-arc.com":null,
 "www.voltiumenerji.com":null,
 "www.voltoppicks.com":null,
+"www.volvce.com":null,
 "www.vomba.com":null,
 "www.vombacash.com":null,
 "www.vombashots.com":null,
