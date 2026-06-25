@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 94967
-# Updated: 2026-06-24 01:54:23 UTC
+# Entries: 94971
+# Updated: 2026-06-25 01:58:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -45857,6 +45857,7 @@ outcome.supersonicads.com
 outcrquitt.cyou
 outento.shop
 outerinfo.com
+outerwords.com
 outfitlane.top
 outfitoasis.click
 outils.yes-messenger.com
@@ -67438,6 +67439,7 @@ www.ad7.banners.ero-advertising.com
 www.ad7.thumbs.ero-advertising.com
 www.ad8.api.ero-advertising.com
 www.ad8.banners.ero-advertising.com
+www.adacoustics.com
 www.adadvisor.net
 www.adalyser.com
 www.adamjdrake.com
@@ -71856,6 +71858,7 @@ www.couponzone.help
 www.coupplometers.info
 www.courageou.live
 www.courageous-biscotti-f04b01.netlify.app
+www.courtneydowns.com
 www.courtneywalker.plus.com
 www.covergt.com
 www.coverpart.onecarship.com
@@ -88000,6 +88003,7 @@ www.tdejb.com
 www.tdgjg.com
 www.tdstats.com
 www.te-lovendo.com
+www.teacherblogit.com
 www.teafortune.com
 www.teainvent.com
 www.tealbear.autos

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 94969
-# Updated: 2026-06-24 02:43:50 UTC
+# Entries: 94973
+# Updated: 2026-06-25 02:48:07 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -45858,6 +45858,7 @@ address=/outcome.supersonicads.com/0.0.0.0
 address=/outcrquitt.cyou/0.0.0.0
 address=/outento.shop/0.0.0.0
 address=/outerinfo.com/0.0.0.0
+address=/outerwords.com/0.0.0.0
 address=/outfitlane.top/0.0.0.0
 address=/outfitoasis.click/0.0.0.0
 address=/outils.yes-messenger.com/0.0.0.0
@@ -67439,6 +67440,7 @@ address=/www.ad7.banners.ero-advertising.com/0.0.0.0
 address=/www.ad7.thumbs.ero-advertising.com/0.0.0.0
 address=/www.ad8.api.ero-advertising.com/0.0.0.0
 address=/www.ad8.banners.ero-advertising.com/0.0.0.0
+address=/www.adacoustics.com/0.0.0.0
 address=/www.adadvisor.net/0.0.0.0
 address=/www.adalyser.com/0.0.0.0
 address=/www.adamjdrake.com/0.0.0.0
@@ -71857,6 +71859,7 @@ address=/www.couponzone.help/0.0.0.0
 address=/www.coupplometers.info/0.0.0.0
 address=/www.courageou.live/0.0.0.0
 address=/www.courageous-biscotti-f04b01.netlify.app/0.0.0.0
+address=/www.courtneydowns.com/0.0.0.0
 address=/www.courtneywalker.plus.com/0.0.0.0
 address=/www.covergt.com/0.0.0.0
 address=/www.coverpart.onecarship.com/0.0.0.0
@@ -88002,6 +88005,7 @@ address=/www.tdejb.com/0.0.0.0
 address=/www.tdgjg.com/0.0.0.0
 address=/www.tdstats.com/0.0.0.0
 address=/www.te-lovendo.com/0.0.0.0
+address=/www.teacherblogit.com/0.0.0.0
 address=/www.teafortune.com/0.0.0.0
 address=/www.teainvent.com/0.0.0.0
 address=/www.tealbear.autos/0.0.0.0

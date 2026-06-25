@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 94967
-# Updated: 2026-06-24 01:54:23 UTC
+# Entries: 94971
+# Updated: 2026-06-25 01:58:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -45857,6 +45857,7 @@
 0.0.0.0 outcrquitt.cyou
 0.0.0.0 outento.shop
 0.0.0.0 outerinfo.com
+0.0.0.0 outerwords.com
 0.0.0.0 outfitlane.top
 0.0.0.0 outfitoasis.click
 0.0.0.0 outils.yes-messenger.com
@@ -67438,6 +67439,7 @@
 0.0.0.0 www.ad7.thumbs.ero-advertising.com
 0.0.0.0 www.ad8.api.ero-advertising.com
 0.0.0.0 www.ad8.banners.ero-advertising.com
+0.0.0.0 www.adacoustics.com
 0.0.0.0 www.adadvisor.net
 0.0.0.0 www.adalyser.com
 0.0.0.0 www.adamjdrake.com
@@ -71856,6 +71858,7 @@
 0.0.0.0 www.coupplometers.info
 0.0.0.0 www.courageou.live
 0.0.0.0 www.courageous-biscotti-f04b01.netlify.app
+0.0.0.0 www.courtneydowns.com
 0.0.0.0 www.courtneywalker.plus.com
 0.0.0.0 www.covergt.com
 0.0.0.0 www.coverpart.onecarship.com
@@ -88000,6 +88003,7 @@
 0.0.0.0 www.tdgjg.com
 0.0.0.0 www.tdstats.com
 0.0.0.0 www.te-lovendo.com
+0.0.0.0 www.teacherblogit.com
 0.0.0.0 www.teafortune.com
 0.0.0.0 www.teainvent.com
 0.0.0.0 www.tealbear.autos

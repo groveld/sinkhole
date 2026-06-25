@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 94967
-// Updated: 2026-06-24 01:54:23 UTC
+// Entries: 94971
+// Updated: 2026-06-25 01:58:43 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -45858,6 +45858,7 @@ var BLOCKLIST = {
 "outcrquitt.cyou":null,
 "outento.shop":null,
 "outerinfo.com":null,
+"outerwords.com":null,
 "outfitlane.top":null,
 "outfitoasis.click":null,
 "outils.yes-messenger.com":null,
@@ -67439,6 +67440,7 @@ var BLOCKLIST = {
 "www.ad7.thumbs.ero-advertising.com":null,
 "www.ad8.api.ero-advertising.com":null,
 "www.ad8.banners.ero-advertising.com":null,
+"www.adacoustics.com":null,
 "www.adadvisor.net":null,
 "www.adalyser.com":null,
 "www.adamjdrake.com":null,
@@ -71857,6 +71859,7 @@ var BLOCKLIST = {
 "www.coupplometers.info":null,
 "www.courageou.live":null,
 "www.courageous-biscotti-f04b01.netlify.app":null,
+"www.courtneydowns.com":null,
 "www.courtneywalker.plus.com":null,
 "www.covergt.com":null,
 "www.coverpart.onecarship.com":null,
@@ -88001,6 +88004,7 @@ var BLOCKLIST = {
 "www.tdgjg.com":null,
 "www.tdstats.com":null,
 "www.te-lovendo.com":null,
+"www.teacherblogit.com":null,
 "www.teafortune.com":null,
 "www.teainvent.com":null,
 "www.tealbear.autos":null,
