@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 94973
-// Updated: 2026-06-25 02:48:07 UTC
+// Entries: 94976
+// Updated: 2026-06-26 02:51:24 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80118,6 +80118,7 @@ var BLOCKLIST = {
 "www.medtecchina.com":null,
 "www.medycznapolska.pl":null,
 "www.medyumatusa.com":null,
+"www.meecheck.com":null,
 "www.meeseger.com":null,
 "www.meetic-partners.com":null,
 "www.meetonlyhot.com":null,
@@ -81106,6 +81107,7 @@ var BLOCKLIST = {
 "www.neysema.com":null,
 "www.nfbio.com":null,
 "www.nffnqifwenfuqwnfeunfq.shop":null,
+"www.nftnavigator.com":null,
 "www.nftnedir.net":null,
 "www.nfukzuop.shop":null,
 "www.nfz-pl.id-admin.com":null,
@@ -83688,6 +83690,7 @@ var BLOCKLIST = {
 "www.pondstone.eu":null,
 "www.pondwell.eu":null,
 "www.ponegonski.com":null,
+"www.ponhap.com":null,
 "www.pontasoggu.cyou":null,
 "www.ponte-quantumpros-com.financecryptoworld.com":null,
 "www.pontequantumsystem.com":null,

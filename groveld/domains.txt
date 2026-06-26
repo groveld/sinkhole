@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 94973
-# Updated: 2026-06-25 02:48:07 UTC
+# Entries: 94976
+# Updated: 2026-06-26 02:51:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80117,6 +80117,7 @@ www.medshop.pl
 www.medtecchina.com
 www.medycznapolska.pl
 www.medyumatusa.com
+www.meecheck.com
 www.meeseger.com
 www.meetic-partners.com
 www.meetonlyhot.com
@@ -81105,6 +81106,7 @@ www.neyscape.com
 www.neysema.com
 www.nfbio.com
 www.nffnqifwenfuqwnfeunfq.shop
+www.nftnavigator.com
 www.nftnedir.net
 www.nfukzuop.shop
 www.nfz-pl.id-admin.com
@@ -83687,6 +83689,7 @@ www.ponderqqable.info
 www.pondstone.eu
 www.pondwell.eu
 www.ponegonski.com
+www.ponhap.com
 www.pontasoggu.cyou
 www.ponte-quantumpros-com.financecryptoworld.com
 www.pontequantumsystem.com

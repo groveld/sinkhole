@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 94971
-! Updated: 2026-06-25 01:58:43 UTC
+! Entries: 94974
+! Updated: 2026-06-26 02:01:54 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80115,6 +80115,7 @@
 ||www.medtecchina.com^
 ||www.medycznapolska.pl^
 ||www.medyumatusa.com^
+||www.meecheck.com^
 ||www.meeseger.com^
 ||www.meetic-partners.com^
 ||www.meetonlyhot.com^
@@ -81103,6 +81104,7 @@
 ||www.neysema.com^
 ||www.nfbio.com^
 ||www.nffnqifwenfuqwnfeunfq.shop^
+||www.nftnavigator.com^
 ||www.nftnedir.net^
 ||www.nfukzuop.shop^
 ||www.nfz-pl.id-admin.com^
@@ -83685,6 +83687,7 @@
 ||www.pondstone.eu^
 ||www.pondwell.eu^
 ||www.ponegonski.com^
+||www.ponhap.com^
 ||www.pontasoggu.cyou^
 ||www.ponte-quantumpros-com.financecryptoworld.com^
 ||www.pontequantumsystem.com^
