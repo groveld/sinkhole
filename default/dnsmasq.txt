@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 96155
-# Updated: 2026-06-27 01:57:12 UTC
+# Entries: 96156
+# Updated: 2026-06-28 02:03:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -61945,6 +61945,7 @@ address=/tracking.craktraffic.com/0.0.0.0
 address=/tracking.crazyegg.com/0.0.0.0
 address=/tracking.crobo.com/0.0.0.0
 address=/tracking.crunchiemedia.com/0.0.0.0
+address=/tracking.cybertips.uk/0.0.0.0
 address=/tracking.cystack.net/0.0.0.0
 address=/tracking.dantri.com.vn/0.0.0.0
 address=/tracking.dc-storm.com/0.0.0.0

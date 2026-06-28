@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 96157
-# Updated: 2026-06-27 02:46:38 UTC
+# Entries: 96158
+# Updated: 2026-06-28 02:52:55 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -61946,6 +61946,7 @@
 0.0.0.0 tracking.crazyegg.com
 0.0.0.0 tracking.crobo.com
 0.0.0.0 tracking.crunchiemedia.com
+0.0.0.0 tracking.cybertips.uk
 0.0.0.0 tracking.cystack.net
 0.0.0.0 tracking.dantri.com.vn
 0.0.0.0 tracking.dc-storm.com
