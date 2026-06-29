@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 96158
-# Updated: 2026-06-28 02:52:55 UTC
+# Entries: 96167
+# Updated: 2026-06-29 04:20:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10000,6 +10000,7 @@ address=/adstory.gotrackier.com/0.0.0.0
 address=/adstrac.adk2x.com/0.0.0.0
 address=/adstracking.apps.zing.vn/0.0.0.0
 address=/adstract.adk2x.com/0.0.0.0
+address=/adstrategy-elb.go2cloud.org/0.0.0.0
 address=/adstream.cardboardfish.com/0.0.0.0
 address=/adstub.net/0.0.0.0
 address=/adstune.com/0.0.0.0
@@ -10140,6 +10141,7 @@ address=/adtrak.net/0.0.0.0
 address=/adtraq.com/0.0.0.0
 address=/adtriplex.com/0.0.0.0
 address=/adtrix.com/0.0.0.0
+address=/adtrk1.com/0.0.0.0
 address=/adtrue.com/0.0.0.0
 address=/adtruth.com/0.0.0.0
 address=/adturn.com/0.0.0.0
@@ -10810,6 +10812,7 @@ address=/advertnative.com/0.0.0.0
 address=/advertpro.investorvillage.com/0.0.0.0
 address=/advertpro.sitepoint.com/0.0.0.0
 address=/advertpro.ya.com/0.0.0.0
+address=/advertracker.com/0.0.0.0
 address=/adverts.carltononline.com/0.0.0.0
 address=/adverts.creativemark.co.uk/0.0.0.0
 address=/adverts.ecn.co.uk/0.0.0.0
@@ -31841,6 +31844,7 @@ address=/go1.viewdeos.com/0.0.0.0
 address=/go13.info/0.0.0.0
 address=/go2.hit.gemius.pl/0.0.0.0
 address=/go2affise.com/0.0.0.0
+address=/go2cloud.org/0.0.0.0
 address=/go2ksa.com/0.0.0.0
 address=/go2page.net/0.0.0.0
 address=/go777site.com/0.0.0.0
@@ -61805,6 +61809,7 @@ address=/track.wattpad.com/0.0.0.0
 address=/track.webgains.com/0.0.0.0
 address=/track.wesdk.co/0.0.0.0
 address=/track.wesell.co.il/0.0.0.0
+address=/track.wewilltrcku.com/0.0.0.0
 address=/track.written.com/0.0.0.0
 address=/track.www.zazzle.com/0.0.0.0
 address=/track.xapads.com/0.0.0.0
@@ -61877,6 +61882,7 @@ address=/tracker.mozo.com.au/0.0.0.0
 address=/tracker.nbcuas.com/0.0.0.0
 address=/tracker.netklix.com/0.0.0.0
 address=/tracker.nitropay.com/0.0.0.0
+address=/tracker.optin-lead.com/0.0.0.0
 address=/tracker.personizely.net/0.0.0.0
 address=/tracker.phunusuckhoe.vn/0.0.0.0
 address=/tracker.phunuvagiadinh.vn/0.0.0.0
@@ -61923,6 +61929,7 @@ address=/tracking.adgoon.it/0.0.0.0
 address=/tracking.adjug.com/0.0.0.0
 address=/tracking.admarketplace.net/0.0.0.0
 address=/tracking.admarketplace.net.edgekey.net/0.0.0.0
+address=/tracking.adstrategysites.com/0.0.0.0
 address=/tracking.adultsense.com/0.0.0.0
 address=/tracking.affiliates.de/0.0.0.0
 address=/tracking.aimediagroup.com/0.0.0.0
@@ -61938,6 +61945,7 @@ address=/tracking.batanga.com/0.0.0.0
 address=/tracking.batanga.net/0.0.0.0
 address=/tracking.beginads.com/0.0.0.0
 address=/tracking.bloomberg.com/0.0.0.0
+address=/tracking.casheddy.com/0.0.0.0
 address=/tracking.cdiscount.com/0.0.0.0
 address=/tracking.clickmeter.com/0.0.0.0
 address=/tracking.conduit.com/0.0.0.0
@@ -62025,6 +62033,7 @@ address=/tracking.opienetwork.com/0.0.0.0
 address=/tracking.optimatic.com/0.0.0.0
 address=/tracking.orixa-media.com/0.0.0.0
 address=/tracking.overwolf.com/0.0.0.0
+address=/tracking.p-l-m.com/0.0.0.0
 address=/tracking.pandoiq.com/0.0.0.0
 address=/tracking.pennystockpicks.net/0.0.0.0
 address=/tracking.percentmobile.com/0.0.0.0

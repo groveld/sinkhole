@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 96156
-// Updated: 2026-06-28 02:03:29 UTC
+// Entries: 96165
+// Updated: 2026-06-29 02:57:41 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10001,6 +10001,7 @@ var BLOCKLIST = {
 "adstrac.adk2x.com":null,
 "adstracking.apps.zing.vn":null,
 "adstract.adk2x.com":null,
+"adstrategy-elb.go2cloud.org":null,
 "adstream.cardboardfish.com":null,
 "adstub.net":null,
 "adstune.com":null,
@@ -10141,6 +10142,7 @@ var BLOCKLIST = {
 "adtraq.com":null,
 "adtriplex.com":null,
 "adtrix.com":null,
+"adtrk1.com":null,
 "adtrue.com":null,
 "adtruth.com":null,
 "adturn.com":null,
@@ -10811,6 +10813,7 @@ var BLOCKLIST = {
 "advertpro.investorvillage.com":null,
 "advertpro.sitepoint.com":null,
 "advertpro.ya.com":null,
+"advertracker.com":null,
 "adverts.carltononline.com":null,
 "adverts.creativemark.co.uk":null,
 "adverts.ecn.co.uk":null,
@@ -31842,6 +31845,7 @@ var BLOCKLIST = {
 "go13.info":null,
 "go2.hit.gemius.pl":null,
 "go2affise.com":null,
+"go2cloud.org":null,
 "go2ksa.com":null,
 "go2page.net":null,
 "go777site.com":null,
@@ -61805,6 +61809,7 @@ var BLOCKLIST = {
 "track.webgains.com":null,
 "track.wesdk.co":null,
 "track.wesell.co.il":null,
+"track.wewilltrcku.com":null,
 "track.written.com":null,
 "track.www.zazzle.com":null,
 "track.xapads.com":null,
@@ -61877,6 +61882,7 @@ var BLOCKLIST = {
 "tracker.nbcuas.com":null,
 "tracker.netklix.com":null,
 "tracker.nitropay.com":null,
+"tracker.optin-lead.com":null,
 "tracker.personizely.net":null,
 "tracker.phunusuckhoe.vn":null,
 "tracker.phunuvagiadinh.vn":null,
@@ -61923,6 +61929,7 @@ var BLOCKLIST = {
 "tracking.adjug.com":null,
 "tracking.admarketplace.net":null,
 "tracking.admarketplace.net.edgekey.net":null,
+"tracking.adstrategysites.com":null,
 "tracking.adultsense.com":null,
 "tracking.affiliates.de":null,
 "tracking.aimediagroup.com":null,
@@ -61938,6 +61945,7 @@ var BLOCKLIST = {
 "tracking.batanga.net":null,
 "tracking.beginads.com":null,
 "tracking.bloomberg.com":null,
+"tracking.casheddy.com":null,
 "tracking.cdiscount.com":null,
 "tracking.clickmeter.com":null,
 "tracking.conduit.com":null,
@@ -62025,6 +62033,7 @@ var BLOCKLIST = {
 "tracking.optimatic.com":null,
 "tracking.orixa-media.com":null,
 "tracking.overwolf.com":null,
+"tracking.p-l-m.com":null,
 "tracking.pandoiq.com":null,
 "tracking.pennystockpicks.net":null,
 "tracking.percentmobile.com":null,

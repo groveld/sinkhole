@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 96156
-! Updated: 2026-06-28 02:03:29 UTC
+! Entries: 96165
+! Updated: 2026-06-29 02:57:41 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10000,6 +10000,7 @@
 ||adstrac.adk2x.com^
 ||adstracking.apps.zing.vn^
 ||adstract.adk2x.com^
+||adstrategy-elb.go2cloud.org^
 ||adstream.cardboardfish.com^
 ||adstub.net^
 ||adstune.com^
@@ -10140,6 +10141,7 @@
 ||adtraq.com^
 ||adtriplex.com^
 ||adtrix.com^
+||adtrk1.com^
 ||adtrue.com^
 ||adtruth.com^
 ||adturn.com^
@@ -10810,6 +10812,7 @@
 ||advertpro.investorvillage.com^
 ||advertpro.sitepoint.com^
 ||advertpro.ya.com^
+||advertracker.com^
 ||adverts.carltononline.com^
 ||adverts.creativemark.co.uk^
 ||adverts.ecn.co.uk^
@@ -31841,6 +31844,7 @@
 ||go13.info^
 ||go2.hit.gemius.pl^
 ||go2affise.com^
+||go2cloud.org^
 ||go2ksa.com^
 ||go2page.net^
 ||go777site.com^
@@ -61804,6 +61808,7 @@
 ||track.webgains.com^
 ||track.wesdk.co^
 ||track.wesell.co.il^
+||track.wewilltrcku.com^
 ||track.written.com^
 ||track.www.zazzle.com^
 ||track.xapads.com^
@@ -61876,6 +61881,7 @@
 ||tracker.nbcuas.com^
 ||tracker.netklix.com^
 ||tracker.nitropay.com^
+||tracker.optin-lead.com^
 ||tracker.personizely.net^
 ||tracker.phunusuckhoe.vn^
 ||tracker.phunuvagiadinh.vn^
@@ -61922,6 +61928,7 @@
 ||tracking.adjug.com^
 ||tracking.admarketplace.net^
 ||tracking.admarketplace.net.edgekey.net^
+||tracking.adstrategysites.com^
 ||tracking.adultsense.com^
 ||tracking.affiliates.de^
 ||tracking.aimediagroup.com^
@@ -61937,6 +61944,7 @@
 ||tracking.batanga.net^
 ||tracking.beginads.com^
 ||tracking.bloomberg.com^
+||tracking.casheddy.com^
 ||tracking.cdiscount.com^
 ||tracking.clickmeter.com^
 ||tracking.conduit.com^
@@ -62024,6 +62032,7 @@
 ||tracking.optimatic.com^
 ||tracking.orixa-media.com^
 ||tracking.overwolf.com^
+||tracking.p-l-m.com^
 ||tracking.pandoiq.com^
 ||tracking.pennystockpicks.net^
 ||tracking.percentmobile.com^

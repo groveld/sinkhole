@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 96158
-# Updated: 2026-06-28 02:52:55 UTC
+# Entries: 96167
+# Updated: 2026-06-29 04:20:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10000,6 +10000,7 @@
 0.0.0.0 adstrac.adk2x.com
 0.0.0.0 adstracking.apps.zing.vn
 0.0.0.0 adstract.adk2x.com
+0.0.0.0 adstrategy-elb.go2cloud.org
 0.0.0.0 adstream.cardboardfish.com
 0.0.0.0 adstub.net
 0.0.0.0 adstune.com
@@ -10140,6 +10141,7 @@
 0.0.0.0 adtraq.com
 0.0.0.0 adtriplex.com
 0.0.0.0 adtrix.com
+0.0.0.0 adtrk1.com
 0.0.0.0 adtrue.com
 0.0.0.0 adtruth.com
 0.0.0.0 adturn.com
@@ -10810,6 +10812,7 @@
 0.0.0.0 advertpro.investorvillage.com
 0.0.0.0 advertpro.sitepoint.com
 0.0.0.0 advertpro.ya.com
+0.0.0.0 advertracker.com
 0.0.0.0 adverts.carltononline.com
 0.0.0.0 adverts.creativemark.co.uk
 0.0.0.0 adverts.ecn.co.uk
@@ -31841,6 +31844,7 @@
 0.0.0.0 go13.info
 0.0.0.0 go2.hit.gemius.pl
 0.0.0.0 go2affise.com
+0.0.0.0 go2cloud.org
 0.0.0.0 go2ksa.com
 0.0.0.0 go2page.net
 0.0.0.0 go777site.com
@@ -61805,6 +61809,7 @@
 0.0.0.0 track.webgains.com
 0.0.0.0 track.wesdk.co
 0.0.0.0 track.wesell.co.il
+0.0.0.0 track.wewilltrcku.com
 0.0.0.0 track.written.com
 0.0.0.0 track.www.zazzle.com
 0.0.0.0 track.xapads.com
@@ -61877,6 +61882,7 @@
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com
+0.0.0.0 tracker.optin-lead.com
 0.0.0.0 tracker.personizely.net
 0.0.0.0 tracker.phunusuckhoe.vn
 0.0.0.0 tracker.phunuvagiadinh.vn
@@ -61923,6 +61929,7 @@
 0.0.0.0 tracking.adjug.com
 0.0.0.0 tracking.admarketplace.net
 0.0.0.0 tracking.admarketplace.net.edgekey.net
+0.0.0.0 tracking.adstrategysites.com
 0.0.0.0 tracking.adultsense.com
 0.0.0.0 tracking.affiliates.de
 0.0.0.0 tracking.aimediagroup.com
@@ -61938,6 +61945,7 @@
 0.0.0.0 tracking.batanga.net
 0.0.0.0 tracking.beginads.com
 0.0.0.0 tracking.bloomberg.com
+0.0.0.0 tracking.casheddy.com
 0.0.0.0 tracking.cdiscount.com
 0.0.0.0 tracking.clickmeter.com
 0.0.0.0 tracking.conduit.com
@@ -62025,6 +62033,7 @@
 0.0.0.0 tracking.optimatic.com
 0.0.0.0 tracking.orixa-media.com
 0.0.0.0 tracking.overwolf.com
+0.0.0.0 tracking.p-l-m.com
 0.0.0.0 tracking.pandoiq.com
 0.0.0.0 tracking.pennystockpicks.net
 0.0.0.0 tracking.percentmobile.com
