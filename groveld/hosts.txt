@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 95288
-# Updated: 2026-07-01 02:53:53 UTC
+# Entries: 95292
+# Updated: 2026-07-02 02:48:40 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74040,6 +74040,7 @@
 0.0.0.0 www.ergo.webverifapp.com
 0.0.0.0 www.eriklyseggen.com
 0.0.0.0 www.erikwallin.shop
+0.0.0.0 www.erincranor.com
 0.0.0.0 www.erisilplus.pl
 0.0.0.0 www.erkugo.ru
 0.0.0.0 www.ermamachine.com
@@ -74714,6 +74715,7 @@
 0.0.0.0 www.fethiyelezzeti.com
 0.0.0.0 www.feticdisco.cyou
 0.0.0.0 www.fetisch-pornos.cxa.de
+0.0.0.0 www.feudlands.com
 0.0.0.0 www.fevahan.pro
 0.0.0.0 www.fewcdsxws.com
 0.0.0.0 www.fexoriumprosoftware.com
@@ -76497,6 +76499,7 @@
 0.0.0.0 www.hai2u.com
 0.0.0.0 www.haialet.com
 0.0.0.0 www.haidd.co.uk
+0.0.0.0 www.haikuservices.com
 0.0.0.0 www.haircaramel-aiota5.stormkit.dev
 0.0.0.0 www.hairtransplantationgroup.com
 0.0.0.0 www.hairtransturca.com
@@ -86106,6 +86109,7 @@
 0.0.0.0 www.sds.superdeltas.com
 0.0.0.0 www.sdxftx.com
 0.0.0.0 www.seahamcorner.eu
+0.0.0.0 www.sealabour.living
 0.0.0.0 www.seannaesvoice.com
 0.0.0.0 www.seans24.com.pl
 0.0.0.0 www.seansikowo.pl

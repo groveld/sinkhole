@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 95286
-// Updated: 2026-07-01 02:04:28 UTC
+// Entries: 95290
+// Updated: 2026-07-02 01:59:10 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74040,6 +74040,7 @@ var BLOCKLIST = {
 "www.ergo.webverifapp.com":null,
 "www.eriklyseggen.com":null,
 "www.erikwallin.shop":null,
+"www.erincranor.com":null,
 "www.erisilplus.pl":null,
 "www.erkugo.ru":null,
 "www.ermamachine.com":null,
@@ -74714,6 +74715,7 @@ var BLOCKLIST = {
 "www.fethiyelezzeti.com":null,
 "www.feticdisco.cyou":null,
 "www.fetisch-pornos.cxa.de":null,
+"www.feudlands.com":null,
 "www.fevahan.pro":null,
 "www.fewcdsxws.com":null,
 "www.fexoriumprosoftware.com":null,
@@ -76496,6 +76498,7 @@ var BLOCKLIST = {
 "www.hai2u.com":null,
 "www.haialet.com":null,
 "www.haidd.co.uk":null,
+"www.haikuservices.com":null,
 "www.haircaramel-aiota5.stormkit.dev":null,
 "www.hairtransplantationgroup.com":null,
 "www.hairtransturca.com":null,
@@ -86105,6 +86108,7 @@ var BLOCKLIST = {
 "www.sds.superdeltas.com":null,
 "www.sdxftx.com":null,
 "www.seahamcorner.eu":null,
+"www.sealabour.living":null,
 "www.seannaesvoice.com":null,
 "www.seans24.com.pl":null,
 "www.seansikowo.pl":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 95288
-# Updated: 2026-07-01 02:53:53 UTC
+# Entries: 95292
+# Updated: 2026-07-02 02:48:40 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74040,6 +74040,7 @@ address=/www.ergo.hyp.app/0.0.0.0
 address=/www.ergo.webverifapp.com/0.0.0.0
 address=/www.eriklyseggen.com/0.0.0.0
 address=/www.erikwallin.shop/0.0.0.0
+address=/www.erincranor.com/0.0.0.0
 address=/www.erisilplus.pl/0.0.0.0
 address=/www.erkugo.ru/0.0.0.0
 address=/www.ermamachine.com/0.0.0.0
@@ -74714,6 +74715,7 @@ address=/www.festivaldelnuevocine.org/0.0.0.0
 address=/www.fethiyelezzeti.com/0.0.0.0
 address=/www.feticdisco.cyou/0.0.0.0
 address=/www.fetisch-pornos.cxa.de/0.0.0.0
+address=/www.feudlands.com/0.0.0.0
 address=/www.fevahan.pro/0.0.0.0
 address=/www.fewcdsxws.com/0.0.0.0
 address=/www.fexoriumprosoftware.com/0.0.0.0
@@ -76497,6 +76499,7 @@ address=/www.hagensdogcare.com/0.0.0.0
 address=/www.hai2u.com/0.0.0.0
 address=/www.haialet.com/0.0.0.0
 address=/www.haidd.co.uk/0.0.0.0
+address=/www.haikuservices.com/0.0.0.0
 address=/www.haircaramel-aiota5.stormkit.dev/0.0.0.0
 address=/www.hairtransplantationgroup.com/0.0.0.0
 address=/www.hairtransturca.com/0.0.0.0
@@ -86106,6 +86109,7 @@ address=/www.sdroggiost.cyou/0.0.0.0
 address=/www.sds.superdeltas.com/0.0.0.0
 address=/www.sdxftx.com/0.0.0.0
 address=/www.seahamcorner.eu/0.0.0.0
+address=/www.sealabour.living/0.0.0.0
 address=/www.seannaesvoice.com/0.0.0.0
 address=/www.seans24.com.pl/0.0.0.0
 address=/www.seansikowo.pl/0.0.0.0
