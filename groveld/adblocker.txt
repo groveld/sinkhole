@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 95292
-! Updated: 2026-07-02 02:48:40 UTC
+! Entries: 95293
+! Updated: 2026-07-03 05:35:09 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27008,6 +27008,7 @@
 ||ecomario.shop^
 ||ecomediffo.cyou^
 ||ecommerce.datatrics.com^
+||ecommercegoodies.com^
 ||ecommercetimes.us.intellitxt.com^
 ||ecommstats.s3.amazonaws.com^
 ||ecomzona.shop^

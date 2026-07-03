@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 95292
-# Updated: 2026-07-02 02:48:40 UTC
+# Entries: 95293
+# Updated: 2026-07-03 05:35:09 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -27008,6 +27008,7 @@
 0.0.0.0 ecomario.shop
 0.0.0.0 ecomediffo.cyou
 0.0.0.0 ecommerce.datatrics.com
+0.0.0.0 ecommercegoodies.com
 0.0.0.0 ecommercetimes.us.intellitxt.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 ecomzona.shop
