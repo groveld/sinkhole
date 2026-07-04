@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 95291
-# Updated: 2026-07-03 04:45:45 UTC
+# Entries: 95290
+# Updated: 2026-07-04 04:39:39 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12512,6 +12512,7 @@
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics-eu.tactilews.com
 0.0.0.0 analytics-events.inshorts.com
+0.0.0.0 analytics-fe.digital-cloud-prem.medallia.eu
 0.0.0.0 analytics-google.info
 0.0.0.0 analytics-ingestion.production-public.tubi.io
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -50864,7 +50865,6 @@
 0.0.0.0 remove-ads.xyz
 0.0.0.0 removearrest.com
 0.0.0.0 removiov.com
-0.0.0.0 remox.com
 0.0.0.0 rempaoffic.cyou
 0.0.0.0 remuiaisiaoierisksdok.site
 0.0.0.0 remvvn.shop
@@ -66143,7 +66143,6 @@
 0.0.0.0 wirelessforumsorg.skimlinks.com
 0.0.0.0 wirtuozseksu.pl
 0.0.0.0 wirtvlg.oewabox.at
-0.0.0.0 wirypaste.com
 0.0.0.0 wisatapanembangan.space
 0.0.0.0 wise.binjaikia.shop
 0.0.0.0 wise.hkaskoo.shop

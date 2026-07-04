@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 95293
-// Updated: 2026-07-03 05:35:09 UTC
+// Entries: 95292
+// Updated: 2026-07-04 05:29:04 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12513,6 +12513,7 @@ var BLOCKLIST = {
 "analytics-eu.clickdimensions.com":null,
 "analytics-eu.tactilews.com":null,
 "analytics-events.inshorts.com":null,
+"analytics-fe.digital-cloud-prem.medallia.eu":null,
 "analytics-google.info":null,
 "analytics-ingestion.production-public.tubi.io":null,
 "analytics-ingress-global.bitmovin.com":null,
@@ -50866,7 +50867,6 @@ var BLOCKLIST = {
 "remove-ads.xyz":null,
 "removearrest.com":null,
 "removiov.com":null,
-"remox.com":null,
 "rempaoffic.cyou":null,
 "remuiaisiaoierisksdok.site":null,
 "remvvn.shop":null,
@@ -66145,7 +66145,6 @@ var BLOCKLIST = {
 "wirelessforumsorg.skimlinks.com":null,
 "wirtuozseksu.pl":null,
 "wirtvlg.oewabox.at":null,
-"wirypaste.com":null,
 "wisatapanembangan.space":null,
 "wise.binjaikia.shop":null,
 "wise.hkaskoo.shop":null,

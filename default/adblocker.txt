@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 95291
-! Updated: 2026-07-03 04:45:45 UTC
+! Entries: 95290
+! Updated: 2026-07-04 04:39:39 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12512,6 +12512,7 @@
 ||analytics-eu.clickdimensions.com^
 ||analytics-eu.tactilews.com^
 ||analytics-events.inshorts.com^
+||analytics-fe.digital-cloud-prem.medallia.eu^
 ||analytics-google.info^
 ||analytics-ingestion.production-public.tubi.io^
 ||analytics-ingress-global.bitmovin.com^
@@ -50864,7 +50865,6 @@
 ||remove-ads.xyz^
 ||removearrest.com^
 ||removiov.com^
-||remox.com^
 ||rempaoffic.cyou^
 ||remuiaisiaoierisksdok.site^
 ||remvvn.shop^
@@ -66143,7 +66143,6 @@
 ||wirelessforumsorg.skimlinks.com^
 ||wirtuozseksu.pl^
 ||wirtvlg.oewabox.at^
-||wirypaste.com^
 ||wisatapanembangan.space^
 ||wise.binjaikia.shop^
 ||wise.hkaskoo.shop^
