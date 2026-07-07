@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 90543
-! Updated: 2026-07-06 05:05:57 UTC
+! Entries: 90549
+! Updated: 2026-07-07 04:55:38 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53550,6 +53550,7 @@
 ||snaplevorafinapp.com^
 ||snapmobile.asia^
 ||snaps.vidiemi.com^
+||snapsonthehouse.com^
 ||snavik.shop^
 ||snaxynuo.space^
 ||snazzypoodle.com^
@@ -74601,6 +74602,7 @@
 ||www.inuzzgermo.cyou^
 ||www.inv.atlastmanagementsa.com^
 ||www.invenfluid.soniariberi.com^
+||www.inventons.com^
 ||www.inveraccor.cyou^
 ||www.inveranix-platform.com^
 ||www.inverogt-solution.com^
@@ -74694,6 +74696,7 @@
 ||www.irsce.com^
 ||www.iryam.com^
 ||www.is1.clixgalore.com^
+||www.isavs.com^
 ||www.iscusfrijo.cyou^
 ||www.isearch.com^
 ||www.isearchtech.com^
@@ -74901,6 +74904,7 @@
 ||www.jeuxfortuna.com^
 ||www.jeuxjackpotcasino.com^
 ||www.jewellans.com^
+||www.jewishgame.com^
 ||www.jexneeuil.com^
 ||www.jfjdit55i5kfm5fir4p466ofcmf.fwh.is^
 ||www.jg493kf0wld.shop^
@@ -79205,6 +79209,7 @@
 ||www.pay.osoobe.com^
 ||www.pay2me.pl^
 ||www.pay9873.lol^
+||www.payasyougocert.com^
 ||www.paycore-24.cfd^
 ||www.paycore-send.cfd^
 ||www.paycore24-express.cfd^
@@ -79384,6 +79389,7 @@
 ||www.pfhsystem.com^
 ||www.pflegmatic.com^
 ||www.pfphg.com^
+||www.pfsim.com^
 ||www.pgbitumenpn.com^
 ||www.pge.httppl-infosite.com^
 ||www.pgebok29791.com.pl^

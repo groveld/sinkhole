@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 90545
-# Updated: 2026-07-06 05:55:23 UTC
+# Entries: 90551
+# Updated: 2026-07-07 05:45:04 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53551,6 +53551,7 @@ address=/snapgiant.com/0.0.0.0
 address=/snaplevorafinapp.com/0.0.0.0
 address=/snapmobile.asia/0.0.0.0
 address=/snaps.vidiemi.com/0.0.0.0
+address=/snapsonthehouse.com/0.0.0.0
 address=/snavik.shop/0.0.0.0
 address=/snaxynuo.space/0.0.0.0
 address=/snazzypoodle.com/0.0.0.0
@@ -74603,6 +74604,7 @@ address=/www.inugiwi.pro/0.0.0.0
 address=/www.inuzzgermo.cyou/0.0.0.0
 address=/www.inv.atlastmanagementsa.com/0.0.0.0
 address=/www.invenfluid.soniariberi.com/0.0.0.0
+address=/www.inventons.com/0.0.0.0
 address=/www.inveraccor.cyou/0.0.0.0
 address=/www.inveranix-platform.com/0.0.0.0
 address=/www.inverogt-solution.com/0.0.0.0
@@ -74696,6 +74698,7 @@ address=/www.irridrappr.cyou/0.0.0.0
 address=/www.irsce.com/0.0.0.0
 address=/www.iryam.com/0.0.0.0
 address=/www.is1.clixgalore.com/0.0.0.0
+address=/www.isavs.com/0.0.0.0
 address=/www.iscusfrijo.cyou/0.0.0.0
 address=/www.isearch.com/0.0.0.0
 address=/www.isearchtech.com/0.0.0.0
@@ -74903,6 +74906,7 @@ address=/www.jeunesseglobal.com/0.0.0.0
 address=/www.jeuxfortuna.com/0.0.0.0
 address=/www.jeuxjackpotcasino.com/0.0.0.0
 address=/www.jewellans.com/0.0.0.0
+address=/www.jewishgame.com/0.0.0.0
 address=/www.jexneeuil.com/0.0.0.0
 address=/www.jfjdit55i5kfm5fir4p466ofcmf.fwh.is/0.0.0.0
 address=/www.jg493kf0wld.shop/0.0.0.0
@@ -79207,6 +79211,7 @@ address=/www.pay-per-search.com/0.0.0.0
 address=/www.pay.osoobe.com/0.0.0.0
 address=/www.pay2me.pl/0.0.0.0
 address=/www.pay9873.lol/0.0.0.0
+address=/www.payasyougocert.com/0.0.0.0
 address=/www.paycore-24.cfd/0.0.0.0
 address=/www.paycore-send.cfd/0.0.0.0
 address=/www.paycore24-express.cfd/0.0.0.0
@@ -79386,6 +79391,7 @@ address=/www.pfeiffervacuum.net/0.0.0.0
 address=/www.pfhsystem.com/0.0.0.0
 address=/www.pflegmatic.com/0.0.0.0
 address=/www.pfphg.com/0.0.0.0
+address=/www.pfsim.com/0.0.0.0
 address=/www.pgbitumenpn.com/0.0.0.0
 address=/www.pge.httppl-infosite.com/0.0.0.0
 address=/www.pgebok29791.com.pl/0.0.0.0

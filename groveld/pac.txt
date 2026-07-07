@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 90545
-// Updated: 2026-07-06 05:55:23 UTC
+// Entries: 90551
+// Updated: 2026-07-07 05:45:04 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53552,6 +53552,7 @@ var BLOCKLIST = {
 "snaplevorafinapp.com":null,
 "snapmobile.asia":null,
 "snaps.vidiemi.com":null,
+"snapsonthehouse.com":null,
 "snavik.shop":null,
 "snaxynuo.space":null,
 "snazzypoodle.com":null,
@@ -74604,6 +74605,7 @@ var BLOCKLIST = {
 "www.inuzzgermo.cyou":null,
 "www.inv.atlastmanagementsa.com":null,
 "www.invenfluid.soniariberi.com":null,
+"www.inventons.com":null,
 "www.inveraccor.cyou":null,
 "www.inveranix-platform.com":null,
 "www.inverogt-solution.com":null,
@@ -74697,6 +74699,7 @@ var BLOCKLIST = {
 "www.irsce.com":null,
 "www.iryam.com":null,
 "www.is1.clixgalore.com":null,
+"www.isavs.com":null,
 "www.iscusfrijo.cyou":null,
 "www.isearch.com":null,
 "www.isearchtech.com":null,
@@ -74904,6 +74907,7 @@ var BLOCKLIST = {
 "www.jeuxfortuna.com":null,
 "www.jeuxjackpotcasino.com":null,
 "www.jewellans.com":null,
+"www.jewishgame.com":null,
 "www.jexneeuil.com":null,
 "www.jfjdit55i5kfm5fir4p466ofcmf.fwh.is":null,
 "www.jg493kf0wld.shop":null,
@@ -79208,6 +79212,7 @@ var BLOCKLIST = {
 "www.pay.osoobe.com":null,
 "www.pay2me.pl":null,
 "www.pay9873.lol":null,
+"www.payasyougocert.com":null,
 "www.paycore-24.cfd":null,
 "www.paycore-send.cfd":null,
 "www.paycore24-express.cfd":null,
@@ -79387,6 +79392,7 @@ var BLOCKLIST = {
 "www.pfhsystem.com":null,
 "www.pflegmatic.com":null,
 "www.pfphg.com":null,
+"www.pfsim.com":null,
 "www.pgbitumenpn.com":null,
 "www.pge.httppl-infosite.com":null,
 "www.pgebok29791.com.pl":null,

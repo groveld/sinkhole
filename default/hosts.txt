@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 90543
-# Updated: 2026-07-06 05:05:57 UTC
+# Entries: 90549
+# Updated: 2026-07-07 04:55:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -53550,6 +53550,7 @@
 0.0.0.0 snaplevorafinapp.com
 0.0.0.0 snapmobile.asia
 0.0.0.0 snaps.vidiemi.com
+0.0.0.0 snapsonthehouse.com
 0.0.0.0 snavik.shop
 0.0.0.0 snaxynuo.space
 0.0.0.0 snazzypoodle.com
@@ -74601,6 +74602,7 @@
 0.0.0.0 www.inuzzgermo.cyou
 0.0.0.0 www.inv.atlastmanagementsa.com
 0.0.0.0 www.invenfluid.soniariberi.com
+0.0.0.0 www.inventons.com
 0.0.0.0 www.inveraccor.cyou
 0.0.0.0 www.inveranix-platform.com
 0.0.0.0 www.inverogt-solution.com
@@ -74694,6 +74696,7 @@
 0.0.0.0 www.irsce.com
 0.0.0.0 www.iryam.com
 0.0.0.0 www.is1.clixgalore.com
+0.0.0.0 www.isavs.com
 0.0.0.0 www.iscusfrijo.cyou
 0.0.0.0 www.isearch.com
 0.0.0.0 www.isearchtech.com
@@ -74901,6 +74904,7 @@
 0.0.0.0 www.jeuxfortuna.com
 0.0.0.0 www.jeuxjackpotcasino.com
 0.0.0.0 www.jewellans.com
+0.0.0.0 www.jewishgame.com
 0.0.0.0 www.jexneeuil.com
 0.0.0.0 www.jfjdit55i5kfm5fir4p466ofcmf.fwh.is
 0.0.0.0 www.jg493kf0wld.shop
@@ -79205,6 +79209,7 @@
 0.0.0.0 www.pay.osoobe.com
 0.0.0.0 www.pay2me.pl
 0.0.0.0 www.pay9873.lol
+0.0.0.0 www.payasyougocert.com
 0.0.0.0 www.paycore-24.cfd
 0.0.0.0 www.paycore-send.cfd
 0.0.0.0 www.paycore24-express.cfd
@@ -79384,6 +79389,7 @@
 0.0.0.0 www.pfhsystem.com
 0.0.0.0 www.pflegmatic.com
 0.0.0.0 www.pfphg.com
+0.0.0.0 www.pfsim.com
 0.0.0.0 www.pgbitumenpn.com
 0.0.0.0 www.pge.httppl-infosite.com
 0.0.0.0 www.pgebok29791.com.pl
