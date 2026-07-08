@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 90549
-# Updated: 2026-07-07 04:55:38 UTC
+# Entries: 90558
+# Updated: 2026-07-08 04:20:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10715,6 +10715,7 @@ address=/advertisers.adasiaholdings.com/0.0.0.0
 address=/advertiserurl.com/0.0.0.0
 address=/advertisespace.com/0.0.0.0
 address=/advertising-cdn.dpgmedia.cloud/0.0.0.0
+address=/advertising.amazon.de/0.0.0.0
 address=/advertising.aol.com/0.0.0.0
 address=/advertising.apple.com/0.0.0.0
 address=/advertising.bayoubuzz.com/0.0.0.0
@@ -32343,6 +32344,7 @@ address=/hln-frinfos.metriweb.be/0.0.0.0
 address=/hln7sur7.tnsinternet.be/0.0.0.0
 address=/hlog.hiido.com/0.0.0.0
 address=/hlok.qertewrt.com/0.0.0.0
+address=/hlpurs.live/0.0.0.0
 address=/hlthiliv.shop/0.0.0.0
 address=/hltuup.za.com/0.0.0.0
 address=/hm.baidu.com/0.0.0.0
@@ -45351,6 +45353,7 @@ address=/performancerevenues.com/0.0.0.0
 address=/performancesearly.xclubmy.com/0.0.0.0
 address=/performancevitality.net/0.0.0.0
 address=/performancing.com/0.0.0.0
+address=/performer.za.com/0.0.0.0
 address=/performercenter.livejasmin.com/0.0.0.0
 address=/perfspot.crwdcntrl.net/0.0.0.0
 address=/perfume-pl.shop/0.0.0.0
@@ -65777,6 +65780,7 @@ address=/www.ahczcy.com/0.0.0.0
 address=/www.ahilla.com/0.0.0.0
 address=/www.ahjjkfdjkhdfsjkldfsjkldsf.com/0.0.0.0
 address=/www.ahkgtechlabs.com/0.0.0.0
+address=/www.ahlie.com/0.0.0.0
 address=/www.ahmetalgan.com/0.0.0.0
 address=/www.ahmetcifci.com/0.0.0.0
 address=/www.ahoystack.com/0.0.0.0
@@ -68185,6 +68189,7 @@ address=/www.buyingedge.com/0.0.0.0
 address=/www.buylike.pro/0.0.0.0
 address=/www.buylikes4u.com/0.0.0.0
 address=/www.buynewbalances.com/0.0.0.0
+address=/www.buystables.com/0.0.0.0
 address=/www.buythisdomain.net/0.0.0.0
 address=/www.buz2mobile.com/0.0.0.0
 address=/www.buzpateniankara.com/0.0.0.0
@@ -69153,6 +69158,7 @@ address=/www.compiradun.cyou/0.0.0.0
 address=/www.compitte.com/0.0.0.0
 address=/www.complectuscapital.com/0.0.0.0
 address=/www.completely.wipercentrum.info/0.0.0.0
+address=/www.complien.com/0.0.0.0
 address=/www.complsifil.cyou/0.0.0.0
 address=/www.compocorner.whoseaway.com/0.0.0.0
 address=/www.componogroup.com/0.0.0.0
@@ -79413,6 +79419,7 @@ address=/www.phloxautosuggjjest.info/0.0.0.0
 address=/www.phoenixads.co.in/0.0.0.0
 address=/www.phonejapan.com/0.0.0.0
 address=/www.phonemex.com/0.0.0.0
+address=/www.phonenumberbook.com/0.0.0.0
 address=/www.phonesecure.mobi/0.0.0.0
 address=/www.phorm.com/0.0.0.0
 address=/www.phormlabs.com/0.0.0.0
@@ -85973,6 +85980,7 @@ address=/www.truncappro.cyou/0.0.0.0
 address=/www.trureliefs.store/0.0.0.0
 address=/www.trusorbot-tech.com/0.0.0.0
 address=/www.trussristo.cyou/0.0.0.0
+address=/www.trustaddons.com/0.0.0.0
 address=/www.trusted-broker-reviews.com/0.0.0.0
 address=/www.trusteddrugstore.com/0.0.0.0
 address=/www.trustedsearch.com/0.0.0.0
@@ -87628,6 +87636,7 @@ address=/www.webmail-autho.gdqjgs.com/0.0.0.0
 address=/www.webmicrostores.com/0.0.0.0
 address=/www.webmoblink.com/0.0.0.0
 address=/www.webnamescheap.info/0.0.0.0
+address=/www.webontwerp.com/0.0.0.0
 address=/www.webpartition.com/0.0.0.0
 address=/www.webrobi.pl/0.0.0.0
 address=/www.websbring.fawesomeapp.com/0.0.0.0

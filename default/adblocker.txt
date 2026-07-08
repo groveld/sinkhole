@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 90549
-! Updated: 2026-07-07 04:55:38 UTC
+! Entries: 90558
+! Updated: 2026-07-08 04:20:13 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10715,6 +10715,7 @@
 ||advertiserurl.com^
 ||advertisespace.com^
 ||advertising-cdn.dpgmedia.cloud^
+||advertising.amazon.de^
 ||advertising.aol.com^
 ||advertising.apple.com^
 ||advertising.bayoubuzz.com^
@@ -32343,6 +32344,7 @@
 ||hln7sur7.tnsinternet.be^
 ||hlog.hiido.com^
 ||hlok.qertewrt.com^
+||hlpurs.live^
 ||hlthiliv.shop^
 ||hltuup.za.com^
 ||hm.baidu.com^
@@ -45351,6 +45353,7 @@
 ||performancesearly.xclubmy.com^
 ||performancevitality.net^
 ||performancing.com^
+||performer.za.com^
 ||performercenter.livejasmin.com^
 ||perfspot.crwdcntrl.net^
 ||perfume-pl.shop^
@@ -65777,6 +65780,7 @@
 ||www.ahilla.com^
 ||www.ahjjkfdjkhdfsjkldfsjkldsf.com^
 ||www.ahkgtechlabs.com^
+||www.ahlie.com^
 ||www.ahmetalgan.com^
 ||www.ahmetcifci.com^
 ||www.ahoystack.com^
@@ -68185,6 +68189,7 @@
 ||www.buylike.pro^
 ||www.buylikes4u.com^
 ||www.buynewbalances.com^
+||www.buystables.com^
 ||www.buythisdomain.net^
 ||www.buz2mobile.com^
 ||www.buzpateniankara.com^
@@ -69153,6 +69158,7 @@
 ||www.compitte.com^
 ||www.complectuscapital.com^
 ||www.completely.wipercentrum.info^
+||www.complien.com^
 ||www.complsifil.cyou^
 ||www.compocorner.whoseaway.com^
 ||www.componogroup.com^
@@ -79413,6 +79419,7 @@
 ||www.phoenixads.co.in^
 ||www.phonejapan.com^
 ||www.phonemex.com^
+||www.phonenumberbook.com^
 ||www.phonesecure.mobi^
 ||www.phorm.com^
 ||www.phormlabs.com^
@@ -85973,6 +85980,7 @@
 ||www.trureliefs.store^
 ||www.trusorbot-tech.com^
 ||www.trussristo.cyou^
+||www.trustaddons.com^
 ||www.trusted-broker-reviews.com^
 ||www.trusteddrugstore.com^
 ||www.trustedsearch.com^
@@ -87628,6 +87636,7 @@
 ||www.webmicrostores.com^
 ||www.webmoblink.com^
 ||www.webnamescheap.info^
+||www.webontwerp.com^
 ||www.webpartition.com^
 ||www.webrobi.pl^
 ||www.websbring.fawesomeapp.com^

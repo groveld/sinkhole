@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 90549
-// Updated: 2026-07-07 04:55:38 UTC
+// Entries: 90558
+// Updated: 2026-07-08 04:20:13 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -10716,6 +10716,7 @@ var BLOCKLIST = {
 "advertiserurl.com":null,
 "advertisespace.com":null,
 "advertising-cdn.dpgmedia.cloud":null,
+"advertising.amazon.de":null,
 "advertising.aol.com":null,
 "advertising.apple.com":null,
 "advertising.bayoubuzz.com":null,
@@ -32344,6 +32345,7 @@ var BLOCKLIST = {
 "hln7sur7.tnsinternet.be":null,
 "hlog.hiido.com":null,
 "hlok.qertewrt.com":null,
+"hlpurs.live":null,
 "hlthiliv.shop":null,
 "hltuup.za.com":null,
 "hm.baidu.com":null,
@@ -45352,6 +45354,7 @@ var BLOCKLIST = {
 "performancesearly.xclubmy.com":null,
 "performancevitality.net":null,
 "performancing.com":null,
+"performer.za.com":null,
 "performercenter.livejasmin.com":null,
 "perfspot.crwdcntrl.net":null,
 "perfume-pl.shop":null,
@@ -65778,6 +65781,7 @@ var BLOCKLIST = {
 "www.ahilla.com":null,
 "www.ahjjkfdjkhdfsjkldfsjkldsf.com":null,
 "www.ahkgtechlabs.com":null,
+"www.ahlie.com":null,
 "www.ahmetalgan.com":null,
 "www.ahmetcifci.com":null,
 "www.ahoystack.com":null,
@@ -68186,6 +68190,7 @@ var BLOCKLIST = {
 "www.buylike.pro":null,
 "www.buylikes4u.com":null,
 "www.buynewbalances.com":null,
+"www.buystables.com":null,
 "www.buythisdomain.net":null,
 "www.buz2mobile.com":null,
 "www.buzpateniankara.com":null,
@@ -69154,6 +69159,7 @@ var BLOCKLIST = {
 "www.compitte.com":null,
 "www.complectuscapital.com":null,
 "www.completely.wipercentrum.info":null,
+"www.complien.com":null,
 "www.complsifil.cyou":null,
 "www.compocorner.whoseaway.com":null,
 "www.componogroup.com":null,
@@ -79414,6 +79420,7 @@ var BLOCKLIST = {
 "www.phoenixads.co.in":null,
 "www.phonejapan.com":null,
 "www.phonemex.com":null,
+"www.phonenumberbook.com":null,
 "www.phonesecure.mobi":null,
 "www.phorm.com":null,
 "www.phormlabs.com":null,
@@ -85974,6 +85981,7 @@ var BLOCKLIST = {
 "www.trureliefs.store":null,
 "www.trusorbot-tech.com":null,
 "www.trussristo.cyou":null,
+"www.trustaddons.com":null,
 "www.trusted-broker-reviews.com":null,
 "www.trusteddrugstore.com":null,
 "www.trustedsearch.com":null,
@@ -87629,6 +87637,7 @@ var BLOCKLIST = {
 "www.webmicrostores.com":null,
 "www.webmoblink.com":null,
 "www.webnamescheap.info":null,
+"www.webontwerp.com":null,
 "www.webpartition.com":null,
 "www.webrobi.pl":null,
 "www.websbring.fawesomeapp.com":null,
