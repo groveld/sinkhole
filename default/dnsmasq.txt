@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 90558
-# Updated: 2026-07-08 04:20:13 UTC
+# Entries: 90566
+# Updated: 2026-07-09 04:54:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -13298,6 +13298,7 @@ address=/api-analytics.metaps.com/0.0.0.0
 address=/api-app.ants.vn/0.0.0.0
 address=/api-cache.adsnative.com/0.0.0.0
 address=/api-data-1234-s3-region-amazonaws-user.fitness-digest.com/0.0.0.0
+address=/api-ext.bixbitemarketing.com/0.0.0.0
 address=/api-ext.mediav.com/0.0.0.0
 address=/api-gateway.us-west-2.elasticbeanstalk.com/0.0.0.0
 address=/api-gdpr.voodoo-tech.io/0.0.0.0
@@ -71203,6 +71204,7 @@ address=/www.ers.ero-advertising.com/0.0.0.0
 address=/www.ersahicgiyim.online/0.0.0.0
 address=/www.ersahunderwear.net/0.0.0.0
 address=/www.ersahunderwear.online/0.0.0.0
+address=/www.erspan.com/0.0.0.0
 address=/www.erste-hilfe-poessneck.de/0.0.0.0
 address=/www.erste.centrum24pl.com/0.0.0.0
 address=/www.ertse-centrum24.sso-privatkunden.es/0.0.0.0
@@ -71648,6 +71650,7 @@ address=/www.farracroni.cyou/0.0.0.0
 address=/www.fartherview.whiterosecleaning.com/0.0.0.0
 address=/www.fartuchy-kuchenne.pl/0.0.0.0
 address=/www.farukakpinar.com/0.0.0.0
+address=/www.faruvclight.com/0.0.0.0
 address=/www.faryzeusz.pl/0.0.0.0
 address=/www.fasaoploapzaerisdoa.site/0.0.0.0
 address=/www.fascescarn.cyou/0.0.0.0
@@ -73854,6 +73857,7 @@ address=/www.hotstar.pubnub.net/0.0.0.0
 address=/www.hottophot.com/0.0.0.0
 address=/www.hour-room234.com/0.0.0.0
 address=/www.hour-room524.com/0.0.0.0
+address=/www.hourofscience.com/0.0.0.0
 address=/www.hoursales.com/0.0.0.0
 address=/www.house-global898140.com/0.0.0.0
 address=/www.house-guest25581.com/0.0.0.0
@@ -74818,6 +74822,7 @@ address=/www.jackpotcasinojeux.com/0.0.0.0
 address=/www.jacob-jones.club/0.0.0.0
 address=/www.jacobgamer.com/0.0.0.0
 address=/www.jacquardjump.shop/0.0.0.0
+address=/www.jacqueruth.com/0.0.0.0
 address=/www.jacquesreview.com/0.0.0.0
 address=/www.jade-arithmetic-ef5a59.netlify.app/0.0.0.0
 address=/www.jahyanamusic.com/0.0.0.0
@@ -77255,6 +77260,7 @@ address=/www.myquicksearch.com/0.0.0.0
 address=/www.myreferer.com/0.0.0.0
 address=/www.myrkul.live/0.0.0.0
 address=/www.myroitracking.com/0.0.0.0
+address=/www.myrosinase.com/0.0.0.0
 address=/www.mysearch-engine.com/0.0.0.0
 address=/www.mysearch.com/0.0.0.0
 address=/www.myseostats.com/0.0.0.0
@@ -81488,6 +81494,7 @@ address=/www.ronasudexappsolution.com/0.0.0.0
 address=/www.roncainvid.cyou/0.0.0.0
 address=/www.roncoscout.cyou/0.0.0.0
 address=/www.rooeconfiguring.info/0.0.0.0
+address=/www.roofcoins.com/0.0.0.0
 address=/www.roofersandoverks.com/0.0.0.0
 address=/www.roofersarnoldmo.com/0.0.0.0
 address=/www.roofersballwinmo.com/0.0.0.0
@@ -82557,6 +82564,7 @@ address=/www.skegness.net/0.0.0.0
 address=/www.sketcunapp.cyou/0.0.0.0
 address=/www.skibidihotel.com/0.0.0.0
 address=/www.skidrowcrack.com/0.0.0.0
+address=/www.skillmatchgame.com/0.0.0.0
 address=/www.skillranc.lol/0.0.0.0
 address=/www.skillsmastering.com/0.0.0.0
 address=/www.skinglowpoland.com/0.0.0.0

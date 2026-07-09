@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 90560
-! Updated: 2026-07-08 05:09:38 UTC
+! Entries: 90568
+! Updated: 2026-07-09 05:43:52 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -13298,6 +13298,7 @@
 ||api-app.ants.vn^
 ||api-cache.adsnative.com^
 ||api-data-1234-s3-region-amazonaws-user.fitness-digest.com^
+||api-ext.bixbitemarketing.com^
 ||api-ext.mediav.com^
 ||api-gateway.us-west-2.elasticbeanstalk.com^
 ||api-gdpr.voodoo-tech.io^
@@ -71204,6 +71205,7 @@
 ||www.ersahicgiyim.online^
 ||www.ersahunderwear.net^
 ||www.ersahunderwear.online^
+||www.erspan.com^
 ||www.erste-hilfe-poessneck.de^
 ||www.erste.centrum24pl.com^
 ||www.ertse-centrum24.sso-privatkunden.es^
@@ -71649,6 +71651,7 @@
 ||www.fartherview.whiterosecleaning.com^
 ||www.fartuchy-kuchenne.pl^
 ||www.farukakpinar.com^
+||www.faruvclight.com^
 ||www.faryzeusz.pl^
 ||www.fasaoploapzaerisdoa.site^
 ||www.fascescarn.cyou^
@@ -73856,6 +73859,7 @@
 ||www.hottophot.com^
 ||www.hour-room234.com^
 ||www.hour-room524.com^
+||www.hourofscience.com^
 ||www.hoursales.com^
 ||www.house-global898140.com^
 ||www.house-guest25581.com^
@@ -74820,6 +74824,7 @@
 ||www.jacob-jones.club^
 ||www.jacobgamer.com^
 ||www.jacquardjump.shop^
+||www.jacqueruth.com^
 ||www.jacquesreview.com^
 ||www.jade-arithmetic-ef5a59.netlify.app^
 ||www.jahyanamusic.com^
@@ -77257,6 +77262,7 @@
 ||www.myreferer.com^
 ||www.myrkul.live^
 ||www.myroitracking.com^
+||www.myrosinase.com^
 ||www.mysearch-engine.com^
 ||www.mysearch.com^
 ||www.myseostats.com^
@@ -81490,6 +81496,7 @@
 ||www.roncainvid.cyou^
 ||www.roncoscout.cyou^
 ||www.rooeconfiguring.info^
+||www.roofcoins.com^
 ||www.roofersandoverks.com^
 ||www.roofersarnoldmo.com^
 ||www.roofersballwinmo.com^
@@ -82559,6 +82566,7 @@
 ||www.sketcunapp.cyou^
 ||www.skibidihotel.com^
 ||www.skidrowcrack.com^
+||www.skillmatchgame.com^
 ||www.skillranc.lol^
 ||www.skillsmastering.com^
 ||www.skinglowpoland.com^

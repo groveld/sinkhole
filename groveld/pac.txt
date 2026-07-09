@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 90560
-// Updated: 2026-07-08 05:09:38 UTC
+// Entries: 90568
+// Updated: 2026-07-09 05:43:52 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -13299,6 +13299,7 @@ var BLOCKLIST = {
 "api-app.ants.vn":null,
 "api-cache.adsnative.com":null,
 "api-data-1234-s3-region-amazonaws-user.fitness-digest.com":null,
+"api-ext.bixbitemarketing.com":null,
 "api-ext.mediav.com":null,
 "api-gateway.us-west-2.elasticbeanstalk.com":null,
 "api-gdpr.voodoo-tech.io":null,
@@ -71205,6 +71206,7 @@ var BLOCKLIST = {
 "www.ersahicgiyim.online":null,
 "www.ersahunderwear.net":null,
 "www.ersahunderwear.online":null,
+"www.erspan.com":null,
 "www.erste-hilfe-poessneck.de":null,
 "www.erste.centrum24pl.com":null,
 "www.ertse-centrum24.sso-privatkunden.es":null,
@@ -71650,6 +71652,7 @@ var BLOCKLIST = {
 "www.fartherview.whiterosecleaning.com":null,
 "www.fartuchy-kuchenne.pl":null,
 "www.farukakpinar.com":null,
+"www.faruvclight.com":null,
 "www.faryzeusz.pl":null,
 "www.fasaoploapzaerisdoa.site":null,
 "www.fascescarn.cyou":null,
@@ -73857,6 +73860,7 @@ var BLOCKLIST = {
 "www.hottophot.com":null,
 "www.hour-room234.com":null,
 "www.hour-room524.com":null,
+"www.hourofscience.com":null,
 "www.hoursales.com":null,
 "www.house-global898140.com":null,
 "www.house-guest25581.com":null,
@@ -74821,6 +74825,7 @@ var BLOCKLIST = {
 "www.jacob-jones.club":null,
 "www.jacobgamer.com":null,
 "www.jacquardjump.shop":null,
+"www.jacqueruth.com":null,
 "www.jacquesreview.com":null,
 "www.jade-arithmetic-ef5a59.netlify.app":null,
 "www.jahyanamusic.com":null,
@@ -77258,6 +77263,7 @@ var BLOCKLIST = {
 "www.myreferer.com":null,
 "www.myrkul.live":null,
 "www.myroitracking.com":null,
+"www.myrosinase.com":null,
 "www.mysearch-engine.com":null,
 "www.mysearch.com":null,
 "www.myseostats.com":null,
@@ -81491,6 +81497,7 @@ var BLOCKLIST = {
 "www.roncainvid.cyou":null,
 "www.roncoscout.cyou":null,
 "www.rooeconfiguring.info":null,
+"www.roofcoins.com":null,
 "www.roofersandoverks.com":null,
 "www.roofersarnoldmo.com":null,
 "www.roofersballwinmo.com":null,
@@ -82560,6 +82567,7 @@ var BLOCKLIST = {
 "www.sketcunapp.cyou":null,
 "www.skibidihotel.com":null,
 "www.skidrowcrack.com":null,
+"www.skillmatchgame.com":null,
 "www.skillranc.lol":null,
 "www.skillsmastering.com":null,
 "www.skinglowpoland.com":null,
