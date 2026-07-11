@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 90809
-// Updated: 2026-07-10 04:49:17 UTC
+// Entries: 90814
+// Updated: 2026-07-11 04:16:16 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -32043,6 +32043,7 @@ var BLOCKLIST = {
 "healthgrades.112.2o7.net":null,
 "healthguides.cnn.com":null,
 "healthination.122.2o7.net":null,
+"healthit.live":null,
 "healthproviding.info":null,
 "healthrecoverynet.com":null,
 "healthsguide.info":null,
@@ -64035,6 +64036,7 @@ var BLOCKLIST = {
 "wirelessforumsorg.skimlinks.com":null,
 "wirtuozseksu.pl":null,
 "wirtvlg.oewabox.at":null,
+"wirypaste.com":null,
 "wise.binjaikia.shop":null,
 "wisefalcontrail.live":null,
 "wisepops.com":null,
@@ -74274,6 +74276,7 @@ var BLOCKLIST = {
 "www.icloudservice.mailsecu.co":null,
 "www.iclsas.com":null,
 "www.ico.re":null,
+"www.iconatsbs.com":null,
 "www.iconiorgog.cyou":null,
 "www.iconsextend.click":null,
 "www.icoocash.com":null,
@@ -74473,6 +74476,7 @@ var BLOCKLIST = {
 "www.impregnable.net":null,
 "www.imprenibel.cyou":null,
 "www.impresionesweb.com":null,
+"www.improvingthe.com":null,
 "www.impubristo.cyou":null,
 "www.impulsband.pl":null,
 "www.impulse-dexerissoft.com":null,
@@ -82254,6 +82258,7 @@ var BLOCKLIST = {
 "www.saort4938h45.cfd":null,
 "www.sapancabungalove.com":null,
 "www.sapancalakepalace.com":null,
+"www.sapiatinsurance.com":null,
 "www.sapicomutfak.com":null,
 "www.sapienteris.com":null,
 "www.sapienthost.com":null,

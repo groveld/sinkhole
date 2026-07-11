@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 90811
-# Updated: 2026-07-10 05:38:40 UTC
+# Entries: 90816
+# Updated: 2026-07-11 05:05:42 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -32043,6 +32043,7 @@ address=/healthfood.syoutikubai.com/0.0.0.0
 address=/healthgrades.112.2o7.net/0.0.0.0
 address=/healthguides.cnn.com/0.0.0.0
 address=/healthination.122.2o7.net/0.0.0.0
+address=/healthit.live/0.0.0.0
 address=/healthproviding.info/0.0.0.0
 address=/healthrecoverynet.com/0.0.0.0
 address=/healthsguide.info/0.0.0.0
@@ -64035,6 +64036,7 @@ address=/wirelessforums.us.intellitxt.com/0.0.0.0
 address=/wirelessforumsorg.skimlinks.com/0.0.0.0
 address=/wirtuozseksu.pl/0.0.0.0
 address=/wirtvlg.oewabox.at/0.0.0.0
+address=/wirypaste.com/0.0.0.0
 address=/wise.binjaikia.shop/0.0.0.0
 address=/wisefalcontrail.live/0.0.0.0
 address=/wisepops.com/0.0.0.0
@@ -74275,6 +74277,7 @@ address=/www.icityfind.com/0.0.0.0
 address=/www.icloudservice.mailsecu.co/0.0.0.0
 address=/www.iclsas.com/0.0.0.0
 address=/www.ico.re/0.0.0.0
+address=/www.iconatsbs.com/0.0.0.0
 address=/www.iconiorgog.cyou/0.0.0.0
 address=/www.iconsextend.click/0.0.0.0
 address=/www.icoocash.com/0.0.0.0
@@ -74474,6 +74477,7 @@ address=/www.imporaselg.cyou/0.0.0.0
 address=/www.impregnable.net/0.0.0.0
 address=/www.imprenibel.cyou/0.0.0.0
 address=/www.impresionesweb.com/0.0.0.0
+address=/www.improvingthe.com/0.0.0.0
 address=/www.impubristo.cyou/0.0.0.0
 address=/www.impulsband.pl/0.0.0.0
 address=/www.impulse-dexerissoft.com/0.0.0.0
@@ -82255,6 +82259,7 @@ address=/www.santunion.club/0.0.0.0
 address=/www.saort4938h45.cfd/0.0.0.0
 address=/www.sapancabungalove.com/0.0.0.0
 address=/www.sapancalakepalace.com/0.0.0.0
+address=/www.sapiatinsurance.com/0.0.0.0
 address=/www.sapicomutfak.com/0.0.0.0
 address=/www.sapienteris.com/0.0.0.0
 address=/www.sapienthost.com/0.0.0.0
