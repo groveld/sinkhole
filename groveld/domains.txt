@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 90816
-# Updated: 2026-07-11 05:05:42 UTC
+# Entries: 90821
+# Updated: 2026-07-12 05:17:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19618,6 +19618,7 @@ capitalcore-ai.net
 capitalecrypto-app.com
 capitalflow-software.com
 capitalgroup.112.2o7.net
+capitalopera.com
 capitalregionusa.fr
 capitfrigh.cyou
 capitulumgroup.com
@@ -45917,6 +45918,7 @@ pi-ofera02.shop
 pi.adflex.vn
 pi.ispot.tv
 pi.pardot.com
+pi.pdfjs.express
 piacihunte.cyou
 pianesotto.cyou
 pianka.shop
@@ -49658,6 +49660,7 @@ resanium.com
 rescuemycell.com
 rescuerhino.com
 resealean.lumberyardgrillandpub.com
+researchlog.dbresearch.com
 researchnow.com
 researchs.top
 reseaux-telecoms.fr.intellitxt.com
@@ -50130,6 +50133,7 @@ robometra.site
 robot.royalcactus.com
 robotechcity.com
 robothijinx.com
+robotrefinery.com
 robotreplay.com
 robotscan.net
 robtopol.in
@@ -60195,6 +60199,7 @@ trkn.us
 trkoptimizer.com
 trkplus.info
 trkpnt.ongage.net
+trkweb.clinch.co
 trloncaholding.com
 trmit.com
 trodantexapp-engine.com

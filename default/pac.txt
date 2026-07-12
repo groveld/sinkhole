@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 90814
-// Updated: 2026-07-11 04:16:16 UTC
+// Entries: 90819
+// Updated: 2026-07-12 04:27:37 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19619,6 +19619,7 @@ var BLOCKLIST = {
 "capitalecrypto-app.com":null,
 "capitalflow-software.com":null,
 "capitalgroup.112.2o7.net":null,
+"capitalopera.com":null,
 "capitalregionusa.fr":null,
 "capitfrigh.cyou":null,
 "capitulumgroup.com":null,
@@ -45917,6 +45918,7 @@ var BLOCKLIST = {
 "pi.adflex.vn":null,
 "pi.ispot.tv":null,
 "pi.pardot.com":null,
+"pi.pdfjs.express":null,
 "piacihunte.cyou":null,
 "pianesotto.cyou":null,
 "pianka.shop":null,
@@ -49658,6 +49660,7 @@ var BLOCKLIST = {
 "rescuemycell.com":null,
 "rescuerhino.com":null,
 "resealean.lumberyardgrillandpub.com":null,
+"researchlog.dbresearch.com":null,
 "researchnow.com":null,
 "researchs.top":null,
 "reseaux-telecoms.fr.intellitxt.com":null,
@@ -50130,6 +50133,7 @@ var BLOCKLIST = {
 "robot.royalcactus.com":null,
 "robotechcity.com":null,
 "robothijinx.com":null,
+"robotrefinery.com":null,
 "robotreplay.com":null,
 "robotscan.net":null,
 "robtopol.in":null,
@@ -60195,6 +60199,7 @@ var BLOCKLIST = {
 "trkoptimizer.com":null,
 "trkplus.info":null,
 "trkpnt.ongage.net":null,
+"trkweb.clinch.co":null,
 "trloncaholding.com":null,
 "trmit.com":null,
 "trodantexapp-engine.com":null,

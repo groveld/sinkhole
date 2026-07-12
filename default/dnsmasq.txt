@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 90814
-# Updated: 2026-07-11 04:16:16 UTC
+# Entries: 90819
+# Updated: 2026-07-12 04:27:37 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -19618,6 +19618,7 @@ address=/capitalcore-ai.net/0.0.0.0
 address=/capitalecrypto-app.com/0.0.0.0
 address=/capitalflow-software.com/0.0.0.0
 address=/capitalgroup.112.2o7.net/0.0.0.0
+address=/capitalopera.com/0.0.0.0
 address=/capitalregionusa.fr/0.0.0.0
 address=/capitfrigh.cyou/0.0.0.0
 address=/capitulumgroup.com/0.0.0.0
@@ -45916,6 +45917,7 @@ address=/pi-ofera02.shop/0.0.0.0
 address=/pi.adflex.vn/0.0.0.0
 address=/pi.ispot.tv/0.0.0.0
 address=/pi.pardot.com/0.0.0.0
+address=/pi.pdfjs.express/0.0.0.0
 address=/piacihunte.cyou/0.0.0.0
 address=/pianesotto.cyou/0.0.0.0
 address=/pianka.shop/0.0.0.0
@@ -49657,6 +49659,7 @@ address=/resanium.com/0.0.0.0
 address=/rescuemycell.com/0.0.0.0
 address=/rescuerhino.com/0.0.0.0
 address=/resealean.lumberyardgrillandpub.com/0.0.0.0
+address=/researchlog.dbresearch.com/0.0.0.0
 address=/researchnow.com/0.0.0.0
 address=/researchs.top/0.0.0.0
 address=/reseaux-telecoms.fr.intellitxt.com/0.0.0.0
@@ -50129,6 +50132,7 @@ address=/robometra.site/0.0.0.0
 address=/robot.royalcactus.com/0.0.0.0
 address=/robotechcity.com/0.0.0.0
 address=/robothijinx.com/0.0.0.0
+address=/robotrefinery.com/0.0.0.0
 address=/robotreplay.com/0.0.0.0
 address=/robotscan.net/0.0.0.0
 address=/robtopol.in/0.0.0.0
@@ -60194,6 +60198,7 @@ address=/trkn.us/0.0.0.0
 address=/trkoptimizer.com/0.0.0.0
 address=/trkplus.info/0.0.0.0
 address=/trkpnt.ongage.net/0.0.0.0
+address=/trkweb.clinch.co/0.0.0.0
 address=/trloncaholding.com/0.0.0.0
 address=/trmit.com/0.0.0.0
 address=/trodantexapp-engine.com/0.0.0.0
