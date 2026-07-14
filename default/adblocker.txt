@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 90819
-! Updated: 2026-07-13 04:30:15 UTC
+! Entries: 90823
+! Updated: 2026-07-14 04:05:00 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -30397,6 +30397,7 @@
 ||gentleeveningbreeze.info^
 ||gentlegrove.eu^
 ||gentlehavenasdaqe.com^
+||genuinepeople.cc^
 ||geo-errserv.btrll.com^
 ||geo-location.s-onetag.com^
 ||geo-tracker.smadex.com^
@@ -58444,6 +58445,7 @@
 ||therichkids.com^
 ||theroamingjew.com^
 ||therootmarket.shop^
+||thesciencequest.info^
 ||thesearchagency.net^
 ||thesearchster.com^
 ||thesebronze.reorderinfo.com^
@@ -66434,6 +66436,7 @@
 ||www.allictosol.cyou^
 ||www.allienz.xyz^
 ||www.allingiena.cyou^
+||www.allinvideo.com^
 ||www.alliwa.shop^
 ||www.allloveadultcare.com^
 ||www.allo-sexe.com^
@@ -74997,6 +75000,7 @@
 ||www.italyste.com^
 ||www.itanaos.com^
 ||www.itcompany.com^
+||www.itemtools.com^
 ||www.ithelpportal.com^
 ||www.ithtehrk.weebly.com^
 ||www.itinatv.com^

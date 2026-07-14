@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 90821
-// Updated: 2026-07-13 05:19:40 UTC
+// Entries: 90825
+// Updated: 2026-07-14 04:54:25 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -30398,6 +30398,7 @@ var BLOCKLIST = {
 "gentleeveningbreeze.info":null,
 "gentlegrove.eu":null,
 "gentlehavenasdaqe.com":null,
+"genuinepeople.cc":null,
 "geo-errserv.btrll.com":null,
 "geo-location.s-onetag.com":null,
 "geo-tracker.smadex.com":null,
@@ -58446,6 +58447,7 @@ var BLOCKLIST = {
 "therichkids.com":null,
 "theroamingjew.com":null,
 "therootmarket.shop":null,
+"thesciencequest.info":null,
 "thesearchagency.net":null,
 "thesearchster.com":null,
 "thesebronze.reorderinfo.com":null,
@@ -66436,6 +66438,7 @@ var BLOCKLIST = {
 "www.allictosol.cyou":null,
 "www.allienz.xyz":null,
 "www.allingiena.cyou":null,
+"www.allinvideo.com":null,
 "www.alliwa.shop":null,
 "www.allloveadultcare.com":null,
 "www.allo-sexe.com":null,
@@ -75000,6 +75003,7 @@ var BLOCKLIST = {
 "www.italyste.com":null,
 "www.itanaos.com":null,
 "www.itcompany.com":null,
+"www.itemtools.com":null,
 "www.ithelpportal.com":null,
 "www.ithtehrk.weebly.com":null,
 "www.itinatv.com":null,
