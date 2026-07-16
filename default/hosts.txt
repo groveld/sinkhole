@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 88358
-# Updated: 2026-07-15 04:04:25 UTC
+# Entries: 88362
+# Updated: 2026-07-16 04:11:42 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -65760,6 +65760,7 @@
 0.0.0.0 www.artmugsuniverse.com
 0.0.0.0 www.arts-4-all.com
 0.0.0.0 www.artscarf.com
+0.0.0.0 www.artssets.com
 0.0.0.0 www.artusor.myshopify.com
 0.0.0.0 www.arvado.shop
 0.0.0.0 www.arveca.shop
@@ -68579,6 +68580,7 @@
 0.0.0.0 www.dayanitastore.com
 0.0.0.0 www.dayinchuan.com
 0.0.0.0 www.daytonjaxx.com
+0.0.0.0 www.dbcorporation.com
 0.0.0.0 www.dbghidhq.shop
 0.0.0.0 www.dblpmp.com
 0.0.0.0 www.dbobs.com
@@ -69749,6 +69751,7 @@
 0.0.0.0 www.elemoframe.cyou
 0.0.0.0 www.elevate-your-page.site
 0.0.0.0 www.elevatecrmsupport.com
+0.0.0.0 www.elfralalo.com
 0.0.0.0 www.eliavizyon.com
 0.0.0.0 www.elideammol.cyou
 0.0.0.0 www.elifmendes.com
@@ -72018,6 +72021,7 @@
 0.0.0.0 www.guardianwirealert.com
 0.0.0.0 www.guardsensu.cyou
 0.0.0.0 www.guardtendless.linkopingsfilmsalonger.com
+0.0.0.0 www.guashastone.com
 0.0.0.0 www.guassi.com
 0.0.0.0 www.guatb.com
 0.0.0.0 www.gudaspoloieowasl.site

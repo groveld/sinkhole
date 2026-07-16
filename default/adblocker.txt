@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 88358
-! Updated: 2026-07-15 04:04:25 UTC
+! Entries: 88362
+! Updated: 2026-07-16 04:11:42 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -65760,6 +65760,7 @@
 ||www.artmugsuniverse.com^
 ||www.arts-4-all.com^
 ||www.artscarf.com^
+||www.artssets.com^
 ||www.artusor.myshopify.com^
 ||www.arvado.shop^
 ||www.arveca.shop^
@@ -68579,6 +68580,7 @@
 ||www.dayanitastore.com^
 ||www.dayinchuan.com^
 ||www.daytonjaxx.com^
+||www.dbcorporation.com^
 ||www.dbghidhq.shop^
 ||www.dblpmp.com^
 ||www.dbobs.com^
@@ -69749,6 +69751,7 @@
 ||www.elemoframe.cyou^
 ||www.elevate-your-page.site^
 ||www.elevatecrmsupport.com^
+||www.elfralalo.com^
 ||www.eliavizyon.com^
 ||www.elideammol.cyou^
 ||www.elifmendes.com^
@@ -72018,6 +72021,7 @@
 ||www.guardianwirealert.com^
 ||www.guardsensu.cyou^
 ||www.guardtendless.linkopingsfilmsalonger.com^
+||www.guashastone.com^
 ||www.guassi.com^
 ||www.guatb.com^
 ||www.gudaspoloieowasl.site^

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 88360
-# Updated: 2026-07-15 04:53:48 UTC
+# Entries: 88364
+# Updated: 2026-07-16 05:01:12 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -65761,6 +65761,7 @@ address=/www.artiumcapital.com/0.0.0.0
 address=/www.artmugsuniverse.com/0.0.0.0
 address=/www.arts-4-all.com/0.0.0.0
 address=/www.artscarf.com/0.0.0.0
+address=/www.artssets.com/0.0.0.0
 address=/www.artusor.myshopify.com/0.0.0.0
 address=/www.arvado.shop/0.0.0.0
 address=/www.arveca.shop/0.0.0.0
@@ -68580,6 +68581,7 @@ address=/www.daxos.info/0.0.0.0
 address=/www.dayanitastore.com/0.0.0.0
 address=/www.dayinchuan.com/0.0.0.0
 address=/www.daytonjaxx.com/0.0.0.0
+address=/www.dbcorporation.com/0.0.0.0
 address=/www.dbghidhq.shop/0.0.0.0
 address=/www.dblpmp.com/0.0.0.0
 address=/www.dbobs.com/0.0.0.0
@@ -69750,6 +69752,7 @@ address=/www.elemesulph.cyou/0.0.0.0
 address=/www.elemoframe.cyou/0.0.0.0
 address=/www.elevate-your-page.site/0.0.0.0
 address=/www.elevatecrmsupport.com/0.0.0.0
+address=/www.elfralalo.com/0.0.0.0
 address=/www.eliavizyon.com/0.0.0.0
 address=/www.elideammol.cyou/0.0.0.0
 address=/www.elifmendes.com/0.0.0.0
@@ -72020,6 +72023,7 @@ address=/www.guardianwatchnews.pro/0.0.0.0
 address=/www.guardianwirealert.com/0.0.0.0
 address=/www.guardsensu.cyou/0.0.0.0
 address=/www.guardtendless.linkopingsfilmsalonger.com/0.0.0.0
+address=/www.guashastone.com/0.0.0.0
 address=/www.guassi.com/0.0.0.0
 address=/www.guatb.com/0.0.0.0
 address=/www.gudaspoloieowasl.site/0.0.0.0

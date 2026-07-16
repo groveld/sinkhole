@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 88360
-// Updated: 2026-07-15 04:53:48 UTC
+// Entries: 88364
+// Updated: 2026-07-16 05:01:12 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -65762,6 +65762,7 @@ var BLOCKLIST = {
 "www.artmugsuniverse.com":null,
 "www.arts-4-all.com":null,
 "www.artscarf.com":null,
+"www.artssets.com":null,
 "www.artusor.myshopify.com":null,
 "www.arvado.shop":null,
 "www.arveca.shop":null,
@@ -68581,6 +68582,7 @@ var BLOCKLIST = {
 "www.dayanitastore.com":null,
 "www.dayinchuan.com":null,
 "www.daytonjaxx.com":null,
+"www.dbcorporation.com":null,
 "www.dbghidhq.shop":null,
 "www.dblpmp.com":null,
 "www.dbobs.com":null,
@@ -69751,6 +69753,7 @@ var BLOCKLIST = {
 "www.elemoframe.cyou":null,
 "www.elevate-your-page.site":null,
 "www.elevatecrmsupport.com":null,
+"www.elfralalo.com":null,
 "www.eliavizyon.com":null,
 "www.elideammol.cyou":null,
 "www.elifmendes.com":null,
@@ -72021,6 +72024,7 @@ var BLOCKLIST = {
 "www.guardianwirealert.com":null,
 "www.guardsensu.cyou":null,
 "www.guardtendless.linkopingsfilmsalonger.com":null,
+"www.guashastone.com":null,
 "www.guassi.com":null,
 "www.guatb.com":null,
 "www.gudaspoloieowasl.site":null,
