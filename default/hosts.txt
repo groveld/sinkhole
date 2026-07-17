@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 88362
-# Updated: 2026-07-16 04:11:42 UTC
+# Entries: 88364
+# Updated: 2026-07-17 04:14:07 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -61016,6 +61016,7 @@
 0.0.0.0 vervemobile.com
 0.0.0.0 vervewireless.com
 0.0.0.0 very-koi.com
+0.0.0.0 verybark.com
 0.0.0.0 veryboys.com
 0.0.0.0 veryfastsearch.com
 0.0.0.0 veryvoga.pl
@@ -73568,6 +73569,7 @@
 0.0.0.0 www.jogalodz.pl
 0.0.0.0 www.johnmatthewalden.com
 0.0.0.0 www.johnmayo.shop
+0.0.0.0 www.joinclap.com
 0.0.0.0 www.joincreditexpert.co.uk
 0.0.0.0 www.joinfx.net
 0.0.0.0 www.joinhoney.com

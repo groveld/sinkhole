@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 88362
-// Updated: 2026-07-16 04:11:42 UTC
+// Entries: 88364
+// Updated: 2026-07-17 04:14:07 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -61017,6 +61017,7 @@ var BLOCKLIST = {
 "vervemobile.com":null,
 "vervewireless.com":null,
 "very-koi.com":null,
+"verybark.com":null,
 "veryboys.com":null,
 "veryfastsearch.com":null,
 "veryvoga.pl":null,
@@ -73569,6 +73570,7 @@ var BLOCKLIST = {
 "www.jogalodz.pl":null,
 "www.johnmatthewalden.com":null,
 "www.johnmayo.shop":null,
+"www.joinclap.com":null,
 "www.joincreditexpert.co.uk":null,
 "www.joinfx.net":null,
 "www.joinhoney.com":null,
