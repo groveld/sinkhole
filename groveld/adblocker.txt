@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 88366
-! Updated: 2026-07-17 05:03:30 UTC
+! Entries: 88368
+! Updated: 2026-07-18 04:52:45 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -62897,7 +62897,6 @@
 ||wirelessforumsorg.skimlinks.com^
 ||wirtuozseksu.pl^
 ||wirtvlg.oewabox.at^
-||wirypaste.com^
 ||wisefalcontrail.live^
 ||wisepops.com^
 ||wiserapps.site^
@@ -67692,6 +67691,7 @@
 ||www.civyqeu.pro^
 ||www.cj.com^
 ||www.cjkassociates.co.in^
+||www.cjtest.com^
 ||www.ckltzdhg.shop^
 ||www.cl.w2vepx.casa^
 ||www.claimedmoney.com^
@@ -67988,6 +67988,7 @@
 ||www.communitylegacyfoundation.com^
 ||www.communitypetclinicmanteca.com^
 ||www.commuteinfo.com^
+||www.compacfurniture.com^
 ||www.compaguast.cyou^
 ||www.companies-catalog.com^
 ||www.companionlow.info^
@@ -68242,6 +68243,7 @@
 ||www.cpatglobal.com^
 ||www.cpays.com^
 ||www.cpcigva.com^
+||www.cpension.com^
 ||www.cpexoyde.shop^
 ||www.cpm10.com^
 ||www.cpm20.com^
