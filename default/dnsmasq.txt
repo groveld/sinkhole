@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 93238
-# Updated: 2026-07-20 04:38:14 UTC
+# Entries: 93241
+# Updated: 2026-07-21 04:17:52 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -76104,6 +76104,7 @@ address=/www.hnmdl2012.com/0.0.0.0
 address=/www.hnskorea.co.kr/0.0.0.0
 address=/www.hntkglgs1976.com/0.0.0.0
 address=/www.hnyctsw.com/0.0.0.0
+address=/www.hoabridal.com/0.0.0.0
 address=/www.hoalslfngngjnvnngng.online/0.0.0.0
 address=/www.hoanhxinh.com/0.0.0.0
 address=/www.hobbitowa.pl/0.0.0.0
@@ -76426,6 +76427,7 @@ address=/www.ianternequiholt.live/0.0.0.0
 address=/www.iarovreinc.cyou/0.0.0.0
 address=/www.iauckej83429.xyz/0.0.0.0
 address=/www.iaukcej84934921928.baby/0.0.0.0
+address=/www.ibenefi.com/0.0.0.0
 address=/www.iberlineai.live/0.0.0.0
 address=/www.ibis.com/0.0.0.0
 address=/www.ibis.cz/0.0.0.0
@@ -78357,6 +78359,7 @@ address=/www.leanplum.com/0.0.0.0
 address=/www.learnbranding.com/0.0.0.0
 address=/www.learndevelopsucceed.org/0.0.0.0
 address=/www.learngears.com/0.0.0.0
+address=/www.learningfound.com/0.0.0.0
 address=/www.learnnessy.com/0.0.0.0
 address=/www.learntechno.com/0.0.0.0
 address=/www.leather-goods.shop/0.0.0.0

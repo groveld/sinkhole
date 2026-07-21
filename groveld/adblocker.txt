@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 93240
-! Updated: 2026-07-20 05:27:37 UTC
+! Entries: 93243
+! Updated: 2026-07-21 05:07:14 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -76106,6 +76106,7 @@
 ||www.hnskorea.co.kr^
 ||www.hntkglgs1976.com^
 ||www.hnyctsw.com^
+||www.hoabridal.com^
 ||www.hoalslfngngjnvnngng.online^
 ||www.hoanhxinh.com^
 ||www.hobbitowa.pl^
@@ -76428,6 +76429,7 @@
 ||www.iarovreinc.cyou^
 ||www.iauckej83429.xyz^
 ||www.iaukcej84934921928.baby^
+||www.ibenefi.com^
 ||www.iberlineai.live^
 ||www.ibis.com^
 ||www.ibis.cz^
@@ -78359,6 +78361,7 @@
 ||www.learnbranding.com^
 ||www.learndevelopsucceed.org^
 ||www.learngears.com^
+||www.learningfound.com^
 ||www.learnnessy.com^
 ||www.learntechno.com^
 ||www.leather-goods.shop^

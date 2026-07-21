@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 93238
-# Updated: 2026-07-20 04:38:14 UTC
+# Entries: 93241
+# Updated: 2026-07-21 04:17:52 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -76104,6 +76104,7 @@
 0.0.0.0 www.hnskorea.co.kr
 0.0.0.0 www.hntkglgs1976.com
 0.0.0.0 www.hnyctsw.com
+0.0.0.0 www.hoabridal.com
 0.0.0.0 www.hoalslfngngjnvnngng.online
 0.0.0.0 www.hoanhxinh.com
 0.0.0.0 www.hobbitowa.pl
@@ -76426,6 +76427,7 @@
 0.0.0.0 www.iarovreinc.cyou
 0.0.0.0 www.iauckej83429.xyz
 0.0.0.0 www.iaukcej84934921928.baby
+0.0.0.0 www.ibenefi.com
 0.0.0.0 www.iberlineai.live
 0.0.0.0 www.ibis.com
 0.0.0.0 www.ibis.cz
@@ -78357,6 +78359,7 @@
 0.0.0.0 www.learnbranding.com
 0.0.0.0 www.learndevelopsucceed.org
 0.0.0.0 www.learngears.com
+0.0.0.0 www.learningfound.com
 0.0.0.0 www.learnnessy.com
 0.0.0.0 www.learntechno.com
 0.0.0.0 www.leather-goods.shop

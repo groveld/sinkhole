@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 93240
-// Updated: 2026-07-20 05:27:37 UTC
+// Entries: 93243
+// Updated: 2026-07-21 05:07:14 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -76107,6 +76107,7 @@ var BLOCKLIST = {
 "www.hnskorea.co.kr":null,
 "www.hntkglgs1976.com":null,
 "www.hnyctsw.com":null,
+"www.hoabridal.com":null,
 "www.hoalslfngngjnvnngng.online":null,
 "www.hoanhxinh.com":null,
 "www.hobbitowa.pl":null,
@@ -76429,6 +76430,7 @@ var BLOCKLIST = {
 "www.iarovreinc.cyou":null,
 "www.iauckej83429.xyz":null,
 "www.iaukcej84934921928.baby":null,
+"www.ibenefi.com":null,
 "www.iberlineai.live":null,
 "www.ibis.com":null,
 "www.ibis.cz":null,
@@ -78360,6 +78362,7 @@ var BLOCKLIST = {
 "www.learnbranding.com":null,
 "www.learndevelopsucceed.org":null,
 "www.learngears.com":null,
+"www.learningfound.com":null,
 "www.learnnessy.com":null,
 "www.learntechno.com":null,
 "www.leather-goods.shop":null,
