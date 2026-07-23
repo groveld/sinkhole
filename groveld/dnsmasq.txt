@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 102317
-# Updated: 2026-07-22 05:06:19 UTC
+# Entries: 102322
+# Updated: 2026-07-23 05:10:57 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80824,6 +80824,7 @@ address=/www.gadgetears.com/0.0.0.0
 address=/www.gadgetreviewer.org/0.0.0.0
 address=/www.gagnor-gpt-tech.com/0.0.0.0
 address=/www.gaicodon.com/0.0.0.0
+address=/www.gaiis.com/0.0.0.0
 address=/www.gainatorsystem.com/0.0.0.0
 address=/www.gaingenerator-ai.com/0.0.0.0
 address=/www.gaingenerator-da.com/0.0.0.0
@@ -82764,6 +82765,7 @@ address=/www.ieginc.com/0.0.0.0
 address=/www.iejonline.com/0.0.0.0
 address=/www.iemnl.com/0.0.0.0
 address=/www.iepelnazareno.com/0.0.0.0
+address=/www.iesaber.com/0.0.0.0
 address=/www.iesnare.co.uk/0.0.0.0
 address=/www.iesnare.com/0.0.0.0
 address=/www.ievuchwdwcacw.com/0.0.0.0
@@ -87640,6 +87642,7 @@ address=/www.norvinodo.shop/0.0.0.0
 address=/www.norvixai.digital/0.0.0.0
 address=/www.norzelo.vip/0.0.0.0
 address=/www.nospartenaires.com/0.0.0.0
+address=/www.nostalgicroses.com/0.0.0.0
 address=/www.nostrdisco.cyou/0.0.0.0
 address=/www.notbak.com/0.0.0.0
 address=/www.notelinver.cyou/0.0.0.0
@@ -89129,6 +89132,7 @@ address=/www.pastiprope.cyou/0.0.0.0
 address=/www.pastpella.com/0.0.0.0
 address=/www.pastutight.cyou/0.0.0.0
 address=/www.pata.ero-advertising.com/0.0.0.0
+address=/www.patelshop.com/0.0.0.0
 address=/www.path-tracker.com/0.0.0.0
 address=/www.pathforpoints.com/0.0.0.0
 address=/www.pathwayspeaceful.thriftyhacker.com/0.0.0.0
@@ -91201,6 +91205,7 @@ address=/www.quinni.cyou/0.0.0.0
 address=/www.quinnwealth.com/0.0.0.0
 address=/www.quino.shop/0.0.0.0
 address=/www.quintingwatches.com/0.0.0.0
+address=/www.quipla.com/0.0.0.0
 address=/www.quixoticty.pro/0.0.0.0
 address=/www.quixotruie.pro/0.0.0.0
 address=/www.quixspor.com/0.0.0.0

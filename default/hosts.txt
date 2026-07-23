@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 102315
-# Updated: 2026-07-22 04:16:51 UTC
+# Entries: 102320
+# Updated: 2026-07-23 04:21:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80823,6 +80823,7 @@
 0.0.0.0 www.gadgetreviewer.org
 0.0.0.0 www.gagnor-gpt-tech.com
 0.0.0.0 www.gaicodon.com
+0.0.0.0 www.gaiis.com
 0.0.0.0 www.gainatorsystem.com
 0.0.0.0 www.gaingenerator-ai.com
 0.0.0.0 www.gaingenerator-da.com
@@ -82762,6 +82763,7 @@
 0.0.0.0 www.iejonline.com
 0.0.0.0 www.iemnl.com
 0.0.0.0 www.iepelnazareno.com
+0.0.0.0 www.iesaber.com
 0.0.0.0 www.iesnare.co.uk
 0.0.0.0 www.iesnare.com
 0.0.0.0 www.ievuchwdwcacw.com
@@ -87638,6 +87640,7 @@
 0.0.0.0 www.norvixai.digital
 0.0.0.0 www.norzelo.vip
 0.0.0.0 www.nospartenaires.com
+0.0.0.0 www.nostalgicroses.com
 0.0.0.0 www.nostrdisco.cyou
 0.0.0.0 www.notbak.com
 0.0.0.0 www.notelinver.cyou
@@ -89127,6 +89130,7 @@
 0.0.0.0 www.pastpella.com
 0.0.0.0 www.pastutight.cyou
 0.0.0.0 www.pata.ero-advertising.com
+0.0.0.0 www.patelshop.com
 0.0.0.0 www.path-tracker.com
 0.0.0.0 www.pathforpoints.com
 0.0.0.0 www.pathwayspeaceful.thriftyhacker.com
@@ -91199,6 +91203,7 @@
 0.0.0.0 www.quinnwealth.com
 0.0.0.0 www.quino.shop
 0.0.0.0 www.quintingwatches.com
+0.0.0.0 www.quipla.com
 0.0.0.0 www.quixoticty.pro
 0.0.0.0 www.quixotruie.pro
 0.0.0.0 www.quixspor.com

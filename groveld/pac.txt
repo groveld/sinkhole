@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 102317
-// Updated: 2026-07-22 05:06:19 UTC
+// Entries: 102322
+// Updated: 2026-07-23 05:10:57 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -80825,6 +80825,7 @@ var BLOCKLIST = {
 "www.gadgetreviewer.org":null,
 "www.gagnor-gpt-tech.com":null,
 "www.gaicodon.com":null,
+"www.gaiis.com":null,
 "www.gainatorsystem.com":null,
 "www.gaingenerator-ai.com":null,
 "www.gaingenerator-da.com":null,
@@ -82765,6 +82766,7 @@ var BLOCKLIST = {
 "www.iejonline.com":null,
 "www.iemnl.com":null,
 "www.iepelnazareno.com":null,
+"www.iesaber.com":null,
 "www.iesnare.co.uk":null,
 "www.iesnare.com":null,
 "www.ievuchwdwcacw.com":null,
@@ -87641,6 +87643,7 @@ var BLOCKLIST = {
 "www.norvixai.digital":null,
 "www.norzelo.vip":null,
 "www.nospartenaires.com":null,
+"www.nostalgicroses.com":null,
 "www.nostrdisco.cyou":null,
 "www.notbak.com":null,
 "www.notelinver.cyou":null,
@@ -89130,6 +89133,7 @@ var BLOCKLIST = {
 "www.pastpella.com":null,
 "www.pastutight.cyou":null,
 "www.pata.ero-advertising.com":null,
+"www.patelshop.com":null,
 "www.path-tracker.com":null,
 "www.pathforpoints.com":null,
 "www.pathwayspeaceful.thriftyhacker.com":null,
@@ -91202,6 +91206,7 @@ var BLOCKLIST = {
 "www.quinnwealth.com":null,
 "www.quino.shop":null,
 "www.quintingwatches.com":null,
+"www.quipla.com":null,
 "www.quixoticty.pro":null,
 "www.quixotruie.pro":null,
 "www.quixspor.com":null,
