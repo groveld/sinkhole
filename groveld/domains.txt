@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 105523
-# Updated: 2026-07-24 05:07:12 UTC
+# Entries: 105525
+# Updated: 2026-07-25 05:05:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -75790,6 +75790,7 @@ www.bobkidman.com
 www.bobkolo.site
 www.bobolux.com
 www.bocageeks.com
+www.bocastyle.com
 www.bodariri.com
 www.bodegaaurreraofertas.com
 www.boden-ai.live
@@ -94663,6 +94664,7 @@ www.roundcube-update253736.s3.us-east-2.amazonaws.com
 www.roundcube.pl
 www.roundcubewebmailupgrade77435.s3.us-east-2.amazonaws.com
 www.roundscolm.cyou
+www.roundtopbooks.com
 www.rousebotte.cyou
 www.routb.cyou
 www.routeiva.com
