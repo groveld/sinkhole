@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 105523
-! Updated: 2026-07-25 04:15:35 UTC
+! Entries: 105524
+! Updated: 2026-07-26 04:28:59 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1402,6 +1402,7 @@
 ||360ads.com^
 ||360fenxi.mediav.com^
 ||360in.com^
+||360yield-basic.com^
 ||360yield.com^
 ||3616.api.swrve.com^
 ||3616.content.swrve.com^

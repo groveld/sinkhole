@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 105523
-// Updated: 2026-07-25 04:15:35 UTC
+// Entries: 105524
+// Updated: 2026-07-26 04:28:59 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1403,6 +1403,7 @@ var BLOCKLIST = {
 "360ads.com":null,
 "360fenxi.mediav.com":null,
 "360in.com":null,
+"360yield-basic.com":null,
 "360yield.com":null,
 "3616.api.swrve.com":null,
 "3616.content.swrve.com":null,
