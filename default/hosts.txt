@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 105524
-# Updated: 2026-07-26 04:28:59 UTC
+# Entries: 105525
+# Updated: 2026-07-27 04:38:36 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -70702,6 +70702,7 @@
 0.0.0.0 wg-mail.com
 0.0.0.0 wg.zaloapp.com
 0.0.0.0 wgc1.acecounter.com
+0.0.0.0 wgdcjd8kxd.olijfgent.be
 0.0.0.0 wgo.mmstat.com
 0.0.0.0 wgtao.com
 0.0.0.0 wgvqrcej.shop

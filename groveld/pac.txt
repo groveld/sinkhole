@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 105526
-// Updated: 2026-07-26 05:18:21 UTC
+// Entries: 105527
+// Updated: 2026-07-27 05:27:59 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -70704,6 +70704,7 @@ var BLOCKLIST = {
 "wg-mail.com":null,
 "wg.zaloapp.com":null,
 "wgc1.acecounter.com":null,
+"wgdcjd8kxd.olijfgent.be":null,
 "wgo.mmstat.com":null,
 "wgtao.com":null,
 "wgvqrcej.shop":null,
