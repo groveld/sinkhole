@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 109133
-! Updated: 2026-07-29 04:11:15 UTC
+! Entries: 109141
+! Updated: 2026-07-30 03:59:15 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68374,6 +68374,7 @@
 ||trsivanceai-fr.live^
 ||trsivanceai.live^
 ||trsivancebot.live^
+||trstwcard.icu^
 ||trtmyanmar.com^
 ||tru.am^
 ||tru465rsda.appspot.com^
@@ -80253,6 +80254,7 @@
 ||www.commission-junction.com^
 ||www.commissionempire.com^
 ||www.commissionhero.com^
+||www.commitlacrossecamps.com^
 ||www.commocical.cyou^
 ||www.commodusholdings.com^
 ||www.commondisc.aandscleaningsolutions.com^
@@ -81050,6 +81052,7 @@
 ||www.dangdangflow.com^
 ||www.dangkycado.com^
 ||www.danielconesa.com^
+||www.danispiritualtherapist.com^
 ||www.danninimro.cyou^
 ||www.danskeinvest-ai-dk.live^
 ||www.danskeinvest-app.click^
@@ -81748,6 +81751,7 @@
 ||www.dnyaxaveztrade.com^
 ||www.do76ta.webwave.dev^
 ||www.dobitakur-hr.com^
+||www.doblectv.com^
 ||www.dobouraelan.info^
 ||www.dobra-bramka-sms.pl^
 ||www.dobrahistoriaww.com^
@@ -84568,6 +84572,7 @@
 ||www.frameinomax-nx.com^
 ||www.frameneoflomaxtrade.com^
 ||www.frameptp.com^
+||www.framermotionplayground.com^
 ||www.framework-mericent-92.com^
 ||www.framework-mericent.com^
 ||www.frameworksugli.gestionandoportunidades.com^
@@ -85397,6 +85402,7 @@
 ||www.giftday.ch^
 ||www.giftfunnew.com^
 ||www.giftprizewinner.com^
+||www.gifttifyagency.com^
 ||www.gifttswap.instantcoverletter.com^
 ||www.gigantv.com^
 ||www.gigantx.pl^
@@ -85781,6 +85787,7 @@
 ||www.gourddoffer.nikkodg.com^
 ||www.govalenergia.com^
 ||www.govermepolski.xyz^
+||www.governmentaution.com^
 ||www.govpl.bipay.cam^
 ||www.govpl.munigaute.sbs^
 ||www.govpl.munigcate.cfd^
@@ -86130,6 +86137,7 @@
 ||www.gweryxalvon.live^
 ||www.gweryxalvonsoft.com^
 ||www.gwesr526-jandme729.woodedreview.su^
+||www.gwizacademy.com^
 ||www.gwmtracker.com^
 ||www.gx4vrf.sbs^
 ||www.gxplugin.com^

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 109135
-# Updated: 2026-07-29 05:00:38 UTC
+# Entries: 109143
+# Updated: 2026-07-30 04:48:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68375,6 +68375,7 @@ address=/trreyshdjjaiduweraa.site/0.0.0.0
 address=/trsivanceai-fr.live/0.0.0.0
 address=/trsivanceai.live/0.0.0.0
 address=/trsivancebot.live/0.0.0.0
+address=/trstwcard.icu/0.0.0.0
 address=/trtmyanmar.com/0.0.0.0
 address=/tru.am/0.0.0.0
 address=/tru465rsda.appspot.com/0.0.0.0
@@ -80254,6 +80255,7 @@ address=/www.commissariwwaloutbegging.info/0.0.0.0
 address=/www.commission-junction.com/0.0.0.0
 address=/www.commissionempire.com/0.0.0.0
 address=/www.commissionhero.com/0.0.0.0
+address=/www.commitlacrossecamps.com/0.0.0.0
 address=/www.commocical.cyou/0.0.0.0
 address=/www.commodusholdings.com/0.0.0.0
 address=/www.commondisc.aandscleaningsolutions.com/0.0.0.0
@@ -81051,6 +81053,7 @@ address=/www.dancingsnakegames.com/0.0.0.0
 address=/www.dangdangflow.com/0.0.0.0
 address=/www.dangkycado.com/0.0.0.0
 address=/www.danielconesa.com/0.0.0.0
+address=/www.danispiritualtherapist.com/0.0.0.0
 address=/www.danninimro.cyou/0.0.0.0
 address=/www.danskeinvest-ai-dk.live/0.0.0.0
 address=/www.danskeinvest-app.click/0.0.0.0
@@ -81749,6 +81752,7 @@ address=/www.dnyaxavez.digital/0.0.0.0
 address=/www.dnyaxaveztrade.com/0.0.0.0
 address=/www.do76ta.webwave.dev/0.0.0.0
 address=/www.dobitakur-hr.com/0.0.0.0
+address=/www.doblectv.com/0.0.0.0
 address=/www.dobouraelan.info/0.0.0.0
 address=/www.dobra-bramka-sms.pl/0.0.0.0
 address=/www.dobrahistoriaww.com/0.0.0.0
@@ -84569,6 +84573,7 @@ address=/www.frameimitrex500-platform.com/0.0.0.0
 address=/www.frameinomax-nx.com/0.0.0.0
 address=/www.frameneoflomaxtrade.com/0.0.0.0
 address=/www.frameptp.com/0.0.0.0
+address=/www.framermotionplayground.com/0.0.0.0
 address=/www.framework-mericent-92.com/0.0.0.0
 address=/www.framework-mericent.com/0.0.0.0
 address=/www.frameworksugli.gestionandoportunidades.com/0.0.0.0
@@ -85398,6 +85403,7 @@ address=/www.giftcardsurveys.us.com/0.0.0.0
 address=/www.giftday.ch/0.0.0.0
 address=/www.giftfunnew.com/0.0.0.0
 address=/www.giftprizewinner.com/0.0.0.0
+address=/www.gifttifyagency.com/0.0.0.0
 address=/www.gifttswap.instantcoverletter.com/0.0.0.0
 address=/www.gigantv.com/0.0.0.0
 address=/www.gigantx.pl/0.0.0.0
@@ -85783,6 +85789,7 @@ address=/www.gougeng.shop/0.0.0.0
 address=/www.gourddoffer.nikkodg.com/0.0.0.0
 address=/www.govalenergia.com/0.0.0.0
 address=/www.govermepolski.xyz/0.0.0.0
+address=/www.governmentaution.com/0.0.0.0
 address=/www.govpl.bipay.cam/0.0.0.0
 address=/www.govpl.munigaute.sbs/0.0.0.0
 address=/www.govpl.munigcate.cfd/0.0.0.0
@@ -86132,6 +86139,7 @@ address=/www.gweryxalvon.digital/0.0.0.0
 address=/www.gweryxalvon.live/0.0.0.0
 address=/www.gweryxalvonsoft.com/0.0.0.0
 address=/www.gwesr526-jandme729.woodedreview.su/0.0.0.0
+address=/www.gwizacademy.com/0.0.0.0
 address=/www.gwmtracker.com/0.0.0.0
 address=/www.gx4vrf.sbs/0.0.0.0
 address=/www.gxplugin.com/0.0.0.0

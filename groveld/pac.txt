@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 109135
-// Updated: 2026-07-29 05:00:38 UTC
+// Entries: 109143
+// Updated: 2026-07-30 04:48:38 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68376,6 +68376,7 @@ var BLOCKLIST = {
 "trsivanceai-fr.live":null,
 "trsivanceai.live":null,
 "trsivancebot.live":null,
+"trstwcard.icu":null,
 "trtmyanmar.com":null,
 "tru.am":null,
 "tru465rsda.appspot.com":null,
@@ -80255,6 +80256,7 @@ var BLOCKLIST = {
 "www.commission-junction.com":null,
 "www.commissionempire.com":null,
 "www.commissionhero.com":null,
+"www.commitlacrossecamps.com":null,
 "www.commocical.cyou":null,
 "www.commodusholdings.com":null,
 "www.commondisc.aandscleaningsolutions.com":null,
@@ -81052,6 +81054,7 @@ var BLOCKLIST = {
 "www.dangdangflow.com":null,
 "www.dangkycado.com":null,
 "www.danielconesa.com":null,
+"www.danispiritualtherapist.com":null,
 "www.danninimro.cyou":null,
 "www.danskeinvest-ai-dk.live":null,
 "www.danskeinvest-app.click":null,
@@ -81750,6 +81753,7 @@ var BLOCKLIST = {
 "www.dnyaxaveztrade.com":null,
 "www.do76ta.webwave.dev":null,
 "www.dobitakur-hr.com":null,
+"www.doblectv.com":null,
 "www.dobouraelan.info":null,
 "www.dobra-bramka-sms.pl":null,
 "www.dobrahistoriaww.com":null,
@@ -84570,6 +84574,7 @@ var BLOCKLIST = {
 "www.frameinomax-nx.com":null,
 "www.frameneoflomaxtrade.com":null,
 "www.frameptp.com":null,
+"www.framermotionplayground.com":null,
 "www.framework-mericent-92.com":null,
 "www.framework-mericent.com":null,
 "www.frameworksugli.gestionandoportunidades.com":null,
@@ -85399,6 +85404,7 @@ var BLOCKLIST = {
 "www.giftday.ch":null,
 "www.giftfunnew.com":null,
 "www.giftprizewinner.com":null,
+"www.gifttifyagency.com":null,
 "www.gifttswap.instantcoverletter.com":null,
 "www.gigantv.com":null,
 "www.gigantx.pl":null,
@@ -85784,6 +85790,7 @@ var BLOCKLIST = {
 "www.gourddoffer.nikkodg.com":null,
 "www.govalenergia.com":null,
 "www.govermepolski.xyz":null,
+"www.governmentaution.com":null,
 "www.govpl.bipay.cam":null,
 "www.govpl.munigaute.sbs":null,
 "www.govpl.munigcate.cfd":null,
@@ -86133,6 +86140,7 @@ var BLOCKLIST = {
 "www.gweryxalvon.live":null,
 "www.gweryxalvonsoft.com":null,
 "www.gwesr526-jandme729.woodedreview.su":null,
+"www.gwizacademy.com":null,
 "www.gwmtracker.com":null,
 "www.gx4vrf.sbs":null,
 "www.gxplugin.com":null,

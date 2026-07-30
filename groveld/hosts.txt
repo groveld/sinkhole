@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 109135
-# Updated: 2026-07-29 05:00:38 UTC
+# Entries: 109143
+# Updated: 2026-07-30 04:48:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -68375,6 +68375,7 @@
 0.0.0.0 trsivanceai-fr.live
 0.0.0.0 trsivanceai.live
 0.0.0.0 trsivancebot.live
+0.0.0.0 trstwcard.icu
 0.0.0.0 trtmyanmar.com
 0.0.0.0 tru.am
 0.0.0.0 tru465rsda.appspot.com
@@ -80254,6 +80255,7 @@
 0.0.0.0 www.commission-junction.com
 0.0.0.0 www.commissionempire.com
 0.0.0.0 www.commissionhero.com
+0.0.0.0 www.commitlacrossecamps.com
 0.0.0.0 www.commocical.cyou
 0.0.0.0 www.commodusholdings.com
 0.0.0.0 www.commondisc.aandscleaningsolutions.com
@@ -81051,6 +81053,7 @@
 0.0.0.0 www.dangdangflow.com
 0.0.0.0 www.dangkycado.com
 0.0.0.0 www.danielconesa.com
+0.0.0.0 www.danispiritualtherapist.com
 0.0.0.0 www.danninimro.cyou
 0.0.0.0 www.danskeinvest-ai-dk.live
 0.0.0.0 www.danskeinvest-app.click
@@ -81749,6 +81752,7 @@
 0.0.0.0 www.dnyaxaveztrade.com
 0.0.0.0 www.do76ta.webwave.dev
 0.0.0.0 www.dobitakur-hr.com
+0.0.0.0 www.doblectv.com
 0.0.0.0 www.dobouraelan.info
 0.0.0.0 www.dobra-bramka-sms.pl
 0.0.0.0 www.dobrahistoriaww.com
@@ -84569,6 +84573,7 @@
 0.0.0.0 www.frameinomax-nx.com
 0.0.0.0 www.frameneoflomaxtrade.com
 0.0.0.0 www.frameptp.com
+0.0.0.0 www.framermotionplayground.com
 0.0.0.0 www.framework-mericent-92.com
 0.0.0.0 www.framework-mericent.com
 0.0.0.0 www.frameworksugli.gestionandoportunidades.com
@@ -85398,6 +85403,7 @@
 0.0.0.0 www.giftday.ch
 0.0.0.0 www.giftfunnew.com
 0.0.0.0 www.giftprizewinner.com
+0.0.0.0 www.gifttifyagency.com
 0.0.0.0 www.gifttswap.instantcoverletter.com
 0.0.0.0 www.gigantv.com
 0.0.0.0 www.gigantx.pl
@@ -85783,6 +85789,7 @@
 0.0.0.0 www.gourddoffer.nikkodg.com
 0.0.0.0 www.govalenergia.com
 0.0.0.0 www.govermepolski.xyz
+0.0.0.0 www.governmentaution.com
 0.0.0.0 www.govpl.bipay.cam
 0.0.0.0 www.govpl.munigaute.sbs
 0.0.0.0 www.govpl.munigcate.cfd
@@ -86132,6 +86139,7 @@
 0.0.0.0 www.gweryxalvon.live
 0.0.0.0 www.gweryxalvonsoft.com
 0.0.0.0 www.gwesr526-jandme729.woodedreview.su
+0.0.0.0 www.gwizacademy.com
 0.0.0.0 www.gwmtracker.com
 0.0.0.0 www.gx4vrf.sbs
 0.0.0.0 www.gxplugin.com
