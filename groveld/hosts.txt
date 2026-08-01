@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 109143
-# Updated: 2026-07-31 05:15:42 UTC
+# Entries: 109145
+# Updated: 2026-08-01 05:15:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56258,6 +56258,7 @@
 0.0.0.0 remove-ads.xyz
 0.0.0.0 removearrest.com
 0.0.0.0 removiov.com
+0.0.0.0 remox.com
 0.0.0.0 rempartcapitange-ai.com
 0.0.0.0 remsiejisfjwopaodloda.site
 0.0.0.0 remvian.xyz
@@ -92064,6 +92065,7 @@
 0.0.0.0 www.needadvertising.com
 0.0.0.0 www.needmorehits.com
 0.0.0.0 www.nefeskozmetik.com
+0.0.0.0 www.negativesphere.com
 0.0.0.0 www.neghetaute.cyou
 0.0.0.0 www.negociante-es.live
 0.0.0.0 www.negociante.live

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 109141
-// Updated: 2026-07-31 04:26:19 UTC
+// Entries: 109143
+// Updated: 2026-08-01 04:25:58 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56258,6 +56258,7 @@ var BLOCKLIST = {
 "remove-ads.xyz":null,
 "removearrest.com":null,
 "removiov.com":null,
+"remox.com":null,
 "rempartcapitange-ai.com":null,
 "remsiejisfjwopaodloda.site":null,
 "remvian.xyz":null,
@@ -92063,6 +92064,7 @@ var BLOCKLIST = {
 "www.needadvertising.com":null,
 "www.needmorehits.com":null,
 "www.nefeskozmetik.com":null,
+"www.negativesphere.com":null,
 "www.neghetaute.cyou":null,
 "www.negociante-es.live":null,
 "www.negociante.live":null,

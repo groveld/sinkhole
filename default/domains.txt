@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 109141
-# Updated: 2026-07-31 04:26:19 UTC
+# Entries: 109143
+# Updated: 2026-08-01 04:25:58 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56257,6 +56257,7 @@ remotead.cnet.com
 remove-ads.xyz
 removearrest.com
 removiov.com
+remox.com
 rempartcapitange-ai.com
 remsiejisfjwopaodloda.site
 remvian.xyz
@@ -92062,6 +92063,7 @@ www.nedstatbasic.net
 www.needadvertising.com
 www.needmorehits.com
 www.nefeskozmetik.com
+www.negativesphere.com
 www.neghetaute.cyou
 www.negociante-es.live
 www.negociante.live
