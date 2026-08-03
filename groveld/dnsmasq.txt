@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
 # Entries: 111645
-# Updated: 2026-08-02 05:15:22 UTC
+# Updated: 2026-08-03 05:17:35 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
