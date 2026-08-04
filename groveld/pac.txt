@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 111645
-// Updated: 2026-08-03 05:17:35 UTC
+// Entries: 111654
+// Updated: 2026-08-04 05:02:33 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -13276,6 +13276,7 @@ var BLOCKLIST = {
 "analytics.tcm.com":null,
 "analytics.tdameritrade.com":null,
 "analytics.teko.vn":null,
+"analytics.tempy.email":null,
 "analytics.theknot.com":null,
 "analytics.thenest.com":null,
 "analytics.thingx.tv":null,
@@ -21297,6 +21298,7 @@ var BLOCKLIST = {
 "c.thinktarget.com":null,
 "c.tpbid.com":null,
 "c.tr.msn.com":null,
+"c.trkn.it":null,
 "c.tvpixel.com":null,
 "c.tw.msn.com":null,
 "c.uarating.com":null,
@@ -37264,6 +37266,7 @@ var BLOCKLIST = {
 "honesto-finlorex-engine.com":null,
 "honey-date4u.life":null,
 "honeyburn.za.com":null,
+"honeybutterbliss.com":null,
 "honeyfarmgozo.com":null,
 "honfurniture.122.2o7.net":null,
 "hongkiat.us.intellitxt.com":null,
@@ -53813,6 +53816,7 @@ var BLOCKLIST = {
 "pocol-huc-0001933.zya.me":null,
 "poconorecordcom.112.2o7.net":null,
 "pocoty.fr":null,
+"pocustrack.com":null,
 "poczta-auths.netlify.app":null,
 "poczta-o2.netlify.app":null,
 "poczta-pl.ajuikre.icu":null,
@@ -101136,6 +101140,7 @@ var BLOCKLIST = {
 "www.showsplash.com":null,
 "www.showtime-weddings.com":null,
 "www.showup-tv.com.pl":null,
+"www.shrimahaveercollege.com":null,
 "www.shshuaiheng.com":null,
 "www.shubiaoa.com":null,
 "www.shunshida668.com":null,
@@ -102462,6 +102467,7 @@ var BLOCKLIST = {
 "www.stellarwillowhaven.info":null,
 "www.stellarwindcraft.digital":null,
 "www.stelmio.pl":null,
+"www.stelop.com":null,
 "www.stelvara.online":null,
 "www.stenozalombara.com":null,
 "www.stenplus.onewaywinner.com":null,
@@ -102958,6 +102964,7 @@ var BLOCKLIST = {
 "www.suryafundvale.com":null,
 "www.suryafundvale.live":null,
 "www.susandejoris.com":null,
+"www.susanhaggarphotography.com":null,
 "www.susanmccue.com":null,
 "www.susanneledingham.com":null,
 "www.suscotrk.com":null,
@@ -106901,6 +106908,7 @@ var BLOCKLIST = {
 "www.visit-tracker.biz":null,
 "www.visit-tracker.com":null,
 "www.visitafar.org":null,
+"www.visitigangels.com":null,
 "www.visitor-track.com":null,
 "www.visitortracklog.com":null,
 "www.visospect.fair-2sale.com":null,
@@ -108501,6 +108509,7 @@ var BLOCKLIST = {
 "www.yerliturist.info":null,
 "www.yesup.com":null,
 "www.yesup.net":null,
+"www.yesyouvan.com":null,
 "www.yewfra.click":null,
 "www.yexorimavol.online":null,
 "www.yezi.casa":null,
