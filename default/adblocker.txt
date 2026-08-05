@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 111652
-! Updated: 2026-08-04 04:13:10 UTC
+! Entries: 111655
+! Updated: 2026-08-05 04:07:58 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12771,6 +12771,7 @@
 ||amcalterraglobalprod.112.2o7.net^
 ||amcdn.vn^
 ||amch.questionmarket.com^
+||amcnreil.pro^
 ||amctheater.com^
 ||amdparnbtt.com^
 ||amdvglobal.122.2o7.net^
@@ -76828,6 +76829,7 @@
 ||www.amoviemedia.com^
 ||www.amoycyl.com^
 ||www.ampersand-keystone.com^
+||www.ampervid.com^
 ||www.ampiogestivora-ai.com^
 ||www.ampiogestivora-it.com^
 ||www.ampiogestivora.live^
@@ -77271,6 +77273,7 @@
 ||www.argentumai-es.live^
 ||www.argentumai.live^
 ||www.argentumvalorenza.net^
+||www.argesmedia.com^
 ||www.arginrendova-ai.live^
 ||www.arginrendova.com^
 ||www.arginrendova.live^

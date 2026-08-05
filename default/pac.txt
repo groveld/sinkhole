@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 111652
-// Updated: 2026-08-04 04:13:10 UTC
+// Entries: 111655
+// Updated: 2026-08-05 04:07:58 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12772,6 +12772,7 @@ var BLOCKLIST = {
 "amcalterraglobalprod.112.2o7.net":null,
 "amcdn.vn":null,
 "amch.questionmarket.com":null,
+"amcnreil.pro":null,
 "amctheater.com":null,
 "amdparnbtt.com":null,
 "amdvglobal.122.2o7.net":null,
@@ -76829,6 +76830,7 @@ var BLOCKLIST = {
 "www.amoviemedia.com":null,
 "www.amoycyl.com":null,
 "www.ampersand-keystone.com":null,
+"www.ampervid.com":null,
 "www.ampiogestivora-ai.com":null,
 "www.ampiogestivora-it.com":null,
 "www.ampiogestivora.live":null,
@@ -77272,6 +77274,7 @@ var BLOCKLIST = {
 "www.argentumai-es.live":null,
 "www.argentumai.live":null,
 "www.argentumvalorenza.net":null,
+"www.argesmedia.com":null,
 "www.arginrendova-ai.live":null,
 "www.arginrendova.com":null,
 "www.arginrendova.live":null,

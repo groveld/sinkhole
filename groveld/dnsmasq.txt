@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 111654
-# Updated: 2026-08-04 05:02:33 UTC
+# Entries: 111657
+# Updated: 2026-08-05 04:57:23 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12771,6 +12771,7 @@ address=/ambrs.hypermart.net/0.0.0.0
 address=/amcalterraglobalprod.112.2o7.net/0.0.0.0
 address=/amcdn.vn/0.0.0.0
 address=/amch.questionmarket.com/0.0.0.0
+address=/amcnreil.pro/0.0.0.0
 address=/amctheater.com/0.0.0.0
 address=/amdparnbtt.com/0.0.0.0
 address=/amdvglobal.122.2o7.net/0.0.0.0
@@ -76829,6 +76830,7 @@ address=/www.amorimsoft.shop/0.0.0.0
 address=/www.amoviemedia.com/0.0.0.0
 address=/www.amoycyl.com/0.0.0.0
 address=/www.ampersand-keystone.com/0.0.0.0
+address=/www.ampervid.com/0.0.0.0
 address=/www.ampiogestivora-ai.com/0.0.0.0
 address=/www.ampiogestivora-it.com/0.0.0.0
 address=/www.ampiogestivora.live/0.0.0.0
@@ -77272,6 +77274,7 @@ address=/www.argentoluxeronengine.com/0.0.0.0
 address=/www.argentumai-es.live/0.0.0.0
 address=/www.argentumai.live/0.0.0.0
 address=/www.argentumvalorenza.net/0.0.0.0
+address=/www.argesmedia.com/0.0.0.0
 address=/www.arginrendova-ai.live/0.0.0.0
 address=/www.arginrendova.com/0.0.0.0
 address=/www.arginrendova.live/0.0.0.0
