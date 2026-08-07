@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 111934
-! Updated: 2026-08-06 02:19:13 UTC
+! Entries: 111939
+! Updated: 2026-08-07 03:00:01 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -89320,6 +89320,7 @@
 ||www.ilovemobi.com^
 ||www.ilpod.shop^
 ||www.ilvexaron.shop^
+||www.ilyasasseban.com^
 ||www.im-d.org^
 ||www.im181.com^
 ||www.imadionai-ja.live^
@@ -91439,6 +91440,7 @@
 ||www.kompaszysktek.com^
 ||www.kompaszysktek.net^
 ||www.kompaszysktekai.com^
+||www.konceptseven.com^
 ||www.konimkan.com^
 ||www.konirad.sbs^
 ||www.konkurs-rysunkowy.online^
@@ -91653,6 +91655,7 @@
 ||www.ksaimo.org^
 ||www.ksapiv2.com^
 ||www.ksghzx.com^
+||www.ksiargentina.com^
 ||www.ksiazka-telefoniczna-online.pl^
 ||www.ksiazkatunele.pl^
 ||www.ksiazorc-alyron.pro^
@@ -91814,6 +91817,7 @@
 ||www.lamaboldoria.com^
 ||www.lamaboldoria.digital^
 ||www.lamaie.shop^
+||www.lamaisonhind.com^
 ||www.lamaniapl.top^
 ||www.lamaniasell.top^
 ||www.lampobitmarksoft.com^
@@ -93216,6 +93220,7 @@
 ||www.masiaoapsodiasoadd.site^
 ||www.maskasdadsoadpdoaf.site^
 ||www.mason-waszawa.pl^
+||www.massagetherapybyjuli.com^
 ||www.massextreme.pl^
 ||www.massiaddoc.cyou^
 ||www.massifinvestalie-ai.com^

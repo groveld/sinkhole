@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 111934
-# Updated: 2026-08-06 02:19:13 UTC
+# Entries: 111939
+# Updated: 2026-08-07 03:00:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -89320,6 +89320,7 @@ address=/www.ilovecheating.com/0.0.0.0
 address=/www.ilovemobi.com/0.0.0.0
 address=/www.ilpod.shop/0.0.0.0
 address=/www.ilvexaron.shop/0.0.0.0
+address=/www.ilyasasseban.com/0.0.0.0
 address=/www.im-d.org/0.0.0.0
 address=/www.im181.com/0.0.0.0
 address=/www.imadionai-ja.live/0.0.0.0
@@ -91439,6 +91440,7 @@ address=/www.kompaszysktek-pl.com/0.0.0.0
 address=/www.kompaszysktek.com/0.0.0.0
 address=/www.kompaszysktek.net/0.0.0.0
 address=/www.kompaszysktekai.com/0.0.0.0
+address=/www.konceptseven.com/0.0.0.0
 address=/www.konimkan.com/0.0.0.0
 address=/www.konirad.sbs/0.0.0.0
 address=/www.konkurs-rysunkowy.online/0.0.0.0
@@ -91653,6 +91655,7 @@ address=/www.kryzantor.uk/0.0.0.0
 address=/www.ksaimo.org/0.0.0.0
 address=/www.ksapiv2.com/0.0.0.0
 address=/www.ksghzx.com/0.0.0.0
+address=/www.ksiargentina.com/0.0.0.0
 address=/www.ksiazka-telefoniczna-online.pl/0.0.0.0
 address=/www.ksiazkatunele.pl/0.0.0.0
 address=/www.ksiazorc-alyron.pro/0.0.0.0
@@ -91814,6 +91817,7 @@ address=/www.laliomesse.cyou/0.0.0.0
 address=/www.lamaboldoria.com/0.0.0.0
 address=/www.lamaboldoria.digital/0.0.0.0
 address=/www.lamaie.shop/0.0.0.0
+address=/www.lamaisonhind.com/0.0.0.0
 address=/www.lamaniapl.top/0.0.0.0
 address=/www.lamaniasell.top/0.0.0.0
 address=/www.lampobitmarksoft.com/0.0.0.0
@@ -93216,6 +93220,7 @@ address=/www.mashgmaroc.cyou/0.0.0.0
 address=/www.masiaoapsodiasoadd.site/0.0.0.0
 address=/www.maskasdadsoadpdoaf.site/0.0.0.0
 address=/www.mason-waszawa.pl/0.0.0.0
+address=/www.massagetherapybyjuli.com/0.0.0.0
 address=/www.massextreme.pl/0.0.0.0
 address=/www.massiaddoc.cyou/0.0.0.0
 address=/www.massifinvestalie-ai.com/0.0.0.0

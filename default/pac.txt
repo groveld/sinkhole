@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 111932
-// Updated: 2026-08-06 01:29:44 UTC
+// Entries: 111937
+// Updated: 2026-08-07 02:10:38 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -89319,6 +89319,7 @@ var BLOCKLIST = {
 "www.ilovemobi.com":null,
 "www.ilpod.shop":null,
 "www.ilvexaron.shop":null,
+"www.ilyasasseban.com":null,
 "www.im-d.org":null,
 "www.im181.com":null,
 "www.imadionai-ja.live":null,
@@ -91438,6 +91439,7 @@ var BLOCKLIST = {
 "www.kompaszysktek.com":null,
 "www.kompaszysktek.net":null,
 "www.kompaszysktekai.com":null,
+"www.konceptseven.com":null,
 "www.konimkan.com":null,
 "www.konirad.sbs":null,
 "www.konkurs-rysunkowy.online":null,
@@ -91652,6 +91654,7 @@ var BLOCKLIST = {
 "www.ksaimo.org":null,
 "www.ksapiv2.com":null,
 "www.ksghzx.com":null,
+"www.ksiargentina.com":null,
 "www.ksiazka-telefoniczna-online.pl":null,
 "www.ksiazkatunele.pl":null,
 "www.ksiazorc-alyron.pro":null,
@@ -91813,6 +91816,7 @@ var BLOCKLIST = {
 "www.lamaboldoria.com":null,
 "www.lamaboldoria.digital":null,
 "www.lamaie.shop":null,
+"www.lamaisonhind.com":null,
 "www.lamaniapl.top":null,
 "www.lamaniasell.top":null,
 "www.lampobitmarksoft.com":null,
@@ -93215,6 +93219,7 @@ var BLOCKLIST = {
 "www.masiaoapsodiasoadd.site":null,
 "www.maskasdadsoadpdoaf.site":null,
 "www.mason-waszawa.pl":null,
+"www.massagetherapybyjuli.com":null,
 "www.massextreme.pl":null,
 "www.massiaddoc.cyou":null,
 "www.massifinvestalie-ai.com":null,
