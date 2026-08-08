@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
 # Entries: 111939
-# Updated: 2026-08-07 03:00:01 UTC
+# Updated: 2026-08-08 02:03:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -57563,7 +57563,6 @@
 0.0.0.0 remove-ads.xyz
 0.0.0.0 removearrest.com
 0.0.0.0 removiov.com
-0.0.0.0 remox.com
 0.0.0.0 rempartcapitange-ai.com
 0.0.0.0 remsiejisfjwopaodloda.site
 0.0.0.0 remvian.xyz
@@ -65937,6 +65936,7 @@
 0.0.0.0 t.irtyd.com
 0.0.0.0 t.leady.com
 0.0.0.0 t.lkqd.net
+0.0.0.0 t.marketing.goindigo.in
 0.0.0.0 t.mdn2015x2.com
 0.0.0.0 t.mdn2015x3.com
 0.0.0.0 t.metrilo.com

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
 // Entries: 111939
-// Updated: 2026-08-07 03:00:01 UTC
+// Updated: 2026-08-08 02:03:46 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -57564,7 +57564,6 @@ var BLOCKLIST = {
 "remove-ads.xyz":null,
 "removearrest.com":null,
 "removiov.com":null,
-"remox.com":null,
 "rempartcapitange-ai.com":null,
 "remsiejisfjwopaodloda.site":null,
 "remvian.xyz":null,
@@ -65938,6 +65937,7 @@ var BLOCKLIST = {
 "t.irtyd.com":null,
 "t.leady.com":null,
 "t.lkqd.net":null,
+"t.marketing.goindigo.in":null,
 "t.mdn2015x2.com":null,
 "t.mdn2015x3.com":null,
 "t.metrilo.com":null,
