@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 111937
-# Updated: 2026-08-08 01:14:23 UTC
+# Entries: 111940
+# Updated: 2026-08-09 01:16:40 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -12939,6 +12939,7 @@
 0.0.0.0 ampmetrics.techcrunch.com
 0.0.0.0 ampower.me
 0.0.0.0 amprtc.media.net
+0.0.0.0 ampscamp.net
 0.0.0.0 amptrack.dailymail.co.uk
 0.0.0.0 amrytt.adk2x.com
 0.0.0.0 ams-1-apex.go.sonobi.com
@@ -21835,6 +21836,7 @@
 0.0.0.0 canadapost.helpdag.top
 0.0.0.0 canadapost.postescanadad.xyz
 0.0.0.0 canadapostarticle.com
+0.0.0.0 canadaposteb.eu.cc
 0.0.0.0 canadawealth-gold.com
 0.0.0.0 canadawealthgold.live
 0.0.0.0 canadian-drugs-shop.com
@@ -55828,6 +55830,7 @@
 0.0.0.0 pulsarvexlinetrade.com
 0.0.0.0 pulsbot.site
 0.0.0.0 pulse-wave-tech.com
+0.0.0.0 pulse.genki.world
 0.0.0.0 pulse.inmobi.com
 0.0.0.0 pulse.svod.aetnd.com
 0.0.0.0 pulse360.com
