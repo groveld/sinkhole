@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 111940
-# Updated: 2026-08-10 01:17:41 UTC
+# Entries: 111943
+# Updated: 2026-08-11 01:15:43 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -58894,6 +58894,7 @@ address=/rum-collector.wpm.neustar.biz/0.0.0.0
 address=/rum-http-intake.logs.datadoghq.com/0.0.0.0
 address=/rum-http-intake.logs.datadoghq.eu/0.0.0.0
 address=/rum-static.pingdom.net/0.0.0.0
+address=/rum.aliyuncs.com/0.0.0.0
 address=/rum.logsss.com/0.0.0.0
 address=/rumadel.com/0.0.0.0
 address=/rumandcoco.com/0.0.0.0
@@ -96807,6 +96808,7 @@ address=/www.pehhtershams.info/0.0.0.0
 address=/www.pelcruvilance.digital/0.0.0.0
 address=/www.pelcruvilance.live/0.0.0.0
 address=/www.pelie.pl/0.0.0.0
+address=/www.pelistvseries.com/0.0.0.0
 address=/www.pelkruvilanz-de.live/0.0.0.0
 address=/www.pelkruvilanz-es.live/0.0.0.0
 address=/www.pelkruvilanz-it.live/0.0.0.0
@@ -98029,6 +98031,7 @@ address=/www.ppuhmarko.com.pl/0.0.0.0
 address=/www.ppvuu.com/0.0.0.0
 address=/www.pr-free.de/0.0.0.0
 address=/www.pr0ductsenb1ng.sbs/0.0.0.0
+address=/www.prabvisa.com/0.0.0.0
 address=/www.praceline.com/0.0.0.0
 address=/www.pracownia-finansowa.pl/0.0.0.0
 address=/www.pracowniekomputerowe.pl/0.0.0.0

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 111942
-# Updated: 2026-08-10 02:07:10 UTC
+# Entries: 111945
+# Updated: 2026-08-11 02:05:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -58895,6 +58895,7 @@ rum-collector.wpm.neustar.biz
 rum-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.eu
 rum-static.pingdom.net
+rum.aliyuncs.com
 rum.logsss.com
 rumadel.com
 rumandcoco.com
@@ -96809,6 +96810,7 @@ www.pehhtershams.info
 www.pelcruvilance.digital
 www.pelcruvilance.live
 www.pelie.pl
+www.pelistvseries.com
 www.pelkruvilanz-de.live
 www.pelkruvilanz-es.live
 www.pelkruvilanz-it.live
@@ -98031,6 +98033,7 @@ www.ppuhmarko.com.pl
 www.ppvuu.com
 www.pr-free.de
 www.pr0ductsenb1ng.sbs
+www.prabvisa.com
 www.praceline.com
 www.pracownia-finansowa.pl
 www.pracowniekomputerowe.pl
