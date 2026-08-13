@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 109989
-# Updated: 2026-08-12 01:21:23 UTC
+# Entries: 109995
+# Updated: 2026-08-13 01:22:26 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26921,6 +26921,7 @@
 0.0.0.0 data.eroadvertising.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.gosquared.com
+0.0.0.0 data.hailuo.ai
 0.0.0.0 data.iappmobi.com
 0.0.0.0 data.kataweb.it
 0.0.0.0 data.logentries.com
@@ -58296,6 +58297,7 @@
 0.0.0.0 rum-collector.wpm.neustar.biz
 0.0.0.0 rum-http-intake.logs.datadoghq.com
 0.0.0.0 rum-http-intake.logs.datadoghq.eu
+0.0.0.0 rum-openway.guance.com
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 rum.aliyuncs.com
 0.0.0.0 rum.logsss.com
@@ -69128,6 +69130,7 @@
 0.0.0.0 tweetsoup.us.intellitxt.com
 0.0.0.0 twelvedawn.com
 0.0.0.0 twinsoundrental.nl
+0.0.0.0 twisty.net
 0.0.0.0 twitchguru.us.intellitxt.com
 0.0.0.0 twitchindoor.best
 0.0.0.0 twitpic.fr
@@ -77018,6 +77021,7 @@
 0.0.0.0 www.balillasag.cyou
 0.0.0.0 www.balirovextrade.de
 0.0.0.0 www.balkanaktivovik.com
+0.0.0.0 www.ballarddesighs.com
 0.0.0.0 www.ballet-2026.online
 0.0.0.0 www.ballet-finale.info
 0.0.0.0 www.ballet-pl.com
@@ -77108,6 +77112,7 @@
 0.0.0.0 www.bantayfundcrest.digital
 0.0.0.0 www.banvar.com
 0.0.0.0 www.banyanfundholt.net
+0.0.0.0 www.banyotoptansatis.com
 0.0.0.0 www.baodingyuekai.com
 0.0.0.0 www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net
 0.0.0.0 www.baratcirco.cyou
@@ -79800,6 +79805,7 @@
 0.0.0.0 www.casagoyard.com
 0.0.0.0 www.casalemedia.com
 0.0.0.0 www.casalespinazzella.it
+0.0.0.0 www.casamaticoecu.com
 0.0.0.0 www.casasempelos.pt
 0.0.0.0 www.casatvm.com
 0.0.0.0 www.casavero.shop

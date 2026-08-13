@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 109989
-// Updated: 2026-08-12 01:21:23 UTC
+// Entries: 109995
+// Updated: 2026-08-13 01:22:26 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26922,6 +26922,7 @@ var BLOCKLIST = {
 "data.eroadvertising.com":null,
 "data.flurry.com":null,
 "data.gosquared.com":null,
+"data.hailuo.ai":null,
 "data.iappmobi.com":null,
 "data.kataweb.it":null,
 "data.logentries.com":null,
@@ -58297,6 +58298,7 @@ var BLOCKLIST = {
 "rum-collector.wpm.neustar.biz":null,
 "rum-http-intake.logs.datadoghq.com":null,
 "rum-http-intake.logs.datadoghq.eu":null,
+"rum-openway.guance.com":null,
 "rum-static.pingdom.net":null,
 "rum.aliyuncs.com":null,
 "rum.logsss.com":null,
@@ -69129,6 +69131,7 @@ var BLOCKLIST = {
 "tweetsoup.us.intellitxt.com":null,
 "twelvedawn.com":null,
 "twinsoundrental.nl":null,
+"twisty.net":null,
 "twitchguru.us.intellitxt.com":null,
 "twitchindoor.best":null,
 "twitpic.fr":null,
@@ -77019,6 +77022,7 @@ var BLOCKLIST = {
 "www.balillasag.cyou":null,
 "www.balirovextrade.de":null,
 "www.balkanaktivovik.com":null,
+"www.ballarddesighs.com":null,
 "www.ballet-2026.online":null,
 "www.ballet-finale.info":null,
 "www.ballet-pl.com":null,
@@ -77109,6 +77113,7 @@ var BLOCKLIST = {
 "www.bantayfundcrest.digital":null,
 "www.banvar.com":null,
 "www.banyanfundholt.net":null,
+"www.banyotoptansatis.com":null,
 "www.baodingyuekai.com":null,
 "www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net":null,
 "www.baratcirco.cyou":null,
@@ -79801,6 +79806,7 @@ var BLOCKLIST = {
 "www.casagoyard.com":null,
 "www.casalemedia.com":null,
 "www.casalespinazzella.it":null,
+"www.casamaticoecu.com":null,
 "www.casasempelos.pt":null,
 "www.casatvm.com":null,
 "www.casavero.shop":null,

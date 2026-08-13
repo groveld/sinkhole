@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 109989
-# Updated: 2026-08-12 01:21:23 UTC
+# Entries: 109995
+# Updated: 2026-08-13 01:22:26 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26921,6 +26921,7 @@ data.ero-advertising.com
 data.eroadvertising.com
 data.flurry.com
 data.gosquared.com
+data.hailuo.ai
 data.iappmobi.com
 data.kataweb.it
 data.logentries.com
@@ -58296,6 +58297,7 @@ rum-collector.pingdom.net
 rum-collector.wpm.neustar.biz
 rum-http-intake.logs.datadoghq.com
 rum-http-intake.logs.datadoghq.eu
+rum-openway.guance.com
 rum-static.pingdom.net
 rum.aliyuncs.com
 rum.logsss.com
@@ -69128,6 +69130,7 @@ tweetdeck.fr
 tweetsoup.us.intellitxt.com
 twelvedawn.com
 twinsoundrental.nl
+twisty.net
 twitchguru.us.intellitxt.com
 twitchindoor.best
 twitpic.fr
@@ -77018,6 +77021,7 @@ www.baldifin.com
 www.balillasag.cyou
 www.balirovextrade.de
 www.balkanaktivovik.com
+www.ballarddesighs.com
 www.ballet-2026.online
 www.ballet-finale.info
 www.ballet-pl.com
@@ -77108,6 +77112,7 @@ www.bantaybata163.net
 www.bantayfundcrest.digital
 www.banvar.com
 www.banyanfundholt.net
+www.banyotoptansatis.com
 www.baodingyuekai.com
 www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net
 www.baratcirco.cyou
@@ -79800,6 +79805,7 @@ www.casaemily.it
 www.casagoyard.com
 www.casalemedia.com
 www.casalespinazzella.it
+www.casamaticoecu.com
 www.casasempelos.pt
 www.casatvm.com
 www.casavero.shop

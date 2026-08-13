@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 109991
-# Updated: 2026-08-12 02:10:46 UTC
+# Entries: 109997
+# Updated: 2026-08-13 02:11:49 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26921,6 +26921,7 @@ address=/data.ero-advertising.com/0.0.0.0
 address=/data.eroadvertising.com/0.0.0.0
 address=/data.flurry.com/0.0.0.0
 address=/data.gosquared.com/0.0.0.0
+address=/data.hailuo.ai/0.0.0.0
 address=/data.iappmobi.com/0.0.0.0
 address=/data.kataweb.it/0.0.0.0
 address=/data.logentries.com/0.0.0.0
@@ -58297,6 +58298,7 @@ address=/rum-collector.pingdom.net/0.0.0.0
 address=/rum-collector.wpm.neustar.biz/0.0.0.0
 address=/rum-http-intake.logs.datadoghq.com/0.0.0.0
 address=/rum-http-intake.logs.datadoghq.eu/0.0.0.0
+address=/rum-openway.guance.com/0.0.0.0
 address=/rum-static.pingdom.net/0.0.0.0
 address=/rum.aliyuncs.com/0.0.0.0
 address=/rum.logsss.com/0.0.0.0
@@ -69129,6 +69131,7 @@ address=/tweetdeck.fr/0.0.0.0
 address=/tweetsoup.us.intellitxt.com/0.0.0.0
 address=/twelvedawn.com/0.0.0.0
 address=/twinsoundrental.nl/0.0.0.0
+address=/twisty.net/0.0.0.0
 address=/twitchguru.us.intellitxt.com/0.0.0.0
 address=/twitchindoor.best/0.0.0.0
 address=/twitpic.fr/0.0.0.0
@@ -77019,6 +77022,7 @@ address=/www.baldifin.com/0.0.0.0
 address=/www.balillasag.cyou/0.0.0.0
 address=/www.balirovextrade.de/0.0.0.0
 address=/www.balkanaktivovik.com/0.0.0.0
+address=/www.ballarddesighs.com/0.0.0.0
 address=/www.ballet-2026.online/0.0.0.0
 address=/www.ballet-finale.info/0.0.0.0
 address=/www.ballet-pl.com/0.0.0.0
@@ -77109,6 +77113,7 @@ address=/www.bantaybata163.net/0.0.0.0
 address=/www.bantayfundcrest.digital/0.0.0.0
 address=/www.banvar.com/0.0.0.0
 address=/www.banyanfundholt.net/0.0.0.0
+address=/www.banyotoptansatis.com/0.0.0.0
 address=/www.baodingyuekai.com/0.0.0.0
 address=/www.bar.ry2002.02-ry014.snpr.hotmx.hair.zaam.net/0.0.0.0
 address=/www.baratcirco.cyou/0.0.0.0
@@ -79801,6 +79806,7 @@ address=/www.casaemily.it/0.0.0.0
 address=/www.casagoyard.com/0.0.0.0
 address=/www.casalemedia.com/0.0.0.0
 address=/www.casalespinazzella.it/0.0.0.0
+address=/www.casamaticoecu.com/0.0.0.0
 address=/www.casasempelos.pt/0.0.0.0
 address=/www.casatvm.com/0.0.0.0
 address=/www.casavero.shop/0.0.0.0
