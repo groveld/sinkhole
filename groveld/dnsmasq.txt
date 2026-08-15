@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 111297
-# Updated: 2026-08-14 02:12:02 UTC
+# Entries: 111299
+# Updated: 2026-08-15 01:57:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39379,6 +39379,7 @@ address=/ingameads2.gameloft.com/0.0.0.0
 address=/ingamesads.gameloft.com/0.0.0.0
 address=/ingedus.fr/0.0.0.0
 address=/ingenieous.com/0.0.0.0
+address=/ingest.in.signoz.cloud/0.0.0.0
 address=/ingest.m2appmonitor.com/0.0.0.0
 address=/ingest.vungle.akadns.net/0.0.0.0
 address=/ingest.vungle.com/0.0.0.0
@@ -81482,6 +81483,7 @@ address=/www.collectiable.com/0.0.0.0
 address=/www.collectionsynthetic.ygrmedia.com/0.0.0.0
 address=/www.collectorsfit.com/0.0.0.0
 address=/www.collegeboundsd.com/0.0.0.0
+address=/www.colleyvillepapershredding.com/0.0.0.0
 address=/www.colline-placange-ai.com/0.0.0.0
 address=/www.collineplacange.digital/0.0.0.0
 address=/www.collineplacange.live/0.0.0.0

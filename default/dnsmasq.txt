@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 111293
-# Updated: 2026-08-14 01:22:39 UTC
+# Entries: 111297
+# Updated: 2026-08-15 01:08:05 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2354,6 +2354,7 @@ address=/LUXpolice.com/0.0.0.0
 address=/LUXpolice.net/0.0.0.0
 address=/PAKpolice.com/0.0.0.0
 address=/USApolice.com/0.0.0.0
+address=/___id___.c.mystat-in.net/0.0.0.0
 address=/a-5.info/0.0.0.0
 address=/a-a-access.com/0.0.0.0
 address=/a-ads.com/0.0.0.0
@@ -39377,6 +39378,7 @@ address=/ingameads2.gameloft.com/0.0.0.0
 address=/ingamesads.gameloft.com/0.0.0.0
 address=/ingedus.fr/0.0.0.0
 address=/ingenieous.com/0.0.0.0
+address=/ingest.in.signoz.cloud/0.0.0.0
 address=/ingest.m2appmonitor.com/0.0.0.0
 address=/ingest.vungle.akadns.net/0.0.0.0
 address=/ingest.vungle.com/0.0.0.0
@@ -81271,6 +81273,7 @@ address=/www.clickdensity.com/0.0.0.0
 address=/www.clickedyclick.com/0.0.0.0
 address=/www.clickfunnels.com/0.0.0.0
 address=/www.clickhelp.net/0.0.0.0
+address=/www.clickhouse.com/0.0.0.0
 address=/www.clickhouse.name/0.0.0.0
 address=/www.clickmanage.com/0.0.0.0
 address=/www.clickmeter.com/0.0.0.0
@@ -81479,6 +81482,7 @@ address=/www.collectiable.com/0.0.0.0
 address=/www.collectionsynthetic.ygrmedia.com/0.0.0.0
 address=/www.collectorsfit.com/0.0.0.0
 address=/www.collegeboundsd.com/0.0.0.0
+address=/www.colleyvillepapershredding.com/0.0.0.0
 address=/www.colline-placange-ai.com/0.0.0.0
 address=/www.collineplacange.digital/0.0.0.0
 address=/www.collineplacange.live/0.0.0.0

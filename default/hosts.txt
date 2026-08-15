@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 111293
-# Updated: 2026-08-14 01:22:39 UTC
+# Entries: 111297
+# Updated: 2026-08-15 01:08:05 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2354,6 +2354,7 @@
 0.0.0.0 LUXpolice.net
 0.0.0.0 PAKpolice.com
 0.0.0.0 USApolice.com
+0.0.0.0 ___id___.c.mystat-in.net
 0.0.0.0 a-5.info
 0.0.0.0 a-a-access.com
 0.0.0.0 a-ads.com
@@ -39377,6 +39378,7 @@
 0.0.0.0 ingamesads.gameloft.com
 0.0.0.0 ingedus.fr
 0.0.0.0 ingenieous.com
+0.0.0.0 ingest.in.signoz.cloud
 0.0.0.0 ingest.m2appmonitor.com
 0.0.0.0 ingest.vungle.akadns.net
 0.0.0.0 ingest.vungle.com
@@ -81271,6 +81273,7 @@
 0.0.0.0 www.clickedyclick.com
 0.0.0.0 www.clickfunnels.com
 0.0.0.0 www.clickhelp.net
+0.0.0.0 www.clickhouse.com
 0.0.0.0 www.clickhouse.name
 0.0.0.0 www.clickmanage.com
 0.0.0.0 www.clickmeter.com
@@ -81479,6 +81482,7 @@
 0.0.0.0 www.collectionsynthetic.ygrmedia.com
 0.0.0.0 www.collectorsfit.com
 0.0.0.0 www.collegeboundsd.com
+0.0.0.0 www.colleyvillepapershredding.com
 0.0.0.0 www.colline-placange-ai.com
 0.0.0.0 www.collineplacange.digital
 0.0.0.0 www.collineplacange.live

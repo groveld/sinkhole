@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 111297
-// Updated: 2026-08-14 02:12:02 UTC
+// Entries: 111299
+// Updated: 2026-08-15 01:57:27 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -39380,6 +39380,7 @@ var BLOCKLIST = {
 "ingamesads.gameloft.com":null,
 "ingedus.fr":null,
 "ingenieous.com":null,
+"ingest.in.signoz.cloud":null,
 "ingest.m2appmonitor.com":null,
 "ingest.vungle.akadns.net":null,
 "ingest.vungle.com":null,
@@ -81483,6 +81484,7 @@ var BLOCKLIST = {
 "www.collectionsynthetic.ygrmedia.com":null,
 "www.collectorsfit.com":null,
 "www.collegeboundsd.com":null,
+"www.colleyvillepapershredding.com":null,
 "www.colline-placange-ai.com":null,
 "www.collineplacange.digital":null,
 "www.collineplacange.live":null,
