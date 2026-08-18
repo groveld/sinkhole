@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 111299
-! Updated: 2026-08-17 01:55:42 UTC
+! Entries: 111304
+! Updated: 2026-08-18 01:54:52 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24083,6 +24083,7 @@
 ||clicks.bannerboxes.com^
 ||clicks.beap.ad.yieldmanager.net^
 ||clicks.checkatrade.com^
+||clicks.couchsurfing.com^
 ||clicks.deliveroo.co.uk^
 ||clicks.deskbabes.com^
 ||clicks.emarketmakers.com^
@@ -70242,6 +70243,7 @@
 ||upalytics.com^
 ||upandshare.nocoshop.ru^
 ||upandshare.uploadbox.world^
+||upbeatbut.com^
 ||upchemicals.co.in^
 ||upd.dns-look-up.com^
 ||update-addrese.ctiltst.ccwu.cc^
@@ -87723,6 +87725,7 @@
 ||www.gridlinkcables.com^
 ||www.gridspec.vudhasrcep.com^
 ||www.griffinlist.com^
+||www.griffscomedyclub.com^
 ||www.grinvix.com^
 ||www.grivok.click^
 ||www.grivtal.shop^
@@ -87957,6 +87960,7 @@
 ||www.haikuservices.com^
 ||www.hainelucru.com^
 ||www.hainemunca.com^
+||www.hairapothecaryco.com^
 ||www.haiweimedia.com^
 ||www.hajoopteg.com^
 ||www.hakanatalaypsikiyatri.net^
@@ -90671,6 +90675,7 @@
 ||www.kinedeck.site^
 ||www.kinepress.sbs^
 ||www.kingarynduch.wixsite.com^
+||www.kingfreetube.com^
 ||www.kingkong.co^
 ||www.kingkonta.pl^
 ||www.kingsgrove.shop^

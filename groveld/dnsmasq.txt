@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 111299
-# Updated: 2026-08-17 01:55:42 UTC
+# Entries: 111304
+# Updated: 2026-08-18 01:54:52 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24083,6 +24083,7 @@ address=/clicks.babylon-x.com/0.0.0.0
 address=/clicks.bannerboxes.com/0.0.0.0
 address=/clicks.beap.ad.yieldmanager.net/0.0.0.0
 address=/clicks.checkatrade.com/0.0.0.0
+address=/clicks.couchsurfing.com/0.0.0.0
 address=/clicks.deliveroo.co.uk/0.0.0.0
 address=/clicks.deskbabes.com/0.0.0.0
 address=/clicks.emarketmakers.com/0.0.0.0
@@ -70242,6 +70243,7 @@ address=/upaicdn.xinmei365.com/0.0.0.0
 address=/upalytics.com/0.0.0.0
 address=/upandshare.nocoshop.ru/0.0.0.0
 address=/upandshare.uploadbox.world/0.0.0.0
+address=/upbeatbut.com/0.0.0.0
 address=/upchemicals.co.in/0.0.0.0
 address=/upd.dns-look-up.com/0.0.0.0
 address=/update-addrese.ctiltst.ccwu.cc/0.0.0.0
@@ -87723,6 +87725,7 @@ address=/www.gridglass32.co/0.0.0.0
 address=/www.gridlinkcables.com/0.0.0.0
 address=/www.gridspec.vudhasrcep.com/0.0.0.0
 address=/www.griffinlist.com/0.0.0.0
+address=/www.griffscomedyclub.com/0.0.0.0
 address=/www.grinvix.com/0.0.0.0
 address=/www.grivok.click/0.0.0.0
 address=/www.grivtal.shop/0.0.0.0
@@ -87957,6 +87960,7 @@ address=/www.haifengfoods.com/0.0.0.0
 address=/www.haikuservices.com/0.0.0.0
 address=/www.hainelucru.com/0.0.0.0
 address=/www.hainemunca.com/0.0.0.0
+address=/www.hairapothecaryco.com/0.0.0.0
 address=/www.haiweimedia.com/0.0.0.0
 address=/www.hajoopteg.com/0.0.0.0
 address=/www.hakanatalaypsikiyatri.net/0.0.0.0
@@ -90671,6 +90675,7 @@ address=/www.kindwebdg.site/0.0.0.0
 address=/www.kinedeck.site/0.0.0.0
 address=/www.kinepress.sbs/0.0.0.0
 address=/www.kingarynduch.wixsite.com/0.0.0.0
+address=/www.kingfreetube.com/0.0.0.0
 address=/www.kingkong.co/0.0.0.0
 address=/www.kingkonta.pl/0.0.0.0
 address=/www.kingsgrove.shop/0.0.0.0

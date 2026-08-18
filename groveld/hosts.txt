@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 111299
-# Updated: 2026-08-17 01:55:42 UTC
+# Entries: 111304
+# Updated: 2026-08-18 01:54:52 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24083,6 +24083,7 @@
 0.0.0.0 clicks.bannerboxes.com
 0.0.0.0 clicks.beap.ad.yieldmanager.net
 0.0.0.0 clicks.checkatrade.com
+0.0.0.0 clicks.couchsurfing.com
 0.0.0.0 clicks.deliveroo.co.uk
 0.0.0.0 clicks.deskbabes.com
 0.0.0.0 clicks.emarketmakers.com
@@ -70242,6 +70243,7 @@
 0.0.0.0 upalytics.com
 0.0.0.0 upandshare.nocoshop.ru
 0.0.0.0 upandshare.uploadbox.world
+0.0.0.0 upbeatbut.com
 0.0.0.0 upchemicals.co.in
 0.0.0.0 upd.dns-look-up.com
 0.0.0.0 update-addrese.ctiltst.ccwu.cc
@@ -87723,6 +87725,7 @@
 0.0.0.0 www.gridlinkcables.com
 0.0.0.0 www.gridspec.vudhasrcep.com
 0.0.0.0 www.griffinlist.com
+0.0.0.0 www.griffscomedyclub.com
 0.0.0.0 www.grinvix.com
 0.0.0.0 www.grivok.click
 0.0.0.0 www.grivtal.shop
@@ -87957,6 +87960,7 @@
 0.0.0.0 www.haikuservices.com
 0.0.0.0 www.hainelucru.com
 0.0.0.0 www.hainemunca.com
+0.0.0.0 www.hairapothecaryco.com
 0.0.0.0 www.haiweimedia.com
 0.0.0.0 www.hajoopteg.com
 0.0.0.0 www.hakanatalaypsikiyatri.net
@@ -90671,6 +90675,7 @@
 0.0.0.0 www.kinedeck.site
 0.0.0.0 www.kinepress.sbs
 0.0.0.0 www.kingarynduch.wixsite.com
+0.0.0.0 www.kingfreetube.com
 0.0.0.0 www.kingkong.co
 0.0.0.0 www.kingkonta.pl
 0.0.0.0 www.kingsgrove.shop

@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 111297
-// Updated: 2026-08-17 01:08:31 UTC
+// Entries: 111302
+// Updated: 2026-08-18 01:07:42 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24084,6 +24084,7 @@ var BLOCKLIST = {
 "clicks.bannerboxes.com":null,
 "clicks.beap.ad.yieldmanager.net":null,
 "clicks.checkatrade.com":null,
+"clicks.couchsurfing.com":null,
 "clicks.deliveroo.co.uk":null,
 "clicks.deskbabes.com":null,
 "clicks.emarketmakers.com":null,
@@ -70242,6 +70243,7 @@ var BLOCKLIST = {
 "upalytics.com":null,
 "upandshare.nocoshop.ru":null,
 "upandshare.uploadbox.world":null,
+"upbeatbut.com":null,
 "upchemicals.co.in":null,
 "upd.dns-look-up.com":null,
 "update-addrese.ctiltst.ccwu.cc":null,
@@ -87722,6 +87724,7 @@ var BLOCKLIST = {
 "www.gridlinkcables.com":null,
 "www.gridspec.vudhasrcep.com":null,
 "www.griffinlist.com":null,
+"www.griffscomedyclub.com":null,
 "www.grinvix.com":null,
 "www.grivok.click":null,
 "www.grivtal.shop":null,
@@ -87956,6 +87959,7 @@ var BLOCKLIST = {
 "www.haikuservices.com":null,
 "www.hainelucru.com":null,
 "www.hainemunca.com":null,
+"www.hairapothecaryco.com":null,
 "www.haiweimedia.com":null,
 "www.hajoopteg.com":null,
 "www.hakanatalaypsikiyatri.net":null,
@@ -90670,6 +90674,7 @@ var BLOCKLIST = {
 "www.kinedeck.site":null,
 "www.kinepress.sbs":null,
 "www.kingarynduch.wixsite.com":null,
+"www.kingfreetube.com":null,
 "www.kingkong.co":null,
 "www.kingkonta.pl":null,
 "www.kingsgrove.shop":null,
