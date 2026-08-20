@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 108018
-// Updated: 2026-08-19 01:54:52 UTC
+// Entries: 108021
+// Updated: 2026-08-20 01:55:35 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -93406,6 +93406,7 @@ var BLOCKLIST = {
 "www.parovix.xyz":null,
 "www.parsads.com":null,
 "www.partijet.reklawnos.com":null,
+"www.partilla.com":null,
 "www.partner-ads.com":null,
 "www.partner-with-creators.com":null,
 "www.partneralior.pl":null,
@@ -95743,6 +95744,7 @@ var BLOCKLIST = {
 "www.quilmox.net":null,
 "www.quinni.cyou":null,
 "www.quinnwealth.com":null,
+"www.quintaalegrealgarve.com":null,
 "www.quintastudio.live":null,
 "www.quinteswrsence.shop":null,
 "www.quintingwatches.com":null,
@@ -95779,6 +95781,7 @@ var BLOCKLIST = {
 "www.quotenzatrade.com":null,
 "www.quotex.com":null,
 "www.quotex.io":null,
+"www.quotling.com":null,
 "www.qurta-i328.eu.cc":null,
 "www.quvida.click":null,
 "www.qv.r9ucep.top":null,

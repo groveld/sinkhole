@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 108016
-# Updated: 2026-08-19 01:07:37 UTC
+# Entries: 108019
+# Updated: 2026-08-20 01:08:20 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -93403,6 +93403,7 @@
 0.0.0.0 www.parovix.xyz
 0.0.0.0 www.parsads.com
 0.0.0.0 www.partijet.reklawnos.com
+0.0.0.0 www.partilla.com
 0.0.0.0 www.partner-ads.com
 0.0.0.0 www.partner-with-creators.com
 0.0.0.0 www.partneralior.pl
@@ -95740,6 +95741,7 @@
 0.0.0.0 www.quilmox.net
 0.0.0.0 www.quinni.cyou
 0.0.0.0 www.quinnwealth.com
+0.0.0.0 www.quintaalegrealgarve.com
 0.0.0.0 www.quintastudio.live
 0.0.0.0 www.quinteswrsence.shop
 0.0.0.0 www.quintingwatches.com
@@ -95776,6 +95778,7 @@
 0.0.0.0 www.quotenzatrade.com
 0.0.0.0 www.quotex.com
 0.0.0.0 www.quotex.io
+0.0.0.0 www.quotling.com
 0.0.0.0 www.qurta-i328.eu.cc
 0.0.0.0 www.quvida.click
 0.0.0.0 www.qv.r9ucep.top
