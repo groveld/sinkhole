@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 105866
-! Updated: 2026-08-21 01:56:40 UTC
+! Entries: 105877
+! Updated: 2026-08-22 01:55:04 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1111,6 +1111,7 @@
 ||25057.hittail.com^
 ||251832.help^
 ||25184.hittail.com^
+||2533542.cc^
 ||2542116.fls.doubleclick.net^
 ||2546.islafenice.net^
 ||2547.islafenice.net^
@@ -53790,6 +53791,7 @@
 ||purocapitenca.pro^
 ||purocapitencatrade.com^
 ||puroclean.com^
+||purolatorkbtdh.eu.cc^
 ||puromercovia.com^
 ||puroportdex-platform.com^
 ||purotattoostudio.mom^
@@ -55345,6 +55347,7 @@
 ||remove-ads.xyz^
 ||removearrest.com^
 ||removiov.com^
+||remox.com^
 ||rempartcapitange.net^
 ||remsiejisfjwopaodloda.site^
 ||remvian.xyz^
@@ -62695,6 +62698,7 @@
 ||support.tenten.vn^
 ||supportbanbag.me^
 ||supportnet.de.intellitxt.com^
+||supportservice-dragonfly.duckdns.org^
 ||supportwaves.com^
 ||suprama.online^
 ||supremeadserver.com^
@@ -92063,6 +92067,7 @@
 ||www.phoenixads.co.in^
 ||www.phondawind.live^
 ||www.phondawindtech.shop^
+||www.phonecex.com^
 ||www.phonecheck.lol^
 ||www.phonejapan.com^
 ||www.phonenumberbook.com^
@@ -92888,6 +92893,7 @@
 ||www.poponclick.com^
 ||www.popovleather.live^
 ||www.poppers-rush.ru^
+||www.popshopeu.com^
 ||www.poptoys.pl^
 ||www.popularsite.ru^
 ||www.popunder.com^
@@ -95703,6 +95709,7 @@
 ||www.security-update.ocry.com^
 ||www.security-update.qhigh.com^
 ||www.securitymetrics.com^
+||www.securitymeyrics.com^
 ||www.securityplusproducts.com^
 ||www.securityscan.us^
 ||www.securitystronghold.com^
@@ -99044,6 +99051,7 @@
 ||www.therhevoncrestapp.com^
 ||www.therhevoncrestapp.org^
 ||www.thermaesyllaspa-hotel.com^
+||www.thermature.com^
 ||www.thermix.donbrownministries.com^
 ||www.theroamingjew.com^
 ||www.theroasterie.mom^
@@ -99712,6 +99720,7 @@
 ||www.tranriseag.site^
 ||www.transagainoz.live^
 ||www.transcendfaence.shop^
+||www.transcet.com^
 ||www.transdipno.online^
 ||www.transheter.autos^
 ||www.transilvaniaai-ro.live^
@@ -100297,6 +100306,7 @@
 ||www.unbanxengine.shop^
 ||www.unblockfacebook.co.uk^
 ||www.unblocksit.es^
+||www.unclaimedbaggag.com^
 ||www.uncondesid.autos^
 ||www.unculcoart.live^
 ||www.undelblowp.rest^
@@ -100470,6 +100480,7 @@
 ||www.usuricande.autos^
 ||www.uswiadomieni.pl^
 ||www.utarget.co.uk^
+||www.utgzlogin.com^
 ||www.utl.slazyget.com^
 ||www.utopia-privacy.com^
 ||www.utraqparai.cyou^

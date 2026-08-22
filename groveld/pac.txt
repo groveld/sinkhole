@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 105866
-// Updated: 2026-08-21 01:56:40 UTC
+// Entries: 105877
+// Updated: 2026-08-22 01:55:04 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1112,6 +1112,7 @@ var BLOCKLIST = {
 "25057.hittail.com":null,
 "251832.help":null,
 "25184.hittail.com":null,
+"2533542.cc":null,
 "2542116.fls.doubleclick.net":null,
 "2546.islafenice.net":null,
 "2547.islafenice.net":null,
@@ -53791,6 +53792,7 @@ var BLOCKLIST = {
 "purocapitenca.pro":null,
 "purocapitencatrade.com":null,
 "puroclean.com":null,
+"purolatorkbtdh.eu.cc":null,
 "puromercovia.com":null,
 "puroportdex-platform.com":null,
 "purotattoostudio.mom":null,
@@ -55346,6 +55348,7 @@ var BLOCKLIST = {
 "remove-ads.xyz":null,
 "removearrest.com":null,
 "removiov.com":null,
+"remox.com":null,
 "rempartcapitange.net":null,
 "remsiejisfjwopaodloda.site":null,
 "remvian.xyz":null,
@@ -62696,6 +62699,7 @@ var BLOCKLIST = {
 "support.tenten.vn":null,
 "supportbanbag.me":null,
 "supportnet.de.intellitxt.com":null,
+"supportservice-dragonfly.duckdns.org":null,
 "supportwaves.com":null,
 "suprama.online":null,
 "supremeadserver.com":null,
@@ -92064,6 +92068,7 @@ var BLOCKLIST = {
 "www.phoenixads.co.in":null,
 "www.phondawind.live":null,
 "www.phondawindtech.shop":null,
+"www.phonecex.com":null,
 "www.phonecheck.lol":null,
 "www.phonejapan.com":null,
 "www.phonenumberbook.com":null,
@@ -92889,6 +92894,7 @@ var BLOCKLIST = {
 "www.poponclick.com":null,
 "www.popovleather.live":null,
 "www.poppers-rush.ru":null,
+"www.popshopeu.com":null,
 "www.poptoys.pl":null,
 "www.popularsite.ru":null,
 "www.popunder.com":null,
@@ -95704,6 +95710,7 @@ var BLOCKLIST = {
 "www.security-update.ocry.com":null,
 "www.security-update.qhigh.com":null,
 "www.securitymetrics.com":null,
+"www.securitymeyrics.com":null,
 "www.securityplusproducts.com":null,
 "www.securityscan.us":null,
 "www.securitystronghold.com":null,
@@ -99045,6 +99052,7 @@ var BLOCKLIST = {
 "www.therhevoncrestapp.com":null,
 "www.therhevoncrestapp.org":null,
 "www.thermaesyllaspa-hotel.com":null,
+"www.thermature.com":null,
 "www.thermix.donbrownministries.com":null,
 "www.theroamingjew.com":null,
 "www.theroasterie.mom":null,
@@ -99713,6 +99721,7 @@ var BLOCKLIST = {
 "www.tranriseag.site":null,
 "www.transagainoz.live":null,
 "www.transcendfaence.shop":null,
+"www.transcet.com":null,
 "www.transdipno.online":null,
 "www.transheter.autos":null,
 "www.transilvaniaai-ro.live":null,
@@ -100298,6 +100307,7 @@ var BLOCKLIST = {
 "www.unbanxengine.shop":null,
 "www.unblockfacebook.co.uk":null,
 "www.unblocksit.es":null,
+"www.unclaimedbaggag.com":null,
 "www.uncondesid.autos":null,
 "www.unculcoart.live":null,
 "www.undelblowp.rest":null,
@@ -100471,6 +100481,7 @@ var BLOCKLIST = {
 "www.usuricande.autos":null,
 "www.uswiadomieni.pl":null,
 "www.utarget.co.uk":null,
+"www.utgzlogin.com":null,
 "www.utl.slazyget.com":null,
 "www.utopia-privacy.com":null,
 "www.utraqparai.cyou":null,

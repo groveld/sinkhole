@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 105864
-# Updated: 2026-08-21 01:09:27 UTC
+# Entries: 105875
+# Updated: 2026-08-22 01:07:54 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1111,6 +1111,7 @@
 0.0.0.0 25057.hittail.com
 0.0.0.0 251832.help
 0.0.0.0 25184.hittail.com
+0.0.0.0 2533542.cc
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 2546.islafenice.net
 0.0.0.0 2547.islafenice.net
@@ -53789,6 +53790,7 @@
 0.0.0.0 purocapitenca.pro
 0.0.0.0 purocapitencatrade.com
 0.0.0.0 puroclean.com
+0.0.0.0 purolatorkbtdh.eu.cc
 0.0.0.0 puromercovia.com
 0.0.0.0 puroportdex-platform.com
 0.0.0.0 purotattoostudio.mom
@@ -55344,6 +55346,7 @@
 0.0.0.0 remove-ads.xyz
 0.0.0.0 removearrest.com
 0.0.0.0 removiov.com
+0.0.0.0 remox.com
 0.0.0.0 rempartcapitange.net
 0.0.0.0 remsiejisfjwopaodloda.site
 0.0.0.0 remvian.xyz
@@ -62694,6 +62697,7 @@
 0.0.0.0 support.tenten.vn
 0.0.0.0 supportbanbag.me
 0.0.0.0 supportnet.de.intellitxt.com
+0.0.0.0 supportservice-dragonfly.duckdns.org
 0.0.0.0 supportwaves.com
 0.0.0.0 suprama.online
 0.0.0.0 supremeadserver.com
@@ -92061,6 +92065,7 @@
 0.0.0.0 www.phoenixads.co.in
 0.0.0.0 www.phondawind.live
 0.0.0.0 www.phondawindtech.shop
+0.0.0.0 www.phonecex.com
 0.0.0.0 www.phonecheck.lol
 0.0.0.0 www.phonejapan.com
 0.0.0.0 www.phonenumberbook.com
@@ -92886,6 +92891,7 @@
 0.0.0.0 www.poponclick.com
 0.0.0.0 www.popovleather.live
 0.0.0.0 www.poppers-rush.ru
+0.0.0.0 www.popshopeu.com
 0.0.0.0 www.poptoys.pl
 0.0.0.0 www.popularsite.ru
 0.0.0.0 www.popunder.com
@@ -95701,6 +95707,7 @@
 0.0.0.0 www.security-update.ocry.com
 0.0.0.0 www.security-update.qhigh.com
 0.0.0.0 www.securitymetrics.com
+0.0.0.0 www.securitymeyrics.com
 0.0.0.0 www.securityplusproducts.com
 0.0.0.0 www.securityscan.us
 0.0.0.0 www.securitystronghold.com
@@ -99042,6 +99049,7 @@
 0.0.0.0 www.therhevoncrestapp.com
 0.0.0.0 www.therhevoncrestapp.org
 0.0.0.0 www.thermaesyllaspa-hotel.com
+0.0.0.0 www.thermature.com
 0.0.0.0 www.thermix.donbrownministries.com
 0.0.0.0 www.theroamingjew.com
 0.0.0.0 www.theroasterie.mom
@@ -99710,6 +99718,7 @@
 0.0.0.0 www.tranriseag.site
 0.0.0.0 www.transagainoz.live
 0.0.0.0 www.transcendfaence.shop
+0.0.0.0 www.transcet.com
 0.0.0.0 www.transdipno.online
 0.0.0.0 www.transheter.autos
 0.0.0.0 www.transilvaniaai-ro.live
@@ -100295,6 +100304,7 @@
 0.0.0.0 www.unbanxengine.shop
 0.0.0.0 www.unblockfacebook.co.uk
 0.0.0.0 www.unblocksit.es
+0.0.0.0 www.unclaimedbaggag.com
 0.0.0.0 www.uncondesid.autos
 0.0.0.0 www.unculcoart.live
 0.0.0.0 www.undelblowp.rest
@@ -100468,6 +100478,7 @@
 0.0.0.0 www.usuricande.autos
 0.0.0.0 www.uswiadomieni.pl
 0.0.0.0 www.utarget.co.uk
+0.0.0.0 www.utgzlogin.com
 0.0.0.0 www.utl.slazyget.com
 0.0.0.0 www.utopia-privacy.com
 0.0.0.0 www.utraqparai.cyou

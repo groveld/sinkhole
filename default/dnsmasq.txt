@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 105864
-# Updated: 2026-08-21 01:09:27 UTC
+# Entries: 105875
+# Updated: 2026-08-22 01:07:54 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1111,6 +1111,7 @@ address=/24x7live.net/0.0.0.0
 address=/25057.hittail.com/0.0.0.0
 address=/251832.help/0.0.0.0
 address=/25184.hittail.com/0.0.0.0
+address=/2533542.cc/0.0.0.0
 address=/2542116.fls.doubleclick.net/0.0.0.0
 address=/2546.islafenice.net/0.0.0.0
 address=/2547.islafenice.net/0.0.0.0
@@ -53789,6 +53790,7 @@ address=/purnoavexo.pro/0.0.0.0
 address=/purocapitenca.pro/0.0.0.0
 address=/purocapitencatrade.com/0.0.0.0
 address=/puroclean.com/0.0.0.0
+address=/purolatorkbtdh.eu.cc/0.0.0.0
 address=/puromercovia.com/0.0.0.0
 address=/puroportdex-platform.com/0.0.0.0
 address=/purotattoostudio.mom/0.0.0.0
@@ -55344,6 +55346,7 @@ address=/remotead.cnet.com/0.0.0.0
 address=/remove-ads.xyz/0.0.0.0
 address=/removearrest.com/0.0.0.0
 address=/removiov.com/0.0.0.0
+address=/remox.com/0.0.0.0
 address=/rempartcapitange.net/0.0.0.0
 address=/remsiejisfjwopaodloda.site/0.0.0.0
 address=/remvian.xyz/0.0.0.0
@@ -62694,6 +62697,7 @@ address=/support.sweepstakes.com/0.0.0.0
 address=/support.tenten.vn/0.0.0.0
 address=/supportbanbag.me/0.0.0.0
 address=/supportnet.de.intellitxt.com/0.0.0.0
+address=/supportservice-dragonfly.duckdns.org/0.0.0.0
 address=/supportwaves.com/0.0.0.0
 address=/suprama.online/0.0.0.0
 address=/supremeadserver.com/0.0.0.0
@@ -92061,6 +92065,7 @@ address=/www.phlintrentmere.pro/0.0.0.0
 address=/www.phoenixads.co.in/0.0.0.0
 address=/www.phondawind.live/0.0.0.0
 address=/www.phondawindtech.shop/0.0.0.0
+address=/www.phonecex.com/0.0.0.0
 address=/www.phonecheck.lol/0.0.0.0
 address=/www.phonejapan.com/0.0.0.0
 address=/www.phonenumberbook.com/0.0.0.0
@@ -92886,6 +92891,7 @@ address=/www.popocdysle.autos/0.0.0.0
 address=/www.poponclick.com/0.0.0.0
 address=/www.popovleather.live/0.0.0.0
 address=/www.poppers-rush.ru/0.0.0.0
+address=/www.popshopeu.com/0.0.0.0
 address=/www.poptoys.pl/0.0.0.0
 address=/www.popularsite.ru/0.0.0.0
 address=/www.popunder.com/0.0.0.0
@@ -95701,6 +95707,7 @@ address=/www.security-update.ddns.info/0.0.0.0
 address=/www.security-update.ocry.com/0.0.0.0
 address=/www.security-update.qhigh.com/0.0.0.0
 address=/www.securitymetrics.com/0.0.0.0
+address=/www.securitymeyrics.com/0.0.0.0
 address=/www.securityplusproducts.com/0.0.0.0
 address=/www.securityscan.us/0.0.0.0
 address=/www.securitystronghold.com/0.0.0.0
@@ -99042,6 +99049,7 @@ address=/www.therhevoncrest.org/0.0.0.0
 address=/www.therhevoncrestapp.com/0.0.0.0
 address=/www.therhevoncrestapp.org/0.0.0.0
 address=/www.thermaesyllaspa-hotel.com/0.0.0.0
+address=/www.thermature.com/0.0.0.0
 address=/www.thermix.donbrownministries.com/0.0.0.0
 address=/www.theroamingjew.com/0.0.0.0
 address=/www.theroasterie.mom/0.0.0.0
@@ -99710,6 +99718,7 @@ address=/www.trandixai.shop/0.0.0.0
 address=/www.tranriseag.site/0.0.0.0
 address=/www.transagainoz.live/0.0.0.0
 address=/www.transcendfaence.shop/0.0.0.0
+address=/www.transcet.com/0.0.0.0
 address=/www.transdipno.online/0.0.0.0
 address=/www.transheter.autos/0.0.0.0
 address=/www.transilvaniaai-ro.live/0.0.0.0
@@ -100295,6 +100304,7 @@ address=/www.unbanxarnaque.live/0.0.0.0
 address=/www.unbanxengine.shop/0.0.0.0
 address=/www.unblockfacebook.co.uk/0.0.0.0
 address=/www.unblocksit.es/0.0.0.0
+address=/www.unclaimedbaggag.com/0.0.0.0
 address=/www.uncondesid.autos/0.0.0.0
 address=/www.unculcoart.live/0.0.0.0
 address=/www.undelblowp.rest/0.0.0.0
@@ -100468,6 +100478,7 @@ address=/www.usunwirusa.pl/0.0.0.0
 address=/www.usuricande.autos/0.0.0.0
 address=/www.uswiadomieni.pl/0.0.0.0
 address=/www.utarget.co.uk/0.0.0.0
+address=/www.utgzlogin.com/0.0.0.0
 address=/www.utl.slazyget.com/0.0.0.0
 address=/www.utopia-privacy.com/0.0.0.0
 address=/www.utraqparai.cyou/0.0.0.0
