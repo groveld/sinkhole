@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 94913
-# Updated: 2026-08-24 01:56:25 UTC
+# Entries: 94914
+# Updated: 2026-08-25 01:55:38 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74401,6 +74401,7 @@ address=/www.financephantom.site/0.0.0.0
 address=/www.financephantomai.com/0.0.0.0
 address=/www.financesendirect.com/0.0.0.0
 address=/www.financeslibresinfo.net/0.0.0.0
+address=/www.financevd.com/0.0.0.0
 address=/www.financial.org/0.0.0.0
 address=/www.financialfreedomhubtrade.com/0.0.0.0
 address=/www.financialvisiondesk.com/0.0.0.0

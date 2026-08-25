@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 94911
-// Updated: 2026-08-24 01:09:15 UTC
+// Entries: 94912
+// Updated: 2026-08-25 01:08:27 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74401,6 +74401,7 @@ var BLOCKLIST = {
 "www.financephantomai.com":null,
 "www.financesendirect.com":null,
 "www.financeslibresinfo.net":null,
+"www.financevd.com":null,
 "www.financial.org":null,
 "www.financialfreedomhubtrade.com":null,
 "www.financialvisiondesk.com":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 94911
-# Updated: 2026-08-24 01:09:15 UTC
+# Entries: 94912
+# Updated: 2026-08-25 01:08:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -74400,6 +74400,7 @@ www.financephantom.site
 www.financephantomai.com
 www.financesendirect.com
 www.financeslibresinfo.net
+www.financevd.com
 www.financial.org
 www.financialfreedomhubtrade.com
 www.financialvisiondesk.com
