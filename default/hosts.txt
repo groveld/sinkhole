@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 94912
-# Updated: 2026-08-25 01:08:27 UTC
+# Entries: 94918
+# Updated: 2026-08-26 01:09:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16204,6 +16204,7 @@
 0.0.0.0 bbg.d1.sc.omtrdc.net
 0.0.0.0 bbgbrukerbiospinprodesntls.112.2o7.net
 0.0.0.0 bbhwww.112.2o7.net
+0.0.0.0 bbm-ad-stack-production.up.railway.app
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 bbnaut.bbelements.com
 0.0.0.0 bbnaut.ibillboard.com
@@ -26394,6 +26395,7 @@
 0.0.0.0 dragerwerk.122.2o7.net
 0.0.0.0 dragevinstholm.net
 0.0.0.0 dragonbats.com
+0.0.0.0 dragonfly-express.duckdns.org
 0.0.0.0 dragontattoostudio.mom
 0.0.0.0 dragontechs.com
 0.0.0.0 drakefundelis.net
@@ -79913,6 +79915,7 @@
 0.0.0.0 www.lisierefodenca.digital
 0.0.0.0 www.lisierefondencaai.digital
 0.0.0.0 www.lissodisep.online
+0.0.0.0 www.listadegames.com
 0.0.0.0 www.litec-fr.com
 0.0.0.0 www.lithiumcalifornia.com
 0.0.0.0 www.lithopaedia.org
@@ -81464,6 +81467,7 @@
 0.0.0.0 www.mymavrex-trace.com
 0.0.0.0 www.mymodtrade.com
 0.0.0.0 www.mymuesli.mom
+0.0.0.0 www.mynepalshop.com
 0.0.0.0 www.myoffers.co.uk
 0.0.0.0 www.myorlenblog.myfreesites.net
 0.0.0.0 www.myornamenti.com
@@ -89531,6 +89535,7 @@
 0.0.0.0 www.toplist.cz
 0.0.0.0 www.toplist.sk
 0.0.0.0 www.toplistim.com
+0.0.0.0 www.topluckystars.com
 0.0.0.0 www.topmarketfotovideo.mom
 0.0.0.0 www.topmeds10.com
 0.0.0.0 www.topmobile10.com
@@ -89542,6 +89547,7 @@
 0.0.0.0 www.topogeo.pl
 0.0.0.0 www.topola-zyskienta.com
 0.0.0.0 www.topola-zyskienta.online
+0.0.0.0 www.topopulentwin.com
 0.0.0.0 www.toppornblogs.com
 0.0.0.0 www.topqualitylink.com
 0.0.0.0 www.topreward.site

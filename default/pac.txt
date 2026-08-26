@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 94912
-// Updated: 2026-08-25 01:08:27 UTC
+// Entries: 94918
+// Updated: 2026-08-26 01:09:01 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16205,6 +16205,7 @@ var BLOCKLIST = {
 "bbg.d1.sc.omtrdc.net":null,
 "bbgbrukerbiospinprodesntls.112.2o7.net":null,
 "bbhwww.112.2o7.net":null,
+"bbm-ad-stack-production.up.railway.app":null,
 "bbn.img.com.ua":null,
 "bbnaut.bbelements.com":null,
 "bbnaut.ibillboard.com":null,
@@ -26395,6 +26396,7 @@ var BLOCKLIST = {
 "dragerwerk.122.2o7.net":null,
 "dragevinstholm.net":null,
 "dragonbats.com":null,
+"dragonfly-express.duckdns.org":null,
 "dragontattoostudio.mom":null,
 "dragontechs.com":null,
 "drakefundelis.net":null,
@@ -79914,6 +79916,7 @@ var BLOCKLIST = {
 "www.lisierefodenca.digital":null,
 "www.lisierefondencaai.digital":null,
 "www.lissodisep.online":null,
+"www.listadegames.com":null,
 "www.litec-fr.com":null,
 "www.lithiumcalifornia.com":null,
 "www.lithopaedia.org":null,
@@ -81465,6 +81468,7 @@ var BLOCKLIST = {
 "www.mymavrex-trace.com":null,
 "www.mymodtrade.com":null,
 "www.mymuesli.mom":null,
+"www.mynepalshop.com":null,
 "www.myoffers.co.uk":null,
 "www.myorlenblog.myfreesites.net":null,
 "www.myornamenti.com":null,
@@ -89532,6 +89536,7 @@ var BLOCKLIST = {
 "www.toplist.cz":null,
 "www.toplist.sk":null,
 "www.toplistim.com":null,
+"www.topluckystars.com":null,
 "www.topmarketfotovideo.mom":null,
 "www.topmeds10.com":null,
 "www.topmobile10.com":null,
@@ -89543,6 +89548,7 @@ var BLOCKLIST = {
 "www.topogeo.pl":null,
 "www.topola-zyskienta.com":null,
 "www.topola-zyskienta.online":null,
+"www.topopulentwin.com":null,
 "www.toppornblogs.com":null,
 "www.topqualitylink.com":null,
 "www.topreward.site":null,

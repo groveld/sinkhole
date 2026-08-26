@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 94912
-# Updated: 2026-08-25 01:08:27 UTC
+# Entries: 94918
+# Updated: 2026-08-26 01:09:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16204,6 +16204,7 @@ address=/bbeplayer.com/0.0.0.0
 address=/bbg.d1.sc.omtrdc.net/0.0.0.0
 address=/bbgbrukerbiospinprodesntls.112.2o7.net/0.0.0.0
 address=/bbhwww.112.2o7.net/0.0.0.0
+address=/bbm-ad-stack-production.up.railway.app/0.0.0.0
 address=/bbn.img.com.ua/0.0.0.0
 address=/bbnaut.bbelements.com/0.0.0.0
 address=/bbnaut.ibillboard.com/0.0.0.0
@@ -26394,6 +26395,7 @@ address=/dradro.online/0.0.0.0
 address=/dragerwerk.122.2o7.net/0.0.0.0
 address=/dragevinstholm.net/0.0.0.0
 address=/dragonbats.com/0.0.0.0
+address=/dragonfly-express.duckdns.org/0.0.0.0
 address=/dragontattoostudio.mom/0.0.0.0
 address=/dragontechs.com/0.0.0.0
 address=/drakefundelis.net/0.0.0.0
@@ -79913,6 +79915,7 @@ address=/www.lisamccamey.com/0.0.0.0
 address=/www.lisierefodenca.digital/0.0.0.0
 address=/www.lisierefondencaai.digital/0.0.0.0
 address=/www.lissodisep.online/0.0.0.0
+address=/www.listadegames.com/0.0.0.0
 address=/www.litec-fr.com/0.0.0.0
 address=/www.lithiumcalifornia.com/0.0.0.0
 address=/www.lithopaedia.org/0.0.0.0
@@ -81464,6 +81467,7 @@ address=/www.myluprix-app.com/0.0.0.0
 address=/www.mymavrex-trace.com/0.0.0.0
 address=/www.mymodtrade.com/0.0.0.0
 address=/www.mymuesli.mom/0.0.0.0
+address=/www.mynepalshop.com/0.0.0.0
 address=/www.myoffers.co.uk/0.0.0.0
 address=/www.myorlenblog.myfreesites.net/0.0.0.0
 address=/www.myornamenti.com/0.0.0.0
@@ -89531,6 +89535,7 @@ address=/www.topfotoroma.live/0.0.0.0
 address=/www.toplist.cz/0.0.0.0
 address=/www.toplist.sk/0.0.0.0
 address=/www.toplistim.com/0.0.0.0
+address=/www.topluckystars.com/0.0.0.0
 address=/www.topmarketfotovideo.mom/0.0.0.0
 address=/www.topmeds10.com/0.0.0.0
 address=/www.topmobile10.com/0.0.0.0
@@ -89542,6 +89547,7 @@ address=/www.topofferss4you.com/0.0.0.0
 address=/www.topogeo.pl/0.0.0.0
 address=/www.topola-zyskienta.com/0.0.0.0
 address=/www.topola-zyskienta.online/0.0.0.0
+address=/www.topopulentwin.com/0.0.0.0
 address=/www.toppornblogs.com/0.0.0.0
 address=/www.topqualitylink.com/0.0.0.0
 address=/www.topreward.site/0.0.0.0
