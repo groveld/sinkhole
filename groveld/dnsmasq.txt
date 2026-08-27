@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 93747
-# Updated: 2026-08-26 01:56:11 UTC
+# Entries: 93749
+# Updated: 2026-08-27 03:29:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9340,6 +9340,7 @@ address=/adsatt.movies.starwave.com/0.0.0.0
 address=/adsaway.com/0.0.0.0
 address=/adsbanner.game.zing.vn/0.0.0.0
 address=/adsbb.dfiles.eu/0.0.0.0
+address=/adsbigo.com/0.0.0.0
 address=/adsbookie.com/0.0.0.0
 address=/adsbox.detik.com/0.0.0.0
 address=/adsbtrack.com/0.0.0.0
@@ -88764,6 +88765,7 @@ address=/www.traveloicty.com/0.0.0.0
 address=/www.traveloocity.com/0.0.0.0
 address=/www.traveloscity.com/0.0.0.0
 address=/www.travelovity.com/0.0.0.0
+address=/www.travelrushzone.com/0.0.0.0
 address=/www.traveolocity.com/0.0.0.0
 address=/www.traveqinorux.pro/0.0.0.0
 address=/www.traviona.info/0.0.0.0

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 93747
-# Updated: 2026-08-26 01:56:11 UTC
+# Entries: 93749
+# Updated: 2026-08-27 03:29:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9340,6 +9340,7 @@
 0.0.0.0 adsaway.com
 0.0.0.0 adsbanner.game.zing.vn
 0.0.0.0 adsbb.dfiles.eu
+0.0.0.0 adsbigo.com
 0.0.0.0 adsbookie.com
 0.0.0.0 adsbox.detik.com
 0.0.0.0 adsbtrack.com
@@ -88764,6 +88765,7 @@
 0.0.0.0 www.traveloocity.com
 0.0.0.0 www.traveloscity.com
 0.0.0.0 www.travelovity.com
+0.0.0.0 www.travelrushzone.com
 0.0.0.0 www.traveolocity.com
 0.0.0.0 www.traveqinorux.pro
 0.0.0.0 www.traviona.info

@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 93747
-! Updated: 2026-08-26 01:56:11 UTC
+! Entries: 93749
+! Updated: 2026-08-27 03:29:25 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9340,6 +9340,7 @@
 ||adsaway.com^
 ||adsbanner.game.zing.vn^
 ||adsbb.dfiles.eu^
+||adsbigo.com^
 ||adsbookie.com^
 ||adsbox.detik.com^
 ||adsbtrack.com^
@@ -88764,6 +88765,7 @@
 ||www.traveloocity.com^
 ||www.traveloscity.com^
 ||www.travelovity.com^
+||www.travelrushzone.com^
 ||www.traveolocity.com^
 ||www.traveqinorux.pro^
 ||www.traviona.info^
