@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 92103
-// Updated: 2026-08-28 04:53:15 UTC
+// Entries: 92107
+// Updated: 2026-08-29 02:20:01 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11557,6 +11557,7 @@ var BLOCKLIST = {
 "akse-luxerise-engine.com":null,
 "aksoftware.com":null,
 "aksonural.ru":null,
+"akstat.io":null,
 "akstat.io.edgekey.net":null,
 "aktienboard.com":null,
 "aktiv-blog.com":null,
@@ -49797,6 +49798,7 @@ var BLOCKLIST = {
 "px.gfycat.com":null,
 "px.gumgum.com":null,
 "px.moatads.com":null,
+"px.mountain.com":null,
 "px.owneriq.net":null,
 "px.quantserve.com":null,
 "px.saostar.vn":null,
@@ -56358,6 +56360,7 @@ var BLOCKLIST = {
 "stat.ijinshan.com":null,
 "stat.it168.com":null,
 "stat.komoona.com":null,
+"stat.lianmeng.360.cn":null,
 "stat.madbanner.ru":null,
 "stat.mystat.hu":null,
 "stat.netinfocompany.bg":null,
@@ -74849,6 +74852,7 @@ var BLOCKLIST = {
 "www.globe7.com":null,
 "www.globetrotter.mom":null,
 "www.globetrotting-culture.ru":null,
+"www.globlepoker.com":null,
 "www.globusdate.com":null,
 "www.glogrwpure.shop":null,
 "www.glombrix.click":null,

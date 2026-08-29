@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 92103
-# Updated: 2026-08-28 04:53:15 UTC
+# Entries: 92107
+# Updated: 2026-08-29 02:20:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11556,6 +11556,7 @@ address=/aksdk-images.adikteev.com/0.0.0.0
 address=/akse-luxerise-engine.com/0.0.0.0
 address=/aksoftware.com/0.0.0.0
 address=/aksonural.ru/0.0.0.0
+address=/akstat.io/0.0.0.0
 address=/akstat.io.edgekey.net/0.0.0.0
 address=/aktienboard.com/0.0.0.0
 address=/aktiv-blog.com/0.0.0.0
@@ -49796,6 +49797,7 @@ address=/px.dynamicyield.com/0.0.0.0
 address=/px.gfycat.com/0.0.0.0
 address=/px.gumgum.com/0.0.0.0
 address=/px.moatads.com/0.0.0.0
+address=/px.mountain.com/0.0.0.0
 address=/px.owneriq.net/0.0.0.0
 address=/px.quantserve.com/0.0.0.0
 address=/px.saostar.vn/0.0.0.0
@@ -56357,6 +56359,7 @@ address=/stat.headlines.pw/0.0.0.0
 address=/stat.ijinshan.com/0.0.0.0
 address=/stat.it168.com/0.0.0.0
 address=/stat.komoona.com/0.0.0.0
+address=/stat.lianmeng.360.cn/0.0.0.0
 address=/stat.madbanner.ru/0.0.0.0
 address=/stat.mystat.hu/0.0.0.0
 address=/stat.netinfocompany.bg/0.0.0.0
@@ -74848,6 +74851,7 @@ address=/www.globarabbr.autos/0.0.0.0
 address=/www.globe7.com/0.0.0.0
 address=/www.globetrotter.mom/0.0.0.0
 address=/www.globetrotting-culture.ru/0.0.0.0
+address=/www.globlepoker.com/0.0.0.0
 address=/www.globusdate.com/0.0.0.0
 address=/www.glogrwpure.shop/0.0.0.0
 address=/www.glombrix.click/0.0.0.0

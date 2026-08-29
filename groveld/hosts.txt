@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 92103
-# Updated: 2026-08-28 04:53:15 UTC
+# Entries: 92107
+# Updated: 2026-08-29 02:20:01 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11556,6 +11556,7 @@
 0.0.0.0 akse-luxerise-engine.com
 0.0.0.0 aksoftware.com
 0.0.0.0 aksonural.ru
+0.0.0.0 akstat.io
 0.0.0.0 akstat.io.edgekey.net
 0.0.0.0 aktienboard.com
 0.0.0.0 aktiv-blog.com
@@ -49796,6 +49797,7 @@
 0.0.0.0 px.gfycat.com
 0.0.0.0 px.gumgum.com
 0.0.0.0 px.moatads.com
+0.0.0.0 px.mountain.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.quantserve.com
 0.0.0.0 px.saostar.vn
@@ -56357,6 +56359,7 @@
 0.0.0.0 stat.ijinshan.com
 0.0.0.0 stat.it168.com
 0.0.0.0 stat.komoona.com
+0.0.0.0 stat.lianmeng.360.cn
 0.0.0.0 stat.madbanner.ru
 0.0.0.0 stat.mystat.hu
 0.0.0.0 stat.netinfocompany.bg
@@ -74848,6 +74851,7 @@
 0.0.0.0 www.globe7.com
 0.0.0.0 www.globetrotter.mom
 0.0.0.0 www.globetrotting-culture.ru
+0.0.0.0 www.globlepoker.com
 0.0.0.0 www.globusdate.com
 0.0.0.0 www.glogrwpure.shop
 0.0.0.0 www.glombrix.click

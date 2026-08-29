@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 92101
-# Updated: 2026-08-28 04:06:04 UTC
+# Entries: 92105
+# Updated: 2026-08-29 01:32:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11556,6 +11556,7 @@ aksdk-images.adikteev.com
 akse-luxerise-engine.com
 aksoftware.com
 aksonural.ru
+akstat.io
 akstat.io.edgekey.net
 aktienboard.com
 aktiv-blog.com
@@ -49795,6 +49796,7 @@ px.dynamicyield.com
 px.gfycat.com
 px.gumgum.com
 px.moatads.com
+px.mountain.com
 px.owneriq.net
 px.quantserve.com
 px.saostar.vn
@@ -56356,6 +56358,7 @@ stat.headlines.pw
 stat.ijinshan.com
 stat.it168.com
 stat.komoona.com
+stat.lianmeng.360.cn
 stat.madbanner.ru
 stat.mystat.hu
 stat.netinfocompany.bg
@@ -74847,6 +74850,7 @@ www.globarabbr.autos
 www.globe7.com
 www.globetrotter.mom
 www.globetrotting-culture.ru
+www.globlepoker.com
 www.globusdate.com
 www.glogrwpure.shop
 www.glombrix.click
