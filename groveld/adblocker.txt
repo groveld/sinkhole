@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 92107
-! Updated: 2026-08-29 02:20:01 UTC
+! Entries: 92117
+! Updated: 2026-08-30 02:30:17 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2403,6 +2403,7 @@
 ||a.vertamedia.com^
 ||a.vfghd.com^
 ||a.vfgtb.com^
+||a.vfgth.com^
 ||a.vidora.com^
 ||a.visualrevenue.com^
 ||a.vonage.com^
@@ -6132,6 +6133,7 @@
 ||admarkt.marktplaats.nl^
 ||admarvel.com^
 ||admarvel.s3.amazonaws.com^
+||admaster.cc^
 ||admaster.com.cn^
 ||admaster.de^
 ||admatch-syndication.mochila.com^
@@ -8187,6 +8189,7 @@
 ||ads.zepterads.com^
 ||ads.zeusclicks.com^
 ||ads.zone-media.com^
+||ads.zorvec.name^
 ||ads.ztod.com^
 ||ads.zunia.vn^
 ||ads.zynga.com^
@@ -16187,6 +16190,7 @@
 ||bastionvaultex.net^
 ||bastrasch.rest^
 ||bat.bing.com^
+||bat.bing.net^
 ||batch.upsight-api.com^
 ||batchcraft.mom^
 ||batchlogging4.truecaller.com^
@@ -28761,6 +28765,7 @@
 ||fenrir-resolver.aprod.scopely.io^
 ||fenvalorax.live^
 ||fenvalorium.net^
+||fenxi.com^
 ||fenzoria.com^
 ||fenzy.pl^
 ||fepete.ch^
@@ -40285,6 +40290,7 @@
 ||malgorzatasklep.live^
 ||malibee.mom^
 ||malicinciu.autos^
+||maliva-mcs.byteoversea.com^
 ||malkm.com^
 ||malkren.shop^
 ||malkron.shop^
@@ -48405,6 +48411,7 @@
 ||pooashedphytochemistry.info^
 ||poocztta-id3219.eu.cc^
 ||poohotofinisher.info^
+||pooinc-7dw.pages.dev^
 ||pool-colruytgroup.adhese.com^
 ||pool-mediafin.adhese.com^
 ||pool-nrc.adhese.com^
@@ -53164,6 +53171,7 @@
 ||sdk-monitoring.ogury.co^
 ||sdk-orion.appboy.com^
 ||sdk-services.appsflyer.com^
+||sdk.51.la^
 ||sdk.ad.smaato.net^
 ||sdk.adbuddiz.com^
 ||sdk.adflex.vn^
@@ -58021,6 +58029,7 @@
 ||t.mtagmonetizationa.com^
 ||t.mtagmonetizationc.com^
 ||t.myvisualiq.net^
+||t.nc0.co^
 ||t.neodatagroup.com^
 ||t.net-ap19.stream^
 ||t.news.browns-restaurants.co.uk^
@@ -60054,6 +60063,7 @@
 ||track.mclick.mobi^
 ||track.mdirector.com^
 ||track.mdrctr.com^
+||track.mediav.com^
 ||track.miro.com^
 ||track.mobile-bt.com^
 ||track.moreniche.com^

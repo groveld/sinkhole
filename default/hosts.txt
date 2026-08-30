@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 92105
-# Updated: 2026-08-29 01:32:46 UTC
+# Entries: 92115
+# Updated: 2026-08-30 01:43:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2403,6 +2403,7 @@
 0.0.0.0 a.vertamedia.com
 0.0.0.0 a.vfghd.com
 0.0.0.0 a.vfgtb.com
+0.0.0.0 a.vfgth.com
 0.0.0.0 a.vidora.com
 0.0.0.0 a.visualrevenue.com
 0.0.0.0 a.vonage.com
@@ -6132,6 +6133,7 @@
 0.0.0.0 admarkt.marktplaats.nl
 0.0.0.0 admarvel.com
 0.0.0.0 admarvel.s3.amazonaws.com
+0.0.0.0 admaster.cc
 0.0.0.0 admaster.com.cn
 0.0.0.0 admaster.de
 0.0.0.0 admatch-syndication.mochila.com
@@ -8187,6 +8189,7 @@
 0.0.0.0 ads.zepterads.com
 0.0.0.0 ads.zeusclicks.com
 0.0.0.0 ads.zone-media.com
+0.0.0.0 ads.zorvec.name
 0.0.0.0 ads.ztod.com
 0.0.0.0 ads.zunia.vn
 0.0.0.0 ads.zynga.com
@@ -16187,6 +16190,7 @@
 0.0.0.0 bastionvaultex.net
 0.0.0.0 bastrasch.rest
 0.0.0.0 bat.bing.com
+0.0.0.0 bat.bing.net
 0.0.0.0 batch.upsight-api.com
 0.0.0.0 batchcraft.mom
 0.0.0.0 batchlogging4.truecaller.com
@@ -28761,6 +28765,7 @@
 0.0.0.0 fenrir-resolver.aprod.scopely.io
 0.0.0.0 fenvalorax.live
 0.0.0.0 fenvalorium.net
+0.0.0.0 fenxi.com
 0.0.0.0 fenzoria.com
 0.0.0.0 fenzy.pl
 0.0.0.0 fepete.ch
@@ -40284,6 +40289,7 @@
 0.0.0.0 malgorzatasklep.live
 0.0.0.0 malibee.mom
 0.0.0.0 malicinciu.autos
+0.0.0.0 maliva-mcs.byteoversea.com
 0.0.0.0 malkm.com
 0.0.0.0 malkren.shop
 0.0.0.0 malkron.shop
@@ -48404,6 +48410,7 @@
 0.0.0.0 pooashedphytochemistry.info
 0.0.0.0 poocztta-id3219.eu.cc
 0.0.0.0 poohotofinisher.info
+0.0.0.0 pooinc-7dw.pages.dev
 0.0.0.0 pool-colruytgroup.adhese.com
 0.0.0.0 pool-mediafin.adhese.com
 0.0.0.0 pool-nrc.adhese.com
@@ -53163,6 +53170,7 @@
 0.0.0.0 sdk-monitoring.ogury.co
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 sdk-services.appsflyer.com
+0.0.0.0 sdk.51.la
 0.0.0.0 sdk.ad.smaato.net
 0.0.0.0 sdk.adbuddiz.com
 0.0.0.0 sdk.adflex.vn
@@ -58020,6 +58028,7 @@
 0.0.0.0 t.mtagmonetizationa.com
 0.0.0.0 t.mtagmonetizationc.com
 0.0.0.0 t.myvisualiq.net
+0.0.0.0 t.nc0.co
 0.0.0.0 t.neodatagroup.com
 0.0.0.0 t.net-ap19.stream
 0.0.0.0 t.news.browns-restaurants.co.uk
@@ -60053,6 +60062,7 @@
 0.0.0.0 track.mclick.mobi
 0.0.0.0 track.mdirector.com
 0.0.0.0 track.mdrctr.com
+0.0.0.0 track.mediav.com
 0.0.0.0 track.miro.com
 0.0.0.0 track.mobile-bt.com
 0.0.0.0 track.moreniche.com

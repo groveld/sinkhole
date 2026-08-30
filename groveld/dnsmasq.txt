@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 92107
-# Updated: 2026-08-29 02:20:01 UTC
+# Entries: 92117
+# Updated: 2026-08-30 02:30:17 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2403,6 +2403,7 @@ address=/a.vdo.ai/0.0.0.0
 address=/a.vertamedia.com/0.0.0.0
 address=/a.vfghd.com/0.0.0.0
 address=/a.vfgtb.com/0.0.0.0
+address=/a.vfgth.com/0.0.0.0
 address=/a.vidora.com/0.0.0.0
 address=/a.visualrevenue.com/0.0.0.0
 address=/a.vonage.com/0.0.0.0
@@ -6132,6 +6133,7 @@ address=/admarketplace.net/0.0.0.0
 address=/admarkt.marktplaats.nl/0.0.0.0
 address=/admarvel.com/0.0.0.0
 address=/admarvel.s3.amazonaws.com/0.0.0.0
+address=/admaster.cc/0.0.0.0
 address=/admaster.com.cn/0.0.0.0
 address=/admaster.de/0.0.0.0
 address=/admatch-syndication.mochila.com/0.0.0.0
@@ -8187,6 +8189,7 @@ address=/ads.zedo.com/0.0.0.0
 address=/ads.zepterads.com/0.0.0.0
 address=/ads.zeusclicks.com/0.0.0.0
 address=/ads.zone-media.com/0.0.0.0
+address=/ads.zorvec.name/0.0.0.0
 address=/ads.ztod.com/0.0.0.0
 address=/ads.zunia.vn/0.0.0.0
 address=/ads.zynga.com/0.0.0.0
@@ -16187,6 +16190,7 @@ address=/bastionvaultex.com/0.0.0.0
 address=/bastionvaultex.net/0.0.0.0
 address=/bastrasch.rest/0.0.0.0
 address=/bat.bing.com/0.0.0.0
+address=/bat.bing.net/0.0.0.0
 address=/batch.upsight-api.com/0.0.0.0
 address=/batchcraft.mom/0.0.0.0
 address=/batchlogging4.truecaller.com/0.0.0.0
@@ -28761,6 +28765,7 @@ address=/fenraku.shop/0.0.0.0
 address=/fenrir-resolver.aprod.scopely.io/0.0.0.0
 address=/fenvalorax.live/0.0.0.0
 address=/fenvalorium.net/0.0.0.0
+address=/fenxi.com/0.0.0.0
 address=/fenzoria.com/0.0.0.0
 address=/fenzy.pl/0.0.0.0
 address=/fepete.ch/0.0.0.0
@@ -40285,6 +40290,7 @@ address=/malgorzatakrasun.mom/0.0.0.0
 address=/malgorzatasklep.live/0.0.0.0
 address=/malibee.mom/0.0.0.0
 address=/malicinciu.autos/0.0.0.0
+address=/maliva-mcs.byteoversea.com/0.0.0.0
 address=/malkm.com/0.0.0.0
 address=/malkren.shop/0.0.0.0
 address=/malkron.shop/0.0.0.0
@@ -48405,6 +48411,7 @@ address=/pontiflex.com/0.0.0.0
 address=/pooashedphytochemistry.info/0.0.0.0
 address=/poocztta-id3219.eu.cc/0.0.0.0
 address=/poohotofinisher.info/0.0.0.0
+address=/pooinc-7dw.pages.dev/0.0.0.0
 address=/pool-colruytgroup.adhese.com/0.0.0.0
 address=/pool-mediafin.adhese.com/0.0.0.0
 address=/pool-nrc.adhese.com/0.0.0.0
@@ -53164,6 +53171,7 @@ address=/sdk-ios.ad.smaato.net/0.0.0.0
 address=/sdk-monitoring.ogury.co/0.0.0.0
 address=/sdk-orion.appboy.com/0.0.0.0
 address=/sdk-services.appsflyer.com/0.0.0.0
+address=/sdk.51.la/0.0.0.0
 address=/sdk.ad.smaato.net/0.0.0.0
 address=/sdk.adbuddiz.com/0.0.0.0
 address=/sdk.adflex.vn/0.0.0.0
@@ -58021,6 +58029,7 @@ address=/t.mplxtms.com/0.0.0.0
 address=/t.mtagmonetizationa.com/0.0.0.0
 address=/t.mtagmonetizationc.com/0.0.0.0
 address=/t.myvisualiq.net/0.0.0.0
+address=/t.nc0.co/0.0.0.0
 address=/t.neodatagroup.com/0.0.0.0
 address=/t.net-ap19.stream/0.0.0.0
 address=/t.news.browns-restaurants.co.uk/0.0.0.0
@@ -60054,6 +60063,7 @@ address=/track.make-a-site.net/0.0.0.0
 address=/track.mclick.mobi/0.0.0.0
 address=/track.mdirector.com/0.0.0.0
 address=/track.mdrctr.com/0.0.0.0
+address=/track.mediav.com/0.0.0.0
 address=/track.miro.com/0.0.0.0
 address=/track.mobile-bt.com/0.0.0.0
 address=/track.moreniche.com/0.0.0.0

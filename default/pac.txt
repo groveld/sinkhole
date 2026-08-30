@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 92105
-// Updated: 2026-08-29 01:32:46 UTC
+// Entries: 92115
+// Updated: 2026-08-30 01:43:06 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -2404,6 +2404,7 @@ var BLOCKLIST = {
 "a.vertamedia.com":null,
 "a.vfghd.com":null,
 "a.vfgtb.com":null,
+"a.vfgth.com":null,
 "a.vidora.com":null,
 "a.visualrevenue.com":null,
 "a.vonage.com":null,
@@ -6133,6 +6134,7 @@ var BLOCKLIST = {
 "admarkt.marktplaats.nl":null,
 "admarvel.com":null,
 "admarvel.s3.amazonaws.com":null,
+"admaster.cc":null,
 "admaster.com.cn":null,
 "admaster.de":null,
 "admatch-syndication.mochila.com":null,
@@ -8188,6 +8190,7 @@ var BLOCKLIST = {
 "ads.zepterads.com":null,
 "ads.zeusclicks.com":null,
 "ads.zone-media.com":null,
+"ads.zorvec.name":null,
 "ads.ztod.com":null,
 "ads.zunia.vn":null,
 "ads.zynga.com":null,
@@ -16188,6 +16191,7 @@ var BLOCKLIST = {
 "bastionvaultex.net":null,
 "bastrasch.rest":null,
 "bat.bing.com":null,
+"bat.bing.net":null,
 "batch.upsight-api.com":null,
 "batchcraft.mom":null,
 "batchlogging4.truecaller.com":null,
@@ -28762,6 +28766,7 @@ var BLOCKLIST = {
 "fenrir-resolver.aprod.scopely.io":null,
 "fenvalorax.live":null,
 "fenvalorium.net":null,
+"fenxi.com":null,
 "fenzoria.com":null,
 "fenzy.pl":null,
 "fepete.ch":null,
@@ -40285,6 +40290,7 @@ var BLOCKLIST = {
 "malgorzatasklep.live":null,
 "malibee.mom":null,
 "malicinciu.autos":null,
+"maliva-mcs.byteoversea.com":null,
 "malkm.com":null,
 "malkren.shop":null,
 "malkron.shop":null,
@@ -48405,6 +48411,7 @@ var BLOCKLIST = {
 "pooashedphytochemistry.info":null,
 "poocztta-id3219.eu.cc":null,
 "poohotofinisher.info":null,
+"pooinc-7dw.pages.dev":null,
 "pool-colruytgroup.adhese.com":null,
 "pool-mediafin.adhese.com":null,
 "pool-nrc.adhese.com":null,
@@ -53164,6 +53171,7 @@ var BLOCKLIST = {
 "sdk-monitoring.ogury.co":null,
 "sdk-orion.appboy.com":null,
 "sdk-services.appsflyer.com":null,
+"sdk.51.la":null,
 "sdk.ad.smaato.net":null,
 "sdk.adbuddiz.com":null,
 "sdk.adflex.vn":null,
@@ -58021,6 +58029,7 @@ var BLOCKLIST = {
 "t.mtagmonetizationa.com":null,
 "t.mtagmonetizationc.com":null,
 "t.myvisualiq.net":null,
+"t.nc0.co":null,
 "t.neodatagroup.com":null,
 "t.net-ap19.stream":null,
 "t.news.browns-restaurants.co.uk":null,
@@ -60054,6 +60063,7 @@ var BLOCKLIST = {
 "track.mclick.mobi":null,
 "track.mdirector.com":null,
 "track.mdrctr.com":null,
+"track.mediav.com":null,
 "track.miro.com":null,
 "track.mobile-bt.com":null,
 "track.moreniche.com":null,
