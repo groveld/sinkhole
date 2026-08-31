@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 92117
-! Updated: 2026-08-30 02:30:17 UTC
+! Entries: 92119
+! Updated: 2026-08-31 02:31:21 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -44838,6 +44838,7 @@
 ||obrynt-halo.net^
 ||obrynthalo.com^
 ||obs.nnm2.ru^
+||obs.sd4823.spglobal.com^
 ||obscenesidewalk.com^
 ||obscenewoman4n.com^
 ||observare.de^
@@ -90857,6 +90858,7 @@
 ||xmh57jrzrnw6insl.onion.pet^
 ||xminesserversaqwq.edgeone.dev^
 ||xml-eu.flairadscpc.com^
+||xml-v4.oceanfall.xyz^
 ||xml.ad-maven.com^
 ||xml.adfclick1.com^
 ||xml.admanage.com^

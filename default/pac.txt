@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 92115
-// Updated: 2026-08-30 01:43:06 UTC
+// Entries: 92117
+// Updated: 2026-08-31 01:44:09 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -44838,6 +44838,7 @@ var BLOCKLIST = {
 "obrynt-halo.net":null,
 "obrynthalo.com":null,
 "obs.nnm2.ru":null,
+"obs.sd4823.spglobal.com":null,
 "obscenesidewalk.com":null,
 "obscenewoman4n.com":null,
 "observare.de":null,
@@ -90856,6 +90857,7 @@ var BLOCKLIST = {
 "xmh57jrzrnw6insl.onion.pet":null,
 "xminesserversaqwq.edgeone.dev":null,
 "xml-eu.flairadscpc.com":null,
+"xml-v4.oceanfall.xyz":null,
 "xml.ad-maven.com":null,
 "xml.adfclick1.com":null,
 "xml.admanage.com":null,

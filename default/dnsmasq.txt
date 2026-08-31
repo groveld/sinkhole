@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 92115
-# Updated: 2026-08-30 01:43:06 UTC
+# Entries: 92117
+# Updated: 2026-08-31 01:44:09 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -44837,6 +44837,7 @@ address=/obratura.net/0.0.0.0
 address=/obrynt-halo.net/0.0.0.0
 address=/obrynthalo.com/0.0.0.0
 address=/obs.nnm2.ru/0.0.0.0
+address=/obs.sd4823.spglobal.com/0.0.0.0
 address=/obscenesidewalk.com/0.0.0.0
 address=/obscenewoman4n.com/0.0.0.0
 address=/observare.de/0.0.0.0
@@ -90855,6 +90856,7 @@ address=/xmeeting.com/0.0.0.0
 address=/xmh57jrzrnw6insl.onion.pet/0.0.0.0
 address=/xminesserversaqwq.edgeone.dev/0.0.0.0
 address=/xml-eu.flairadscpc.com/0.0.0.0
+address=/xml-v4.oceanfall.xyz/0.0.0.0
 address=/xml.ad-maven.com/0.0.0.0
 address=/xml.adfclick1.com/0.0.0.0
 address=/xml.admanage.com/0.0.0.0

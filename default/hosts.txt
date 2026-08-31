@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 92115
-# Updated: 2026-08-30 01:43:06 UTC
+# Entries: 92117
+# Updated: 2026-08-31 01:44:09 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -44837,6 +44837,7 @@
 0.0.0.0 obrynt-halo.net
 0.0.0.0 obrynthalo.com
 0.0.0.0 obs.nnm2.ru
+0.0.0.0 obs.sd4823.spglobal.com
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 obscenewoman4n.com
 0.0.0.0 observare.de
@@ -90855,6 +90856,7 @@
 0.0.0.0 xmh57jrzrnw6insl.onion.pet
 0.0.0.0 xminesserversaqwq.edgeone.dev
 0.0.0.0 xml-eu.flairadscpc.com
+0.0.0.0 xml-v4.oceanfall.xyz
 0.0.0.0 xml.ad-maven.com
 0.0.0.0 xml.adfclick1.com
 0.0.0.0 xml.admanage.com
