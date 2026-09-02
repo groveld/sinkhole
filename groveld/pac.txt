@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 90953
-// Updated: 2026-09-01 02:36:30 UTC
+// Entries: 90955
+// Updated: 2026-09-02 02:26:48 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -52981,6 +52981,7 @@ var BLOCKLIST = {
 "securerr.com":null,
 "securerunner.com":null,
 "securesignupoffers.org":null,
+"securesweep.pro":null,
 "securetracking2.com":null,
 "securetrk1.com":null,
 "securielite.com":null,
@@ -70884,6 +70885,7 @@ var BLOCKLIST = {
 "www.ellesalonhb.com":null,
 "www.ellzario.com":null,
 "www.elm-thread.shop":null,
+"www.elmerdiner.com":null,
 "www.elmos.live":null,
 "www.elocforcevia.site":null,
 "www.elocusubta.online":null,

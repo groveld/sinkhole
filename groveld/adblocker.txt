@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 90953
-! Updated: 2026-09-01 02:36:30 UTC
+! Entries: 90955
+! Updated: 2026-09-02 02:26:48 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -52980,6 +52980,7 @@
 ||securerr.com^
 ||securerunner.com^
 ||securesignupoffers.org^
+||securesweep.pro^
 ||securetracking2.com^
 ||securetrk1.com^
 ||securielite.com^
@@ -70883,6 +70884,7 @@
 ||www.ellesalonhb.com^
 ||www.ellzario.com^
 ||www.elm-thread.shop^
+||www.elmerdiner.com^
 ||www.elmos.live^
 ||www.elocforcevia.site^
 ||www.elocusubta.online^
