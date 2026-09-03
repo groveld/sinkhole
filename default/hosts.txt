@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 90953
-# Updated: 2026-09-02 01:39:38 UTC
+# Entries: 90957
+# Updated: 2026-09-03 01:40:08 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -45201,6 +45201,7 @@
 0.0.0.0 opolium-ai.com
 0.0.0.0 opolium.net
 0.0.0.0 opoliumai.com
+0.0.0.0 opoxv.com
 0.0.0.0 oppol-id3248.eu.cc
 0.0.0.0 opposedarrangement.net
 0.0.0.0 opps.taboola.com
@@ -46372,6 +46373,7 @@
 0.0.0.0 pemb.meuajvkse.sbs
 0.0.0.0 pemexcapital.net
 0.0.0.0 pemqora.shop
+0.0.0.0 pemsrv.com
 0.0.0.0 penainveranza.com
 0.0.0.0 penainweransa.com
 0.0.0.0 penananglo.rest
@@ -75737,6 +75739,7 @@
 0.0.0.0 www.jiztini.com
 0.0.0.0 www.jizzads.com
 0.0.0.0 www.jj2.kuriierpl.lol
+0.0.0.0 www.jjbenefitsguide.com
 0.0.0.0 www.jjcdhch8686djdcj.fwh.is
 0.0.0.0 www.jjnerp.com
 0.0.0.0 www.jjoin-id9324.eu.cc
@@ -81495,6 +81498,7 @@
 0.0.0.0 www.preg.viciworld.com
 0.0.0.0 www.pregierzrozumu.pl
 0.0.0.0 www.preis-choice.de
+0.0.0.0 www.premiercountrymeats.com
 0.0.0.0 www.premieropinion.com
 0.0.0.0 www.premium.ihuh.pl
 0.0.0.0 www.premiumbrandszonalibre.com

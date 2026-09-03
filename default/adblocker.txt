@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 90953
-! Updated: 2026-09-02 01:39:38 UTC
+! Entries: 90957
+! Updated: 2026-09-03 01:40:08 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -45201,6 +45201,7 @@
 ||opolium-ai.com^
 ||opolium.net^
 ||opoliumai.com^
+||opoxv.com^
 ||oppol-id3248.eu.cc^
 ||opposedarrangement.net^
 ||opps.taboola.com^
@@ -46372,6 +46373,7 @@
 ||pemb.meuajvkse.sbs^
 ||pemexcapital.net^
 ||pemqora.shop^
+||pemsrv.com^
 ||penainveranza.com^
 ||penainweransa.com^
 ||penananglo.rest^
@@ -75737,6 +75739,7 @@
 ||www.jiztini.com^
 ||www.jizzads.com^
 ||www.jj2.kuriierpl.lol^
+||www.jjbenefitsguide.com^
 ||www.jjcdhch8686djdcj.fwh.is^
 ||www.jjnerp.com^
 ||www.jjoin-id9324.eu.cc^
@@ -81495,6 +81498,7 @@
 ||www.preg.viciworld.com^
 ||www.pregierzrozumu.pl^
 ||www.preis-choice.de^
+||www.premiercountrymeats.com^
 ||www.premieropinion.com^
 ||www.premium.ihuh.pl^
 ||www.premiumbrandszonalibre.com^

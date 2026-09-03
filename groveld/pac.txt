@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 90955
-// Updated: 2026-09-02 02:26:48 UTC
+// Entries: 90959
+// Updated: 2026-09-03 02:27:18 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -45203,6 +45203,7 @@ var BLOCKLIST = {
 "opolium-ai.com":null,
 "opolium.net":null,
 "opoliumai.com":null,
+"opoxv.com":null,
 "oppol-id3248.eu.cc":null,
 "opposedarrangement.net":null,
 "opps.taboola.com":null,
@@ -46374,6 +46375,7 @@ var BLOCKLIST = {
 "pemb.meuajvkse.sbs":null,
 "pemexcapital.net":null,
 "pemqora.shop":null,
+"pemsrv.com":null,
 "penainveranza.com":null,
 "penainweransa.com":null,
 "penananglo.rest":null,
@@ -75740,6 +75742,7 @@ var BLOCKLIST = {
 "www.jiztini.com":null,
 "www.jizzads.com":null,
 "www.jj2.kuriierpl.lol":null,
+"www.jjbenefitsguide.com":null,
 "www.jjcdhch8686djdcj.fwh.is":null,
 "www.jjnerp.com":null,
 "www.jjoin-id9324.eu.cc":null,
@@ -81498,6 +81501,7 @@ var BLOCKLIST = {
 "www.preg.viciworld.com":null,
 "www.pregierzrozumu.pl":null,
 "www.preis-choice.de":null,
+"www.premiercountrymeats.com":null,
 "www.premieropinion.com":null,
 "www.premium.ihuh.pl":null,
 "www.premiumbrandszonalibre.com":null,
