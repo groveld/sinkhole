@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 90959
-// Updated: 2026-09-03 02:27:18 UTC
+// Entries: 90963
+// Updated: 2026-09-04 02:24:13 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9980,6 +9980,7 @@ var BLOCKLIST = {
 "adtag.primetime.adobe.com":null,
 "adtag.sympatico.ca":null,
 "adtagger.com":null,
+"adtagj.portal-factory.com":null,
 "adtago.s3.amazonaws.com":null,
 "adtaily.com":null,
 "adtaily.pl":null,
@@ -49081,6 +49082,7 @@ var BLOCKLIST = {
 "pubads-wiinvent.tv360.vn":null,
 "pubads.g.doubleclick.net":null,
 "pubads.wiinvent.tv":null,
+"pubbug.com":null,
 "pubdirecte.com":null,
 "pubfuture-ssp.com":null,
 "pubimgs.sapo.pt":null,
@@ -80296,6 +80298,7 @@ var BLOCKLIST = {
 "www.pasceincon.store":null,
 "www.paseyourself.com":null,
 "www.pashaai.digital":null,
+"www.pashcams.com":null,
 "www.pashtuniqu.store":null,
 "www.pasmo-fondos.net":null,
 "www.pasqusciat.store":null,
@@ -84479,6 +84482,7 @@ var BLOCKLIST = {
 "www.stanlay1913.com":null,
 "www.stanowski-capital.online":null,
 "www.stanowskicapital.com":null,
+"www.stanthedonutman.com":null,
 "www.star-advertising.com":null,
 "www.starcountry.net":null,
 "www.stardancestudio.live":null,

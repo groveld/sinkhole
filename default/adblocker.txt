@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 90957
-! Updated: 2026-09-03 01:40:08 UTC
+! Entries: 90961
+! Updated: 2026-09-04 01:37:03 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9979,6 +9979,7 @@
 ||adtag.primetime.adobe.com^
 ||adtag.sympatico.ca^
 ||adtagger.com^
+||adtagj.portal-factory.com^
 ||adtago.s3.amazonaws.com^
 ||adtaily.com^
 ||adtaily.pl^
@@ -49079,6 +49080,7 @@
 ||pubads-wiinvent.tv360.vn^
 ||pubads.g.doubleclick.net^
 ||pubads.wiinvent.tv^
+||pubbug.com^
 ||pubdirecte.com^
 ||pubfuture-ssp.com^
 ||pubimgs.sapo.pt^
@@ -80293,6 +80295,7 @@
 ||www.pasceincon.store^
 ||www.paseyourself.com^
 ||www.pashaai.digital^
+||www.pashcams.com^
 ||www.pashtuniqu.store^
 ||www.pasmo-fondos.net^
 ||www.pasqusciat.store^
@@ -84476,6 +84479,7 @@
 ||www.stanlay1913.com^
 ||www.stanowski-capital.online^
 ||www.stanowskicapital.com^
+||www.stanthedonutman.com^
 ||www.star-advertising.com^
 ||www.starcountry.net^
 ||www.stardancestudio.live^

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 90957
-# Updated: 2026-09-03 01:40:08 UTC
+# Entries: 90961
+# Updated: 2026-09-04 01:37:03 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9979,6 +9979,7 @@ address=/adtag.msn.ca/0.0.0.0
 address=/adtag.primetime.adobe.com/0.0.0.0
 address=/adtag.sympatico.ca/0.0.0.0
 address=/adtagger.com/0.0.0.0
+address=/adtagj.portal-factory.com/0.0.0.0
 address=/adtago.s3.amazonaws.com/0.0.0.0
 address=/adtaily.com/0.0.0.0
 address=/adtaily.pl/0.0.0.0
@@ -49079,6 +49080,7 @@ address=/pub9.bravenet.com/0.0.0.0
 address=/pubads-wiinvent.tv360.vn/0.0.0.0
 address=/pubads.g.doubleclick.net/0.0.0.0
 address=/pubads.wiinvent.tv/0.0.0.0
+address=/pubbug.com/0.0.0.0
 address=/pubdirecte.com/0.0.0.0
 address=/pubfuture-ssp.com/0.0.0.0
 address=/pubimgs.sapo.pt/0.0.0.0
@@ -80293,6 +80295,7 @@ address=/www.pasaz.shop/0.0.0.0
 address=/www.pasceincon.store/0.0.0.0
 address=/www.paseyourself.com/0.0.0.0
 address=/www.pashaai.digital/0.0.0.0
+address=/www.pashcams.com/0.0.0.0
 address=/www.pashtuniqu.store/0.0.0.0
 address=/www.pasmo-fondos.net/0.0.0.0
 address=/www.pasqusciat.store/0.0.0.0
@@ -84476,6 +84479,7 @@ address=/www.stankow-space.icu/0.0.0.0
 address=/www.stanlay1913.com/0.0.0.0
 address=/www.stanowski-capital.online/0.0.0.0
 address=/www.stanowskicapital.com/0.0.0.0
+address=/www.stanthedonutman.com/0.0.0.0
 address=/www.star-advertising.com/0.0.0.0
 address=/www.starcountry.net/0.0.0.0
 address=/www.stardancestudio.live/0.0.0.0

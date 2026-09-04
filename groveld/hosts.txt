@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 90959
-# Updated: 2026-09-03 02:27:18 UTC
+# Entries: 90963
+# Updated: 2026-09-04 02:24:13 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -9979,6 +9979,7 @@
 0.0.0.0 adtag.primetime.adobe.com
 0.0.0.0 adtag.sympatico.ca
 0.0.0.0 adtagger.com
+0.0.0.0 adtagj.portal-factory.com
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtaily.com
 0.0.0.0 adtaily.pl
@@ -49080,6 +49081,7 @@
 0.0.0.0 pubads-wiinvent.tv360.vn
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pubads.wiinvent.tv
+0.0.0.0 pubbug.com
 0.0.0.0 pubdirecte.com
 0.0.0.0 pubfuture-ssp.com
 0.0.0.0 pubimgs.sapo.pt
@@ -80295,6 +80297,7 @@
 0.0.0.0 www.pasceincon.store
 0.0.0.0 www.paseyourself.com
 0.0.0.0 www.pashaai.digital
+0.0.0.0 www.pashcams.com
 0.0.0.0 www.pashtuniqu.store
 0.0.0.0 www.pasmo-fondos.net
 0.0.0.0 www.pasqusciat.store
@@ -84478,6 +84481,7 @@
 0.0.0.0 www.stanlay1913.com
 0.0.0.0 www.stanowski-capital.online
 0.0.0.0 www.stanowskicapital.com
+0.0.0.0 www.stanthedonutman.com
 0.0.0.0 www.star-advertising.com
 0.0.0.0 www.starcountry.net
 0.0.0.0 www.stardancestudio.live
