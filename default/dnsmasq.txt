@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 91889
-# Updated: 2026-09-08 01:39:17 UTC
+# Entries: 91892
+# Updated: 2026-09-09 01:38:41 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21584,6 +21584,7 @@ address=/clean.adups.com/0.0.0.0
 address=/cleanallspyware.com/0.0.0.0
 address=/cleanallvirus.com/0.0.0.0
 address=/cleanchain.net/0.0.0.0
+address=/cleancrdio.shop/0.0.0.0
 address=/cleanersoft.com/0.0.0.0
 address=/cleanerwiener.com/0.0.0.0
 address=/cleaningformac.com/0.0.0.0
@@ -65509,6 +65510,7 @@ address=/www.a94.info/0.0.0.0
 address=/www.a9cary.qpon/0.0.0.0
 address=/www.a9r6nk.lat/0.0.0.0
 address=/www.aaaciculumslicorices.info/0.0.0.0
+address=/www.aaaddedbenifits.com/0.0.0.0
 address=/www.aaakonta.pl/0.0.0.0
 address=/www.aaannuairex.com/0.0.0.0
 address=/www.aaaurgentcare.net/0.0.0.0
@@ -87158,6 +87160,7 @@ address=/www.turpeli.shop/0.0.0.0
 address=/www.turrisixmo.online/0.0.0.0
 address=/www.turuncubuket.live/0.0.0.0
 address=/www.turystyczne-suwalki.pl/0.0.0.0
+address=/www.tuscanypointevillas.com/0.0.0.0
 address=/www.tusubi-dujoja.info/0.0.0.0
 address=/www.tuterrara.site/0.0.0.0
 address=/www.tutisanti.mom/0.0.0.0

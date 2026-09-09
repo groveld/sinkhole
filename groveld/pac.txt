@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 91892
-// Updated: 2026-09-08 02:26:27 UTC
+// Entries: 91894
+// Updated: 2026-09-09 02:25:51 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -65512,6 +65512,7 @@ var BLOCKLIST = {
 "www.a9cary.qpon":null,
 "www.a9r6nk.lat":null,
 "www.aaaciculumslicorices.info":null,
+"www.aaaddedbenifits.com":null,
 "www.aaakonta.pl":null,
 "www.aaannuairex.com":null,
 "www.aaaurgentcare.net":null,
@@ -87162,6 +87163,7 @@ var BLOCKLIST = {
 "www.turrisixmo.online":null,
 "www.turuncubuket.live":null,
 "www.turystyczne-suwalki.pl":null,
+"www.tuscanypointevillas.com":null,
 "www.tusubi-dujoja.info":null,
 "www.tuterrara.site":null,
 "www.tutisanti.mom":null,

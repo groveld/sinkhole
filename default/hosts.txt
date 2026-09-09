@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 91889
-# Updated: 2026-09-08 01:39:17 UTC
+# Entries: 91892
+# Updated: 2026-09-09 01:38:41 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21584,6 +21584,7 @@
 0.0.0.0 cleanallspyware.com
 0.0.0.0 cleanallvirus.com
 0.0.0.0 cleanchain.net
+0.0.0.0 cleancrdio.shop
 0.0.0.0 cleanersoft.com
 0.0.0.0 cleanerwiener.com
 0.0.0.0 cleaningformac.com
@@ -65509,6 +65510,7 @@
 0.0.0.0 www.a9cary.qpon
 0.0.0.0 www.a9r6nk.lat
 0.0.0.0 www.aaaciculumslicorices.info
+0.0.0.0 www.aaaddedbenifits.com
 0.0.0.0 www.aaakonta.pl
 0.0.0.0 www.aaannuairex.com
 0.0.0.0 www.aaaurgentcare.net
@@ -87158,6 +87160,7 @@
 0.0.0.0 www.turrisixmo.online
 0.0.0.0 www.turuncubuket.live
 0.0.0.0 www.turystyczne-suwalki.pl
+0.0.0.0 www.tuscanypointevillas.com
 0.0.0.0 www.tusubi-dujoja.info
 0.0.0.0 www.tuterrara.site
 0.0.0.0 www.tutisanti.mom
