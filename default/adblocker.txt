@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 92311
-! Updated: 2026-09-10 01:37:05 UTC
+! Entries: 92314
+! Updated: 2026-09-11 01:36:35 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -41349,6 +41349,7 @@
 ||metricscollector.lp.xcal.tv^
 ||metrilo.com^
 ||metriweb.be^
+||metrix.luxnet.io^
 ||metro.co.uk.102.122.2o7.net^
 ||metro.uk.intellitxt.com^
 ||metropcs.mobileposse.com^
@@ -56625,6 +56626,7 @@
 ||stats.ign.com^
 ||stats.ilsemedia.nl^
 ||stats.immense.net^
+||stats.in.th^
 ||stats.independent.co.uk^
 ||stats.industryinc.com^
 ||stats.infomedia.net^
@@ -78678,6 +78680,7 @@
 ||www.mclick.mobi^
 ||www.mcsqd.com^
 ||www.mczbf.com^
+||www.mdarussellhobbs.com^
 ||www.mdfilmstudio.mom^
 ||www.mdkchorzow.mom^
 ||www.mdqk.kmxuengka.sbs^

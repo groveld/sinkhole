@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 92311
-// Updated: 2026-09-10 01:37:05 UTC
+// Entries: 92314
+// Updated: 2026-09-11 01:36:35 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -41350,6 +41350,7 @@ var BLOCKLIST = {
 "metricscollector.lp.xcal.tv":null,
 "metrilo.com":null,
 "metriweb.be":null,
+"metrix.luxnet.io":null,
 "metro.co.uk.102.122.2o7.net":null,
 "metro.uk.intellitxt.com":null,
 "metropcs.mobileposse.com":null,
@@ -56626,6 +56627,7 @@ var BLOCKLIST = {
 "stats.ign.com":null,
 "stats.ilsemedia.nl":null,
 "stats.immense.net":null,
+"stats.in.th":null,
 "stats.independent.co.uk":null,
 "stats.industryinc.com":null,
 "stats.infomedia.net":null,
@@ -78679,6 +78681,7 @@ var BLOCKLIST = {
 "www.mclick.mobi":null,
 "www.mcsqd.com":null,
 "www.mczbf.com":null,
+"www.mdarussellhobbs.com":null,
 "www.mdfilmstudio.mom":null,
 "www.mdkchorzow.mom":null,
 "www.mdqk.kmxuengka.sbs":null,

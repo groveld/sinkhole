@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 92313
-# Updated: 2026-09-10 02:24:15 UTC
+# Entries: 92316
+# Updated: 2026-09-11 02:23:45 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -41350,6 +41350,7 @@ address=/metrics1.citibankonline.com/0.0.0.0
 address=/metricscollector.lp.xcal.tv/0.0.0.0
 address=/metrilo.com/0.0.0.0
 address=/metriweb.be/0.0.0.0
+address=/metrix.luxnet.io/0.0.0.0
 address=/metro.co.uk.102.122.2o7.net/0.0.0.0
 address=/metro.uk.intellitxt.com/0.0.0.0
 address=/metropcs.mobileposse.com/0.0.0.0
@@ -56626,6 +56627,7 @@ address=/stats.hyperinzerce.cz/0.0.0.0
 address=/stats.ign.com/0.0.0.0
 address=/stats.ilsemedia.nl/0.0.0.0
 address=/stats.immense.net/0.0.0.0
+address=/stats.in.th/0.0.0.0
 address=/stats.independent.co.uk/0.0.0.0
 address=/stats.industryinc.com/0.0.0.0
 address=/stats.infomedia.net/0.0.0.0
@@ -78680,6 +78682,7 @@ address=/www.mbsl4d.webwave.dev/0.0.0.0
 address=/www.mclick.mobi/0.0.0.0
 address=/www.mcsqd.com/0.0.0.0
 address=/www.mczbf.com/0.0.0.0
+address=/www.mdarussellhobbs.com/0.0.0.0
 address=/www.mdfilmstudio.mom/0.0.0.0
 address=/www.mdkchorzow.mom/0.0.0.0
 address=/www.mdqk.kmxuengka.sbs/0.0.0.0

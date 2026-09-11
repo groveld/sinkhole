@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 92311
-# Updated: 2026-09-10 01:37:05 UTC
+# Entries: 92314
+# Updated: 2026-09-11 01:36:35 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -41349,6 +41349,7 @@
 0.0.0.0 metricscollector.lp.xcal.tv
 0.0.0.0 metrilo.com
 0.0.0.0 metriweb.be
+0.0.0.0 metrix.luxnet.io
 0.0.0.0 metro.co.uk.102.122.2o7.net
 0.0.0.0 metro.uk.intellitxt.com
 0.0.0.0 metropcs.mobileposse.com
@@ -56625,6 +56626,7 @@
 0.0.0.0 stats.ign.com
 0.0.0.0 stats.ilsemedia.nl
 0.0.0.0 stats.immense.net
+0.0.0.0 stats.in.th
 0.0.0.0 stats.independent.co.uk
 0.0.0.0 stats.industryinc.com
 0.0.0.0 stats.infomedia.net
@@ -78678,6 +78680,7 @@
 0.0.0.0 www.mclick.mobi
 0.0.0.0 www.mcsqd.com
 0.0.0.0 www.mczbf.com
+0.0.0.0 www.mdarussellhobbs.com
 0.0.0.0 www.mdfilmstudio.mom
 0.0.0.0 www.mdkchorzow.mom
 0.0.0.0 www.mdqk.kmxuengka.sbs
