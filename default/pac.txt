@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 92314
-// Updated: 2026-09-11 01:36:35 UTC
+// Entries: 92326
+// Updated: 2026-09-12 01:36:08 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1549,6 +1549,7 @@ var BLOCKLIST = {
 "4d.xw5ilu.top":null,
 "4d5.net":null,
 "4d6bc.pm7cui.cfd":null,
+"4dex.io":null,
 "4dsply.com":null,
 "4eclient.com":null,
 "4ever.cc":null,
@@ -2880,6 +2881,7 @@ var BLOCKLIST = {
 "absolutelyfreeeroticstories.com":null,
 "absolutelyfreemovies.com":null,
 "absolutelyric.com":null,
+"absolutering.com":null,
 "absolutethumbs.net":null,
 "absolutewrite.fr":null,
 "absolutezeros.duckdns.org":null,
@@ -16310,6 +16312,7 @@ var BLOCKLIST = {
 "bastardly.us.intellitxt.com":null,
 "basterr.popunder.ru":null,
 "bastifin.com":null,
+"bastingart.com":null,
 "bastion-vaultex.com":null,
 "bastionecapivo.com":null,
 "bastionfundava.net":null,
@@ -17008,6 +17011,7 @@ var BLOCKLIST = {
 "bigtracker.com":null,
 "bigtus.com":null,
 "bigwebtools.com":null,
+"bigworldfashion.com":null,
 "bihfrockey.site":null,
 "bike-skicenter.mom":null,
 "bikeforumsnet.skimlinks.com":null,
@@ -36254,6 +36258,7 @@ var BLOCKLIST = {
 "jeunesseglobal.com":null,
 "jeupicard.fr":null,
 "jewelhypot.rest":null,
+"jewelrysprings.com":null,
 "jewsondirect.com":null,
 "jexarilovena.com":null,
 "jezycegaraz.live":null,
@@ -37099,6 +37104,7 @@ var BLOCKLIST = {
 "kerio-push-gateway-prod.elasticbeanstalk.com":null,
 "kermitowy-sklep.pl":null,
 "kernagmap.site":null,
+"kernellife.com":null,
 "kernevolpe.store":null,
 "kernh41.com":null,
 "kernlogixtrade.de":null,
@@ -45571,6 +45577,7 @@ var BLOCKLIST = {
 "optinovatrade.com":null,
 "option9.adultfriendfinder.com":null,
 "optionmodifycanitem.info":null,
+"optionsnomad.com":null,
 "optionstoreplace.com":null,
 "optiunwure.site":null,
 "optivortnode.site":null,
@@ -45800,6 +45807,7 @@ var BLOCKLIST = {
 "otherlevels.com":null,
 "otherossettlement.com":null,
 "otherprofit.com":null,
+"otheve.beacon.qq.com":null,
 "oticon.netminers.dk":null,
 "otispottery.live":null,
 "otletdivak.hu":null,
@@ -46424,6 +46432,7 @@ var BLOCKLIST = {
 "partnerads.ysm.yahoo.com":null,
 "partnercash.de":null,
 "partnerearning.com":null,
+"partnerhut.com":null,
 "partnerlinks.io":null,
 "partnerprogramma.bol.com":null,
 "partners-hotwire-com.impactradius.com":null,
@@ -51395,6 +51404,7 @@ var BLOCKLIST = {
 "ro1ro.adocean.pl":null,
 "ro2.biz":null,
 "roadcatalogs.us.intellitxt.com":null,
+"roaddynamics.com":null,
 "roadwide.net":null,
 "roanfondvale.net":null,
 "roar.com":null,
@@ -59881,6 +59891,7 @@ var BLOCKLIST = {
 "tr.iadsdk.apple.com":null,
 "tr.mobiadserv.com":null,
 "tr.outbrain.com":null,
+"tr.p.360.cn":null,
 "tr.prospecteye.com":null,
 "tr.semilo.individuad.net":null,
 "tr.snapchat.com":null,
@@ -64804,6 +64815,7 @@ var BLOCKLIST = {
 "wrestling-edge.us.intellitxt.com":null,
 "wrig.pl":null,
 "wrigley.122.2o7.net":null,
+"writerhubs.com":null,
 "writingassociates.com":null,
 "wrkupuj.shop":null,
 "wrongfunzi.online":null,

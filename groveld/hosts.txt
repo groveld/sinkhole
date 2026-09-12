@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 92316
-# Updated: 2026-09-11 02:23:45 UTC
+# Entries: 92328
+# Updated: 2026-09-12 02:23:17 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -1548,6 +1548,7 @@
 0.0.0.0 4d.xw5ilu.top
 0.0.0.0 4d5.net
 0.0.0.0 4d6bc.pm7cui.cfd
+0.0.0.0 4dex.io
 0.0.0.0 4dsply.com
 0.0.0.0 4eclient.com
 0.0.0.0 4ever.cc
@@ -2879,6 +2880,7 @@
 0.0.0.0 absolutelyfreeeroticstories.com
 0.0.0.0 absolutelyfreemovies.com
 0.0.0.0 absolutelyric.com
+0.0.0.0 absolutering.com
 0.0.0.0 absolutethumbs.net
 0.0.0.0 absolutewrite.fr
 0.0.0.0 absolutezeros.duckdns.org
@@ -16309,6 +16311,7 @@
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 basterr.popunder.ru
 0.0.0.0 bastifin.com
+0.0.0.0 bastingart.com
 0.0.0.0 bastion-vaultex.com
 0.0.0.0 bastionecapivo.com
 0.0.0.0 bastionfundava.net
@@ -17007,6 +17010,7 @@
 0.0.0.0 bigtracker.com
 0.0.0.0 bigtus.com
 0.0.0.0 bigwebtools.com
+0.0.0.0 bigworldfashion.com
 0.0.0.0 bihfrockey.site
 0.0.0.0 bike-skicenter.mom
 0.0.0.0 bikeforumsnet.skimlinks.com
@@ -36254,6 +36258,7 @@
 0.0.0.0 jeunesseglobal.com
 0.0.0.0 jeupicard.fr
 0.0.0.0 jewelhypot.rest
+0.0.0.0 jewelrysprings.com
 0.0.0.0 jewsondirect.com
 0.0.0.0 jexarilovena.com
 0.0.0.0 jezycegaraz.live
@@ -37099,6 +37104,7 @@
 0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
 0.0.0.0 kermitowy-sklep.pl
 0.0.0.0 kernagmap.site
+0.0.0.0 kernellife.com
 0.0.0.0 kernevolpe.store
 0.0.0.0 kernh41.com
 0.0.0.0 kernlogixtrade.de
@@ -45571,6 +45577,7 @@
 0.0.0.0 optinovatrade.com
 0.0.0.0 option9.adultfriendfinder.com
 0.0.0.0 optionmodifycanitem.info
+0.0.0.0 optionsnomad.com
 0.0.0.0 optionstoreplace.com
 0.0.0.0 optiunwure.site
 0.0.0.0 optivortnode.site
@@ -45800,6 +45807,7 @@
 0.0.0.0 otherlevels.com
 0.0.0.0 otherossettlement.com
 0.0.0.0 otherprofit.com
+0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 oticon.netminers.dk
 0.0.0.0 otispottery.live
 0.0.0.0 otletdivak.hu
@@ -46424,6 +46432,7 @@
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
 0.0.0.0 partnerearning.com
+0.0.0.0 partnerhut.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 partnerprogramma.bol.com
 0.0.0.0 partners-hotwire-com.impactradius.com
@@ -51395,6 +51404,7 @@
 0.0.0.0 ro1ro.adocean.pl
 0.0.0.0 ro2.biz
 0.0.0.0 roadcatalogs.us.intellitxt.com
+0.0.0.0 roaddynamics.com
 0.0.0.0 roadwide.net
 0.0.0.0 roanfondvale.net
 0.0.0.0 roar.com
@@ -59881,6 +59891,7 @@
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 tr.mobiadserv.com
 0.0.0.0 tr.outbrain.com
+0.0.0.0 tr.p.360.cn
 0.0.0.0 tr.prospecteye.com
 0.0.0.0 tr.semilo.individuad.net
 0.0.0.0 tr.snapchat.com
@@ -64804,6 +64815,7 @@
 0.0.0.0 wrestling-edge.us.intellitxt.com
 0.0.0.0 wrig.pl
 0.0.0.0 wrigley.122.2o7.net
+0.0.0.0 writerhubs.com
 0.0.0.0 writingassociates.com
 0.0.0.0 wrkupuj.shop
 0.0.0.0 wrongfunzi.online
