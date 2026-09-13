@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 92326
-// Updated: 2026-09-12 01:36:08 UTC
+// Entries: 92327
+// Updated: 2026-09-13 01:44:07 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -59984,6 +59984,7 @@ var BLOCKLIST = {
 "track.dotsly.com":null,
 "track.double.net":null,
 "track.dvdbox.com":null,
+"track.dws.com":null,
 "track.e7r.com.br":null,
 "track.effiliation.com":null,
 "track.eg-innovations.net":null,

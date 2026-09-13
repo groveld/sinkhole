@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 92328
-# Updated: 2026-09-12 02:23:17 UTC
+# Entries: 92329
+# Updated: 2026-09-13 02:31:18 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -59984,6 +59984,7 @@ address=/track.dmipartners.com/0.0.0.0
 address=/track.dotsly.com/0.0.0.0
 address=/track.double.net/0.0.0.0
 address=/track.dvdbox.com/0.0.0.0
+address=/track.dws.com/0.0.0.0
 address=/track.e7r.com.br/0.0.0.0
 address=/track.effiliation.com/0.0.0.0
 address=/track.eg-innovations.net/0.0.0.0
