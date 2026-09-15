@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 90504
-# Updated: 2026-09-14 01:43:39 UTC
+# Entries: 90509
+# Updated: 2026-09-15 01:39:48 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66706,6 +66706,7 @@ address=/www.app.systemy-medfiles.com/0.0.0.0
 address=/www.app2.mackeeperaffiliates.com/0.0.0.0
 address=/www.appcaptcha.com/0.0.0.0
 address=/www.appfindr.org/0.0.0.0
+address=/www.appfoliio.com/0.0.0.0
 address=/www.apphostcapital.com/0.0.0.0
 address=/www.appiclitho.store/0.0.0.0
 address=/www.appleid.scurity.info/0.0.0.0
@@ -67710,6 +67711,7 @@ address=/www.bishopadhikari.com/0.0.0.0
 address=/www.bisol.live/0.0.0.0
 address=/www.bisoncasino2.io/0.0.0.0
 address=/www.bispostyle.com/0.0.0.0
+address=/www.bisselcommercial.com/0.0.0.0
 address=/www.bissohidel.store/0.0.0.0
 address=/www.bit-iq.co/0.0.0.0
 address=/www.bit-iq.net/0.0.0.0
@@ -70063,6 +70065,7 @@ address=/www.dinhbaoloc.com/0.0.0.0
 address=/www.dinnersthe-desserts.net/0.0.0.0
 address=/www.dinosease.rest/0.0.0.0
 address=/www.dioptprole.store/0.0.0.0
+address=/www.diperformancetransmissions.com/0.0.0.0
 address=/www.dipli.unipa.it/0.0.0.0
 address=/www.diposshabr.store/0.0.0.0
 address=/www.dipracrocc.store/0.0.0.0
@@ -75465,6 +75468,7 @@ address=/www.jnews5.com/0.0.0.0
 address=/www.jnhjf.com/0.0.0.0
 address=/www.joannapawluczuk.mom/0.0.0.0
 address=/www.joannedunn.mom/0.0.0.0
+address=/www.jobomg.com/0.0.0.0
 address=/www.jobzeno-31.pages.dev/0.0.0.0
 address=/www.joccybrcraft.site/0.0.0.0
 address=/www.jocrenata.top/0.0.0.0
@@ -81056,6 +81060,7 @@ address=/www.probolan50.pl/0.0.0.0
 address=/www.probreastplus.pl/0.0.0.0
 address=/www.probusinesshub.com/0.0.0.0
 address=/www.proctnd.com/0.0.0.0
+address=/www.proctou.com/0.0.0.0
 address=/www.prod.letswinstuff.com/0.0.0.0
 address=/www.prodigitfx.net/0.0.0.0
 address=/www.prodiplabhraj.net/0.0.0.0

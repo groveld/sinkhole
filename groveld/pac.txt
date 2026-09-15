@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 90506
-// Updated: 2026-09-14 02:30:50 UTC
+// Entries: 90511
+// Updated: 2026-09-15 02:26:59 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66708,6 +66708,7 @@ var BLOCKLIST = {
 "www.app2.mackeeperaffiliates.com":null,
 "www.appcaptcha.com":null,
 "www.appfindr.org":null,
+"www.appfoliio.com":null,
 "www.apphostcapital.com":null,
 "www.appiclitho.store":null,
 "www.appleid.scurity.info":null,
@@ -67712,6 +67713,7 @@ var BLOCKLIST = {
 "www.bisol.live":null,
 "www.bisoncasino2.io":null,
 "www.bispostyle.com":null,
+"www.bisselcommercial.com":null,
 "www.bissohidel.store":null,
 "www.bit-iq.co":null,
 "www.bit-iq.net":null,
@@ -70065,6 +70067,7 @@ var BLOCKLIST = {
 "www.dinnersthe-desserts.net":null,
 "www.dinosease.rest":null,
 "www.dioptprole.store":null,
+"www.diperformancetransmissions.com":null,
 "www.dipli.unipa.it":null,
 "www.diposshabr.store":null,
 "www.dipracrocc.store":null,
@@ -75468,6 +75471,7 @@ var BLOCKLIST = {
 "www.jnhjf.com":null,
 "www.joannapawluczuk.mom":null,
 "www.joannedunn.mom":null,
+"www.jobomg.com":null,
 "www.jobzeno-31.pages.dev":null,
 "www.joccybrcraft.site":null,
 "www.jocrenata.top":null,
@@ -81059,6 +81063,7 @@ var BLOCKLIST = {
 "www.probreastplus.pl":null,
 "www.probusinesshub.com":null,
 "www.proctnd.com":null,
+"www.proctou.com":null,
 "www.prod.letswinstuff.com":null,
 "www.prodigitfx.net":null,
 "www.prodiplabhraj.net":null,

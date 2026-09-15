@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 90506
-# Updated: 2026-09-14 02:30:50 UTC
+# Entries: 90511
+# Updated: 2026-09-15 02:26:59 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66707,6 +66707,7 @@
 0.0.0.0 www.app2.mackeeperaffiliates.com
 0.0.0.0 www.appcaptcha.com
 0.0.0.0 www.appfindr.org
+0.0.0.0 www.appfoliio.com
 0.0.0.0 www.apphostcapital.com
 0.0.0.0 www.appiclitho.store
 0.0.0.0 www.appleid.scurity.info
@@ -67711,6 +67712,7 @@
 0.0.0.0 www.bisol.live
 0.0.0.0 www.bisoncasino2.io
 0.0.0.0 www.bispostyle.com
+0.0.0.0 www.bisselcommercial.com
 0.0.0.0 www.bissohidel.store
 0.0.0.0 www.bit-iq.co
 0.0.0.0 www.bit-iq.net
@@ -70064,6 +70066,7 @@
 0.0.0.0 www.dinnersthe-desserts.net
 0.0.0.0 www.dinosease.rest
 0.0.0.0 www.dioptprole.store
+0.0.0.0 www.diperformancetransmissions.com
 0.0.0.0 www.dipli.unipa.it
 0.0.0.0 www.diposshabr.store
 0.0.0.0 www.dipracrocc.store
@@ -75467,6 +75470,7 @@
 0.0.0.0 www.jnhjf.com
 0.0.0.0 www.joannapawluczuk.mom
 0.0.0.0 www.joannedunn.mom
+0.0.0.0 www.jobomg.com
 0.0.0.0 www.jobzeno-31.pages.dev
 0.0.0.0 www.joccybrcraft.site
 0.0.0.0 www.jocrenata.top
@@ -81058,6 +81062,7 @@
 0.0.0.0 www.probreastplus.pl
 0.0.0.0 www.probusinesshub.com
 0.0.0.0 www.proctnd.com
+0.0.0.0 www.proctou.com
 0.0.0.0 www.prod.letswinstuff.com
 0.0.0.0 www.prodigitfx.net
 0.0.0.0 www.prodiplabhraj.net
