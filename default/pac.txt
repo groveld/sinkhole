@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 90509
-// Updated: 2026-09-15 01:39:48 UTC
+// Entries: 90511
+// Updated: 2026-09-16 01:38:31 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66690,6 +66690,7 @@ var BLOCKLIST = {
 "www.apicefinvexa.digital":null,
 "www.apkfuuny.com":null,
 "www.aplexbode.com":null,
+"www.aplogia.com":null,
 "www.aplphnpl-1.pages.dev":null,
 "www.aplsolutionsonline.com":null,
 "www.apmebf.com":null,
@@ -67474,6 +67475,7 @@ var BLOCKLIST = {
 "www.befoto.mom":null,
 "www.beginads.com":null,
 "www.behdja.com":null,
+"www.beheerflvsebox.com":null,
 "www.behlenjoiner.com":null,
 "www.beige-crossbody.shop":null,
 "www.beilerfamilyfarm.live":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 90511
-# Updated: 2026-09-15 02:26:59 UTC
+# Entries: 90513
+# Updated: 2026-09-16 02:25:41 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66690,6 +66690,7 @@
 0.0.0.0 www.apicefinvexa.digital
 0.0.0.0 www.apkfuuny.com
 0.0.0.0 www.aplexbode.com
+0.0.0.0 www.aplogia.com
 0.0.0.0 www.aplphnpl-1.pages.dev
 0.0.0.0 www.aplsolutionsonline.com
 0.0.0.0 www.apmebf.com
@@ -67474,6 +67475,7 @@
 0.0.0.0 www.befoto.mom
 0.0.0.0 www.beginads.com
 0.0.0.0 www.behdja.com
+0.0.0.0 www.beheerflvsebox.com
 0.0.0.0 www.behlenjoiner.com
 0.0.0.0 www.beige-crossbody.shop
 0.0.0.0 www.beilerfamilyfarm.live

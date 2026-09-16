@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 90511
-# Updated: 2026-09-15 02:26:59 UTC
+# Entries: 90513
+# Updated: 2026-09-16 02:25:41 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66690,6 +66690,7 @@ www.api.taboola.com
 www.apicefinvexa.digital
 www.apkfuuny.com
 www.aplexbode.com
+www.aplogia.com
 www.aplphnpl-1.pages.dev
 www.aplsolutionsonline.com
 www.apmebf.com
@@ -67474,6 +67475,7 @@ www.beffroirendif.net
 www.befoto.mom
 www.beginads.com
 www.behdja.com
+www.beheerflvsebox.com
 www.behlenjoiner.com
 www.beige-crossbody.shop
 www.beilerfamilyfarm.live

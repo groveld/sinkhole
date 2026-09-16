@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 90509
-# Updated: 2026-09-15 01:39:48 UTC
+# Entries: 90511
+# Updated: 2026-09-16 01:38:31 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -66689,6 +66689,7 @@ address=/www.api.taboola.com/0.0.0.0
 address=/www.apicefinvexa.digital/0.0.0.0
 address=/www.apkfuuny.com/0.0.0.0
 address=/www.aplexbode.com/0.0.0.0
+address=/www.aplogia.com/0.0.0.0
 address=/www.aplphnpl-1.pages.dev/0.0.0.0
 address=/www.aplsolutionsonline.com/0.0.0.0
 address=/www.apmebf.com/0.0.0.0
@@ -67473,6 +67474,7 @@ address=/www.beffroirendif.net/0.0.0.0
 address=/www.befoto.mom/0.0.0.0
 address=/www.beginads.com/0.0.0.0
 address=/www.behdja.com/0.0.0.0
+address=/www.beheerflvsebox.com/0.0.0.0
 address=/www.behlenjoiner.com/0.0.0.0
 address=/www.beige-crossbody.shop/0.0.0.0
 address=/www.beilerfamilyfarm.live/0.0.0.0
