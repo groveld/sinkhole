@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 92536
-// Updated: 2026-09-17 02:25:52 UTC
+// Entries: 92539
+// Updated: 2026-09-18 02:25:25 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35755,6 +35755,7 @@ var BLOCKLIST = {
 "invitation.samsungiotcloud.com":null,
 "invite.baomoi.com":null,
 "invite.gezinti.com":null,
+"invited.blueconferencefield.com":null,
 "invitefashion.com":null,
 "invmove.com":null,
 "invoca.net":null,
@@ -68995,6 +68996,7 @@ var BLOCKLIST = {
 "www.bjhnkj.com":null,
 "www.bjl.jo6dql.top":null,
 "www.bjorkavkastel.digital":null,
+"www.bjseverlastingoils.com":null,
 "www.bjwxpt.com":null,
 "www.bkrtx.com":null,
 "www.bl.flirthits.com":null,
@@ -70991,6 +70993,7 @@ var BLOCKLIST = {
 "www.dalventakt.com":null,
 "www.damafinimmobiliare.it":null,
 "www.dammann.mom":null,
+"www.damncheapguns.com":null,
 "www.damondesk.com":null,
 "www.damp-cell-a138.bonniechelseaeneghz1680.workers.dev":null,
 "www.damp-sun-d69b.shaymalsingh531.workers.dev":null,

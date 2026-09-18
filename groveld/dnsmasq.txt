@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 92536
-# Updated: 2026-09-17 02:25:52 UTC
+# Entries: 92539
+# Updated: 2026-09-18 02:25:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35754,6 +35754,7 @@ address=/invitation.opinionbar.com/0.0.0.0
 address=/invitation.samsungiotcloud.com/0.0.0.0
 address=/invite.baomoi.com/0.0.0.0
 address=/invite.gezinti.com/0.0.0.0
+address=/invited.blueconferencefield.com/0.0.0.0
 address=/invitefashion.com/0.0.0.0
 address=/invmove.com/0.0.0.0
 address=/invoca.net/0.0.0.0
@@ -68994,6 +68995,7 @@ address=/www.bjhdrx.com/0.0.0.0
 address=/www.bjhnkj.com/0.0.0.0
 address=/www.bjl.jo6dql.top/0.0.0.0
 address=/www.bjorkavkastel.digital/0.0.0.0
+address=/www.bjseverlastingoils.com/0.0.0.0
 address=/www.bjwxpt.com/0.0.0.0
 address=/www.bkrtx.com/0.0.0.0
 address=/www.bl.flirthits.com/0.0.0.0
@@ -70990,6 +70992,7 @@ address=/www.daltacrestorix.com/0.0.0.0
 address=/www.dalventakt.com/0.0.0.0
 address=/www.damafinimmobiliare.it/0.0.0.0
 address=/www.dammann.mom/0.0.0.0
+address=/www.damncheapguns.com/0.0.0.0
 address=/www.damondesk.com/0.0.0.0
 address=/www.damp-cell-a138.bonniechelseaeneghz1680.workers.dev/0.0.0.0
 address=/www.damp-sun-d69b.shaymalsingh531.workers.dev/0.0.0.0

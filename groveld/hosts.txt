@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 92536
-# Updated: 2026-09-17 02:25:52 UTC
+# Entries: 92539
+# Updated: 2026-09-18 02:25:25 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -35754,6 +35754,7 @@
 0.0.0.0 invitation.samsungiotcloud.com
 0.0.0.0 invite.baomoi.com
 0.0.0.0 invite.gezinti.com
+0.0.0.0 invited.blueconferencefield.com
 0.0.0.0 invitefashion.com
 0.0.0.0 invmove.com
 0.0.0.0 invoca.net
@@ -68994,6 +68995,7 @@
 0.0.0.0 www.bjhnkj.com
 0.0.0.0 www.bjl.jo6dql.top
 0.0.0.0 www.bjorkavkastel.digital
+0.0.0.0 www.bjseverlastingoils.com
 0.0.0.0 www.bjwxpt.com
 0.0.0.0 www.bkrtx.com
 0.0.0.0 www.bl.flirthits.com
@@ -70990,6 +70992,7 @@
 0.0.0.0 www.dalventakt.com
 0.0.0.0 www.damafinimmobiliare.it
 0.0.0.0 www.dammann.mom
+0.0.0.0 www.damncheapguns.com
 0.0.0.0 www.damondesk.com
 0.0.0.0 www.damp-cell-a138.bonniechelseaeneghz1680.workers.dev
 0.0.0.0 www.damp-sun-d69b.shaymalsingh531.workers.dev
