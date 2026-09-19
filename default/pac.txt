@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 92537
-// Updated: 2026-09-18 01:38:16 UTC
+// Entries: 92541
+// Updated: 2026-09-19 01:36:37 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18773,6 +18773,7 @@ var BLOCKLIST = {
 "bovelle-butik.shop":null,
 "bowie-cdn.fathomdns.com":null,
 "bowlgirl.com":null,
+"bowlinvit.site":null,
 "bowoki-baninu.info":null,
 "box-en.com":null,
 "box.anchorfree.net":null,
@@ -70191,6 +70192,7 @@ var BLOCKLIST = {
 "www.clartenexivetrade.com":null,
 "www.clarummontex.net":null,
 "www.clarvalutrix.com":null,
+"www.classeroom.com":null,
 "www.classicequipment.com":null,
 "www.classicmebel.mom":null,
 "www.classifieds1000.com":null,
@@ -78834,6 +78836,7 @@ var BLOCKLIST = {
 "www.mbkwbar.com":null,
 "www.mbovvb.shop":null,
 "www.mbsl4d.webwave.dev":null,
+"www.mcclartyauto.com":null,
 "www.mclick.mobi":null,
 "www.mcsqd.com":null,
 "www.mczbf.com":null,
@@ -90162,6 +90165,7 @@ var BLOCKLIST = {
 "www.yoshicame.live":null,
 "www.yotafiles.com":null,
 "www.yotefiles.com":null,
+"www.yottacash.com":null,
 "www.yottbytotrace.site":null,
 "www.yottelbyte.site":null,
 "www.yottelixlytics.site":null,

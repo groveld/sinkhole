@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 92537
-! Updated: 2026-09-18 01:38:16 UTC
+! Entries: 92541
+! Updated: 2026-09-19 01:36:37 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18772,6 +18772,7 @@
 ||bovelle-butik.shop^
 ||bowie-cdn.fathomdns.com^
 ||bowlgirl.com^
+||bowlinvit.site^
 ||bowoki-baninu.info^
 ||box-en.com^
 ||box.anchorfree.net^
@@ -70190,6 +70191,7 @@
 ||www.clartenexivetrade.com^
 ||www.clarummontex.net^
 ||www.clarvalutrix.com^
+||www.classeroom.com^
 ||www.classicequipment.com^
 ||www.classicmebel.mom^
 ||www.classifieds1000.com^
@@ -78833,6 +78835,7 @@
 ||www.mbkwbar.com^
 ||www.mbovvb.shop^
 ||www.mbsl4d.webwave.dev^
+||www.mcclartyauto.com^
 ||www.mclick.mobi^
 ||www.mcsqd.com^
 ||www.mczbf.com^
@@ -90161,6 +90164,7 @@
 ||www.yoshicame.live^
 ||www.yotafiles.com^
 ||www.yotefiles.com^
+||www.yottacash.com^
 ||www.yottbytotrace.site^
 ||www.yottelbyte.site^
 ||www.yottelixlytics.site^
