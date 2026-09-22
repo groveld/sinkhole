@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 88596
-// Updated: 2026-09-21 01:43:13 UTC
+// Entries: 88599
+// Updated: 2026-09-22 01:38:24 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -43295,7 +43295,9 @@ var BLOCKLIST = {
 "offers.bycontext.com":null,
 "offers.cdn.natpal.com":null,
 "offers.cloackp.com":null,
+"offers.gateway-lts450.com":null,
 "offers.impower.com":null,
+"offers.ltsc-has.com":null,
 "offers.nordvpn.com":null,
 "offers.propellerads.com":null,
 "offers.royalvegascasino.com":null,
@@ -58618,6 +58620,7 @@ var BLOCKLIST = {
 "tracking.foxnews.com":null,
 "tracking.gajmp.com":null,
 "tracking.gapone.vn":null,
+"tracking.gauchosurf.com":null,
 "tracking.godatafeed.com":null,
 "tracking.hittail.com":null,
 "tracking.hostgator.com":null,

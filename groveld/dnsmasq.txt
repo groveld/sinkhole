@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 88598
-# Updated: 2026-09-21 02:30:23 UTC
+# Entries: 88601
+# Updated: 2026-09-22 02:25:35 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -43295,7 +43295,9 @@ address=/offers.affiliatetraction.com/0.0.0.0
 address=/offers.bycontext.com/0.0.0.0
 address=/offers.cdn.natpal.com/0.0.0.0
 address=/offers.cloackp.com/0.0.0.0
+address=/offers.gateway-lts450.com/0.0.0.0
 address=/offers.impower.com/0.0.0.0
+address=/offers.ltsc-has.com/0.0.0.0
 address=/offers.nordvpn.com/0.0.0.0
 address=/offers.propellerads.com/0.0.0.0
 address=/offers.royalvegascasino.com/0.0.0.0
@@ -58618,6 +58620,7 @@ address=/tracking.feedmob.com/0.0.0.0
 address=/tracking.foxnews.com/0.0.0.0
 address=/tracking.gajmp.com/0.0.0.0
 address=/tracking.gapone.vn/0.0.0.0
+address=/tracking.gauchosurf.com/0.0.0.0
 address=/tracking.godatafeed.com/0.0.0.0
 address=/tracking.hittail.com/0.0.0.0
 address=/tracking.hostgator.com/0.0.0.0

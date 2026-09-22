@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 88598
-# Updated: 2026-09-21 02:30:23 UTC
+# Entries: 88601
+# Updated: 2026-09-22 02:25:35 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -43295,7 +43295,9 @@
 0.0.0.0 offers.bycontext.com
 0.0.0.0 offers.cdn.natpal.com
 0.0.0.0 offers.cloackp.com
+0.0.0.0 offers.gateway-lts450.com
 0.0.0.0 offers.impower.com
+0.0.0.0 offers.ltsc-has.com
 0.0.0.0 offers.nordvpn.com
 0.0.0.0 offers.propellerads.com
 0.0.0.0 offers.royalvegascasino.com
@@ -58618,6 +58620,7 @@
 0.0.0.0 tracking.foxnews.com
 0.0.0.0 tracking.gajmp.com
 0.0.0.0 tracking.gapone.vn
+0.0.0.0 tracking.gauchosurf.com
 0.0.0.0 tracking.godatafeed.com
 0.0.0.0 tracking.hittail.com
 0.0.0.0 tracking.hostgator.com

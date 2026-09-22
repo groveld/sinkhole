@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 88598
-! Updated: 2026-09-21 02:30:23 UTC
+! Entries: 88601
+! Updated: 2026-09-22 02:25:35 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -43295,7 +43295,9 @@
 ||offers.bycontext.com^
 ||offers.cdn.natpal.com^
 ||offers.cloackp.com^
+||offers.gateway-lts450.com^
 ||offers.impower.com^
+||offers.ltsc-has.com^
 ||offers.nordvpn.com^
 ||offers.propellerads.com^
 ||offers.royalvegascasino.com^
@@ -58618,6 +58620,7 @@
 ||tracking.foxnews.com^
 ||tracking.gajmp.com^
 ||tracking.gapone.vn^
+||tracking.gauchosurf.com^
 ||tracking.godatafeed.com^
 ||tracking.hittail.com^
 ||tracking.hostgator.com^
