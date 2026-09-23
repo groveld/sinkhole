@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 88601
-// Updated: 2026-09-22 02:25:35 UTC
+// Entries: 88604
+// Updated: 2026-09-23 02:23:39 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -5315,6 +5315,7 @@ var BLOCKLIST = {
 "ad7.banners.ero-advertising.com":null,
 "ad7.bb.ru":null,
 "ad7.bigmir.net":null,
+"ad7.biz":null,
 "ad7.checkm8.com":null,
 "ad7.doubleclick.be":null,
 "ad7.ezcybersearch.com":null,
@@ -49942,6 +49943,7 @@ var BLOCKLIST = {
 "rogde.adocean.pl":null,
 "rogers-payment.vh18765.vh.net.pl":null,
 "rogers-wirelessphone.com":null,
+"roguephilosopher.com":null,
 "roia.biz":null,
 "roimedia.advertserve.com":null,
 "roitrack.directdisplayad.com":null,
@@ -58220,6 +58222,7 @@ var BLOCKLIST = {
 "track-east.mobileadtrading.com":null,
 "track-eu.customer.io":null,
 "track-js.link":null,
+"track-na2.hubspot.com":null,
 "track-srv.vietnamnet.vn":null,
 "track.15x.net":null,
 "track.absoluteclickscom.com":null,
