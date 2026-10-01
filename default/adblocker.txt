@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 87134
-! Updated: 2026-09-30 01:44:17 UTC
+! Entries: 87135
+! Updated: 2026-10-01 01:51:50 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56661,6 +56661,7 @@
 ||thebestknifes.fr^
 ||thebestone.click^
 ||thebestwebpillplace.com^
+||thebicyclehut.com^
 ||thebighits.com^
 ||thebitcoineverestai.com^
 ||thebitcoinprimeapp.com^

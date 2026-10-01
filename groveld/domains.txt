@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 87136
-# Updated: 2026-09-30 02:31:27 UTC
+# Entries: 87137
+# Updated: 2026-10-01 02:39:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -56662,6 +56662,7 @@ thebestgame2020.com
 thebestknifes.fr
 thebestone.click
 thebestwebpillplace.com
+thebicyclehut.com
 thebighits.com
 thebitcoineverestai.com
 thebitcoinprimeapp.com
