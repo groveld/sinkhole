@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 84610
-// Updated: 2026-10-04 03:02:05 UTC
+// Entries: 84611
+// Updated: 2026-10-05 02:35:02 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26231,6 +26231,7 @@ var BLOCKLIST = {
 "edge.aperture.displaymarketplace.com":null,
 "edge.ayboll.com":null,
 "edge.bnmla.com":null,
+"edge.cuddlybeside.com":null,
 "edge.metroleads.com":null,
 "edge.quantserve.com":null,
 "edge.safedk.com":null,

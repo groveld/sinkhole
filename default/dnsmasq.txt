@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 84608
-# Updated: 2026-10-04 02:14:54 UTC
+# Entries: 84609
+# Updated: 2026-10-05 01:47:52 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -26230,6 +26230,7 @@ address=/edge.analytics.brightedge.com/0.0.0.0
 address=/edge.aperture.displaymarketplace.com/0.0.0.0
 address=/edge.ayboll.com/0.0.0.0
 address=/edge.bnmla.com/0.0.0.0
+address=/edge.cuddlybeside.com/0.0.0.0
 address=/edge.metroleads.com/0.0.0.0
 address=/edge.quantserve.com/0.0.0.0
 address=/edge.safedk.com/0.0.0.0
