@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 84611
-# Updated: 2026-10-05 02:35:02 UTC
+# Entries: 84612
+# Updated: 2026-10-06 02:29:00 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47157,6 +47157,7 @@
 0.0.0.0 r.msn.com
 0.0.0.0 r.nexac.com
 0.0.0.0 r.offnews.bg
+0.0.0.0 r.openai.com
 0.0.0.0 r.openx.net
 0.0.0.0 r.popin.cc
 0.0.0.0 r.profilepassport.jp

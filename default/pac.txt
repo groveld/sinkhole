@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 84609
-// Updated: 2026-10-05 01:47:52 UTC
+// Entries: 84610
+// Updated: 2026-10-06 01:41:50 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47157,6 +47157,7 @@ var BLOCKLIST = {
 "r.msn.com":null,
 "r.nexac.com":null,
 "r.offnews.bg":null,
+"r.openai.com":null,
 "r.openx.net":null,
 "r.popin.cc":null,
 "r.profilepassport.jp":null,

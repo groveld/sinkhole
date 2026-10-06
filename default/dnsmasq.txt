@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 84609
-# Updated: 2026-10-05 01:47:52 UTC
+# Entries: 84610
+# Updated: 2026-10-06 01:41:50 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47156,6 +47156,7 @@ address=/r.mradx.net/0.0.0.0
 address=/r.msn.com/0.0.0.0
 address=/r.nexac.com/0.0.0.0
 address=/r.offnews.bg/0.0.0.0
+address=/r.openai.com/0.0.0.0
 address=/r.openx.net/0.0.0.0
 address=/r.popin.cc/0.0.0.0
 address=/r.profilepassport.jp/0.0.0.0
