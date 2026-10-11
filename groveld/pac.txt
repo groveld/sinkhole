@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 84903
-// Updated: 2026-10-10 02:30:51 UTC
+// Entries: 84904
+// Updated: 2026-10-11 02:36:36 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -50733,6 +50733,7 @@ var BLOCKLIST = {
 "sesja-81.web.id":null,
 "sesja-v-519204.eu.cc":null,
 "sesja-v-840291.eu.cc":null,
+"session.bugsnag.kindle.amazon.dev":null,
 "sessionapi.veinteractive.com":null,
 "sessionapihk.veinteractive.com":null,
 "sessioncam.com":null,

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 84903
-# Updated: 2026-10-10 02:30:51 UTC
+# Entries: 84904
+# Updated: 2026-10-11 02:36:36 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -50732,6 +50732,7 @@ address=/seshopne.com/0.0.0.0
 address=/sesja-81.web.id/0.0.0.0
 address=/sesja-v-519204.eu.cc/0.0.0.0
 address=/sesja-v-840291.eu.cc/0.0.0.0
+address=/session.bugsnag.kindle.amazon.dev/0.0.0.0
 address=/sessionapi.veinteractive.com/0.0.0.0
 address=/sessionapihk.veinteractive.com/0.0.0.0
 address=/sessioncam.com/0.0.0.0
