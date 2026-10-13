@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 84904
-// Updated: 2026-10-12 02:38:07 UTC
+// Entries: 84905
+// Updated: 2026-10-13 02:33:42 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24056,6 +24056,7 @@ var BLOCKLIST = {
 "darmowekino.pl":null,
 "darmowyfilmrfm44.ek1.pl":null,
 "darmowyfilmzlektoremoas10.ek1.pl":null,
+"darngavel.com":null,
 "darseo.popunder.ru":null,
 "dart.chron.com":null,
 "dart.l.doubleclick.net":null,

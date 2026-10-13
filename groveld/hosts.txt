@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 84904
-# Updated: 2026-10-12 02:38:07 UTC
+# Entries: 84905
+# Updated: 2026-10-13 02:33:42 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24055,6 +24055,7 @@
 0.0.0.0 darmowekino.pl
 0.0.0.0 darmowyfilmrfm44.ek1.pl
 0.0.0.0 darmowyfilmzlektoremoas10.ek1.pl
+0.0.0.0 darngavel.com
 0.0.0.0 darseo.popunder.ru
 0.0.0.0 dart.chron.com
 0.0.0.0 dart.l.doubleclick.net

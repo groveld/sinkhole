@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 84902
-# Updated: 2026-10-12 01:50:57 UTC
+# Entries: 84903
+# Updated: 2026-10-13 01:46:31 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24055,6 +24055,7 @@ darmowe-zakupy.com
 darmowekino.pl
 darmowyfilmrfm44.ek1.pl
 darmowyfilmzlektoremoas10.ek1.pl
+darngavel.com
 darseo.popunder.ru
 dart.chron.com
 dart.l.doubleclick.net

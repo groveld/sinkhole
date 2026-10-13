@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 84902
-# Updated: 2026-10-12 01:50:57 UTC
+# Entries: 84903
+# Updated: 2026-10-13 01:46:31 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -24055,6 +24055,7 @@ address=/darmowe-zakupy.com/0.0.0.0
 address=/darmowekino.pl/0.0.0.0
 address=/darmowyfilmrfm44.ek1.pl/0.0.0.0
 address=/darmowyfilmzlektoremoas10.ek1.pl/0.0.0.0
+address=/darngavel.com/0.0.0.0
 address=/darseo.popunder.ru/0.0.0.0
 address=/dart.chron.com/0.0.0.0
 address=/dart.l.doubleclick.net/0.0.0.0
