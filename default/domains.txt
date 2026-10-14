@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 84903
-# Updated: 2026-10-13 01:46:31 UTC
+# Entries: 84904
+# Updated: 2026-10-14 01:33:57 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47930,6 +47930,7 @@ remain.chartboosts.com
 remarketingpixel.com
 remekcikkek.com
 rememberdiscussion.com
+reminderannual2reward.com
 remodelingonlinecom.112.2o7.net
 remoraimage.xlisting.jp
 remote-data.asnapieu.com

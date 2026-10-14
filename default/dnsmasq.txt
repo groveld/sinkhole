@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 84903
-# Updated: 2026-10-13 01:46:31 UTC
+# Entries: 84904
+# Updated: 2026-10-14 01:33:57 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47930,6 +47930,7 @@ address=/remain.chartboosts.com/0.0.0.0
 address=/remarketingpixel.com/0.0.0.0
 address=/remekcikkek.com/0.0.0.0
 address=/rememberdiscussion.com/0.0.0.0
+address=/reminderannual2reward.com/0.0.0.0
 address=/remodelingonlinecom.112.2o7.net/0.0.0.0
 address=/remoraimage.xlisting.jp/0.0.0.0
 address=/remote-data.asnapieu.com/0.0.0.0

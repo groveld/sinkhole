@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 84905
-# Updated: 2026-10-13 02:33:42 UTC
+# Entries: 84906
+# Updated: 2026-10-14 02:21:08 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -47931,6 +47931,7 @@
 0.0.0.0 remarketingpixel.com
 0.0.0.0 remekcikkek.com
 0.0.0.0 rememberdiscussion.com
+0.0.0.0 reminderannual2reward.com
 0.0.0.0 remodelingonlinecom.112.2o7.net
 0.0.0.0 remoraimage.xlisting.jp
 0.0.0.0 remote-data.asnapieu.com
