@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/pac.txt
-// Entries: 86013
-// Updated: 2026-10-15 02:20:35 UTC
+// Entries: 86014
+// Updated: 2026-10-16 02:20:49 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14953,6 +14953,7 @@ var BLOCKLIST = {
 "assets3.admulti.com":null,
 "assetscdn.jivox.com":null,
 "assispatte.net":null,
+"assistance.app-claude-ai.online":null,
 "assistant-chronopost.com":null,
 "assistcom.fr":null,
 "assistjs.skimresources.com":null,
