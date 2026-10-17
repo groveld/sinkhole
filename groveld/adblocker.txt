@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 86014
-! Updated: 2026-10-16 02:20:49 UTC
+! Entries: 86029
+! Updated: 2026-10-17 02:21:17 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6861,12 +6861,14 @@
 ||ads-i.focalink.com^
 ||ads-i2i.jp^
 ||ads-img.mozilla.org^
+||ads-impressions.com^
 ||ads-instrument.focalink.com^
 ||ads-kurir.providus.rs^
 ||ads-lfi3olnec7fr.stackpathdns.com^
 ||ads-links.com^
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-mediafin.adhese.com^
+||ads-monitor.xyz^
 ||ads-nrc.adhese.com^
 ||ads-pebblemedia.adhese.com^
 ||ads-platform.zalo.me^
@@ -10447,6 +10449,7 @@
 ||adtimabot.brand.zing.vn^
 ||adtimabox.brand.zing.vn^
 ||adtimaserver.vn^
+||adtimizer.co^
 ||adtlgc.com^
 ||adtng.com^
 ||adtoll.com^
@@ -21012,6 +21015,7 @@
 ||checkfreevideos.net^
 ||checkin101.com^
 ||checkm8.com^
+||checkmyimp.com^
 ||checkmystats.com.au^
 ||checkout.drbanacu-luminita.ro^
 ||checkout.magniflex.ro^
@@ -22599,6 +22603,7 @@
 ||control.smbeat.jp^
 ||control.teragence.net^
 ||controlcenter.superstats.com^
+||controlium.net^
 ||controller.4seeresults.com^
 ||controller.duokanbox.com^
 ||controller.foreseeresults.com^
@@ -22651,6 +22656,7 @@
 ||cookiematch-us-west-2.prod.justpremium.com^
 ||cookies.cmpnet.com^
 ||cookies.nextmillmedia.com^
+||cookiesurfer.com^
 ||cookiesync.mparticle.com^
 ||cookingcom.112.2o7.net^
 ||cookingmeat.ru^
@@ -24954,6 +24960,7 @@
 ||discotutel.store^
 ||discountads.net^
 ||discountclick.com^
+||discover-tech.io^
 ||discovercard.112.2o7.net^
 ||discoverdemo.com^
 ||discoverecommerce.tt.omtrdc.net^
@@ -33319,6 +33326,7 @@
 ||impat.tradedoubler.com^
 ||impbe.tradedoubler.com^
 ||impch.tradedoubler.com^
+||impchkdsp.com^
 ||impcz.tradedoubler.com^
 ||impde.tradedoubler.com^
 ||impdk.tradedoubler.com^
@@ -35513,6 +35521,7 @@
 ||krainaekozabawek.pl^
 ||krainajednorozca.pl^
 ||krajowyfunduszgwarancyjny.pl^
+||kraken.rambler.ru^
 ||krakenfolio.com^
 ||krakragames.com^
 ||kramuzgolu-ai.shop^
@@ -40132,6 +40141,7 @@
 ||mtrcss.com^
 ||mtree.com^
 ||mtreexxx.net^
+||mtrtb.com^
 ||mtrx.go.sonobi.com^
 ||mttag.com^
 ||mttwtrack.com^
@@ -40402,6 +40412,7 @@
 ||myusersonline.com^
 ||myvisualiq.net^
 ||myway.com^
+||myweb3id.io^
 ||mywebsearch.com^
 ||mywifiext.fr^
 ||mywot.com^
@@ -41673,6 +41684,7 @@
 ||nutabuse.com^
 ||nutanixprod.112.2o7.net^
 ||nutpond.com^
+||nutralove.co^
 ||nutrigolabburner.pl^
 ||nutrigolabstrength.pl^
 ||nutrired.org^
@@ -45628,6 +45640,7 @@
 ||platalineai.com^
 ||platalineaipro.com^
 ||platbourse.com^
+||platc-tester.com^
 ||platform-api.sharethis.com^
 ||platform-cdn.sharethis.com^
 ||platform.atdnetwork.com^
@@ -46201,6 +46214,7 @@
 ||powerad.ai^
 ||poweredbyliquidfire.mobi^
 ||poweredlock.com^
+||powerium.net^
 ||poweroff.pt^
 ||poweronemedia.122.2o7.net^
 ||powerprofittech.com^
@@ -60697,6 +60711,7 @@
 ||voipwise.fr^
 ||voken.eyereturn.com^
 ||vokr-gtavc.ic.cz^
+||volasim.com^
 ||volatilevessel.com^
 ||volcano.teilor.sbs^
 ||voldemort.pl^

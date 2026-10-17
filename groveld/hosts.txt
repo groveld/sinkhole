@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 86014
-# Updated: 2026-10-16 02:20:49 UTC
+# Entries: 86029
+# Updated: 2026-10-17 02:21:17 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -6861,12 +6861,14 @@
 0.0.0.0 ads-i.focalink.com
 0.0.0.0 ads-i2i.jp
 0.0.0.0 ads-img.mozilla.org
+0.0.0.0 ads-impressions.com
 0.0.0.0 ads-instrument.focalink.com
 0.0.0.0 ads-kurir.providus.rs
 0.0.0.0 ads-lfi3olnec7fr.stackpathdns.com
 0.0.0.0 ads-links.com
 0.0.0.0 ads-marketing-vivofs.vivo.com.cn
 0.0.0.0 ads-mediafin.adhese.com
+0.0.0.0 ads-monitor.xyz
 0.0.0.0 ads-nrc.adhese.com
 0.0.0.0 ads-pebblemedia.adhese.com
 0.0.0.0 ads-platform.zalo.me
@@ -10447,6 +10449,7 @@
 0.0.0.0 adtimabot.brand.zing.vn
 0.0.0.0 adtimabox.brand.zing.vn
 0.0.0.0 adtimaserver.vn
+0.0.0.0 adtimizer.co
 0.0.0.0 adtlgc.com
 0.0.0.0 adtng.com
 0.0.0.0 adtoll.com
@@ -21012,6 +21015,7 @@
 0.0.0.0 checkfreevideos.net
 0.0.0.0 checkin101.com
 0.0.0.0 checkm8.com
+0.0.0.0 checkmyimp.com
 0.0.0.0 checkmystats.com.au
 0.0.0.0 checkout.drbanacu-luminita.ro
 0.0.0.0 checkout.magniflex.ro
@@ -22599,6 +22603,7 @@
 0.0.0.0 control.smbeat.jp
 0.0.0.0 control.teragence.net
 0.0.0.0 controlcenter.superstats.com
+0.0.0.0 controlium.net
 0.0.0.0 controller.4seeresults.com
 0.0.0.0 controller.duokanbox.com
 0.0.0.0 controller.foreseeresults.com
@@ -22651,6 +22656,7 @@
 0.0.0.0 cookiematch-us-west-2.prod.justpremium.com
 0.0.0.0 cookies.cmpnet.com
 0.0.0.0 cookies.nextmillmedia.com
+0.0.0.0 cookiesurfer.com
 0.0.0.0 cookiesync.mparticle.com
 0.0.0.0 cookingcom.112.2o7.net
 0.0.0.0 cookingmeat.ru
@@ -24954,6 +24960,7 @@
 0.0.0.0 discotutel.store
 0.0.0.0 discountads.net
 0.0.0.0 discountclick.com
+0.0.0.0 discover-tech.io
 0.0.0.0 discovercard.112.2o7.net
 0.0.0.0 discoverdemo.com
 0.0.0.0 discoverecommerce.tt.omtrdc.net
@@ -33319,6 +33326,7 @@
 0.0.0.0 impat.tradedoubler.com
 0.0.0.0 impbe.tradedoubler.com
 0.0.0.0 impch.tradedoubler.com
+0.0.0.0 impchkdsp.com
 0.0.0.0 impcz.tradedoubler.com
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 impdk.tradedoubler.com
@@ -35513,6 +35521,7 @@
 0.0.0.0 krainaekozabawek.pl
 0.0.0.0 krainajednorozca.pl
 0.0.0.0 krajowyfunduszgwarancyjny.pl
+0.0.0.0 kraken.rambler.ru
 0.0.0.0 krakenfolio.com
 0.0.0.0 krakragames.com
 0.0.0.0 kramuzgolu-ai.shop
@@ -40132,6 +40141,7 @@
 0.0.0.0 mtrcss.com
 0.0.0.0 mtree.com
 0.0.0.0 mtreexxx.net
+0.0.0.0 mtrtb.com
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 mttag.com
 0.0.0.0 mttwtrack.com
@@ -40402,6 +40412,7 @@
 0.0.0.0 myusersonline.com
 0.0.0.0 myvisualiq.net
 0.0.0.0 myway.com
+0.0.0.0 myweb3id.io
 0.0.0.0 mywebsearch.com
 0.0.0.0 mywifiext.fr
 0.0.0.0 mywot.com
@@ -41673,6 +41684,7 @@
 0.0.0.0 nutabuse.com
 0.0.0.0 nutanixprod.112.2o7.net
 0.0.0.0 nutpond.com
+0.0.0.0 nutralove.co
 0.0.0.0 nutrigolabburner.pl
 0.0.0.0 nutrigolabstrength.pl
 0.0.0.0 nutrired.org
@@ -45628,6 +45640,7 @@
 0.0.0.0 platalineai.com
 0.0.0.0 platalineaipro.com
 0.0.0.0 platbourse.com
+0.0.0.0 platc-tester.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethis.com
 0.0.0.0 platform.atdnetwork.com
@@ -46201,6 +46214,7 @@
 0.0.0.0 powerad.ai
 0.0.0.0 poweredbyliquidfire.mobi
 0.0.0.0 poweredlock.com
+0.0.0.0 powerium.net
 0.0.0.0 poweroff.pt
 0.0.0.0 poweronemedia.122.2o7.net
 0.0.0.0 powerprofittech.com
@@ -60697,6 +60711,7 @@
 0.0.0.0 voipwise.fr
 0.0.0.0 voken.eyereturn.com
 0.0.0.0 vokr-gtavc.ic.cz
+0.0.0.0 volasim.com
 0.0.0.0 volatilevessel.com
 0.0.0.0 volcano.teilor.sbs
 0.0.0.0 voldemort.pl
