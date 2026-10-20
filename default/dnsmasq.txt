@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 83885
-# Updated: 2026-10-19 01:39:33 UTC
+# Entries: 83886
+# Updated: 2026-10-20 01:35:29 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16272,6 +16272,7 @@ address=/beacon.tracelytics.com/0.0.0.0
 address=/beacon.tru.am/0.0.0.0
 address=/beacon.tunecore.com/0.0.0.0
 address=/beacon.valeoip.com/0.0.0.0
+address=/beacon.viafoura.io/0.0.0.0
 address=/beacon.walmart.ca/0.0.0.0
 address=/beacon.walmart.com/0.0.0.0
 address=/beacon.wikia-services.com/0.0.0.0
