@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 83886
-! Updated: 2026-10-20 01:35:29 UTC
+! Entries: 83888
+! Updated: 2026-10-21 01:34:46 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -4186,6 +4186,7 @@
 ||ad.turn.com.akadns.net^
 ||ad.tv2.no^
 ||ad.tw.doubleclick.net^
+||ad.twinrdengine.com^
 ||ad.twitchguru.com^
 ||ad.u.nuggad.net^
 ||ad.uk.doubleclick.be^
@@ -35436,6 +35437,7 @@
 ||l.admob.com^
 ||l.adxcore.com^
 ||l.betrad.com^
+||l.ca.ovhcloud.com^
 ||l.d.eclick.vn^
 ||l.evidon.com^
 ||l.gm.mob.com^

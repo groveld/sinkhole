@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 83888
-# Updated: 2026-10-20 02:22:39 UTC
+# Entries: 83890
+# Updated: 2026-10-21 02:21:55 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -4186,6 +4186,7 @@ ad.turn.com
 ad.turn.com.akadns.net
 ad.tv2.no
 ad.tw.doubleclick.net
+ad.twinrdengine.com
 ad.twitchguru.com
 ad.u.nuggad.net
 ad.uk.doubleclick.be
@@ -35437,6 +35438,7 @@ l.admedo.com
 l.admob.com
 l.adxcore.com
 l.betrad.com
+l.ca.ovhcloud.com
 l.d.eclick.vn
 l.evidon.com
 l.gm.mob.com

@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 83886
-# Updated: 2026-10-20 01:35:29 UTC
+# Entries: 83888
+# Updated: 2026-10-21 01:34:46 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -4186,6 +4186,7 @@ address=/ad.turn.com/0.0.0.0
 address=/ad.turn.com.akadns.net/0.0.0.0
 address=/ad.tv2.no/0.0.0.0
 address=/ad.tw.doubleclick.net/0.0.0.0
+address=/ad.twinrdengine.com/0.0.0.0
 address=/ad.twitchguru.com/0.0.0.0
 address=/ad.u.nuggad.net/0.0.0.0
 address=/ad.uk.doubleclick.be/0.0.0.0
@@ -35436,6 +35437,7 @@ address=/l.admedo.com/0.0.0.0
 address=/l.admob.com/0.0.0.0
 address=/l.adxcore.com/0.0.0.0
 address=/l.betrad.com/0.0.0.0
+address=/l.ca.ovhcloud.com/0.0.0.0
 address=/l.d.eclick.vn/0.0.0.0
 address=/l.evidon.com/0.0.0.0
 address=/l.gm.mob.com/0.0.0.0
