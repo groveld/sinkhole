@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 83888
-# Updated: 2026-10-22 01:34:52 UTC
+# Entries: 83889
+# Updated: 2026-10-23 01:36:30 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -52399,6 +52399,7 @@ address=/spyhunter-download.s3.amazonaws.com/0.0.0.0
 address=/spylog.com/0.0.0.0
 address=/spylog.ru/0.0.0.0
 address=/spymac.us.intellitxt.com/0.0.0.0
+address=/spyrep.com/0.0.0.0
 address=/spyspotter.com/0.0.0.0
 address=/spytrack.tic.ru/0.0.0.0
 address=/spyware-removers.shengen.ru/0.0.0.0
