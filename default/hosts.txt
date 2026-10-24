@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 83889
-# Updated: 2026-10-23 01:36:30 UTC
+# Entries: 83882
+# Updated: 2026-10-24 01:33:35 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -3259,7 +3259,6 @@
 0.0.0.0 absolutelyfreeeroticstories.com
 0.0.0.0 absolutelyfreemovies.com
 0.0.0.0 absolutelyric.com
-0.0.0.0 absolutering.com
 0.0.0.0 absolutethumbs.net
 0.0.0.0 absolutewrite.fr
 0.0.0.0 absolutezeros.duckdns.org
@@ -16075,7 +16074,6 @@
 0.0.0.0 bassprod.112.2o7.net
 0.0.0.0 bastardly.us.intellitxt.com
 0.0.0.0 basterr.popunder.ru
-0.0.0.0 bastingart.com
 0.0.0.0 bastioncapridge-pro.pages.dev
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
@@ -16746,7 +16744,6 @@
 0.0.0.0 bigtracker.com
 0.0.0.0 bigtus.com
 0.0.0.0 bigwebtools.com
-0.0.0.0 bigworldfashion.com
 0.0.0.0 bihsmqzbujo.tyle.workers.dev
 0.0.0.0 bikearena.shop
 0.0.0.0 bikeforumsnet.skimlinks.com
@@ -34143,7 +34140,6 @@
 0.0.0.0 jeusacv.site
 0.0.0.0 jevikkuvra.com
 0.0.0.0 jevrauvely.com
-0.0.0.0 jewelrysprings.com
 0.0.0.0 jewsondirect.com
 0.0.0.0 jexbari.shop
 0.0.0.0 jexenward.com
@@ -34942,7 +34938,6 @@
 0.0.0.0 kergaukr.com
 0.0.0.0 kerio-push-gateway-prod.elasticbeanstalk.com
 0.0.0.0 kermitowy-sklep.pl
-0.0.0.0 kernellife.com
 0.0.0.0 kernh41.com
 0.0.0.0 kernlichta.com
 0.0.0.0 kernpragur-trading-denmark.sbs
@@ -42928,7 +42923,6 @@
 0.0.0.0 optimus-de.com
 0.0.0.0 option9.adultfriendfinder.com
 0.0.0.0 optionmodifycanitem.info
-0.0.0.0 optionsnomad.com
 0.0.0.0 optionstoreplace.com
 0.0.0.0 optipay-click.pages.dev
 0.0.0.0 optlynx.com
@@ -61044,7 +61038,6 @@
 0.0.0.0 wrhulagmir.click
 0.0.0.0 wrig.pl
 0.0.0.0 wrigley.122.2o7.net
-0.0.0.0 writerhubs.com
 0.0.0.0 writingassociates.com
 0.0.0.0 writqqescommunises.info
 0.0.0.0 wrontonshatbona.pro

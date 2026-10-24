@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 83889
-! Updated: 2026-10-23 01:36:30 UTC
+! Entries: 83882
+! Updated: 2026-10-24 01:33:35 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -3259,7 +3259,6 @@
 ||absolutelyfreeeroticstories.com^
 ||absolutelyfreemovies.com^
 ||absolutelyric.com^
-||absolutering.com^
 ||absolutethumbs.net^
 ||absolutewrite.fr^
 ||absolutezeros.duckdns.org^
@@ -16075,7 +16074,6 @@
 ||bassprod.112.2o7.net^
 ||bastardly.us.intellitxt.com^
 ||basterr.popunder.ru^
-||bastingart.com^
 ||bastioncapridge-pro.pages.dev^
 ||bat.bing.com^
 ||bat.bing.net^
@@ -16746,7 +16744,6 @@
 ||bigtracker.com^
 ||bigtus.com^
 ||bigwebtools.com^
-||bigworldfashion.com^
 ||bihsmqzbujo.tyle.workers.dev^
 ||bikearena.shop^
 ||bikeforumsnet.skimlinks.com^
@@ -34143,7 +34140,6 @@
 ||jeusacv.site^
 ||jevikkuvra.com^
 ||jevrauvely.com^
-||jewelrysprings.com^
 ||jewsondirect.com^
 ||jexbari.shop^
 ||jexenward.com^
@@ -34942,7 +34938,6 @@
 ||kergaukr.com^
 ||kerio-push-gateway-prod.elasticbeanstalk.com^
 ||kermitowy-sklep.pl^
-||kernellife.com^
 ||kernh41.com^
 ||kernlichta.com^
 ||kernpragur-trading-denmark.sbs^
@@ -42928,7 +42923,6 @@
 ||optimus-de.com^
 ||option9.adultfriendfinder.com^
 ||optionmodifycanitem.info^
-||optionsnomad.com^
 ||optionstoreplace.com^
 ||optipay-click.pages.dev^
 ||optlynx.com^
@@ -61044,7 +61038,6 @@
 ||wrhulagmir.click^
 ||wrig.pl^
 ||wrigley.122.2o7.net^
-||writerhubs.com^
 ||writingassociates.com^
 ||writqqescommunises.info^
 ||wrontonshatbona.pro^
