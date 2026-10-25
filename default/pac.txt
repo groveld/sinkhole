@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 83882
-// Updated: 2026-10-24 01:33:35 UTC
+// Entries: 83883
+// Updated: 2026-10-25 01:39:28 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -8075,6 +8075,7 @@ var BLOCKLIST = {
 "ads.rcs.it":null,
 "ads.rd.linksynergy.com":null,
 "ads.rdstore.com":null,
+"ads.realcastmedia.com":null,
 "ads.realcities.com":null,
 "ads.realmedia.com.br":null,
 "ads.realmedia.de":null,

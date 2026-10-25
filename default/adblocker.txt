@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/adblocker.txt
-! Entries: 83882
-! Updated: 2026-10-24 01:33:35 UTC
+! Entries: 83883
+! Updated: 2026-10-25 01:39:28 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -8074,6 +8074,7 @@
 ||ads.rcs.it^
 ||ads.rd.linksynergy.com^
 ||ads.rdstore.com^
+||ads.realcastmedia.com^
 ||ads.realcities.com^
 ||ads.realmedia.com.br^
 ||ads.realmedia.de^
