@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 90155
-# Updated: 2026-11-02 01:20:44 UTC
+# Entries: 90156
+# Updated: 2026-11-03 01:18:15 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15195,6 +15195,7 @@
 0.0.0.0 bag.mobile.system.video.sms13.de
 0.0.0.0 bagaboo-bags.fr
 0.0.0.0 bagagescabine.fr
+0.0.0.0 bagave.com
 0.0.0.0 bagkakaku.com
 0.0.0.0 bagmarket.shop
 0.0.0.0 bagshop78.com

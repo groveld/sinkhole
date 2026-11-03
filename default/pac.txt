@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 90155
-// Updated: 2026-11-02 01:20:44 UTC
+// Entries: 90156
+// Updated: 2026-11-03 01:18:15 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15196,6 +15196,7 @@ var BLOCKLIST = {
 "bag.mobile.system.video.sms13.de":null,
 "bagaboo-bags.fr":null,
 "bagagescabine.fr":null,
+"bagave.com":null,
 "bagkakaku.com":null,
 "bagmarket.shop":null,
 "bagshop78.com":null,

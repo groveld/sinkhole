@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 90157
-# Updated: 2026-11-02 02:07:55 UTC
+# Entries: 90158
+# Updated: 2026-11-03 02:05:26 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -15195,6 +15195,7 @@ address=/bag-hermes.com/0.0.0.0
 address=/bag.mobile.system.video.sms13.de/0.0.0.0
 address=/bagaboo-bags.fr/0.0.0.0
 address=/bagagescabine.fr/0.0.0.0
+address=/bagave.com/0.0.0.0
 address=/bagkakaku.com/0.0.0.0
 address=/bagmarket.shop/0.0.0.0
 address=/bagshop78.com/0.0.0.0
