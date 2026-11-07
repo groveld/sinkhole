@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 90156
-# Updated: 2026-11-06 01:18:53 UTC
+# Entries: 90157
+# Updated: 2026-11-07 01:16:18 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21242,6 +21242,7 @@ address=/clickability.org/0.0.0.0
 address=/clickad.eo.pl/0.0.0.0
 address=/clickadddilla.com/0.0.0.0
 address=/clickadu.com/0.0.0.0
+address=/clickadu.io/0.0.0.0
 address=/clickadz.com/0.0.0.0
 address=/clickagents.com/0.0.0.0
 address=/clickauditor.net/0.0.0.0
@@ -43877,7 +43878,6 @@ address=/offers.cdn.natpal.com/0.0.0.0
 address=/offers.cloackp.com/0.0.0.0
 address=/offers.gateway-lts450.com/0.0.0.0
 address=/offers.impower.com/0.0.0.0
-address=/offers.ltsc-has.com/0.0.0.0
 address=/offers.nordvpn.com/0.0.0.0
 address=/offers.propellerads.com/0.0.0.0
 address=/offers.royalvegascasino.com/0.0.0.0
@@ -47131,6 +47131,7 @@ address=/playtime.tubemogul.com/0.0.0.0
 address=/playtomic.com/0.0.0.0
 address=/playtune.info/0.0.0.0
 address=/playvod.pl/0.0.0.0
+address=/playwarren.com/0.0.0.0
 address=/playweez.pl/0.0.0.0
 address=/playzee.fr/0.0.0.0
 address=/plazaactivoire-ai.net/0.0.0.0

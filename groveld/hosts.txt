@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 90158
-# Updated: 2026-11-06 02:06:04 UTC
+# Entries: 90159
+# Updated: 2026-11-07 02:03:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21242,6 +21242,7 @@
 0.0.0.0 clickad.eo.pl
 0.0.0.0 clickadddilla.com
 0.0.0.0 clickadu.com
+0.0.0.0 clickadu.io
 0.0.0.0 clickadz.com
 0.0.0.0 clickagents.com
 0.0.0.0 clickauditor.net
@@ -43878,7 +43879,6 @@
 0.0.0.0 offers.cloackp.com
 0.0.0.0 offers.gateway-lts450.com
 0.0.0.0 offers.impower.com
-0.0.0.0 offers.ltsc-has.com
 0.0.0.0 offers.nordvpn.com
 0.0.0.0 offers.propellerads.com
 0.0.0.0 offers.royalvegascasino.com
@@ -47132,6 +47132,7 @@
 0.0.0.0 playtomic.com
 0.0.0.0 playtune.info
 0.0.0.0 playvod.pl
+0.0.0.0 playwarren.com
 0.0.0.0 playweez.pl
 0.0.0.0 playzee.fr
 0.0.0.0 plazaactivoire-ai.net

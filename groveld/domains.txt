@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 90158
-# Updated: 2026-11-06 02:06:04 UTC
+# Entries: 90159
+# Updated: 2026-11-07 02:03:28 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21242,6 +21242,7 @@ clickability.org
 clickad.eo.pl
 clickadddilla.com
 clickadu.com
+clickadu.io
 clickadz.com
 clickagents.com
 clickauditor.net
@@ -43878,7 +43879,6 @@ offers.cdn.natpal.com
 offers.cloackp.com
 offers.gateway-lts450.com
 offers.impower.com
-offers.ltsc-has.com
 offers.nordvpn.com
 offers.propellerads.com
 offers.royalvegascasino.com
@@ -47132,6 +47132,7 @@ playtime.tubemogul.com
 playtomic.com
 playtune.info
 playvod.pl
+playwarren.com
 playweez.pl
 playzee.fr
 plazaactivoire-ai.net

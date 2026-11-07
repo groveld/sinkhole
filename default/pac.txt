@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 90156
-// Updated: 2026-11-06 01:18:53 UTC
+// Entries: 90157
+// Updated: 2026-11-07 01:16:18 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -21243,6 +21243,7 @@ var BLOCKLIST = {
 "clickad.eo.pl":null,
 "clickadddilla.com":null,
 "clickadu.com":null,
+"clickadu.io":null,
 "clickadz.com":null,
 "clickagents.com":null,
 "clickauditor.net":null,
@@ -43878,7 +43879,6 @@ var BLOCKLIST = {
 "offers.cloackp.com":null,
 "offers.gateway-lts450.com":null,
 "offers.impower.com":null,
-"offers.ltsc-has.com":null,
 "offers.nordvpn.com":null,
 "offers.propellerads.com":null,
 "offers.royalvegascasino.com":null,
@@ -47132,6 +47132,7 @@ var BLOCKLIST = {
 "playtomic.com":null,
 "playtune.info":null,
 "playvod.pl":null,
+"playwarren.com":null,
 "playweez.pl":null,
 "playzee.fr":null,
 "plazaactivoire-ai.net":null,
