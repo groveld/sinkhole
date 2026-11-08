@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 90157
-// Updated: 2026-11-07 01:16:18 UTC
+// Entries: 90158
+// Updated: 2026-11-08 01:21:10 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -49192,6 +49192,7 @@ var BLOCKLIST = {
 "r.adrta.com":null,
 "r.adserver01.de":null,
 "r.bid4keywords.com":null,
+"r.brandreward.com":null,
 "r.casalemedia.com":null,
 "r.casalemedia.com.edgekey.net":null,
 "r.chitika.net":null,

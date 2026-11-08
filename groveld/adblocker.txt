@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 90159
-! Updated: 2026-11-07 02:03:28 UTC
+! Entries: 90160
+! Updated: 2026-11-08 02:08:24 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -49192,6 +49192,7 @@
 ||r.adrta.com^
 ||r.adserver01.de^
 ||r.bid4keywords.com^
+||r.brandreward.com^
 ||r.casalemedia.com^
 ||r.casalemedia.com.edgekey.net^
 ||r.chitika.net^

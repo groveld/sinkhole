@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 90157
-# Updated: 2026-11-07 01:16:18 UTC
+# Entries: 90158
+# Updated: 2026-11-08 01:21:10 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -49191,6 +49191,7 @@
 0.0.0.0 r.adrta.com
 0.0.0.0 r.adserver01.de
 0.0.0.0 r.bid4keywords.com
+0.0.0.0 r.brandreward.com
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r.casalemedia.com.edgekey.net
 0.0.0.0 r.chitika.net

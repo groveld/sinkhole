@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 90159
-# Updated: 2026-11-07 02:03:28 UTC
+# Entries: 90160
+# Updated: 2026-11-08 02:08:24 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -49192,6 +49192,7 @@ address=/r.adrolays.de/0.0.0.0
 address=/r.adrta.com/0.0.0.0
 address=/r.adserver01.de/0.0.0.0
 address=/r.bid4keywords.com/0.0.0.0
+address=/r.brandreward.com/0.0.0.0
 address=/r.casalemedia.com/0.0.0.0
 address=/r.casalemedia.com.edgekey.net/0.0.0.0
 address=/r.chitika.net/0.0.0.0
