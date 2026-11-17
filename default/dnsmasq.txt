@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/dnsmasq.txt
-# Entries: 88463
-# Updated: 2026-11-16 01:24:19 UTC
+# Entries: 88464
+# Updated: 2026-11-17 01:18:37 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -57743,6 +57743,7 @@ address=/topfivesearch.com/0.0.0.0
 address=/topforall.com/0.0.0.0
 address=/topgamesites.net/0.0.0.0
 address=/tophirek.hu/0.0.0.0
+address=/topicspin.com/0.0.0.0
 address=/topix-d.openx.net/0.0.0.0
 address=/toplabs71.top/0.0.0.0
 address=/toplessrobotcom.skimlinks.com/0.0.0.0
