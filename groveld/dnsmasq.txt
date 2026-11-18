@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/dnsmasq.txt
-# Entries: 88466
-# Updated: 2026-11-17 02:05:51 UTC
+# Entries: 88467
+# Updated: 2026-11-18 02:06:20 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -54152,6 +54152,7 @@ address=/sportsinteraction.com/0.0.0.0
 address=/sportsoutletsonlinero.shop/0.0.0.0
 address=/sportsplmarket.shop/0.0.0.0
 address=/sportssaint.net/0.0.0.0
+address=/sportswidows.com/0.0.0.0
 address=/sportupdates.info/0.0.0.0
 address=/sportvision-bgmccc.sbs/0.0.0.0
 address=/sportvisionsale-bg.shop/0.0.0.0

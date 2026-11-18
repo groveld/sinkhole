@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/hosts.txt
-# Entries: 88464
-# Updated: 2026-11-17 01:18:37 UTC
+# Entries: 88465
+# Updated: 2026-11-18 01:19:06 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -54151,6 +54151,7 @@
 0.0.0.0 sportsoutletsonlinero.shop
 0.0.0.0 sportsplmarket.shop
 0.0.0.0 sportssaint.net
+0.0.0.0 sportswidows.com
 0.0.0.0 sportupdates.info
 0.0.0.0 sportvision-bgmccc.sbs
 0.0.0.0 sportvisionsale-bg.shop

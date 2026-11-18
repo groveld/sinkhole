@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 88464
-// Updated: 2026-11-17 01:18:37 UTC
+// Entries: 88465
+// Updated: 2026-11-18 01:19:06 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -54152,6 +54152,7 @@ var BLOCKLIST = {
 "sportsoutletsonlinero.shop":null,
 "sportsplmarket.shop":null,
 "sportssaint.net":null,
+"sportswidows.com":null,
 "sportupdates.info":null,
 "sportvision-bgmccc.sbs":null,
 "sportvisionsale-bg.shop":null,
