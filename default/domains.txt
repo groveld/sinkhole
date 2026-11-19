@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/domains.txt
-# Entries: 88465
-# Updated: 2026-11-18 01:19:06 UTC
+# Entries: 88466
+# Updated: 2026-11-19 01:18:55 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -14923,6 +14923,7 @@ ax.xrea.com
 axaldjqt.cn
 axbtkerm.shop
 axcab.wrs.mcboo.com
+axcii.com
 axdget-sync.nuggad.net
 axel.hit.gemius.pl
 axelfundria.org
