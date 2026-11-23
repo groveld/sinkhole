@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/domains.txt
-# Entries: 88469
-# Updated: 2026-11-22 02:08:18 UTC
+# Entries: 88493
+# Updated: 2026-11-23 02:09:10 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -11,6 +11,8 @@
 0.blissfullyzebra.com
 0.duhquietly.com
 0.gadzooksrudely.com
+0.jump.shinyalto.pro
+0.lift.openhorse.me
 0.maturequart.com
 0.nextyourcontent.com
 0.r.msn.com
@@ -310,6 +312,8 @@
 1.googlenews.xorg.pl
 1.hao929.cn
 1.im.cz
+1.jump.shinyalto.pro
+1.lift.openhorse.me
 1.maturequart.com
 1.ofsnetwork.com
 1.sharkadnetwork.com
@@ -676,6 +680,8 @@
 2.duhquietly.com
 2.gadzooksrudely.com
 2.googlenews.xorg.pl
+2.jump.shinyalto.pro
+2.lift.openhorse.me
 2.livejasmin.com
 2.maaqkj.com
 2.marketbanker.com
@@ -1193,6 +1199,8 @@
 3.duhquietly.com
 3.gadzooksrudely.com
 3.googlenews.xorg.pl
+3.jump.shinyalto.pro
+3.lift.openhorse.me
 3.maturequart.com
 3.softlypacesock.com
 3.tilitysupplements.date
@@ -1397,6 +1405,8 @@
 4.gadzooksrudely.com
 4.getredirect.com
 4.googlenews.xorg.pl
+4.jump.shinyalto.pro
+4.lift.openhorse.me
 4.maturequart.com
 4.softlypacesock.com
 4.tilitysupplements.date
@@ -1604,6 +1614,8 @@
 5.eventiduepuntozero.com
 5.gadzooksrudely.com
 5.googlenews.xorg.pl
+5.jump.shinyalto.pro
+5.lift.openhorse.me
 5.maturequart.com
 5.softlypacesock.com
 5.tilitysupplements.date
@@ -1733,6 +1745,8 @@
 6.blissfullyzebra.com
 6.duhquietly.com
 6.gadzooksrudely.com
+6.jump.shinyalto.pro
+6.lift.openhorse.me
 6.maturequart.com
 6.softlypacesock.com
 6.tilitysupplements.date
@@ -1837,6 +1851,8 @@
 7.blissfullyzebra.com
 7.duhquietly.com
 7.gadzooksrudely.com
+7.jump.shinyalto.pro
+7.lift.openhorse.me
 7.maturequart.com
 7.softlypacesock.com
 7.tilitysupplements.date
@@ -1956,6 +1972,8 @@
 8.blissfullyzebra.com
 8.duhquietly.com
 8.gadzooksrudely.com
+8.jump.shinyalto.pro
+8.lift.openhorse.me
 8.maturequart.com
 8.softlypacesock.com
 8.tilitysupplements.date
@@ -2053,6 +2071,8 @@
 9.blissfullyzebra.com
 9.duhquietly.com
 9.gadzooksrudely.com
+9.jump.shinyalto.pro
+9.lift.openhorse.me
 9.maturequart.com
 9.softlypacesock.com
 9.tilitysupplements.date
@@ -13352,6 +13372,7 @@ api.bounceexchange.com
 api.branch.io
 api.britepool.com
 api.brs.intl.miui.com
+api.btloader.com
 api.bttrack.com
 api.bugfender.com
 api.bugsee.com
@@ -15028,6 +15049,7 @@ b.nevadaprivateoffice.com
 b.nex.bg
 b.ns1p.net
 b.porncity.org
+b.pub.network
 b.r10.mopub.com
 b.rad.live.com
 b.rad.msn.com
@@ -27959,6 +27981,7 @@ fhgfffdsf9.appspot.com
 fhm.uk.intellitxt.com
 fhmonline.us.intellitxt.com
 fhs85z.vn-pg66.net
+fhvfd.com
 fi-analytics.mgsn.it
 fi.sitestat.com
 fiancoriaholdings.com
@@ -41107,6 +41130,7 @@ native-ad.net
 native-set-tags.otherlevels.com
 native-track.com
 native.sharethrough.com
+native123.com
 nativead.s3.amazonaws.com
 nativeapi.supersonicads.com
 nativebreastfeedingwi.com
