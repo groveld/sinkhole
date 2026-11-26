@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 94041
-// Updated: 2026-11-25 01:18:30 UTC
+// Entries: 94043
+// Updated: 2026-11-26 01:17:44 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -18593,6 +18593,7 @@ var BLOCKLIST = {
 "boulderyielode.store":null,
 "bounceads.net":null,
 "bounceexchange.com":null,
+"bouncemultiple.pro":null,
 "boundmerit.com":null,
 "bounty.bighits.net":null,
 "boursanovatrade.com":null,
@@ -59584,6 +59585,7 @@ var BLOCKLIST = {
 "timepeople.122.2o7.net":null,
 "timepespanol.122.2o7.net":null,
 "timepopsci.122.2o7.net":null,
+"timeprince.com":null,
 "timerealsimple.112.2o7.net":null,
 "timeseg.modules.jumptime.com":null,
 "timespctenbest.122.2o7.net":null,
