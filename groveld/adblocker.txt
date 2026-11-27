@@ -1,6 +1,6 @@
 ! File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/adblocker.txt
-! Entries: 94045
-! Updated: 2026-11-26 02:04:54 UTC
+! Entries: 94047
+! Updated: 2026-11-27 02:05:27 UTC
 ! Website: https://www.groveld.com/sinkhole
 ! Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16626,6 +16626,7 @@
 ||berp1.l4z8n2c.cyou^
 ||berrakhissedur.com^
 ||berryen.com^
+||berrytots.com^
 ||bersh9ka.top^
 ||bertelwissenprod.122.2o7.net^
 ||bertescomp.store^
@@ -19895,6 +19896,7 @@
 ||canwestglobal.112.2o7.net^
 ||canyonlattice.digital^
 ||caokakao.com^
+||capablepotato.com^
 ||capath.com^
 ||capbit-ai.com^
 ||capcityadvcom.112.2o7.net^

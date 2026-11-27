@@ -1,6 +1,6 @@
 // File: https://raw.githubusercontent.com/groveld/sinkhole/lists/default/pac.txt
-// Entries: 94043
-// Updated: 2026-11-26 01:17:44 UTC
+// Entries: 94045
+// Updated: 2026-11-27 01:18:17 UTC
 // Website: https://www.groveld.com/sinkhole
 // Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16627,6 +16627,7 @@ var BLOCKLIST = {
 "berp1.l4z8n2c.cyou":null,
 "berrakhissedur.com":null,
 "berryen.com":null,
+"berrytots.com":null,
 "bersh9ka.top":null,
 "bertelwissenprod.122.2o7.net":null,
 "bertescomp.store":null,
@@ -19896,6 +19897,7 @@ var BLOCKLIST = {
 "canwestglobal.112.2o7.net":null,
 "canyonlattice.digital":null,
 "caokakao.com":null,
+"capablepotato.com":null,
 "capath.com":null,
 "capbit-ai.com":null,
 "capcityadvcom.112.2o7.net":null,

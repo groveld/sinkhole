@@ -1,6 +1,6 @@
 # File: https://raw.githubusercontent.com/groveld/sinkhole/lists/groveld/hosts.txt
-# Entries: 94045
-# Updated: 2026-11-26 02:04:54 UTC
+# Entries: 94047
+# Updated: 2026-11-27 02:05:27 UTC
 # Website: https://www.groveld.com/sinkhole
 # Issues: https://github.com/groveld/sinkhole/issues
 
@@ -16626,6 +16626,7 @@
 0.0.0.0 berp1.l4z8n2c.cyou
 0.0.0.0 berrakhissedur.com
 0.0.0.0 berryen.com
+0.0.0.0 berrytots.com
 0.0.0.0 bersh9ka.top
 0.0.0.0 bertelwissenprod.122.2o7.net
 0.0.0.0 bertescomp.store
@@ -19895,6 +19896,7 @@
 0.0.0.0 canwestglobal.112.2o7.net
 0.0.0.0 canyonlattice.digital
 0.0.0.0 caokakao.com
+0.0.0.0 capablepotato.com
 0.0.0.0 capath.com
 0.0.0.0 capbit-ai.com
 0.0.0.0 capcityadvcom.112.2o7.net
